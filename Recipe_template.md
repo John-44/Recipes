@@ -125,7 +125,7 @@ Keep the sections in this order.
 
 ### Terminology
 
-The [Terminology glossary](Terminology_glossary.md) pins the exact words the recipes in this repository use: ingredients, equipment, dish names, preparation and cooking terms, headings and labels, shops, origins, tags and sources. It stops recipes drifting apart, with one asking for "coriander leaves" and the next for "fresh coriander".
+The [Terminology glossary](Terminology_glossary.md) pins the exact words the recipes in this repository use: ingredients, equipment, dish names, preparation and cooking terms, headings and labels, shops, brands, food labels, origins, tags and sources. It stops recipes drifting apart, with one asking for "coriander leaves" and the next for "fresh coriander".
 
 **Before you start:** read the glossary, whether you're writing a new recipe or editing one.
 
