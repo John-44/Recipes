@@ -50,7 +50,7 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 ## Storage and make-ahead
 
 - **Fridge:** Up to 1 week in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
-- **Freezer:** Up to 3 months. Flatten it in a freezer bag and press a crease across the middle, so you can break off one curry's worth at a time. Thaw in the fridge overnight and use within 24 hours.
+- **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. Thaw in the fridge overnight and use within 24 hours.
 
 ## Used in
 
@@ -63,11 +63,16 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 ## Tags
 
-- Dairy-free
-- Pastes
+- **Type:** Pastes
+- **Diet:** Dairy-free
+
+## Credits
+
+- **Original author:** [John-44](https://github.com/John-44)
 
 ## Sources
 
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, and the freezing tip.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, the mortar and pestle method, and storage times.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, and the galangal and turmeric swaps.
+- OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.
