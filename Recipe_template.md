@@ -34,7 +34,8 @@ Keep the sections in this order.
 | Equipment | Optional | Kit beyond the basics |
 | Ingredients | Yes | Everything you need, in the order you use it |
 | Directions | Yes | Step 1, Step 2 and so on |
-| Notes and substitutions | Optional | Tips, swaps and shortcuts |
+| Technique hints | Optional | Expert advice: what to watch out for, common mistakes and touches that make the dish better |
+| Notes and substitutions | Optional | Swaps, shortcuts, variations and buying tips |
 | Storage and make-ahead | Optional | Fridge, freezer, make-ahead and reheating |
 | Used in | Component recipes only | Recipes that use this one as an ingredient |
 | Origin | Yes | The country and region the dish comes from |
@@ -71,9 +72,13 @@ Keep the sections in this order.
 
 **Step 2: {Short title}.** {...}
 
+## Technique hints
+
+- **{Topic} (Step {number}):** {What to watch out for, a common mistake, or a touch that makes the dish better, and why.}
+
 ## Notes and substitutions
 
-- **{Topic}:** {Tip, swap or shortcut.}
+- **{Topic}:** {Swap, shortcut, variation or buying tip.}
 
 ## Storage and make-ahead
 
@@ -139,7 +144,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 **When you've finished:**
 
-- Add every term the recipe uses that isn't in the glossary yet, including swaps that appear only in **Notes and substitutions**. Put each one in the right section and family, at the place the glossary's [ordering rules](Terminology_glossary.md#how-the-tables-are-ordered) give it, not at the end of the table. Fill in its columns as described in [How the entries work](Terminology_glossary.md#how-the-entries-work).
+- Add every term the recipe uses that isn't in the glossary yet, including swaps that appear only in **Notes and substitutions** and anything that appears only in **Technique hints**. Put each one in the right section and family, at the place the glossary's [ordering rules](Terminology_glossary.md#how-the-tables-are-ordered) give it, not at the end of the table. Fill in its columns as described in [How the entries work](Terminology_glossary.md#how-the-entries-work).
 - Before you add a term, check it isn't another name for something the glossary already has. If it is, change the recipe to use the existing term.
 
 **When you change a term or delete a recipe:**
@@ -218,7 +223,7 @@ Write each ingredient on its own line, in the order you use it:
 
 - If the [glossary](Terminology_glossary.md#ingredients) lists the ingredient, use its term exactly. If it doesn't, name the ingredient as you'd find it in a UK shop, such as "raw king prawns", "unsalted butter" or "plain flour", and add it to the glossary.
 - Put the preparation after a comma: "finely chopped", "peeled and deveined".
-- Use brackets for short notes only, such as `(optional)` or a quick swap. Put longer advice in **Notes and substitutions**.
+- Use brackets for short notes only, such as `(optional)` or a quick swap. Put longer advice in **Notes and substitutions**, or in **Technique hints** if it's about technique.
 - If the recipe has distinct parts, group the ingredients under `###` subheadings, such as `### For the marinade` and `### To serve`.
 
 #### Measurements
@@ -255,11 +260,29 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - Each step covers one stage of cooking, in 1–3 short sentences.
 - Start the step title with a verb and keep it to 2–5 words: "Fry the paste."
 - Say how hot (low, medium-low, medium, medium-high or high heat), how long, and how to tell when it's done: "until golden, about 5 minutes".
+- A short warning can stay in its step: "Don't overcook them, or they'll go rubbery." Put longer advice, such as why something matters or how to do it better, in **Technique hints**.
 - Write "minutes" and "hours" in full here. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
 - Use the same ingredient names as the ingredient list, or shorten them as far as their [glossary](Terminology_glossary.md#ingredients) short names: "the prawns" for raw king prawns. Only repeat an amount when you split an ingredient between steps: "Add half the coconut milk (200 ml)."
 - If the recipe has separate parts, such as a marinade and a sauce, you can use matching `###` subheadings here too. A `### To serve` ingredient group doesn't need one. Keep counting steps across subheadings. Don't restart at Step 1.
 - Finish with how to serve.
+
+### Technique hints
+
+- Give the advice a professional chef, or a cook from where the dish comes from, would give someone making it for the first time:
+  - Things to watch out for, and how to spot them early.
+  - Mistakes people often make with this dish, and how to avoid them.
+  - Techniques and touches that make the dish better.
+- Leave out anything most home cooks already know, such as "taste as you go" or "don't let the garlic burn". If that leaves nothing to say, delete the section. A simple recipe often won't need it.
+- Don't repeat the directions. They say what to do and how to tell when it's done. A hint adds what they don't have room for: why something matters, what can go wrong, or how to do it better.
+- Never contradict the directions. If a hint shows the method should change, change the directions instead. A hint can add an optional extra, such as toasting a garnish, as long as the recipe works without it.
+- Take hints from people who know the dish well, such as cooks from where it comes from and professional chefs, or from your own experience of making it many times. List any website, video or book a hint came from in **Sources**.
+- Write one bullet per hint, starting with a bold topic and the step it's about in brackets: `- **Cooking the prawns (Step 3):** Take the curry off the heat as soon as the prawns curl into a loose C, because they keep cooking in the sauce. If they curl into a tight O, they've gone too far.`
+- Name the topic after what the cook is doing, such as **Frying the paste** or **Cooking the prawns**.
+- For a hint about more than one step, write `(Steps 2 and 3)` or `(Steps 2–4)`. For one about preparing ingredients before Step 1, write `(Ingredients)`. If a hint applies to the whole recipe, leave the brackets out.
+- Keep each hint to 1–3 sentences.
+- Put the hints in the order the cook needs them: whole-recipe hints first, then `(Ingredients)`, then by step.
+- When you add, remove or reorder steps, update the step numbers in the hints to match.
 
 ### Notes and substitutions
 
@@ -270,7 +293,9 @@ Write each step as its own paragraph, starting with a bold step number and a sho
   - A store-bought swap for a linked recipe, with the amount to use.
   - How to make the dish milder or hotter.
   - Other main ingredients that work, with a link if this repository has that recipe.
+  - How to make the recipe with different equipment, such as a mortar and pestle instead of a stick blender.
   - Dishes or ingredients with similar names that are easy to confuse.
+- Advice on how to cook the recipe as written goes in **Technique hints**, not here. Instructions that come with a swap stay with it, such as when to add chicken instead of prawns.
 
 ### Storage and make-ahead
 
@@ -347,6 +372,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list.
 - [ ] Measurements follow the [measurement rules](#measurements), and every can has its size.
 - [ ] Every link points to a recipe that exists, and the link text matches its title.
+- [ ] Every hint in **Technique hints** points to the right step, and none repeats or contradicts the directions.
 - [ ] The **Fridge** and **Freezer** entries follow the [vacuum packing rules](#vacuum-packing).
 - [ ] Each linked component recipe lists this recipe under **Used in**.
 - [ ] **Origin** has a country and a region.
