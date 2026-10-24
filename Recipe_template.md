@@ -6,11 +6,19 @@ This file sets out how every recipe in this repository is written. Follow it whe
 
 1. Read the [Terminology glossary](Terminology_glossary.md).
 2. Copy [the template](#the-template) into a new file in the `recipes/` folder, named as described in [File names](#file-names).
-3. Fill in every `{placeholder}`, following the [rules](#rules) for each section. Wherever the glossary has a term for something, use it exactly.
+3. Fill in every `{placeholder}`, following the [rules](#rules) for each section. Wherever the glossary has a term for something, use it exactly. In **Credits**, put yourself as the **Original author**.
 4. Delete any optional section you don't need.
-5. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section.
+5. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section. That counts as editing that recipe, so add yourself to its **Editors** too, unless you're already credited there.
 6. Add every new term the recipe uses to the glossary, as described in [Terminology](#terminology).
 7. Check your work against the [checklist](#checklist).
+
+**To edit a recipe:**
+
+1. Read the [Terminology glossary](Terminology_glossary.md).
+2. Make your changes, following the [rules](#rules) for each section you change.
+3. Add yourself to the recipe's **Editors**, unless you're already credited there, as described in [Credits](#credits).
+4. Add every new term your changes use to the glossary, as described in [Terminology](#terminology).
+5. Check your work against the [checklist](#checklist).
 
 For complete examples, see [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) and [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md).
 
@@ -30,7 +38,8 @@ Keep the sections in this order.
 | Storage and make-ahead | Optional | Fridge, freezer, make-ahead and reheating |
 | Used in | Component recipes only | Recipes that use this one as an ingredient |
 | Origin | Yes | The country and region the dish comes from |
-| Tags | Yes | Category tags |
+| Tags | Yes | Category tags, grouped into Course, Type, Main ingredient and Diet |
+| Credits | Yes | Who added the recipe, and who has edited it since |
 | Sources | Yes | Where the recipe's ideas came from |
 
 ## The template
@@ -68,8 +77,8 @@ Keep the sections in this order.
 
 ## Storage and make-ahead
 
-- **Fridge:** {How long it keeps and how to store it.}
-- **Freezer:** {How long it keeps and how to thaw it.}
+- **Fridge:** {How long it keeps}, or up to {time} if vacuum packed. {How to store it.}
+- **Freezer:** {How long it keeps}, or up to {time} if vacuum packed. {How to thaw it.}
 - **Make ahead:** {What you can do in advance.}
 - **Reheat:** {How to reheat it.}
 
@@ -84,8 +93,15 @@ Keep the sections in this order.
 
 ## Tags
 
-- {Tag}
-- {Tag}
+- **Course:** {Tag}
+- **Type:** {Tag}
+- **Main ingredient:** {Tag}
+- **Diet:** {Tag}, {Tag}
+
+## Credits
+
+- **Original author:** [{GitHub username}](https://github.com/{GitHub username})
+- **Editors:** [{GitHub username}](https://github.com/{GitHub username}), [{GitHub username}](https://github.com/{GitHub username})
 
 ## Sources
 
@@ -264,8 +280,22 @@ Write each step as its own paragraph, starting with a bold step number and a sho
   - Eat cooked rice within 24 hours, and reheat it only once.
   - Thaw frozen food in the fridge, and eat it within 24 hours of thawing.
   - Reheat food until it's steaming hot all the way through.
-- For the freezer, up to 3 months is a safe default.
+- For food that isn't vacuum packed, up to 3 months in the freezer is a safe default.
 - If you're not sure how long something keeps, give the shorter time.
+
+#### Vacuum packing
+
+UK food safety guidance doesn't give longer storage times for food you vacuum pack at home, so this repository takes its vacuum-packed times from a maker of professional vacuum packing machines instead. Always assume the cook uses a chamber vacuum packer, which can vacuum pack wet food, such as curries, in a bag.
+
+- If the recipe can be vacuum packed, end the first sentence of its **Fridge** and **Freezer** entries with how long it keeps that way: `Up to 2 days in an airtight container, or up to 10 days if vacuum packed.`
+- Take the time from the vacuum-packed column of the entry closest to the finished recipe in [Turbovac's shelf life table](https://turbovac.nl/shelf-life-table/), and list the table in **Sources**. For example, a curry is closest to "Cooked food". A curry paste, made mostly of fresh herbs and vegetables, fits both the herb and the vegetable entries.
+- Use Turbovac's vacuum-packed time as it is, even when it's much longer than the time without vacuum packing, such as 18 months against 3 months in the freezer. The 3-month default above is only for food that isn't vacuum packed.
+- If more than one entry fits, or an entry gives a range, use the shortest time. If no entry is close, or Turbovac's tips say the food can't be vacuum packed, leave vacuum packing out.
+- If vacuum packing doesn't make it keep any longer, say so in one go: `Up to 1 week, either vacuum packed or in an airtight container.`
+- Leave vacuum packing out of an entry that says the food doesn't keep there, such as a **Freezer** entry that says `Not recommended`.
+- For a paste, say to freeze it until solid before vacuum packing it. The vacuum then stops it getting freezer burn: `To vacuum pack it, freeze it flat until solid, then vacuum pack it.`
+- Vacuum pack food as soon as it has chilled. Turbovac says food keeps longer the fresher and cleaner it is when it's packed.
+- A vacuum-packed time replaces the 2-day limit for leftovers, but the rest of the food safety guidance above still applies: get food into the fridge within 1–2 hours, eat cooked rice within 24 hours, thaw food in the fridge and eat it within 24 hours, and reheat it until it's steaming hot all the way through.
 
 ### Used in
 
@@ -287,10 +317,25 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - Each tag is a single category: `Pastes`, not `Pastes and sauces`. If two categories apply, use two tags.
 - Choose from the [tag list](Terminology_glossary.md#tags) in the Terminology glossary, spelled exactly as shown.
 - Every recipe needs at least one **Type** tag. Add **Course**, **Main ingredient** and **Diet** tags where they apply.
-- List tags one per line, in alphabetical order.
+- Give each group its own line: the group's name in bold, then its tags, separated by commas, as in `- **Diet:** Dairy-free, Gluten-free`.
+- Keep the groups in the tag list's order: **Course**, **Type**, **Main ingredient**, then **Diet**. Leave out any group with no tags.
+- On each line, put the tags in the order the tag list gives them.
 - Don't tag the country or cuisine. That's what **Origin** is for.
 - Only use a **Diet** tag if the whole recipe qualifies, including linked recipes. For example, fish sauce and shrimp paste aren't vegetarian, and ordinary soy sauce contains wheat, so it isn't gluten-free.
 - If no tag fits, add a new one to the glossary's tag list (following the same rules), then use it.
+
+### Credits
+
+- Name each person by their GitHub username, exactly as GitHub shows it, linked to their GitHub profile: `[John-44](https://github.com/John-44)`. Don't use the name on their profile, which can be blank and can change.
+- **Original author:** the person who first committed the recipe to this repository.
+- **Editors:** everyone else who has had a pull request that changes the recipe merged into `main`. List each person once, in the order of their first merged change, separated by commas.
+- Never list the original author as an editor, even if they edit the recipe later.
+- If no one else has edited the recipe, leave out the **Editors** line.
+- Any merged change to the recipe's file counts, however small, including a change made to every recipe at once, such as renaming a term. Credit the person who opened the pull request, not the co-authors of its commits.
+- Update the credits in the same pull request as your change:
+  - When you add a recipe, add yourself as **Original author**.
+  - When you change a recipe you're not credited on yet, add yourself to the end of its **Editors** line. If your pull request isn't merged, your credit goes with it.
+  - If you're an LLM, credit the person whose GitHub account will open the pull request. If you're not sure who that is, ask.
 
 ### Sources
 
@@ -309,9 +354,11 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list.
 - [ ] Measurements follow the [measurement rules](#measurements), and every can has its size.
 - [ ] Every link points to a recipe that exists, and the link text matches its title.
+- [ ] The **Fridge** and **Freezer** entries follow the [vacuum packing rules](#vacuum-packing).
 - [ ] Each linked component recipe lists this recipe under **Used in**.
 - [ ] **Origin** has a country and a region.
-- [ ] Tags come from the [tag list](Terminology_glossary.md#tags), or you've added new ones to it.
+- [ ] Tags come from the [tag list](Terminology_glossary.md#tags), or you've added new ones to it, and each group is on its own line, in the tag list's order.
+- [ ] You're credited in **Credits** on every recipe you've added or changed.
 - [ ] Everything the [Terminology glossary](Terminology_glossary.md) lists is called by its exact term or short name, and nothing is called by a name from a **Don't use** column.
 - [ ] Every new term the recipe uses has been added to the glossary.
 - [ ] Every source URL is real and you have checked it.

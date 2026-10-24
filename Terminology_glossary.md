@@ -13,7 +13,7 @@ Read it before you write or edit a recipe, use its terms exactly, and add any ne
 - **Don't use** lists other names for the same thing. Never use them for that thing, even where they're correct English.
 - **Notes** explain anything that's easy to confuse with the term, and how to use it.
 - `{Curly brackets}` mark a part you fill in, as in the recipe template.
-- Units and amounts (g, ml, tbsp, cans and so on) follow the template's [measurement rules](Recipe_template.md#measurements). Section headings, summary box labels (such as **Makes**) and storage labels (such as **Fridge**) are set by [the template](Recipe_template.md#the-template) itself. None of these are repeated here.
+- Units and amounts (g, ml, tbsp, cans and so on) follow the template's [measurement rules](Recipe_template.md#measurements). Section headings, summary box labels (such as **Makes**), storage labels (such as **Fridge**) and credit labels (such as **Original author**) are set by [the template](Recipe_template.md#the-template) itself. None of these are repeated here.
 
 ## How the tables are ordered
 
@@ -265,6 +265,7 @@ Words for the directions and storage sections. Write heat levels as "over {level
 | Cooling | leave to cool | let cool, allow to cool | |
 | Finishing | splash of water | dash of water, a little water | As in "a splash of water if it's too thick". |
 | Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the Thai basil or coriander leaves". |
+| Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed" and "then vacuum pack it". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when you can. |
 | Storing and reheating | refrigerate | chill | |
 | Storing and reheating | thaw | defrost | As in "Thaw in the fridge overnight". |
 | Storing and reheating | reheat | warm up, heat up | |
@@ -355,6 +356,8 @@ Fixed wording for the **Fridge** and **Freezer** entries in **Storage and make-a
 | Term | Don't use | Notes |
 | --- | --- | --- |
 | Up to {time} | Keeps for {time}, Will keep for {time} | How long something keeps, as in "Up to 2 days" or "Up to 3 months". |
+| or up to {time} if vacuum packed | or {time} vacuum sealed, ({time} vacuum packed) | How long it keeps vacuum packed, at the end of the entry's first sentence: "Up to 2 days in an airtight container, or up to 10 days if vacuum packed." The [vacuum packing rules](Recipe_template.md#vacuum-packing) say where the times come from. |
+| Up to {time}, either vacuum packed or {storage} | Up to {time}, vacuum packed or not | For food that keeps no longer when vacuum packed, as in "Up to 1 week, either vacuum packed or in an airtight container". |
 | Not recommended | Don't freeze, Not suitable for freezing | The **Freezer** entry for food that doesn't freeze well, followed by the reason: "Not recommended. The potatoes go grainy and the prawns turn rubbery." |
 
 ## Shops
@@ -392,7 +395,7 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 
 ## Tags
 
-The full list of tags a recipe can choose from, including some that no recipe uses yet. The [tag rules](Recipe_template.md#tags) in the recipe template say how to choose them. If no tag fits, add a new one here, following those rules, at the place the order below gives it.
+The full list of tags a recipe can choose from, including some that no recipe uses yet. The [tag rules](Recipe_template.md#tags) in the recipe template say how to choose them and how to set them out in a recipe. If no tag fits, add a new one here, following those rules, at the place the order below gives it.
 
 **Order:** the groups stay in this order. Within each group:
 
@@ -421,3 +424,4 @@ The website names at the start of each line in **Sources**, before the colon.
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |
 | Serious Eats | seriouseats.com | SeriousEats |
+| Turbovac | turbovac.nl | TurboVac, TURBOVAC |
