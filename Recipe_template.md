@@ -286,8 +286,8 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 #### Vacuum packing
 
 - Assume the cook uses a chamber vacuum packer. If the recipe can be vacuum packed, end the first sentence of its **Fridge** and **Freezer** entries with how long it keeps that way: `Up to 3 months in a freezer bag, or up to 1 year if vacuum packed.`
-- Take the time from the closest entry in OutOfAir's [Food Expiration Chart](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food), such as "Sauces" for a curry paste, and list the chart in **Sources**. If more than one entry fits, or the entry gives a range, use the shortest time.
-- Leave vacuum packing out where no entry is close, and from an entry that says `Not recommended`.
+- Take the time from the closest entry in OutOfAir's [Food Expiration Chart](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food), such as "Sauces" for a curry paste. Where it has nothing close, such as cooked food in the fridge, use [Turbovac's shelf life table](https://turbovac.nl/shelf-life-table/). List the source in **Sources**, and use the shortest time if more than one entry fits or the entry gives a range.
+- Leave vacuum packing out where neither source has anything close, where it doesn't make the food keep any longer, and from an entry that says `Not recommended`.
 - Don't include instructions for vacuum packing the food.
 
 ### Used in
