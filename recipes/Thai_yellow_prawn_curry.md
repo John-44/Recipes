@@ -51,7 +51,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 ## Storage and make-ahead
 
-- **Fridge:** Up to 2 days in an airtight container, or up to 10 days if vacuum packed. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
+- **Fridge:** Up to 2 days in an airtight container. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
 - **Freezer:** Not recommended. The potatoes go grainy and the prawns turn rubbery.
 - **Make ahead:** Make the curry up to the end of Step 2, cool it, and refrigerate for up to 2 days. Reheat until simmering, then carry on from Step 3.
 - **Reheat:** Reheat gently on the hob until steaming hot all the way through.
@@ -77,4 +77,3 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk, the seasonings, how much homemade paste to use, and the dish's background.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, the cooking times, the garnishes and the chicken swap.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). How much homemade paste one curry for 4 needs.
-- Turbovac: [Shelf life table](https://turbovac.nl/shelf-life-table/). How long the curry keeps in the fridge when vacuum packed.

@@ -285,17 +285,10 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 
 #### Vacuum packing
 
-UK food safety guidance doesn't give longer storage times for food you vacuum pack at home, so this repository takes its vacuum-packed times from a maker of professional vacuum packing machines instead. Always assume the cook uses a chamber vacuum packer, which can vacuum pack wet food, such as curries, in a bag.
-
-- If the recipe can be vacuum packed, end the first sentence of its **Fridge** and **Freezer** entries with how long it keeps that way: `Up to 2 days in an airtight container, or up to 10 days if vacuum packed.`
-- Take the time from the vacuum-packed column of the entry closest to the finished recipe in [Turbovac's shelf life table](https://turbovac.nl/shelf-life-table/), and list the table in **Sources**. For example, a curry is closest to "Cooked food". A curry paste, made mostly of fresh herbs and vegetables, fits both the herb and the vegetable entries.
-- Use Turbovac's vacuum-packed time as it is, even when it's much longer than the time without vacuum packing, such as 18 months against 3 months in the freezer. The 3-month default above is only for food that isn't vacuum packed.
-- If more than one entry fits, or an entry gives a range, use the shortest time. If no entry is close, or Turbovac's tips say the food can't be vacuum packed, leave vacuum packing out.
-- If vacuum packing doesn't make it keep any longer, say so in one go: `Up to 1 week, either vacuum packed or in an airtight container.`
-- Leave vacuum packing out of an entry that says the food doesn't keep there, such as a **Freezer** entry that says `Not recommended`.
-- For a paste, say to freeze it until solid before vacuum packing it. The vacuum then stops it getting freezer burn: `To vacuum pack it, freeze it flat until solid, then vacuum pack it.`
-- Vacuum pack food as soon as it has chilled. Turbovac says food keeps longer the fresher and cleaner it is when it's packed.
-- A vacuum-packed time replaces the 2-day limit for leftovers, but the rest of the food safety guidance above still applies: get food into the fridge within 1–2 hours, eat cooked rice within 24 hours, thaw food in the fridge and eat it within 24 hours, and reheat it until it's steaming hot all the way through.
+- Assume the cook uses a chamber vacuum packer. If the recipe can be vacuum packed, end the first sentence of its **Fridge** and **Freezer** entries with how long it keeps that way: `Up to 3 months in a freezer bag, or up to 1 year if vacuum packed.`
+- Take the time from the closest entry in OutOfAir's [Food Expiration Chart](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food), such as "Sauces" for a curry paste, and list the chart in **Sources**. If more than one entry fits, or the entry gives a range, use the shortest time.
+- Leave vacuum packing out where no entry is close, and from an entry that says `Not recommended`.
+- Don't include instructions for vacuum packing the food.
 
 ### Used in
 
