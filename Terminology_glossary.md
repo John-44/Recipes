@@ -245,16 +245,18 @@ Words for the directions and storage sections. Write heat levels as "over {level
 | Blending and grinding | grind | blitz, pulverise | With a spice grinder, as in "grind to a fine powder". |
 | Blending and grinding | scrape down the sides | | While blending, as in "scraping down the sides now and then". |
 | Blending and grinding | pound | bash | With a mortar and pestle, as in "pounding each to a paste". |
+| Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
 | Heat levels | medium-low heat | medium low heat, low-medium heat | |
 | Heat levels | medium heat | moderate heat | |
 | Heat levels | medium-high heat | medium high heat, med-high heat | |
 | Heating liquids | bring to a gentle simmer | bring to a low simmer | |
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
 | Heating liquids | bring to the boil | bring to a boil | |
-| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices in a dry frying pan, with no oil, until fragrant. |
+| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry over medium heat". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Doneness | until fragrant | until aromatic | Also "until thick and fragrant", for frying paste. |
+| Doneness | curl into a loose C | curl into a C shape, C-shaped | How prawns look when they're just cooked. If they curl into a tight O, they're overcooked. |
 | Doneness | separate out | split | What the oil does when you fry curry paste in coconut milk, as in "The oil may start to separate out". |
 | Doneness | until they turn pink and are just cooked through | until opaque | The test for cooked prawns. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
@@ -329,6 +331,23 @@ Phrases that send the cook to another step, or to instructions outside the recip
 | --- | --- | --- |
 | Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 2" or "carry on from Step 3". |
 | following the packet instructions | according to the package directions | As in "cook the jasmine rice following the packet instructions". |
+
+### Hint topics
+
+The bold topic at the start of each hint in **Technique hints**, before the step in brackets. Name it after what the cook is doing, and reuse one when a hint covers the same job. The [Technique hints rules](Recipe_template.md#technique-hints) say how to write the rest of the hint.
+
+**Order:** the order they'd usually happen in a recipe: getting ready, cooking, then finishing.
+
+| Topic | Don't use | Notes |
+| --- | --- | --- |
+| Preparing the lemongrass and galangal | Prepping the lemongrass and galangal | Use the same pattern for other ingredients: "Preparing the {ingredient}". |
+| Handling fresh turmeric | Working with fresh turmeric | |
+| Checking the chillies | Testing the chillies | Tasting soaked dried chillies to see how hot they are. |
+| Blending the paste | Blitzing the paste, Processing the paste | |
+| Frying the paste | Cooking the paste, Cooking out the paste | |
+| Adding the tamarind paste | Adding the tamarind | "Tamarind paste" has no shorter name, so keep the full term. |
+| Cooking the prawns | | |
+| Toasting the crispy fried shallots | Toasting the shallots, Crisping the shallots | Keep the full term, because "the shallots" would mean ordinary shallots. |
 
 ### Note topics
 
@@ -424,4 +443,5 @@ The website names at the start of each line in **Sources**, before the colon.
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |
 | Serious Eats | seriouseats.com | SeriousEats |
+| TODAY | today.com | Today, TODAY.com |
 | Turbovac | turbovac.nl | TurboVac, TURBOVAC |
