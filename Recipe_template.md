@@ -1,14 +1,16 @@
 # Recipe template
 
-This file sets out how every recipe in this repository is written. Follow it whenever you create or edit a recipe, whether you are a person or an LLM.
+This file sets out how every recipe in this repository is written. Follow it whenever you create or edit a recipe, whether you are a person or an LLM. Use it together with the [Terminology glossary](Terminology_glossary.md), which pins the exact words the recipes use.
 
 **To write a new recipe:**
 
-1. Copy [the template](#the-template) into a new file in the `recipes/` folder, named as described in [File names](#file-names).
-2. Fill in every `{placeholder}`, following the [rules](#rules) for each section.
-3. Delete any optional section you don't need.
-4. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section.
-5. Check your work against the [checklist](#checklist).
+1. Read the [Terminology glossary](Terminology_glossary.md).
+2. Copy [the template](#the-template) into a new file in the `recipes/` folder, named as described in [File names](#file-names).
+3. Fill in every `{placeholder}`, following the [rules](#rules) for each section. Wherever the glossary has a term for something, use it exactly.
+4. Delete any optional section you don't need.
+5. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section.
+6. Add every new term the recipe uses to the glossary, as described in [Terminology](#terminology).
+7. Check your work against the [checklist](#checklist).
 
 For complete examples, see [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) and [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md).
 
@@ -101,9 +103,33 @@ Keep the sections in this order.
 - Explain an unusual technique in a few words the first time it appears, e.g. "Crack the coconut cream (fry it until the oil separates)."
 - Use British English spelling and UK ingredient names: coriander, spring onions, aubergine, courgette, red pepper, prawns, chillies, plain flour, double cream.
 - Write numbers as digits: "2 minutes", not "two minutes".
-- Call each ingredient by the same name everywhere in the recipe.
+- Call each thing by the same name every time, in this recipe and every other. Use the terms in the [Terminology glossary](Terminology_glossary.md), as described in [Terminology](#terminology).
 - No life stories, adverts or hype ("the best ever").
 - Write in your own words. Don't copy text from sources.
+
+### Terminology
+
+The [Terminology glossary](Terminology_glossary.md) pins the exact words the recipes in this repository use: ingredients, equipment, dish names, preparation and cooking terms, headings and labels, shops, origins, tags and sources. It stops recipes drifting apart, with one asking for "coriander leaves" and the next for "fresh coriander".
+
+**Before you start:** read the glossary, whether you're writing a new recipe or editing one.
+
+**While you write:**
+
+- When the recipe needs something the glossary lists, use its term exactly: the same words, spelling, hyphens, word order and capitals.
+- Never call something by a name in its **Don't use** column.
+- In the ingredient list, write each ingredient's full term. After that, you can shorten it as far as its **Short name**: "raw king prawns" in the list can be "the prawns" in the directions.
+- If two ingredients in the same recipe would end up with the same short name, keep more of each term, such as "dried chillies" and "red chilli".
+- Only reuse a term when it means exactly the same thing. If you need something different, such as ground ginger rather than ginger, give it a new term. Don't stretch an existing term to fit, or reword it to suit one recipe.
+
+**When you've finished:**
+
+- Add every term the recipe uses that isn't in the glossary yet, including swaps that appear only in **Notes and substitutions**. Put each one in the right section and family, at the place the glossary's [ordering rules](Terminology_glossary.md#how-the-tables-are-ordered) give it, not at the end of the table. Fill in its columns as described in [How the entries work](Terminology_glossary.md#how-the-entries-work).
+- Before you add a term, check it isn't another name for something the glossary already has. If it is, change the recipe to use the existing term.
+
+**When you change a term or delete a recipe:**
+
+- Don't change an existing term just because you prefer another word. If a term really does need to change, change it in the glossary and in every recipe that uses it, at the same time.
+- If no recipe uses a term any more, remove it from the glossary. Tags are the exception: the tag list keeps every tag.
 
 ### File names
 
@@ -125,7 +151,7 @@ Keep the sections in this order.
 - Link a recipe where it appears in the ingredient list. In the directions, just use its name.
 - You can also link from **Notes and substitutions**, e.g. "For a chicken version, see [Thai Yellow Chicken Curry](Thai_yellow_chicken_curry.md)."
 - Only link to recipes that exist. If the one you need doesn't exist yet, write it first using this template, or list the ingredient without a link.
-- If a store-bought version works, add `(or store-bought)` to the ingredient line and give details in **Notes and substitutions**.
+- If a store-bought version works, add `(or store-bought, see Notes)` to the ingredient line and give details in **Notes and substitutions**.
 - If you rename or delete a recipe, update every link to it.
 
 ### Title
@@ -166,15 +192,15 @@ Write each ingredient on its own line, in the order you use it:
 
 ```markdown
 - 500 g raw king prawns, peeled and deveined
-- 2 lemongrass stalks, white part only, finely sliced
+- 2 lemongrass stalks, top half and tough outer layers removed, finely sliced
 - 1 can (400 ml) coconut milk
-- 4 tbsp [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought)
-- 1 tbsp palm sugar, grated (or soft brown sugar)
+- 4 tbsp [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
+- 1 tbsp palm sugar, grated (or soft light brown sugar)
 - 1 cup Thai basil leaves, loosely packed
 - Salt, to taste
 ```
 
-- Name each ingredient as you'd find it in a UK shop: "raw king prawns", "unsalted butter", "plain flour".
+- If the [glossary](Terminology_glossary.md#ingredients) lists the ingredient, use its term exactly. If it doesn't, name the ingredient as you'd find it in a UK shop, such as "raw king prawns", "unsalted butter" or "plain flour", and add it to the glossary.
 - Put the preparation after a comma: "finely chopped", "peeled and deveined".
 - Use brackets for short notes only, such as `(optional)` or a quick swap. Put longer advice in **Notes and substitutions**.
 - If the recipe has distinct parts, group the ingredients under `###` subheadings, such as `### For the marinade` and `### To serve`.
@@ -212,10 +238,10 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 
 - Each step covers one stage of cooking, in 1–3 short sentences.
 - Start the step title with a verb and keep it to 2–5 words: "Fry the paste."
-- Say how hot (low, medium, medium-high or high heat), how long, and how to tell when it's done: "until golden, about 5 minutes".
+- Say how hot (low, medium-low, medium, medium-high or high heat), how long, and how to tell when it's done: "until golden, about 5 minutes".
 - Write "minutes" and "hours" in full here. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
-- Use the same ingredient names as the ingredient list. Only repeat an amount when you split an ingredient between steps: "Add half the coconut milk (200 ml)."
+- Use the same ingredient names as the ingredient list, or shorten them as far as their [glossary](Terminology_glossary.md#ingredients) short names: "the prawns" for raw king prawns. Only repeat an amount when you split an ingredient between steps: "Add half the coconut milk (200 ml)."
 - If the recipe has separate parts, such as a marinade and a sauce, you can use matching `###` subheadings here too. A `### To serve` ingredient group doesn't need one. Keep counting steps across subheadings. Don't restart at Step 1.
 - Finish with how to serve.
 
@@ -259,19 +285,12 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 ### Tags
 
 - Each tag is a single category: `Pastes`, not `Pastes and sauces`. If two categories apply, use two tags.
-- Choose from the tag list below, spelled exactly as shown.
+- Choose from the [tag list](Terminology_glossary.md#tags) in the Terminology glossary, spelled exactly as shown.
 - Every recipe needs at least one **Type** tag. Add **Course**, **Main ingredient** and **Diet** tags where they apply.
 - List tags one per line, in alphabetical order.
 - Don't tag the country or cuisine. That's what **Origin** is for.
 - Only use a **Diet** tag if the whole recipe qualifies, including linked recipes. For example, fish sauce and shrimp paste aren't vegetarian, and ordinary soy sauce contains wheat, so it isn't gluten-free.
-- If no tag fits, add a new one to the list below (following the same rules), then use it.
-
-| Group | Tags |
-| --- | --- |
-| Course | Breakfasts, Desserts, Drinks, Mains, Sides, Snacks, Starters |
-| Type | Breads, Cakes, Curries, Dressings, Marinades, Pastes, Pickles, Salads, Sauces, Soups, Spice mixes, Stews, Stir-fries, Stocks |
-| Main ingredient | Beef, Chicken, Eggs, Fish, Lamb, Noodles, Pasta, Pork, Pulses, Rice, Seafood, Tofu, Vegetables |
-| Diet | Dairy-free, Gluten-free, Vegan, Vegetarian |
+- If no tag fits, add a new one to the glossary's tag list (following the same rules), then use it.
 
 ### Sources
 
@@ -292,7 +311,9 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - [ ] Every link points to a recipe that exists, and the link text matches its title.
 - [ ] Each linked component recipe lists this recipe under **Used in**.
 - [ ] **Origin** has a country and a region.
-- [ ] Tags come from the [tag list](#tags), or you've added new ones to it.
+- [ ] Tags come from the [tag list](Terminology_glossary.md#tags), or you've added new ones to it.
+- [ ] Everything the [Terminology glossary](Terminology_glossary.md) lists is called by its exact term or short name, and nothing is called by a name from a **Don't use** column.
+- [ ] Every new term the recipe uses has been added to the glossary.
 - [ ] Every source URL is real and you have checked it.
 - [ ] Optional sections with nothing in them have been deleted.
 - [ ] No `{placeholders}` are left.
