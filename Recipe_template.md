@@ -10,6 +10,8 @@ This file sets out how every recipe in this repository is written. Follow it whe
 4. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section.
 5. Check your work against the [checklist](#checklist).
 
+For complete examples, see [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) and [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md).
+
 ## Sections at a glance
 
 Keep the sections in this order.
@@ -145,7 +147,7 @@ Keep the sections in this order.
 - Write times as `10 min`, `1 hr` or `1 hr 30 min`.
 - **Prep time:** hands-on time preparing ingredients, such as chopping, measuring and pounding.
 - **Cook time:** time on the hob or in the oven. Write `None` if there's no cooking.
-- **Total time:** prep time + cook time + any waiting time (soaking, marinating, resting, cooling).
+- **Total time:** start to finish, including any waiting time (soaking, marinating, resting, cooling). Don't count time twice when things overlap, such as chopping while something soaks.
 - Times are for this recipe only. Don't include the time it takes to make linked recipes.
 - **Servings:** the number of people it feeds, e.g. `4`.
 - For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 125 ml (enough for 1 curry for 4)`.
@@ -214,7 +216,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - Write "minutes" and "hours" in full here. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
 - Use the same ingredient names as the ingredient list. Only repeat an amount when you split an ingredient between steps: "Add half the coconut milk (200 ml)."
-- If the ingredients are grouped, use matching `###` subheadings here too. Keep counting steps across groups. Don't restart at Step 1.
+- If the recipe has separate parts, such as a marinade and a sauce, you can use matching `###` subheadings here too. A `### To serve` ingredient group doesn't need one. Keep counting steps across subheadings. Don't restart at Step 1.
 - Finish with how to serve.
 
 ### Notes and substitutions
@@ -284,7 +286,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 
 - [ ] The file is in `recipes/` and named as described in [File names](#file-names).
 - [ ] The description is 100 words or fewer.
-- [ ] Total time = prep time + cook time + any waiting time.
+- [ ] Total time is start to finish, including any waiting time.
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list.
 - [ ] Measurements follow the [measurement rules](#measurements), and every can has its size.
 - [ ] Every link points to a recipe that exists, and the link text matches its title.
