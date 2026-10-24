@@ -123,7 +123,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 **When you've finished:**
 
-- Add every term the recipe uses that isn't in the glossary yet, including swaps that appear only in **Notes and substitutions**. Put each one in the right section, in alphabetical order, and fill in its columns as described in [How the entries work](Terminology_glossary.md#how-the-entries-work).
+- Add every term the recipe uses that isn't in the glossary yet, including swaps that appear only in **Notes and substitutions**. Put each one in the right section and family, at the place the glossary's [ordering rules](Terminology_glossary.md#how-the-tables-are-ordered) give it, not at the end of the table. Fill in its columns as described in [How the entries work](Terminology_glossary.md#how-the-entries-work).
 - Before you add a term, check it isn't another name for something the glossary already has. If it is, change the recipe to use the existing term.
 
 **When you change a term or delete a recipe:**
