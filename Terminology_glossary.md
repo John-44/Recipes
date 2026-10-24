@@ -19,7 +19,7 @@ Read it before you write or edit a recipe, use its terms exactly, and add any ne
 
 Every table is ordered so that similar terms sit together and are easy to compare. Just above each table, an **Order** line or a **Families** list says how.
 
-- **Families:** in a table with a **Family** column, the rows are grouped by family, and the families come in the order given above the table.
+- **Families:** in a table with a **Family** column, the rows are grouped by family, and the families come in the order given above the table. A **Families** list can include families with no terms yet, to show where future terms go.
 - **Scales:** within a family, or in a table without families, terms run along a scale wherever there's a natural one, such as least heat to most, finest to coarsest or mildest to hottest. Where there isn't one, they're A to Z, ignoring brackets, quote marks and italics.
 
 **To add a term:**
@@ -49,35 +49,38 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 
 | Family | What goes in it | Order within the family |
 | --- | --- | --- |
-| Meat and seafood | Meat, poultry, fish and shellfish | Meat from red to white, then fish and seafood, A to Z |
-| Vegetables | Vegetables, apart from the onion family | A to Z |
-| Onions and garlic | Onions, shallots and garlic | Smallest to largest |
-| Fresh roots and stalks | Fresh roots, such as ginger, and stalks, such as lemongrass | A to Z |
-| Herbs | Fresh herbs | A to Z |
+| Meat | Meat and poultry | Red meat to white |
+| Fish | Fish | White fish, then oily fish; A to Z within each |
+| Seafood | Shellfish, such as prawns, and other seafood that isn't fish | A to Z |
+| Vegetables | Vegetables, apart from aromatics | A to Z |
+| Aromatics | Onions, shallots, garlic and the rest of the onion family | Smallest to largest |
+| Roots | Fresh roots, such as ginger | A to Z |
+| Herbs | Fresh herbs, such as coriander leaves and lemongrass | A to Z |
 | Fruit | Fresh fruit, including citrus | A to Z |
 | Chillies | Fresh and dried chillies | Mildest to hottest |
 | Spices | Whole and ground spices, and spice blends | A to Z by spice, with each whole spice before its ground form, then blends |
 | Curry pastes | Curry pastes, homemade and store-bought | A to Z, with each recipe followed by its store-bought version |
 | Seasonings | Salt, sauces, seasoning pastes and sugars | Salty, then sour, then sweet; A to Z within each |
 | Liquids | Milks, stocks and water | Richest to thinnest |
-| Rice and noodles | Rice, noodles and other grains | A to Z |
+| Grains | Rice and other grains | A to Z |
+| Pasta and noodles | Pasta and noodles | A to Z |
 | Garnishes | Ready-made toppings | A to Z |
 
 **Terms:**
 
 | Family | Term | Short name | Don't use | Notes |
 | --- | --- | --- | --- | --- |
-| Meat and seafood | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
-| Meat and seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. |
+| Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
+| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
-| Onions and garlic | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
-| Onions and garlic | shallots | shallots | eschalots, French shallots | The ordinary shallots sold in UK supermarkets. Not crispy fried shallots. |
-| Onions and garlic | onion | onion | brown onion, yellow onion | An ordinary onion. Red onions and spring onions would need their own terms. |
-| Fresh roots and stalks | fresh turmeric | fresh turmeric | turmeric root, raw turmeric | Keep "fresh" whenever you mean this ingredient, because "turmeric" on its own usually means ground. When you mean the spice in general, "turmeric" is fine, as in "warm with turmeric". |
-| Fresh roots and stalks | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
-| Fresh roots and stalks | ginger | ginger | root ginger, fresh ginger, ginger root | Means fresh root ginger. Ground ginger would be a separate term. |
-| Fresh roots and stalks | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
+| Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
+| Aromatics | shallots | shallots | eschalots, French shallots | The ordinary shallots sold in UK supermarkets. Not crispy fried shallots. |
+| Aromatics | onion | onion | brown onion, yellow onion | An ordinary onion. Red onions and spring onions would need their own terms. |
+| Roots | fresh turmeric | fresh turmeric | turmeric root, raw turmeric | Keep "fresh" whenever you mean this ingredient, because "turmeric" on its own usually means ground. When you mean the spice in general, "turmeric" is fine, as in "warm with turmeric". |
+| Roots | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
+| Roots | ginger | ginger | root ginger, fresh ginger, ginger root | Means fresh root ginger. Ground ginger would be a separate term. |
 | Herbs | coriander leaves | coriander leaves | cilantro, fresh coriander, Chinese parsley | The fresh herb. Always add "leaves", so it can't be mistaken for coriander seeds or ground coriander. |
+| Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
 | Herbs | Thai basil leaves | Thai basil | Thai sweet basil, horapha, Asian basil | Not holy basil or Italian basil, which are different herbs. When coriander works too, write "Thai basil or coriander leaves". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
 | Chillies | mild dried red chillies | chillies | dried red chilies, whole dried chillies, dry red chillies | Large, mild dried chillies, such as Kashmiri chillies or guajillo chillies. If the recipe also uses fresh chillies, shorten to "dried chillies" instead. |
@@ -105,7 +108,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | coconut milk | coconut milk | | The canned kind, not the coconut drinks sold in cartons. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
 | Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
-| Rice and noodles | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
+| Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
 | Garnishes | crispy fried shallots | crispy fried shallots | fried shallots, crispy shallots, shallot crisps | Ready-made, for scattering over a dish. Not the same as shallots. |
 
 ## Equipment
@@ -395,14 +398,14 @@ The full list of tags a recipe can choose from, including some that no recipe us
 
 - **Course:** Breakfasts, then a meal's courses in the order you'd eat them, then Snacks and Drinks.
 - **Type:** A to Z.
-- **Main ingredient:** meat from red to white, then fish and seafood, then other proteins (A to Z), then vegetables, then rice, noodles and pasta (A to Z).
+- **Main ingredient:** meat from red to white, then Fish, Seafood, other proteins (A to Z), Vegetables, grains, then pasta and noodles (A to Z), as in the [ingredient families](#ingredients).
 - **Diet:** free-from tags first (A to Z), then Vegetarian and Vegan, from least strict to most.
 
 | Group | Tags |
 | --- | --- |
 | Course | Breakfasts, Starters, Mains, Sides, Desserts, Snacks, Drinks |
 | Type | Breads, Cakes, Curries, Dressings, Marinades, Pastes, Pickles, Salads, Sauces, Soups, Spice mixes, Stews, Stir-fries, Stocks |
-| Main ingredient | Beef, Lamb, Pork, Chicken, Fish, Seafood, Eggs, Pulses, Tofu, Vegetables, Noodles, Pasta, Rice |
+| Main ingredient | Beef, Lamb, Pork, Chicken, Fish, Seafood, Eggs, Pulses, Tofu, Vegetables, Rice, Noodles, Pasta |
 | Diet | Dairy-free, Gluten-free, Vegetarian, Vegan |
 
 Prawns and other shellfish are **Seafood**, not **Fish**.
