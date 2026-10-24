@@ -31,18 +31,18 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 1: Fry the paste.** Pour 150 ml of the coconut milk (the thick part from the top of the can, if it has separated) into a wok or large saucepan and bring to the boil over medium-high heat. Stir in the curry paste and fry over medium heat, stirring often, until thick and fragrant, 5–8 minutes. The oil may start to separate out, which is good, but don't worry if it doesn't.
 
-**Step 2: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, tamarind paste, fish sauce and palm sugar. Bring to a gentle simmer and cook until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice following the packet instructions.
+**Step 2: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, fish sauce, palm sugar and half the tamarind paste (1 tsp). Bring to a gentle simmer and cook until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice following the packet instructions.
 
 **Step 3: Cook the prawns.** Add the prawns and simmer until they turn pink and are just cooked through, 2–3 minutes. Don't overcook them, or they'll go rubbery.
 
-**Step 4: Taste and adjust.** Taste the sauce. It should be rich, savoury and slightly sweet. Add more fish sauce if it needs salt, more palm sugar if it needs sweetness, or a splash of water if it's too thick.
+**Step 4: Taste and adjust.** Taste the sauce: it should be rich, savoury and slightly sweet, with a hint of sourness. Add more fish sauce if it needs salt, more palm sugar if it needs sweetness, or a splash of water if it's too thick. If it isn't sour enough, stir in the rest of the tamarind paste a little at a time.
 
 **Step 5: Serve the curry.** Spoon the curry over the rice. Scatter with the Thai basil or coriander leaves, crispy fried shallots and chilli.
 
 ## Technique hints
 
 - **Frying the paste (Step 1):** Frying cooks the water out of the curry paste and deepens the flavour of its herbs and spices, so give it the full time. If the oil doesn't separate out, the coconut milk probably contains thickeners, which stop that happening.
-- **Adding the tamarind paste (Step 2):** Tamarind paste loses much of its sourness as it simmers. If the sauce tastes too sour at this point, leave it and taste again in Step 4.
+- **Adding the tamarind paste (Steps 2 and 4):** Tamarind paste varies a lot in sourness from brand to brand, which is why half of it waits until Step 4. It also loses much of its sourness as it simmers, so don't judge the sauce until then.
 - **Cooking the prawns (Step 3):** Take the curry off the heat as soon as the prawns curl into a loose C, because they keep cooking in the sauce. If they curl into a tight O, they've gone too far.
 - **Toasting the crispy fried shallots (Step 5):** While the curry simmers, toast them in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes. It freshens them up and makes them crisper.
 
@@ -81,7 +81,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 ## Sources
 
-- Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk, the seasonings, how much homemade paste to use, toasting the crispy fried shallots, and the dish's background.
+- Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk, the seasonings, holding back half the tamarind paste, how much homemade paste to use, toasting the crispy fried shallots, and the dish's background.
 - Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why the oil doesn't always separate out when you fry the paste.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, the cooking times, the garnishes, the chicken swap, why the paste is fried, and how tamarind paste loses its sourness as it cooks.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). How much homemade paste one curry for 4 needs.

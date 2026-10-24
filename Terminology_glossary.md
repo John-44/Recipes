@@ -329,7 +329,7 @@ Phrases that send the cook to another step, or to instructions outside the recip
 
 | Term | Don't use | Notes |
 | --- | --- | --- |
-| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 2" or "carry on from Step 3". |
+| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 2" or "carry on from Step 3". For more than one step, write "Steps 2 and 4". |
 | following the packet instructions | according to the package directions | As in "cook the jasmine rice following the packet instructions". |
 
 ### Hint topics
