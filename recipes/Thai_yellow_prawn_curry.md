@@ -34,13 +34,21 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 2: Fry the paste.** Stir in the curry paste and fry it in the oil over medium heat, stirring often, until thick and fragrant, 3–5 minutes.
 
-**Step 3: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, tamarind paste, fish sauce and palm sugar. Bring to a gentle simmer and cook until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice.
+**Step 3: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, fish sauce, palm sugar and half the tamarind paste (1 tsp). Bring to a gentle simmer and cook until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice.
 
 **Step 4: Cook the prawns.** Add the prawns and simmer until they turn pink and are just cooked through, 2–3 minutes. Don't overcook them, or they'll go rubbery.
 
-**Step 5: Taste and adjust.** Taste the sauce. It should be rich, savoury and slightly sweet. Add more fish sauce if it needs salt, more palm sugar if it needs sweetness, or a splash of water if it's too thick.
+**Step 5: Taste and adjust.** Taste the sauce: it should be rich, savoury and slightly sweet, with a hint of sourness. Add more fish sauce if it needs salt, more palm sugar if it needs sweetness, or a splash of water if it's too thick. If it isn't sour enough, stir in the rest of the tamarind paste a little at a time.
 
 **Step 6: Serve the curry.** Spoon the curry over the rice. Scatter with the Thai basil or coriander leaves, crispy fried shallots and chilli.
+
+## Technique hints
+
+- **Cracking the coconut milk (Step 1):** If the oil won't separate out, the coconut milk probably contains emulsifiers or stabilisers, which can stop it cracking. The vegetable oil gives the curry paste something to fry in instead.
+- **Frying the paste (Step 2):** Frying cooks the water out of the curry paste and deepens the flavour of its herbs and spices, so give it the full time.
+- **Adding the tamarind paste (Steps 3 and 5):** Tamarind paste varies a lot in sourness from brand to brand, which is why half of it waits until Step 5. It also loses much of its sourness as it simmers, so don't judge the sauce until then.
+- **Cooking the prawns (Step 4):** Take the curry off the heat as soon as the prawns curl into a loose C, because they keep cooking in the sauce. If they curl into a tight O, they've gone too far.
+- **Toasting the crispy fried shallots (Step 6):** While the curry simmers, toast them in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes. It freshens them up and makes them crisper.
 
 ## Notes and substitutions
 
@@ -80,8 +88,9 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 - America's Test Kitchen: [How to "Crack" Coconut Cream](https://www.americastestkitchen.com/how_tos/8358-how-to-crack-coconut-cream). How to crack the coconut milk and how long it takes, and frying the paste in vegetable oil instead.
 - Biona Organic: [Organic Coconut Milk 400ml](https://biona.co.uk/products/biona-organic-coconut-milk-400ml). A coconut milk with no emulsifiers or stabilisers.
-- Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk, the seasonings, how much homemade paste to use, and the dish's background.
-- Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating, and what Aroy-D contains.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, the cooking times, the garnishes and the chicken swap.
+- Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk, the seasonings, holding back half the tamarind paste, how much homemade paste to use, toasting the crispy fried shallots, and the dish's background.
+- Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating and cracking, and what Aroy-D contains.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, the cooking times, the garnishes, the chicken swap, why the paste is fried, and how tamarind paste loses its sourness as it cooks.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). How much homemade paste one curry for 4 needs.
+- TODAY: [The Easiest Way to Tell If Shrimp Is Cooked or Overcooked](https://www.today.com/food/cook-smarter/how-to-tell-if-shrimp-is-cooked-or-overcooked-rcna230408). The C and O test for cooked prawns.
 - Turbovac: [Shelf life table](https://turbovac.nl/shelf-life-table/). How long the curry keeps in the fridge when vacuum packed.

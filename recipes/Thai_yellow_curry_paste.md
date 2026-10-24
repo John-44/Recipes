@@ -37,13 +37,20 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 **Step 4: Use or store.** Use half the paste (about 125 g) for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
 
+## Technique hints
+
+- **Preparing the lemongrass and galangal (Ingredients):** These are the toughest ingredients in the paste, and big pieces won't break down, leaving it gritty. Slice the lemongrass and chop the galangal as finely as you can.
+- **Handling fresh turmeric (Ingredients):** It stains, so wear gloves, and don't chop it on a plastic chopping board or let it touch a stone worktop.
+- **Checking the chillies (Step 1):** Dried chillies sold as mild aren't always mild. Once they've soaked, taste a small piece. If it's hot, use only a third to a half of the chillies in Step 3.
+- **Blending the paste (Step 3):** Put the lemongrass, galangal, ginger and fresh turmeric in the jug first and everything else on top, as it blends more easily that way. Lift and move the stick blender around as you go. Don't add extra water to help it along: Thai curry recipes expect a thick paste.
+
 ## Notes and substitutions
 
 - **Dried chillies:** Kashmiri chillies, sold in Indian grocers and online, add colour without much heat. Mexican guajillo chillies work too.
 - **More heat:** Swap 2 or 3 of the mild chillies for small, hot dried chillies, such as bird's eye.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets. If you can't find it, use the same amount of extra ginger plus the zest of 1 lime.
-- **Fresh turmeric:** It stains, so wear gloves and avoid plastic chopping boards. If you can't find it, use 1 tsp ground turmeric.
+- **Fresh turmeric:** If you can't find it, use 1 tsp ground turmeric.
 - **Vegetarian:** Leave out the shrimp paste, or use 2 tsp white miso instead.
 - **Mortar and pestle:** Pound the chillies and salt first, then add the other fresh ingredients one at a time, hardest first, pounding each to a paste before adding the next. Add the ground spices when the paste gets wet and the shrimp paste last, skip the soaking water, and allow 25–30 minutes.
 
@@ -72,7 +79,8 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 ## Sources
 
-- Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, and the freezing tip.
-- Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, the mortar and pestle method, and storage times.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, and the galangal and turmeric swaps.
+- Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, and the freezing tip.
+- Hot Thai Kitchen: [Homemade Thai Red Curry Paste - The Complete Guide](https://hot-thai-kitchen.com/red-curry-paste/). How to load the jug and use the stick blender.
+- Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, the mortar and pestle method, slicing the fresh ingredients finely, and storage times.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, checking the chillies' heat, and the warnings about gritty galangal and turmeric stains.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.
