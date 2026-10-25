@@ -103,12 +103,13 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A jar of Thai yellow curry paste, used instead of the Thai Yellow Curry Paste recipe. Paste made from the recipe is "homemade", not "home-made". |
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
 | Seasonings | fish sauce | fish sauce | nam pla, Thai fish sauce | Not vegetarian. |
+| Seasonings | MSG | MSG | monosodium glutamate, umami seasoning | A seasoning that adds savoury depth. Packs may call it umami seasoning or E621. |
 | Seasonings | Thai shrimp paste | shrimp paste | kapi, Thai prawn paste, fermented shrimp paste | "Shrimp" is right here, even though the recipes say "prawns" everywhere else. Not vegetarian. |
 | Seasonings | white miso | white miso | shiro miso, white miso paste, miso (on its own) | |
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |
-| Seasonings | palm sugar | palm sugar | | Usually sold in hard cakes, so it's grated. The usual swap is soft light brown sugar. |
-| Seasonings | soft light brown sugar | soft light brown sugar | soft brown sugar, light brown sugar, light soft brown sugar | The usual swap for palm sugar. |
+| Seasonings | palm sugar | palm sugar | | Usually sold in hard blocks, so it's grated. |
 | Oils and fats | coconut oil | oil | coconut fat | Solid when cool, and melts as soon as it's heated. Not creamed coconut, which is made from the whole flesh. Keep "coconut oil" when the recipe also talks about the oil that separates out of coconut milk. |
+| Liquids | coconut cream | coconut cream | | Thicker and richer than coconut milk, and sold in cartons and cans. Not the thick part from the top of a can of coconut milk, or creamed coconut, which is a hard block. |
 | Liquids | coconut milk | coconut milk | | The canned kind, not the coconut drinks sold in cartons. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
 | Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
@@ -303,8 +304,8 @@ The short notes in brackets at the end of an ingredient line.
 | --- | --- | --- |
 | (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "15 g ginger, peeled and finely chopped (about a 3 cm piece)". |
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g shallots, roughly chopped (about 3)". |
+| ({fraction} of a palm sugar block) | ({fraction} of a block of palm sugar), ({fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
-| (or {swap}) | (or substitute {swap}), (or use {swap}) | A quick swap, as in "(or soft light brown sugar)". |
 | (optional) | (if you like), (if using) | |
 | (thawed if frozen) | (defrosted if frozen) | |
 
@@ -322,6 +323,7 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 | Crack the coconut milk | Break the coconut milk, Split the coconut milk | |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Simmer the potatoes | | |
+| Add the coconut cream | | |
 | Cook the prawns | | |
 | Taste and adjust | Season to taste, Adjust the seasoning, Check the seasoning | |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
@@ -335,7 +337,7 @@ Phrases that send the cook to another step, or to instructions outside the recip
 
 | Term | Don't use | Notes |
 | --- | --- | --- |
-| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 3" or "carry on from Step 4". For more than one step, write "Steps 3 and 5". |
+| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 3" or "carry on from Step 4". For more than one step, write "Steps 3 and 6". |
 
 ### Hint topics
 

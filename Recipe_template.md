@@ -216,7 +216,7 @@ Write each ingredient on its own line, in the order you use it:
 - 2 lemongrass stalks, top half and tough outer layers removed, finely sliced
 - 1 can (400 ml) coconut milk
 - 4 tbsp [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
-- 1 tbsp palm sugar, grated (or soft light brown sugar)
+- 1 tbsp palm sugar, grated (¼ of a palm sugar block)
 - 1 cup Thai basil leaves, loosely packed
 - Salt, to taste
 ```
@@ -235,12 +235,14 @@ Write each ingredient on its own line, in the order you use it:
 | tsp, tbsp | Small amounts of anything, up to 4 tbsp: spices, salt, sauces, oil, pastes | `2 tbsp fish sauce` |
 | cups | Light, bulky ingredients that are awkward to weigh and don't need to be exact: loose herbs and leaves, cooked rice | `1 cup Thai basil leaves, loosely packed` |
 | cans | Ingredients sold in cans, when you use the whole can | `1 can (400 g) chopped tomatoes` |
+| cartons | Ingredients sold in cartons, when you use the whole carton | `1 small carton (250 ml) coconut cream` |
 | Count | Things you naturally count | `4 garlic cloves`, `2 eggs` |
 | To taste | Seasoning you adjust at the end | `Salt, to taste` |
 
 - 1 tsp = 5 ml, 1 tbsp = 15 ml and 1 cup = 250 ml. Spoon measures are level unless the recipe says "heaped".
 - A standard can is 400 g (or 400 ml for liquids such as coconut milk). Always give the size in brackets: `1 can (400 g) chickpeas, drained and rinsed`, `2 cans (400 g each) chopped tomatoes`.
-- If you only use part of a can, give the amount in g or ml instead: `200 ml coconut milk`.
+- Cartons come in several sizes, so say whether you need a small or large one, and always give its size in brackets: `1 small carton (250 ml) coconut cream`.
+- If you only use part of a can or carton, give the amount in g or ml instead: `200 ml coconut milk`.
 - Never use cups for flour, sugar, butter or anything else that needs to be accurate. Weigh it.
 - Round to amounts that are easy to measure: `250 g`, not `247 g`. Switch to kg and L from 1,000: `1.2 kg`, `1.5 L`.
 - Use ½, ⅓, ⅔, ¼ and ¾ with spoons, cups, cans and counts (`1½ tsp`). Don't use fractions with g or ml.
@@ -370,7 +372,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - [ ] The description is 100 words or fewer.
 - [ ] Total time is start to finish, including any waiting time.
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list.
-- [ ] Measurements follow the [measurement rules](#measurements), and every can has its size.
+- [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every link points to a recipe that exists, and the link text matches its title.
 - [ ] Every hint in **Technique hints** points to the right step, and none repeats or contradicts the directions.
 - [ ] The **Fridge** and **Freezer** entries follow the [vacuum packing rules](#vacuum-packing).
