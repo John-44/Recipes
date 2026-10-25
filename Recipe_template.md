@@ -216,7 +216,7 @@ Write each ingredient on its own line, in the order you use it:
 - 2 lemongrass stalks, top half and tough outer layers removed, finely sliced
 - 1 can (400 ml) coconut milk
 - 4 tbsp [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
-- 1 tbsp palm sugar, grated (or soft light brown sugar)
+- 1 tbsp palm sugar, grated (¼ of a palm sugar block)
 - 1 cup Thai basil leaves, loosely packed
 - Salt, to taste
 ```
