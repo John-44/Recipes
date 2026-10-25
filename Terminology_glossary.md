@@ -103,6 +103,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A jar of Thai yellow curry paste, used instead of the Thai Yellow Curry Paste recipe. Paste made from the recipe is "homemade", not "home-made". |
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
 | Seasonings | fish sauce | fish sauce | nam pla, Thai fish sauce | Not vegetarian. |
+| Seasonings | MSG | MSG | monosodium glutamate, umami seasoning | A seasoning that adds savoury depth. Packs may call it umami seasoning or E621. |
 | Seasonings | Thai shrimp paste | shrimp paste | kapi, Thai prawn paste, fermented shrimp paste | "Shrimp" is right here, even though the recipes say "prawns" everywhere else. Not vegetarian. |
 | Seasonings | white miso | white miso | shiro miso, white miso paste, miso (on its own) | |
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |

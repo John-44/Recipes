@@ -19,6 +19,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 2 tsp tamarind paste
 - 1½ tbsp fish sauce, plus extra to taste
 - 1 tbsp palm sugar, grated (¼ of a palm sugar block)
+- ¼ tsp MSG
 - 1 small carton (250 ml) coconut cream
 - 400 g raw king prawns, peeled and deveined (thawed if frozen)
 
@@ -35,7 +36,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 2: Fry the paste.** Stir in the curry paste and fry it in the oil over medium heat, stirring often, until thick and fragrant, 3–5 minutes.
 
-**Step 3: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, fish sauce, palm sugar and half the tamarind paste (1 tsp). Bring to a gentle simmer and cook until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice.
+**Step 3: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, fish sauce, palm sugar, MSG and half the tamarind paste (1 tsp). Bring to a gentle simmer and cook until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice.
 
 **Step 4: Add the coconut cream.** Stir in the coconut cream and bring to a gentle simmer over medium heat, 2–3 minutes.
 
