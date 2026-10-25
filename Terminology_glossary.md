@@ -37,6 +37,8 @@ Every table is ordered so that similar terms sit together and are easy to compar
 - [Cooking terms](#cooking-terms)
 - [Headings and labels](#headings-and-labels)
 - [Shops](#shops)
+- [Brands](#brands)
+- [Food labels](#food-labels)
 - [Origins](#origins)
 - [Tags](#tags)
 - [Sources](#sources)
@@ -61,6 +63,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | Whole and ground spices, and spice blends | A to Z by spice, with each whole spice before its ground form, then blends |
 | Curry pastes | Curry pastes, homemade and store-bought | A to Z, with each recipe followed by its store-bought version |
 | Seasonings | Salt, sauces, seasoning pastes and sugars | Salty, then sour, then sweet; A to Z within each |
+| Oils and fats | Cooking oils and other fats | A to Z |
 | Liquids | Milks, stocks and water | Richest to thinnest |
 | Grains | Rice and other grains | A to Z |
 | Pasta and noodles | Pasta and noodles | A to Z |
@@ -105,6 +108,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |
 | Seasonings | palm sugar | palm sugar | | Usually sold in hard cakes, so it's grated. The usual swap is soft light brown sugar. |
 | Seasonings | soft light brown sugar | soft light brown sugar | soft brown sugar, light brown sugar, light soft brown sugar | The usual swap for palm sugar. |
+| Oils and fats | coconut oil | oil | coconut fat | Solid when cool, and melts as soon as it's heated. Not creamed coconut, which is made from the whole flesh. Keep "coconut oil" when the recipe also talks about the oil that separates out of coconut milk. |
 | Liquids | coconut milk | coconut milk | | The canned kind, not the coconut drinks sold in cartons. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
 | Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
@@ -253,11 +257,12 @@ Words for the directions and storage sections. Write heat levels as "over {level
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
 | Heating liquids | bring to the boil | bring to a boil | |
 | Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
-| Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry over medium heat". |
+| Frying and toasting | crack | break, split | Simmer the thick part from the top of a can of coconut milk until the oil separates out, so you can fry curry paste in it, as in "Crack the coconut milk". Coconut milk with emulsifiers or stabilisers may not crack. |
+| Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Doneness | until fragrant | until aromatic | Also "until thick and fragrant", for frying paste. |
 | Doneness | curl into a loose C | curl into a C shape, C-shaped | How prawns look when they're just cooked. If they curl into a tight O, they're overcooked. |
-| Doneness | separate out | split | What the oil does when you fry curry paste in coconut milk, as in "The oil may start to separate out". |
+| Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out". |
 | Doneness | until they turn pink and are just cooked through | until opaque | The test for cooked prawns. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
 | Doneness | until soft | until softened | |
@@ -314,6 +319,7 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 | Soak the chillies | | |
 | Toast and grind the spices | | |
 | Blend the paste | Blitz the paste, Process the paste | |
+| Crack the coconut milk | Break the coconut milk, Split the coconut milk | |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Simmer the potatoes | | |
 | Cook the prawns | | |
@@ -329,8 +335,7 @@ Phrases that send the cook to another step, or to instructions outside the recip
 
 | Term | Don't use | Notes |
 | --- | --- | --- |
-| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 2" or "carry on from Step 3". For more than one step, write "Steps 2 and 4". |
-| following the packet instructions | according to the package directions | As in "cook the jasmine rice following the packet instructions". |
+| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 3" or "carry on from Step 4". For more than one step, write "Steps 3 and 5". |
 
 ### Hint topics
 
@@ -344,7 +349,6 @@ The bold topic at the start of each hint in **Technique hints**, before the step
 | Handling fresh turmeric | Working with fresh turmeric | |
 | Checking the chillies | Testing the chillies | Tasting soaked dried chillies to see how hot they are. |
 | Blending the paste | Blitzing the paste, Processing the paste | |
-| Frying the paste | Cooking the paste, Cooking out the paste | |
 | Adding the tamarind paste | Adding the tamarind | "Tamarind paste" has no shorter name, so keep the full term. |
 | Cooking the prawns | | |
 | Toasting the crispy fried shallots | Toasting the shallots, Crisping the shallots | Keep the full term, because "the shallots" would mean ordinary shallots. |
@@ -389,6 +393,39 @@ Where to buy ingredients, as named in **Notes and substitutions**.
 | Asian supermarkets | Asian grocers, Asian stores, oriental supermarkets | Here "Asian" means East and Southeast Asian, for ingredients such as galangal. |
 | Indian grocers | Indian shops, Indian supermarkets | For Indian ingredients, such as Kashmiri chillies. |
 | online | on the internet | As in "sold in Indian grocers and online". |
+
+## Brands
+
+Brands named in **Notes and substitutions**. Write each one as it is here, even where the pack uses different capitals.
+
+**Order:** A to Z.
+
+| Brand | Don't use | Notes |
+| --- | --- | --- |
+| Aroy-D | Aroy D, AroyD | A Thai brand. Its coconut milk contains an emulsifier. |
+| Biona Organic | Biona (on its own) | A UK brand of organic food. Its coconut milk has no emulsifiers or stabilisers. |
+| Chaokoh | Chao Koh, ChaoKoh | A Thai brand. Its coconut milk contains an emulsifier. |
+
+## Food labels
+
+Words from the labels on food packs, for saying what to look for, or avoid, when buying an ingredient.
+
+**Families**, from how the food is made to what's added to it:
+
+| Family | What goes in it | Order within the family |
+| --- | --- | --- |
+| Processing | What's done to the food, such as homogenising | A to Z |
+| Additives | Kinds of additive, and named additives | Kinds first, then named additives; A to Z within each |
+
+**Terms:**
+
+| Family | Term | Don't use | Notes |
+| --- | --- | --- | --- |
+| Processing | homogenised | homogenized | Processed so the fat stays evenly mixed in. Homogenised coconut milk may not separate in the can. |
+| Additives | emulsifiers | emulsifying agents | Additives that keep fat and water mixed, such as E435 (polysorbate 60). Coconut milk that contains them may not separate in the can. |
+| Additives | stabilisers | stabilizers, thickeners | Additives that thicken food and keep it mixed. Coconut milk that contains them may not separate in the can. Labels sometimes call them thickeners. |
+| Additives | carboxymethylcellulose | carboxymethyl cellulose, cellulose gum, CMC | A stabiliser. Labels may call it cellulose gum or E466. |
+| Additives | guar gum | guar | A stabiliser. Labels may call it E412. |
 
 ## Origins
 
@@ -439,6 +476,8 @@ The website names at the start of each line in **Sources**, before the colon.
 
 | Website | Address | Don't use |
 | --- | --- | --- |
+| America's Test Kitchen | americastestkitchen.com | Americas Test Kitchen, ATK |
+| Biona Organic | biona.co.uk | Biona (on its own) |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |
