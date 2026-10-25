@@ -83,6 +83,8 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Roots | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
 | Roots | ginger | ginger | root ginger, fresh ginger, ginger root | Means fresh root ginger. Ground ginger would be a separate term. |
 | Herbs | coriander leaves | coriander leaves | cilantro, fresh coriander, Chinese parsley | The fresh herb. Always add "leaves", so it can't be mistaken for coriander seeds or ground coriander. |
+| Herbs | coriander roots | coriander roots | cilantro roots | The roots of the coriander plant. Always add "roots", so they can't be mistaken for coriander leaves or coriander stalks. |
+| Herbs | coriander stalks | coriander stalks | coriander stems, cilantro stems | The stalks of the coriander plant. Keep "coriander", so they can't be mistaken for lemongrass stalks. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
 | Herbs | Thai basil leaves | Thai basil | Thai sweet basil, horapha, Asian basil | Not holy basil or Italian basil, which are different herbs. When coriander works too, write "Thai basil or coriander leaves". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
@@ -187,10 +189,11 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 
 How ingredients are prepared, mostly written after the comma in an ingredient line. Join two with "and", as in "peeled and finely chopped".
 
-**Families**, from removing parts, through cutting, to measuring and seasoning:
+**Families**, from cleaning and removing parts, through cutting, to measuring and seasoning:
 
 | Family | What goes in it | Order within the family |
 | --- | --- | --- |
+| Cleaning | Getting dirt off, such as by scrubbing roots | Lightest to most thorough |
 | Trimming | Removing parts you don't eat, such as stalks and seeds | Least removed to most |
 | Peeling | Removing skins and shells | Least removed to most |
 | Chopping | Cutting into pieces with no set shape | Finest to coarsest |
@@ -204,6 +207,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
+| Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
 | Trimming | stalks removed | stemmed, destemmed | For dried chillies. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
 | Peeling | peeled | | |

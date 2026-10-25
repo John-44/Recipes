@@ -23,6 +23,7 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 - 15 g galangal, peeled and finely chopped (about a 3 cm piece)
 - 15 g ginger, peeled and finely chopped (about a 3 cm piece)
 - 20 g fresh turmeric, peeled and finely chopped (about a 6 cm piece)
+- 20 g coriander roots, scrubbed and finely chopped (about 6)
 - 8 garlic cloves, roughly chopped
 - 75 g shallots, roughly chopped (about 3)
 - 2 tsp Thai shrimp paste
@@ -33,7 +34,7 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 **Step 2: Toast and grind the spices.** While the chillies soak, toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over medium-low heat, shaking the pan, until fragrant, 2–3 minutes. Leave to cool for 2 minutes, add the curry powder, then grind to a fine powder in the high-speed blender. Tip the ground spices into a small bowl, ready for Step 4.
 
-**Step 3: Blend the paste.** Put the chillies, the 3 tbsp of soaking water, salt, MSG, lemongrass, galangal, ginger, fresh turmeric, garlic, shallots and shrimp paste in the high-speed blender. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times.
+**Step 3: Blend the paste.** Put the chillies, the 3 tbsp of soaking water, salt, MSG, lemongrass, galangal, ginger, fresh turmeric, coriander roots, garlic, shallots and shrimp paste in the high-speed blender. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times.
 
 **Step 4: Blend in the spices.** Add the ground spices to the high-speed blender and blend them in the same way as in Step 3, until very smooth. Rub a little between your fingers: it shouldn't feel gritty.
 
@@ -53,8 +54,9 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets. If you can't find it, use the same amount of extra ginger plus the zest of 1 lime.
 - **Fresh turmeric:** If you can't find it, use 1 tsp ground turmeric.
+- **Coriander roots:** Look for them in Asian supermarkets. If you can't find any, use the same weight of tender coriander stalks.
 - **Vegetarian:** Leave out the shrimp paste, or use 2 tsp white miso instead.
-- **Stick blender:** It can't grind whole spices, so use ground spices instead (see **Ground spices**). For Steps 3 and 4, put the lemongrass, galangal, ginger and fresh turmeric in the tall, narrow jug first, then everything else, and lift and move the stick blender around as you blend.
+- **Stick blender:** It can't grind whole spices, so use ground spices instead (see **Ground spices**). For Steps 3 and 4, put the lemongrass, galangal, ginger, fresh turmeric and coriander roots in the tall, narrow jug first, then everything else, and lift and move the stick blender around as you blend.
 
 ## Storage and make-ahead
 
@@ -83,6 +85,6 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, and the freezing tip.
 - Hot Thai Kitchen: [Homemade Thai Red Curry Paste - The Complete Guide](https://hot-thai-kitchen.com/red-curry-paste/). How to load the jug and use the stick blender.
-- Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, slicing the fresh ingredients finely, and storage times.
+- Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, slicing the fresh ingredients finely, the amount of coriander roots and the coriander stalks swap, and storage times.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, checking the chillies' heat, and the warnings about gritty galangal and turmeric stains.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.
