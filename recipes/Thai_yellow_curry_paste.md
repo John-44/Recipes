@@ -84,7 +84,6 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 ## Sources
 
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, and the freezing tip.
-- Hot Thai Kitchen: [Homemade Thai Red Curry Paste - The Complete Guide](https://hot-thai-kitchen.com/red-curry-paste/). How to load the jug and use the stick blender.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, slicing the fresh ingredients finely, the amount of coriander roots and the coriander stalks swap, and storage times.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, checking the chillies' heat, and the warnings about gritty galangal and turmeric stains.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.
