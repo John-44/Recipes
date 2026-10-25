@@ -98,7 +98,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | ground turmeric | ground turmeric | turmeric powder | Keep "ground" whenever you mean this ingredient. Fresh, it's fresh turmeric. |
 | Spices | white peppercorns | white peppercorns | whole white pepper | Ground, it's ground white pepper. |
 | Spices | ground white pepper | ground white pepper | white pepper powder, white pepper (on its own) | Whole, they're white peppercorns. |
-| Spices | mild curry powder | curry powder | curry spice mix | Ready-made curry powder, labelled mild. |
+| Spices | mild Thai curry powder | curry powder | curry spice mix | A ready-made dry spice blend, not a curry paste. Choose a mild one. |
 | Curry pastes | Thai Yellow Curry Paste | curry paste | | The recipe in this repository. Link it in the ingredient list, as `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`. |
 | Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A jar of Thai yellow curry paste, used instead of the Thai Yellow Curry Paste recipe. Paste made from the recipe is "homemade", not "home-made". |
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
@@ -138,11 +138,11 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Cutting | chopping board | cutting board | |
 | Cutting | knife | | |
 | Cutting | scissors | kitchen shears | |
+| Bowls and jugs | bowl | | As in "a small bowl". Use a heatproof bowl for anything hot. |
 | Bowls and jugs | heatproof bowl | heat-proof bowl, heat-resistant bowl | |
 | Bowls and jugs | jug | pitcher, beaker | For a stick blender, ask for "a tall, narrow jug". |
-| Blending and grinding | spice grinder | spice mill | A small electric grinder for whole spices. |
+| Blending and grinding | high-speed blender | high speed blender, high-powered blender, power blender | A powerful blender, such as a Blendtec, that grinds whole spices as well as blending pastes. Not a stick blender. |
 | Blending and grinding | stick blender | hand blender, immersion blender | |
-| Blending and grinding | mortar and pestle | pestle and mortar | Say the size: "a large granite mortar and pestle" for pastes, "a small mortar and pestle" for spices. |
 | Hob and pans | hob | stove, stovetop, cooktop | |
 | Hob and pans | frying pan | skillet, fry pan | "A dry frying pan" has no oil in it, for toasting spices. |
 | Hob and pans | wok | wok pan | |
@@ -204,7 +204,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
-| Trimming | stalks and seeds removed | stemmed and deseeded, deseeded, seeded | For dried chillies. |
+| Trimming | stalks removed | stemmed, destemmed | For dried chillies. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
 | Peeling | peeled | | |
 | Peeling | peeled and deveined | shelled and deveined, de-veined, cleaned | For prawns. |
@@ -243,13 +243,15 @@ Words for the directions and storage sections. Write heat levels as "over {level
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
+| Before cooking | split | slit, cut open | Cut open lengthways, as in "Split the chillies open lengthways with scissors". For coconut milk, use crack and separate out instead. |
+| Before cooking | scrape out the seeds | deseed, remove the seeds | For dried chillies, once they're split open. |
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
-| Blending and grinding | blend | blitz, process | With a stick blender. |
-| Blending and grinding | grind | blitz, pulverise | With a spice grinder, as in "grind to a fine powder". |
-| Blending and grinding | scrape down the sides | | While blending, as in "scraping down the sides now and then". |
-| Blending and grinding | pound | bash | With a mortar and pestle, as in "pounding each to a paste". |
+| Blending and grinding | blend | blitz, process | Wet ingredients, to a paste, with a high-speed blender or stick blender. |
+| Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder in the high-speed blender". |
+| Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |
+| Blending and grinding | scrape down the sides | | While blending, as in "then stop and scrape down the sides". |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
 | Heat levels | medium-low heat | medium low heat, low-medium heat | |
 | Heat levels | medium heat | moderate heat | |
@@ -320,6 +322,7 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 | Soak the chillies | | |
 | Toast and grind the spices | | |
 | Blend the paste | Blitz the paste, Process the paste | |
+| Blend in the spices | Add the spices, Add the ground spices | Adding ground spices to a paste you've just blended, and blending again. |
 | Crack the coconut milk | Break the coconut milk, Split the coconut milk | |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Simmer the potatoes | | |
@@ -331,13 +334,14 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 
 ### References
 
-Phrases that send the cook to another step, or to instructions outside the recipe.
+Phrases that send the cook to another step or note, or to instructions outside the recipe.
 
 **Order:** inside the recipe first, then outside it.
 
 | Term | Don't use | Notes |
 | --- | --- | --- |
 | Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 3" or "carry on from Step 4". For more than one step, write "Steps 3 and 6". |
+| (see **{topic}**) | (see above), (see below), (see the note above) | Sends the cook to another note in **Notes and substitutions**, using its bold topic, as in "(see **Ground spices**)". |
 
 ### Hint topics
 
@@ -369,7 +373,7 @@ The bold topic at the start of each note in **Notes and substitutions**. A note 
 | Variations | Chicken instead | Chicken version, Using chicken | How to use chicken in place of the main ingredient. Use the same pattern for other swaps: "{Ingredient} instead". |
 | Variations | More heat | Spicier, Hotter, Spice level | How to make the dish hotter. |
 | Variations | Vegetarian | Veggie, Vegetarian version, Meat-free | How to make the recipe vegetarian. |
-| Equipment | Mortar and pestle | By hand, Pestle and mortar | How to make the recipe with a mortar and pestle instead. |
+| Equipment | Stick blender | Hand blender, Immersion blender | How to make the recipe with a stick blender instead. |
 | Origins | Origin | History, Background | More about the **Origin** section, such as why the region is Unknown. |
 
 ### Storage entries
@@ -398,7 +402,7 @@ Where to buy ingredients, as named in **Notes and substitutions**.
 
 ## Brands
 
-Brands named in **Notes and substitutions**. Write each one as it is here, even where the pack uses different capitals.
+Brands named in **Equipment** and **Notes and substitutions**. Write each one as it is here, even where the pack uses different capitals.
 
 **Order:** A to Z.
 
@@ -406,6 +410,7 @@ Brands named in **Notes and substitutions**. Write each one as it is here, even 
 | --- | --- | --- |
 | Aroy-D | Aroy D, AroyD | A Thai brand. Its coconut milk contains an emulsifier. |
 | Biona Organic | Biona (on its own) | A UK brand of organic food. Its coconut milk has no emulsifiers or stabilisers. |
+| Blendtec | BlendTec, Blend-Tec | A US brand of high-speed blenders. Write its wide, five-sided jar as "WildSide jar", which covers the newer WildSide+ Jar too. |
 | Chaokoh | Chao Koh, ChaoKoh | A Thai brand. Its coconut milk contains an emulsifier. |
 
 ## Food labels
