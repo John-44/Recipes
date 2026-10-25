@@ -108,7 +108,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |
 | Seasonings | palm sugar | palm sugar | | Usually sold in hard cakes, so it's grated. The usual swap is soft light brown sugar. |
 | Seasonings | soft light brown sugar | soft light brown sugar | soft brown sugar, light brown sugar, light soft brown sugar | The usual swap for palm sugar. |
-| Oils and fats | vegetable oil | oil | cooking oil, neutral oil | Any neutral-tasting oil, such as sunflower or rapeseed oil. Keep "vegetable oil" when the recipe also talks about the oil that separates out of coconut milk. |
+| Oils and fats | coconut oil | oil | coconut fat | Solid when cool, and melts as soon as it's heated. Not creamed coconut, which is made from the whole flesh. Keep "coconut oil" when the recipe also talks about the oil that separates out of coconut milk. |
 | Liquids | coconut milk | coconut milk | | The canned kind, not the coconut drinks sold in cartons. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
 | Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
@@ -349,8 +349,6 @@ The bold topic at the start of each hint in **Technique hints**, before the step
 | Handling fresh turmeric | Working with fresh turmeric | |
 | Checking the chillies | Testing the chillies | Tasting soaked dried chillies to see how hot they are. |
 | Blending the paste | Blitzing the paste, Processing the paste | |
-| Cracking the coconut milk | Breaking the coconut milk, Splitting the coconut milk | |
-| Frying the paste | Cooking the paste, Cooking out the paste | |
 | Adding the tamarind paste | Adding the tamarind | "Tamarind paste" has no shorter name, so keep the full term. |
 | Cooking the prawns | | |
 | Toasting the crispy fried shallots | Toasting the shallots, Crisping the shallots | Keep the full term, because "the shallots" would mean ordinary shallots. |
