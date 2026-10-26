@@ -255,7 +255,7 @@ Write each ingredient on its own line, in the order you use it:
 
 - If the [glossary](Terminology_glossary.md#ingredients) lists the ingredient, use its term exactly. If it doesn't, name the ingredient as you'd find it in a UK shop, such as "raw king prawns", "unsalted butter" or "plain flour", and add it to the glossary.
 - Put the preparation after a comma: "finely chopped", "peeled and finely chopped".
-- The amount is measured before the preparation after the comma: `15 g galangal, peeled and finely chopped` means weigh it, then peel and chop it. If you mean the weight after preparing, put the state before the name: `400 g peeled raw king prawns`.
+- The amount is measured before the preparation after the comma: `12 g galangal, peeled and finely chopped` means weigh it, then peel and chop it. If you mean the weight after preparing, put the state before the name: `400 g peeled raw king prawns`.
 - Use brackets for short notes only, such as `(optional)` or a quick swap. Put longer advice in **Notes and substitutions**, or in a [tip](#tips) if it's about technique.
 - Use `(optional)` for something the cook can leave out. For a fallback they only need if something goes wrong, use `(only if needed, see Step {number})` instead, so they still have it to hand.
 - If you add an ingredient in more than one step, such as half in Step 3 and the rest in Step 6, say which steps: `2 tsp tamarind paste (used in Steps 3 and 6)`. Otherwise a cook who has measured everything out may add it all at once.
