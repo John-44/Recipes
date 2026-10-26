@@ -47,8 +47,6 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 > **Tip:** Tamarind paste varies a lot in sourness from brand to brand, which is why half of it waits until Step 6. It also loses much of its sourness as it simmers, so don't judge the sauce until then.
 
-> **Tip:** Toasting the crispy fried shallots freshens them up and makes them crisper.
-
 **Step 4: Add the coconut cream.** Stir in the coconut cream and bring to a gentle simmer over medium heat, 2–3 minutes.
 
 **Step 5: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
@@ -58,6 +56,8 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 **Step 6: Taste and adjust.** Taste the sauce: it should be rich, savoury and slightly sweet, with a hint of sourness. It should be about as thick as single cream. Add more fish sauce if it needs salt, more palm sugar if it needs sweetness, or a splash of water if it's too thick. If it isn't sour enough, stir in the rest of the tamarind paste a little at a time.
 
 **Step 7: Serve the curry.** Spoon the curry over the rice. Scatter with the Thai basil or coriander leaves, crispy fried shallots and chilli.
+
+> **Tip:** Toasting the crispy fried shallots freshens them up and makes them crisper.
 
 ## Notes and substitutions
 
@@ -79,9 +79,8 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 ## Origin
 
 - **Country:** Thailand
-- **Region:** Unknown
 
-Yellow curry is closely linked to Thailand's Muslim community, and its curry powder shows an Indian influence. Sources don't agree on which region it comes from.
+Yellow curry is closely linked to Thailand's Muslim community, and its curry powder shows an Indian influence.
 
 ## Tags
 

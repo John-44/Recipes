@@ -441,12 +441,11 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 
 ### Regions
 
-**Order:** grouped by country, with the countries A to Z, then A to Z within each country. Unknown goes last.
+**Order:** grouped by country, with the countries A to Z, then A to Z within each country.
 
 | Country | Region | Don't use | Notes |
 | --- | --- | --- | --- |
 | Thailand | Southern Thailand | southern Thailand, South Thailand, the south of Thailand | A capital S, because it's the name of a region. |
-| | Unknown | Unclear, Not known, N/A | For when you can't find a reliable answer. The [origin rules](Recipe_template.md#origin) say when to write `(disputed)` instead. |
 
 ## Tags
 

@@ -9,7 +9,6 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 ## Before you start
 
 - Fresh turmeric stains, so wear gloves to prepare it, and don't chop it on a plastic chopping board or let it touch a stone worktop.
-- Slice the lemongrass stalks and chop the galangal as finely as you can. They're the toughest ingredients in the paste, and big pieces won't break down, leaving it gritty.
 
 ## Equipment
 
@@ -36,9 +35,7 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 ## Directions
 
-**Step 1: Soak the chillies.** Split the chillies open lengthways with scissors, scrape out the seeds, then snip the chillies into 2 cm pieces and put them in a heatproof bowl. Cover with boiling water and soak until soft, 15–20 minutes. Drain, keeping 3 tbsp of the soaking water. Taste a small piece: if the chillies are hot, use only a third to a half of them in Step 3.
-
-> **Tip:** Dried chillies sold as mild aren't always mild.
+**Step 1: Soak the chillies.** Split the chillies open lengthways with scissors, scrape out the seeds, then snip the chillies into 2 cm pieces and put them in a heatproof bowl. Cover with boiling water and soak until soft, 15–20 minutes. Drain, keeping 3 tbsp of the soaking water.
 
 **Step 2: Toast and grind the spices.** While the chillies soak, toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over medium-low heat, shaking the pan, until fragrant, 2–3 minutes. Leave to cool for 2 minutes, add the curry powder, then grind to a fine powder in the high-speed blender. Tip the ground spices into a small bowl, ready for Step 4.
 
@@ -71,7 +68,6 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 ## Origin
 
 - **Country:** Thailand
-- **Region:** Unknown
 
 ## Tags
 
@@ -87,5 +83,5 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, and the freezing tip.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, slicing the fresh ingredients finely, the weight of the lemongrass, the amount of coriander roots and the coriander stalks swap, and storage times.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, checking the chillies' heat, and the warnings about gritty galangal and turmeric stains.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, and the warning about turmeric stains.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.

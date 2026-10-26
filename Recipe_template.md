@@ -101,7 +101,7 @@ Keep the sections in this order.
 - **Country:** {Country}
 - **Region:** {Region}
 
-{Why the region is disputed or unknown, if there's something useful to say.}
+{1–2 sentences about where the dish comes from, if there's something useful to say.}
 
 ## Tags
 
@@ -224,8 +224,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
   - Anything that needs doing hours or a day ahead, such as thawing, soaking or marinating overnight.
   - Buying advice the recipe depends on. Send the cook to the note with the details, as in "(see **Coconut milk**)".
   - Safety advice and protective kit, such as gloves for fresh turmeric.
-  - Preparation that matters more than usual, such as chopping something very finely so a paste isn't gritty.
-  - For fast dishes such as stir-fries, measuring everything out before Step 1.
+  - Anything else important that must be known before starting to make the recipe.
 - Write one bullet per point, as an instruction, in 1–2 sentences.
 - Leave out anything the ingredient list or Step 1 already makes clear. If that leaves nothing, delete the section.
 
@@ -302,7 +301,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - Give a pan's size when it changes the result, such as how fast a sauce reduces or whether food fits in one layer: "a wok or a saucepan at least 24 cm across".
 - Put every action in the step where the cook does it, including:
   - Optional actions, saying what they depend on: "If you're using the crispy fried shallots, toast them…"
-  - Conditional actions: "Taste a small piece: if the chillies are hot, use only a third to a half of them in Step 3."
+  - Conditional actions: "If the oil hasn't separated out after 12 minutes, stir in the coconut oil."
   - Anything the cook does while something else cooks: "While it simmers, cook the jasmine rice."
 - A short warning stays in its step: "Don't add extra water to help it along." Put why something matters, or what can go wrong, in a [tip](#tips) under the step.
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
@@ -324,11 +323,11 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 
 - A tip says why something matters, what can go wrong and how to spot it early, or what mistake people often make.
 - A tip never asks the cook to do anything the step doesn't. If the advice is an action, or changes the method, put it in the step instead. Never contradict the step.
-- Don't repeat the step. Keep each tip to 1–2 sentences.
+- Don't repeat the step. Keep each tip to 1–3 sentences.
 - Leave out anything most home cooks already know, such as "taste as you go" or "don't let the garlic burn". Most steps won't need a tip, and a simple recipe may have none.
 - If a step needs two tips, give each one its own quote, with a blank line between them. If the step has a photo, the photo goes first.
 - Advice the cook needs before Step 1, such as wearing gloves for fresh turmeric, goes in **Before you start** instead.
-- Take tips from people who know the dish well, such as cooks from where it comes from and professional chefs, or from your own experience of making it many times. List any website, video or book a tip came from in **Sources**.
+- Take tips from people who know the dish well, such as cooks from where it comes from, advice on Reddit and professional chefs, or from your own experience of making it many times. List any website, video or book a tip came from in **Sources**.
 
 ### Notes and substitutions
 
@@ -377,8 +376,8 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 - **Region:** the region, state, province or city it comes from, e.g. `Southern Thailand`, `Sichuan` or `Naples`.
 - If the dish comes from the whole country rather than one region, write `Nationwide`.
 - If experts disagree, give the most widely accepted answer, add `(disputed)`, and explain why in 1–2 sentences under the list.
-- Don't guess. If you can't find a reliable answer, write `Unknown`. If there's something useful to say about why, such as how sources disagree, say it under the list in the same way.
-- Keep the explanation about where the dish comes from. Anything about cooking it belongs in **Notes and substitutions**.
+- Don't guess. If you can't find a reliable answer regarding the **Country**, write `Unknown`. If you can't find a reliable answer regarding the **Region**, don't write anything: leave the **Region** line out.
+- You can add 1–2 sentences under the list about where the dish comes from, such as the community or cuisines behind it. Anything about cooking it belongs in **Notes and substitutions**.
 
 ### Tags
 
@@ -432,7 +431,7 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 - [ ] Every link points to a recipe that exists, and the link text matches its title.
 - [ ] The **Freezer** entry follows the [vacuum packing rules](#vacuum-packing), and the **Fridge** entry gives no vacuum-packed time.
 - [ ] Each linked component recipe lists this recipe under **Used in**.
-- [ ] **Origin** has a country and a region.
+- [ ] **Origin** has a country, and a region if you found a reliable answer.
 - [ ] Tags come from the [tag list](Terminology_glossary.md#tags), or you've added new ones to it, and each group is on its own line, in the tag list's order.
 - [ ] The **Allergens** line lists every one of the 14 allergens the recipe contains, including in linked recipes.
 - [ ] You're credited in **Credits** on every recipe you've added or changed.
