@@ -20,9 +20,9 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 - 1 tsp coarse sea salt
 - ½ tsp MSG
 - 2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)
-- 12 g galangal, peeled and finely chopped (about 2 tbsp)
-- 12 g ginger, peeled and finely chopped (about 2 tbsp)
-- 12 g fresh turmeric, peeled and finely chopped (about 2 tbsp)
+- 12 g galangal, peeled and finely chopped (about a 3 cm piece)
+- 12 g ginger, peeled and finely chopped (about a 3 cm piece)
+- 12 g fresh turmeric, peeled and finely chopped (about a 3 cm piece)
 - 10 g coriander roots, scrubbed and finely chopped (about 3)
 - 8 garlic cloves, roughly chopped
 - 75 g shallots, roughly chopped (about 3)

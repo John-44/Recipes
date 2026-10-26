@@ -311,8 +311,8 @@ The short notes in brackets at the end of an ingredient line.
 
 | Label | Don't use | Notes |
 | --- | --- | --- |
+| (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "12 g ginger, peeled and finely chopped (about a 3 cm piece)". |
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g shallots, roughly chopped (about 3)". |
-| (about {spoon measure}) | | A rough spoon measure after a weight, as in "12 g ginger, peeled and finely chopped (about 2 tbsp)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
 | ({fraction} of a palm sugar block) | ({fraction} of a block of palm sugar), ({fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
