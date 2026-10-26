@@ -85,6 +85,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | coriander leaves | coriander leaves | cilantro, fresh coriander, Chinese parsley | The fresh herb. Always add "leaves", so it can't be mistaken for coriander seeds or ground coriander. |
 | Herbs | coriander roots | coriander roots | cilantro roots | The roots of the coriander plant. Always add "roots", so they can't be mistaken for coriander leaves or coriander stalks. |
 | Herbs | coriander stalks | coriander stalks | coriander stems, cilantro stems | The stalks of the coriander plant. Keep "coriander", so they can't be mistaken for lemongrass stalks. |
+| Herbs | kaffir lime leaves | lime leaves | makrut lime leaves, kafir lime leaves, bai makrut | Sold fresh, frozen or dried. Say "dried" when you mean dried ones. Some packs are labelled "makrut lime leaves": use that name only to describe a label, in quotes. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
 | Herbs | Thai basil leaves | Thai basil | Thai sweet basil, horapha, Asian basil | Not holy basil or Italian basil, which are different herbs. When coriander works too, write "Thai basil or coriander leaves". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
@@ -189,7 +190,7 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 
 How ingredients are prepared, mostly written after the comma in an ingredient line. Join two with "and", as in "peeled and finely chopped".
 
-**Families**, from cleaning and removing parts, through cutting, to measuring and seasoning:
+**Families**, from cleaning and removing parts, through cutting and bruising, to measuring and seasoning:
 
 | Family | What goes in it | Order within the family |
 | --- | --- | --- |
@@ -200,6 +201,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Slicing | Cutting into slices | Thinnest to thickest |
 | Cutting | Cutting into pieces of a set shape, such as wedges or chunks | Thinnest to chunkiest |
 | Grating | Grating and zesting | Finest to coarsest |
+| Bruising | Crumpling or crushing ingredients to release their flavour, without cutting them | Lightest to heaviest |
 | Measuring | How to fill a cup or spoon | Loosest to firmest |
 | Seasoning | Seasoning to taste | A to Z |
 
@@ -220,6 +222,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Cutting | cut into bite-size pieces | cut into bite-sized pieces | |
 | Grating | zest | rind, grated peel | Finely grated citrus peel, as in "the zest of 1 lime". |
 | Grating | grated | | |
+| Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
 | Measuring | loosely packed | lightly packed | For herbs and leaves measured in cups. |
 | Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". |
 
