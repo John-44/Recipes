@@ -13,7 +13,7 @@ Read it before you write or edit a recipe, use its terms exactly, and add any ne
 - **Don't use** lists other names for the same thing. Never use them for that thing, even where they're correct English.
 - **Notes** explain anything that's easy to confuse with the term, and how to use it.
 - `{Curly brackets}` mark a part you fill in, as in the recipe template.
-- Units and amounts (g, ml, tbsp, cans and so on) follow the template's [measurement rules](Recipe_template.md#measurements). Section headings, summary box labels (such as **Makes**), storage labels (such as **Fridge**) and credit labels (such as **Original author**) are set by [the template](Recipe_template.md#the-template) itself. None of these are repeated here.
+- Units and amounts (g, ml, tbsp, cans and so on) follow the template's [measurement rules](Recipe_template.md#measurements). Section headings, summary box labels (such as **Makes**), the **Tip:** label, storage labels (such as **Fridge**) and credit labels (such as **Original author**) are set by [the template](Recipe_template.md#the-template) itself. None of these are repeated here.
 
 ## How the tables are ordered
 
@@ -45,7 +45,7 @@ Every table is ordered so that similar terms sit together and are easy to compar
 
 ## Ingredients
 
-Everything the recipes cook with, including swaps that appear only in **Notes and substitutions**. **Short name** is what to call the ingredient after the ingredient list: in the directions, notes and storage sections.
+Everything the recipes cook with, including swaps that appear only in **Notes and substitutions**. **Short name** is what to call the ingredient after the ingredient list: in the directions, tips, notes and storage sections. **Before you start** and **Equipment** come before the list, so they use the full term.
 
 **Families**, from fresh food to the store cupboard, with garnishes last:
 
@@ -74,7 +74,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Family | Term | Short name | Don't use | Notes |
 | --- | --- | --- | --- | --- |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
-| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. |
+| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
 | Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
 | Aromatics | shallots | shallots | eschalots, French shallots | The ordinary shallots sold in UK supermarkets. Not crispy fried shallots. |
@@ -188,7 +188,7 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 
 ## Preparation terms
 
-How ingredients are prepared, mostly written after the comma in an ingredient line. Join two with "and", as in "peeled and finely chopped".
+How ingredients are prepared, mostly written after the comma in an ingredient line. Join two with "and", as in "peeled and finely chopped". When the amount is the weight after preparing, write the term before the ingredient instead, as in "400 g peeled raw king prawns".
 
 **Families**, from cleaning and removing parts, through cutting and bruising, to measuring and seasoning:
 
@@ -202,7 +202,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Cutting | Cutting into pieces of a set shape, such as wedges or chunks | Thinnest to chunkiest |
 | Grating | Grating and zesting | Finest to coarsest |
 | Bruising | Crumpling or crushing ingredients to release their flavour, without cutting them | Lightest to heaviest |
-| Measuring | How to fill a cup or spoon | Loosest to firmest |
+| Measuring | How to fill a measuring spoon | Loosest to firmest |
 | Seasoning | Seasoning to taste | A to Z |
 
 **Terms:**
@@ -210,10 +210,10 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
+| Trimming | deveined | de-veined | The dark vein along the back removed. For prawns bought peeled, as in "400 g peeled raw king prawns, deveined". |
 | Trimming | stalks removed | stemmed, destemmed | For dried chillies. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
-| Peeling | peeled | | |
-| Peeling | peeled and deveined | shelled and deveined, de-veined, cleaned | For prawns. |
+| Peeling | peeled | shelled | For prawns too, as in "400 g peeled raw king prawns". |
 | Chopping | finely chopped | minced | Chopped into very small pieces. In the UK, "minced" means put through a mincer. |
 | Chopping | roughly chopped | coarsely chopped | |
 | Slicing | finely sliced | thinly sliced | In notes, "sliced" on its own is fine, as in "sliced bird's eye chillies". |
@@ -223,12 +223,11 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Grating | zest | rind, grated peel | Finely grated citrus peel, as in "the zest of 1 lime". |
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
-| Measuring | loosely packed | lightly packed | For herbs and leaves measured in cups. |
-| Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". |
+| Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". It ends the line, after any note in brackets. |
 
 ## Cooking terms
 
-Words for the directions and storage sections. Write heat levels as "over {level} heat", as in "fry over medium heat". The [directions rules](Recipe_template.md#directions) list the five levels a recipe can use.
+Words for the directions, tips, **Before you start** and storage sections. Write heat levels as "over {level} heat", as in "fry over medium heat". The [directions rules](Recipe_template.md#directions) list the five levels a recipe can use.
 
 **Families**, in the order they come up while cooking:
 
@@ -271,16 +270,14 @@ Words for the directions and storage sections. Write heat levels as "over {level
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Doneness | until fragrant | until aromatic | Also "until thick and fragrant", for frying paste. |
-| Doneness | curl into a loose C | curl into a C shape, C-shaped | How prawns look when they're just cooked. If they curl into a tight O, they're overcooked. |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out". |
-| Doneness | until they turn pink and are just cooked through | until opaque | The test for cooked prawns. |
+| Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
 | Doneness | until soft | until softened | |
 | Doneness | until very smooth | until puréed | For a blended paste. To check, rub a little between your fingers: it shouldn't feel gritty. |
 | Texture problems | grainy | mealy | What potatoes go when frozen. |
 | Texture problems | rubbery | chewy | What prawns go when overcooked or frozen. |
 | Cooling | leave to cool | let cool, allow to cool | |
-| Finishing | splash of water | dash of water, a little water | As in "a splash of water if it's too thick". |
 | Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the Thai basil or coriander leaves". |
 | Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when to give a vacuum-packed time. |
 | Storing and reheating | refrigerate | chill | |
@@ -305,19 +302,22 @@ The `###` subheadings in **Ingredients**.
 
 ### Ingredient-line labels
 
-The short notes in brackets at the end of an ingredient line.
+The short notes in brackets near the end of an ingredient line, after any preparation. Only "plus extra to taste" comes after them, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block), plus extra to taste".
 
 **Order:** amounts, then swaps, then other notes; A to Z within each.
 
 | Label | Don't use | Notes |
 | --- | --- | --- |
+| (about a handful) | (a large handful), (a good handful), (a small bunch) | A rough guide for herbs and leaves, which are weighed, as in "10 g Thai basil or coriander leaves (about a handful)". For more, write "(about 2 handfuls)". |
 | (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "12 g ginger, peeled and finely chopped (about a 3 cm piece)". |
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g shallots, roughly chopped (about 3)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
 | ({fraction} of a palm sugar block) | ({fraction} of a block of palm sugar), ({fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
-| (optional) | (if you like), (if using) | |
+| (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 1)". |
+| (optional) | (if you like), (if using) | For something the cook can leave out. |
 | (thawed if frozen) | (defrosted if frozen) | |
+| (used in Steps {number} and {number}) | (divided), (split), (half now, half later) | For an ingredient added in more than one step, as in "2 tsp tamarind paste (used in Steps 3 and 6)". |
 
 ### Step titles
 
@@ -349,29 +349,13 @@ Phrases that send the cook to another step or note, or to instructions outside t
 | Term | Don't use | Notes |
 | --- | --- | --- |
 | Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 3" or "carry on from Step 4". For more than one step, write "Steps 3 and 6". |
-| (see **{topic}**) | (see above), (see below), (see the note above) | Sends the cook to another note in **Notes and substitutions**, using its bold topic, as in "(see **Ground spices**)". |
-
-### Hint topics
-
-The bold topic at the start of each hint in **Technique hints**, before the step in brackets. Name it after what the cook is doing, and reuse one when a hint covers the same job. The [Technique hints rules](Recipe_template.md#technique-hints) say how to write the rest of the hint.
-
-**Order:** the order they'd usually happen in a recipe: getting ready, cooking, then finishing.
-
-| Topic | Don't use | Notes |
-| --- | --- | --- |
-| Preparing the lemongrass and galangal | Prepping the lemongrass and galangal | Use the same pattern for other ingredients: "Preparing the {ingredient}". |
-| Handling fresh turmeric | Working with fresh turmeric | |
-| Checking the chillies | Testing the chillies | Tasting soaked dried chillies to see how hot they are. |
-| Blending the paste | Blitzing the paste, Processing the paste | |
-| Adding the tamarind paste | Adding the tamarind | "Tamarind paste" has no shorter name, so keep the full term. |
-| Cooking the prawns | | |
-| Toasting the crispy fried shallots | Toasting the shallots, Crisping the shallots | Keep the full term, because "the shallots" would mean ordinary shallots. |
+| (see **{topic}**) | (see above), (see below), (see the note above) | Sends the cook to a note in **Notes and substitutions**, using its bold topic, as in "(see **Ground spices**)". Use it in other notes and in **Before you start**. |
 
 ### Note topics
 
 The bold topic at the start of each note in **Notes and substitutions**. A note about one ingredient uses that ingredient's name as its topic, as in **Dried chillies**, **Fresh turmeric**, **Galangal**, **Prawns** and **Tamarind paste**.
 
-**Order:** by family: Ingredients, Variations, Equipment, then Origins; A to Z within each.
+**Order:** by family: Ingredients, Variations, then Equipment; A to Z within each.
 
 | Family | Topic | Don't use | Notes |
 | --- | --- | --- | --- |
@@ -382,7 +366,6 @@ The bold topic at the start of each note in **Notes and substitutions**. A note 
 | Variations | More heat | Spicier, Hotter, Spice level | How to make the dish hotter. |
 | Variations | Vegetarian | Veggie, Vegetarian version, Meat-free | How to make the recipe vegetarian. |
 | Equipment | Stick blender | Hand blender, Immersion blender | How to make the recipe with a stick blender instead. |
-| Origins | Origin | History, Background | More about the **Origin** section, such as why the region is Unknown. |
 
 ### Storage entries
 
@@ -393,7 +376,7 @@ Fixed wording for the **Fridge** and **Freezer** entries in **Storage and make-a
 | Term | Don't use | Notes |
 | --- | --- | --- |
 | Up to {time} | Keeps for {time}, Will keep for {time} | How long something keeps, as in "Up to 2 days" or "Up to 3 months". |
-| or up to {time} if vacuum packed | or {time} vacuum sealed, ({time} vacuum packed) | How long it keeps vacuum packed, at the end of the entry's first sentence: "Up to 3 months in a freezer bag, or up to 1 year if vacuum packed." The [vacuum packing rules](Recipe_template.md#vacuum-packing) say where the times come from. |
+| or up to {time} if vacuum packed | or {time} vacuum sealed, ({time} vacuum packed) | How long it keeps vacuum packed, at the end of the first sentence of a **Freezer** entry: "Up to 3 months in a freezer bag, or up to 1 year if vacuum packed." Never use it in a **Fridge** entry. The [vacuum packing rules](Recipe_template.md#vacuum-packing) say why, and where the times come from. |
 | Not recommended | Don't freeze, Not suitable for freezing | The **Freezer** entry for food that doesn't freeze well, followed by the reason: "Not recommended. The potatoes go grainy and the prawns turn rubbery." |
 
 ## Shops
@@ -456,16 +439,15 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 
 ### Regions
 
-**Order:** grouped by country, with the countries A to Z, then A to Z within each country. Unknown goes last.
+**Order:** grouped by country, with the countries A to Z, then A to Z within each country.
 
 | Country | Region | Don't use | Notes |
 | --- | --- | --- | --- |
 | Thailand | Southern Thailand | southern Thailand, South Thailand, the south of Thailand | A capital S, because it's the name of a region. |
-| | Unknown | Unclear, Not known, N/A | For when you can't find a reliable answer. The [origin rules](Recipe_template.md#origin) say when to write `(disputed)` instead. |
 
 ## Tags
 
-The full list of tags a recipe can choose from, including some that no recipe uses yet. The [tag rules](Recipe_template.md#tags) in the recipe template say how to choose them and how to set them out in a recipe. If no tag fits, add a new one here, following those rules, at the place the order below gives it.
+The full list of tags a recipe can choose from, including some that no recipe uses yet. The [tag rules](Recipe_template.md#tags) in the recipe template say how to choose them and how to set them out in a recipe. If no tag fits, add a new one here, following those rules, at the place the order below gives it. The **Allergens** group is the exception: it's a fixed list, so never add to it.
 
 **Order:** the groups stay in this order. Within each group:
 
@@ -473,6 +455,7 @@ The full list of tags a recipe can choose from, including some that no recipe us
 - **Type:** A to Z.
 - **Main ingredient:** meat from red to white, then Fish, Seafood, other proteins (A to Z), Vegetables, grains, then pasta and noodles (A to Z), as in the [ingredient families](#ingredients).
 - **Diet:** free-from tags first (A to Z), then Vegetarian and Vegan, from least strict to most.
+- **Allergens:** A to Z.
 
 | Group | Tags |
 | --- | --- |
@@ -480,8 +463,11 @@ The full list of tags a recipe can choose from, including some that no recipe us
 | Type | Breads, Cakes, Curries, Dressings, Marinades, Pastes, Pickles, Salads, Sauces, Soups, Spice mixes, Stews, Stir-fries, Stocks |
 | Main ingredient | Beef, Lamb, Pork, Chicken, Fish, Seafood, Eggs, Pulses, Tofu, Vegetables, Rice, Noodles, Pasta |
 | Diet | Dairy-free, Gluten-free, Vegetarian, Vegan |
+| Allergens | Celery, Cereals containing gluten, Crustaceans, Eggs, Fish, Lupin, Milk, Molluscs, Mustard, Peanuts, Sesame, Soya, Sulphites, Tree nuts |
 
 Prawns and other shellfish are **Seafood**, not **Fish**.
+
+The **Allergens** tags are the UK's 14 main allergens, as the [Food Standards Agency](https://www.gov.uk/government/publications/food-allergy-and-intolerance-advice-for-consumers/food-allergy-and-intolerance-advice-for-consumers) lists them. **Cereals containing gluten** means wheat, rye, barley and oats. **Soya** is the FSA's "soybeans", and **Sulphites** covers sulphur dioxide too. Prawns are **Crustaceans**, and mussels and oysters are **Molluscs**. Coconut isn't on the list.
 
 ## Sources
 
@@ -498,4 +484,3 @@ The website names at the start of each line in **Sources**, before the colon.
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |
 | Serious Eats | seriouseats.com | SeriousEats |
 | TODAY | today.com | Today, TODAY.com |
-| Turbovac | turbovac.nl | TurboVac, TURBOVAC |

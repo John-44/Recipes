@@ -6,9 +6,14 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 | --- | --- | --- | --- |
 | 30 min | 5 min | 35 min | About 250 g (enough for 2 curries for 4) |
 
+## Before you start
+
+- Fresh turmeric stains, so wear gloves to prepare it, and don't chop it on a plastic chopping board or let it touch a stone worktop.
+
 ## Equipment
 
 - High-speed blender, such as a Blendtec with a WildSide jar (or a stick blender and a tall, narrow jug)
+- Gloves, for the fresh turmeric
 
 ## Ingredients
 
@@ -34,27 +39,22 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 **Step 2: Toast and grind the spices.** While the chillies soak, toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over medium-low heat, shaking the pan, until fragrant, 2–3 minutes. Leave to cool for 2 minutes, add the curry powder, then grind to a fine powder in the high-speed blender. Tip the ground spices into a small bowl, ready for Step 4.
 
-**Step 3: Blend the paste.** Put the chillies, the 3 tbsp of soaking water, salt, MSG, lemongrass, galangal, ginger, fresh turmeric, coriander roots, garlic, shallots and shrimp paste in the high-speed blender. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times.
+**Step 3: Blend the paste.** Put the chillies, the 3 tbsp of soaking water, salt, MSG, lemongrass, galangal, ginger, fresh turmeric, coriander roots, garlic, shallots and shrimp paste in the high-speed blender. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. Don't add extra water to help it along.
+
+> **Tip:** Thai curry recipes expect a thick paste.
 
 **Step 4: Blend in the spices.** Add the ground spices to the high-speed blender and blend them in the same way as in Step 3, until very smooth. Rub a little between your fingers: it shouldn't feel gritty.
 
 **Step 5: Use or store.** Use half the paste (about 125 g) for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
 
-## Technique hints
-
-- **Preparing the lemongrass and galangal (Ingredients):** These are the toughest ingredients in the paste, and big pieces won't break down, leaving it gritty. Slice the lemongrass and chop the galangal as finely as you can.
-- **Handling fresh turmeric (Ingredients):** It stains, so wear gloves, and don't chop it on a plastic chopping board or let it touch a stone worktop.
-- **Checking the chillies (Step 1):** Dried chillies sold as mild aren't always mild. Once they've soaked, taste a small piece. If it's hot, use only a third to a half of the chillies in Step 3.
-- **Blending the paste (Steps 3 and 4):** Don't add extra water to help the high-speed blender along: Thai curry recipes expect a thick paste.
-
 ## Notes and substitutions
 
 - **Dried chillies:** Kashmiri chillies, sold in Indian grocers and online, add colour without much heat. Mexican guajillo chillies work too.
-- **More heat:** Swap 2 or 3 of the mild chillies for small, hot dried chillies, such as bird's eye.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets. If you can't find it, use the same amount of extra ginger plus the zest of 1 lime.
 - **Fresh turmeric:** If you can't find it, use 1½ tsp ground turmeric.
 - **Coriander roots:** Look for them in Asian supermarkets. If you can't find any, use the same weight of tender coriander stalks.
+- **More heat:** Swap 2 or 3 of the mild chillies for small, hot dried chillies, such as bird's eye.
 - **Vegetarian:** Leave out the shrimp paste, or use 2 tsp white miso instead.
 - **Stick blender:** It can't grind whole spices, so use ground spices instead (see **Ground spices**). For Steps 3 and 4, put the lemongrass, galangal, ginger, fresh turmeric and coriander roots in the tall, narrow jug first, then everything else, and lift and move the stick blender around as you blend.
 
@@ -70,12 +70,12 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 ## Origin
 
 - **Country:** Thailand
-- **Region:** Unknown
 
 ## Tags
 
 - **Type:** Pastes
 - **Diet:** Dairy-free
+- **Allergens:** Crustaceans. Check the label on the curry powder, which can contain mustard.
 
 ## Credits
 
@@ -85,5 +85,5 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, and the freezing tip.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, slicing the fresh ingredients finely, the weight of the lemongrass, the amount of coriander roots and the coriander stalks swap, and storage times.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, checking the chillies' heat, and the warnings about gritty galangal and turmeric stains.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, and the warning about turmeric stains.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.
