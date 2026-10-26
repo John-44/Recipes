@@ -259,7 +259,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - Use `(optional)` for something the cook can leave out. For a fallback they only need if something goes wrong, use `(only if needed, see Step {number})` instead, so they still have it to hand.
 - If you add an ingredient in more than one step, such as half in Step 3 and the rest in Step 6, say which steps: `2 tsp tamarind paste (used in Steps 3 and 6)`. Otherwise a cook who has measured everything out may add it all at once.
 - If the **Taste and adjust** step might add more of an ingredient, end its line with `plus extra to taste`, after any note in brackets: `1 tbsp palm sugar, grated (¼ of a palm sugar block), plus extra to taste`.
-- Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water" or "a splash of water". Do list it when it's a measured part of the dish, such as `500 ml water` for a soup.
+- Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water and soak until soft". That includes soaking water you keep for a later step, as in "Drain, keeping 3 tbsp of the soaking water". Do list water when it's a measured part of the dish, such as `500 ml water` for a soup.
 - If the recipe has distinct parts, group the ingredients under `###` subheadings, such as `### For the marinade` and `### To serve`.
 
 #### Measurements
@@ -310,7 +310,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - If the recipe has separate parts, such as a marinade and a sauce, you can use matching `###` subheadings here too. A `### To serve` ingredient group doesn't need one. Keep counting steps across subheadings. Don't restart at Step 1.
 - When you add, remove or reorder steps, update every step number the recipe mentions to match: in ingredient labels, **Before you start**, other steps, tips, **Notes and substitutions** and **Storage and make-ahead**.
 - For a savoury dish, add a **Taste and adjust** step at the last point where the seasoning can still change. That's near the end for a sauce, soup, stew or curry, or before baking for a pie filling. Leave it out where there's no such point, such as for bread or a roast, and for a raw paste or spice mix, which you can't judge by tasting.
-- In the **Taste and adjust** step, say what the dish should taste like, and what to add to fix each thing that's off. If the cook might thin or thicken it, give a target too, such as "about as thick as single cream".
+- In the **Taste and adjust** step, say what the dish should taste like, such as "rich, savoury and slightly sweet, with a hint of sourness", and what to add to fix each thing that's off, such as "more fish sauce if it needs salt". If the cook might thin or thicken it, give a target for how thick it should be too.
 - Finish with how to serve.
 
 #### Tips
