@@ -12,6 +12,10 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - If your raw king prawns are frozen, thaw them in the fridge overnight, then drain them well.
 - Buy coconut milk with no emulsifiers or stabilisers if you can, or the oil may not separate out in Step 1 (see **Coconut milk**).
 
+## Equipment
+
+- Wok (or a saucepan at least 24 cm across)
+
 ## Ingredients
 
 ### For the curry
@@ -53,7 +57,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 > **Tip:** The prawns keep cooking in the hot sauce, and overcooked prawns go rubbery. If they curl into a tight O, they've gone too far.
 
-**Step 6: Taste and adjust.** Taste the sauce: it should be rich, savoury and slightly sweet, with a hint of sourness. It should be about as thick as single cream. Add more fish sauce if it needs salt, more palm sugar if it needs sweetness, or a splash of water if it's too thick. If it isn't sour enough, stir in the rest of the tamarind paste a little at a time.
+**Step 6: Taste and adjust.** Taste the sauce: it should be rich, savoury and slightly sweet, with a hint of sourness. Add more fish sauce if it needs salt, or more palm sugar if it needs sweetness. If it isn't sour enough, stir in the rest of the tamarind paste a little at a time.
 
 **Step 7: Serve the curry.** Spoon the curry over the rice. Scatter with the Thai basil or coriander leaves, crispy fried shallots and chilli.
 
@@ -65,7 +69,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - **Store-bought paste:** Use 4–5 tbsp. It's saltier than homemade, so add only half the fish sauce in Step 3, then more to taste in Step 6.
 - **Buying paste:** Thai yellow curry paste is sometimes labelled "karee" or "kari" curry paste. Don't buy "yellow sour curry paste": that's for *gaeng leuang*, a different, sour and very spicy curry from Southern Thailand.
 - **Tamarind paste:** Thai tamarind paste is brown and fairly runny. If yours is a thick, dark concentrate, use half the amount.
-- **Prawns:** Frozen raw prawns work well. The 400 g is their weight after peeling, so buy extra if yours aren't peeled.
+- **Prawns:** Frozen raw prawns work well. The 400 g is their weight after peeling, so if yours aren't peeled, buy about 800 g with heads and shells on, or about 500 g with just the shells.
 - **Chicken instead:** Use 500 g boneless, skinless chicken thighs, cut into bite-size pieces. Add them with the potatoes in Step 3, and skip Step 5.
 - **More heat:** This curry is mild. For more heat, add 1 or 2 sliced bird's eye chillies with the potatoes.
 
@@ -100,6 +104,6 @@ Yellow curry is closely linked to Thailand's Muslim community, and its curry pow
 - Biona Organic: [Organic Coconut Milk 400ml](https://biona.co.uk/products/biona-organic-coconut-milk-400ml). A coconut milk with no emulsifiers or stabilisers.
 - Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk, the seasonings, holding back half the tamarind paste, how much homemade paste to use, toasting the crispy fried shallots, and the dish's background.
 - Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating, and what Aroy-D contains.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, the cooking times, the garnishes, the chicken swap, and how tamarind paste loses its sourness as it cooks.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, how many unpeeled prawns to buy, the cooking times, the garnishes, the chicken swap, and how tamarind paste loses its sourness as it cooks.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). How much homemade paste one curry for 4 needs.
 - TODAY: [The Easiest Way to Tell If Shrimp Is Cooked or Overcooked](https://www.today.com/food/cook-smarter/how-to-tell-if-shrimp-is-cooked-or-overcooked-rcna230408). The C and O test for cooked prawns.

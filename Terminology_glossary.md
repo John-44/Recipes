@@ -223,7 +223,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Grating | zest | rind, grated peel | Finely grated citrus peel, as in "the zest of 1 lime". |
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
-| Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". |
+| Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". It ends the line, after any note in brackets. |
 
 ## Cooking terms
 
@@ -270,7 +270,6 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Doneness | until fragrant | until aromatic | Also "until thick and fragrant", for frying paste. |
-| Doneness | about as thick as single cream | the consistency of single cream, as thick as light cream | A target for how thick a sauce should be, as in "It should be about as thick as single cream". |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out". |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
@@ -279,7 +278,6 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Texture problems | grainy | mealy | What potatoes go when frozen. |
 | Texture problems | rubbery | chewy | What prawns go when overcooked or frozen. |
 | Cooling | leave to cool | let cool, allow to cool | |
-| Finishing | splash of water | dash of water, a little water | As in "a splash of water if it's too thick". |
 | Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the Thai basil or coriander leaves". |
 | Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when to give a vacuum-packed time. |
 | Storing and reheating | refrigerate | chill | |
@@ -304,7 +302,7 @@ The `###` subheadings in **Ingredients**.
 
 ### Ingredient-line labels
 
-The short notes in brackets at the end of an ingredient line.
+The short notes in brackets near the end of an ingredient line, after any preparation. Only "plus extra to taste" comes after them, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block), plus extra to taste".
 
 **Order:** amounts, then swaps, then other notes; A to Z within each.
 

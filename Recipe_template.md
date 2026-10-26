@@ -39,7 +39,7 @@ Keep the sections in this order.
 | Notes and substitutions | Optional | Swaps, shortcuts, variations and buying tips |
 | Storage and make-ahead | Optional | Fridge, freezer, make-ahead and reheating |
 | Used in | Component recipes only | Recipes that use this one as an ingredient |
-| Origin | Yes | The country and region the dish comes from |
+| Origin | Yes | The country and (if known) region the dish comes from |
 | Tags | Yes | Category tags, grouped into Course, Type, Main ingredient and Diet, and the allergens the recipe contains |
 | Credits | Yes | Who added the recipe, and who has edited it since |
 | Sources | Yes | Where the recipe's ideas came from |
@@ -237,9 +237,9 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 ### Ingredients
 
-Write each ingredient on its own line, in the order you use it:
+Write each ingredient on its own line, in the order you use it, following this pattern. Leave out any part the ingredient doesn't need:
 
-`- {amount} {unit} {ingredient}, {preparation} ({short note})`
+`- {amount} {unit} {size or state} {ingredient}, {preparation} ({short note}), plus extra to taste`
 
 ```markdown
 - 400 g peeled raw king prawns, deveined
@@ -289,7 +289,7 @@ Write each ingredient on its own line, in the order you use it:
 Write each step as its own paragraph, starting with a bold step number and a short title:
 
 ```markdown
-**Step 1: Crack the coconut milk.** Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok. Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
+**Step 1: Crack the coconut milk.** Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across. Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
 
 **Step 2: Fry the paste.** Stir in the curry paste and fry it in the oil over medium heat, stirring often, until thick and fragrant, 3–5 minutes.
 ```
@@ -308,7 +308,9 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
 - Use the same ingredient names as the ingredient list, or shorten them as far as their [glossary](Terminology_glossary.md#ingredients) short names: "the prawns" for raw king prawns. Only repeat an amount when you add an ingredient in more than one step: "Add half the coconut milk (200 ml)."
 - If the recipe has separate parts, such as a marinade and a sauce, you can use matching `###` subheadings here too. A `### To serve` ingredient group doesn't need one. Keep counting steps across subheadings. Don't restart at Step 1.
-- For a savoury dish, end the cooking with a **Taste and adjust** step. Say what the dish should taste like, and what to add to fix each thing that's off. If the cook might thin or thicken it, give a target too, such as "about as thick as single cream". A raw paste or spice mix, which you can't judge by tasting, doesn't need one.
+- When you add, remove or reorder steps, update every step number the recipe mentions to match: in ingredient labels, **Before you start**, other steps, tips, **Notes and substitutions** and **Storage and make-ahead**.
+- For a savoury dish, add a **Taste and adjust** step at the last point where the seasoning can still change. That's near the end for a sauce, soup, stew or curry, or before baking for a pie filling. Leave it out where there's no such point, such as for bread or a roast, and for a raw paste or spice mix, which you can't judge by tasting.
+- In the **Taste and adjust** step, say what the dish should taste like, and what to add to fix each thing that's off. If the cook might thin or thicken it, give a target too, such as "about as thick as single cream".
 - Finish with how to serve.
 
 #### Tips
@@ -425,7 +427,9 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
 - [ ] Every action, including optional ones and anything done while something else cooks, is in the step where the cook does it, with the most reliable doneness cue.
+- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, saying what the dish should taste like and how to fix each thing that's off.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
+- [ ] Every step number the recipe mentions, in any section, points to the right step.
 - [ ] **Equipment** lists every piece of kit beyond the basics that the recipe uses, including protective kit.
 - [ ] Every photo is your own or one you have permission to use, is in `recipes/images/`, and has alt text.
 - [ ] Every link points to a recipe that exists, and the link text matches its title.

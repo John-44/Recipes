@@ -39,7 +39,9 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 **Step 2: Toast and grind the spices.** While the chillies soak, toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over medium-low heat, shaking the pan, until fragrant, 2–3 minutes. Leave to cool for 2 minutes, add the curry powder, then grind to a fine powder in the high-speed blender. Tip the ground spices into a small bowl, ready for Step 4.
 
-**Step 3: Blend the paste.** Put the chillies, the 3 tbsp of soaking water, salt, MSG, lemongrass, galangal, ginger, fresh turmeric, coriander roots, garlic, shallots and shrimp paste in the high-speed blender. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. Don't add extra water to help it along: Thai curry recipes expect a thick paste.
+**Step 3: Blend the paste.** Put the chillies, the 3 tbsp of soaking water, salt, MSG, lemongrass, galangal, ginger, fresh turmeric, coriander roots, garlic, shallots and shrimp paste in the high-speed blender. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. Don't add extra water to help it along.
+
+> **Tip:** Thai curry recipes expect a thick paste.
 
 **Step 4: Blend in the spices.** Add the ground spices to the high-speed blender and blend them in the same way as in Step 3, until very smooth. Rub a little between your fingers: it shouldn't feel gritty.
 
