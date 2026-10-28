@@ -43,7 +43,7 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 > **Tip:** The spices keep cooking in the hot pan, even off the heat, and burnt spices make the paste bitter.
 
-**Step 3: Grind the spices.** Put the toasted spices and the curry powder in the high-speed blender and grind to a fine powder. Tip the ground spices back into the small bowl, ready for Step 5. Prepare the rest of the ingredients while the chillies finish soaking.
+**Step 3: Grind the spices.** Put the toasted spices and the curry powder in the high-speed blender and grind to a fine powder. Tip the ground spices back into the small bowl, ready for Step 5.
 
 **Step 4: Blend the paste.** Put the 3 tbsp of soaking water, salt, MSG, chillies, shallots, garlic and shrimp paste in the high-speed blender, then add the lemongrass, galangal, ginger, fresh turmeric and coriander roots on top. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. If the jar feels warm when you stop, leave it to cool before blending again. Don't add extra water to help it along.
 
