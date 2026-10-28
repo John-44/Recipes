@@ -133,6 +133,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Bowls and jugs | Bowls and jugs | A to Z |
 | Blending and grinding | Blenders and their jars, grinders, and mortars and pestles | Electric first, then by hand; A to Z within each |
 | Hob and pans | The hob, and the pans you use on it | The hob, then pans from shallowest to deepest |
+| Utensils | Spoons, cloths and other small hand tools | A to Z |
 | Storage | Appliances, containers and wraps for keeping food | Appliances first, then containers and wraps from most rigid to least |
 | Protective kit | Kit that protects the cook, such as gloves | A to Z |
 
@@ -151,9 +152,11 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Blending and grinding | jar | blender container, blender cup | The part of a high-speed blender that holds the food, as in "If the jar feels warm". |
 | Blending and grinding | stick blender | hand blender, immersion blender | |
 | Hob and pans | hob | stove, stovetop, cooktop | |
-| Hob and pans | frying pan | skillet, fry pan | "A dry frying pan" has no oil in it, for toasting spices. |
+| Hob and pans | frying pan | skillet, fry pan | "A dry frying pan" has no oil in it, for toasting spices and dried chillies. |
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | pot | |
+| Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
+| Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
 | Storage | freezer bag | ziplock bag, zip-lock bag, sandwich bag | |
@@ -254,7 +257,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
-| Before cooking | split | slit, cut open | Cut open lengthways, as in "Split the chillies open lengthways with scissors". For coconut milk, use crack and separate out instead. |
+| Before cooking | wipe | | Clean with a damp cloth, as in "Wipe the dust off the chillies with a damp cloth". |
+| Before cooking | split | slit, cut open | Cut open lengthways, as in "split them open lengthways with scissors". For coconut milk, use crack and separate out instead. |
 | Before cooking | scrape out the seeds | deseed, remove the seeds | For dried chillies, once they're split open. |
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
@@ -271,14 +275,14 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
 | Heating liquids | bring to the boil | bring to a boil | |
 | Covering | uncovered | lid off, without a lid | With no lid on the pan, so the liquid reduces as it simmers, as in "cook, uncovered, over medium-low heat". |
-| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
+| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices, dried chillies or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
 | Frying and toasting | crack | break, split | Simmer the thick part from the top of a can of coconut milk until the oil separates out, so you can fry curry paste in it, as in "Crack the coconut milk". Coconut milk with emulsifiers or stabilisers may not crack. |
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Doneness | the raw {ingredient} smell has gone | no longer smells raw | For frying curry paste, as in "the raw shallot and garlic smell has gone". |
 | Doneness | until fragrant | until aromatic | |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out", and again when you fry curry paste in it. |
-| Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices, as in "until they're fragrant and darken a shade". |
+| Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices and dried chillies, as in "until they're fragrant and darken a shade". |
 | Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
@@ -337,7 +341,7 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 
 | Step title | Don't use | Notes |
 | --- | --- | --- |
-| Soak the chillies | | |
+| Toast and soak the chillies | | |
 | Toast the spices | | |
 | Grind the spices | | |
 | Blend the paste | Blitz the paste, Process the paste | |
@@ -492,6 +496,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | America's Test Kitchen | americastestkitchen.com | Americas Test Kitchen, ATK |
 | Biona Organic | biona.co.uk | Biona (on its own) |
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
+| Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |

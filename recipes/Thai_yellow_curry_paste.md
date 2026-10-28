@@ -35,15 +35,17 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 ## Directions
 
-**Step 1: Soak the chillies.** Split the chillies open lengthways with scissors, scrape out the seeds, then snip the chillies into 2 cm pieces and put them in a heatproof bowl. Cover with boiling water and soak until soft, 15–20 minutes. Drain, keeping 3 tbsp of the soaking water.
+**Step 1: Toast and soak the chillies.** Wipe the dust off the chillies with a damp cloth, then split them open lengthways with scissors and scrape out the seeds. Toast them in a dry frying pan over medium heat, pressing them flat with the back of a spoon, until they're fragrant and darken a shade, about 30 seconds a side. Stop before they blacken. Snip the chillies into 2 cm pieces and put them in a heatproof bowl. Cover with boiling water and soak until soft, 15–20 minutes. Drain, keeping 3 tbsp of the soaking water.
 
-**Step 2: Toast the spices.** While the chillies soak, toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over medium-low heat, shaking the pan, until they're fragrant and darken a shade, 2–3 minutes. Tip them into a small bowl straight away and leave to cool for 2 minutes.
+> **Tip:** Dried chillies burn in seconds, and burnt chillies make the paste bitter.
+
+**Step 2: Toast the spices.** While the chillies soak, toast the coriander seeds, cumin seeds and white peppercorns in the dry frying pan over medium-low heat, shaking the pan, until they're fragrant and darken a shade, 2–3 minutes. Tip them into a small bowl straight away and leave to cool for 2 minutes.
 
 > **Tip:** The spices keep cooking in the hot pan, even off the heat, and burnt spices make the paste bitter.
 
 **Step 3: Grind the spices.** Put the toasted spices and the curry powder in the high-speed blender and grind to a fine powder. Tip the ground spices back into the small bowl, ready for Step 5.
 
-**Step 4: Blend the paste.** Put the 3 tbsp of soaking water, salt, MSG, chillies, shallots, garlic and shrimp paste in the high-speed blender, then add the lemongrass, galangal, ginger, fresh turmeric and coriander roots on top. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. If the jar feels warm when you stop, leave it to cool for 2 minutes before blending again. Don't add extra water to help it along.
+**Step 4: Blend the paste.** Put the 3 tbsp of soaking water, salt, MSG, chillies, shallots, garlic and shrimp paste in the high-speed blender, then add the lemongrass, galangal, ginger, fresh turmeric and coriander roots on top. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. If the jar feels warm when you stop, leave it to cool before blending again. Don't add extra water to help it along.
 
 > **Tip:** Thai curry recipes expect a thick paste. Starting with the soft, wet ingredients gets the paste moving, so it blends without extra water.
 
@@ -94,3 +96,4 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, and the warning about turmeric stains.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.
 - Blendtec: [Blending 101: How to Load a Jar](https://www.blendtec.com/blogs/news/blending-101-how-to-load-a-jar). Loading the soft, wet ingredients first and the hard ones on top.
+- Grantourismo Travels: [Geng Gari Gai Aromatic Chicken Curry Recipe from Southern Thailand](https://grantourismotravels.com/geng-gari-gai-aromatic-chicken-curry-recipe/). Toasting the dried chillies, which David Thompson grills for his curry paste.
