@@ -215,7 +215,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 - **Total time:** start to finish, including any waiting time (soaking, marinating, resting, cooling). Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
 - Times are for this recipe only. Don't include the time it takes to make linked recipes: give that in **Before you start** instead.
 - **Servings:** the number of people it feeds, e.g. `4`.
-- For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 125 ml (enough for 1 curry for 4)`.
+- For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 250 g (enough for 2 curries for 4)`.
 
 ### Before you start
 
@@ -246,7 +246,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - 2 lemongrass stalks, top half and tough outer layers removed, finely sliced
 - 1 can (400 ml) coconut milk (used in Steps 1, 3 and 4)
 - 1 tbsp coconut oil (only if needed, see Step 1)
-- 4 tbsp [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
+- 150 g [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
 - 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
 - 10 g Thai basil leaves (about a handful)
 - Salt, to taste
@@ -266,7 +266,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 
 | Measure | Use it for | Example |
 | --- | --- | --- |
-| g, kg | Solid ingredients: meat, fish, vegetables, herbs and leaves, flour, sugar, rice, noodles | `500 g raw king prawns` |
+| g, kg | Solid ingredients, and pastes over 4 tbsp: meat, fish, vegetables, herbs and leaves, flour, sugar, rice, noodles, curry paste | `500 g raw king prawns` |
 | ml, L | Liquids over 4 tbsp | `250 ml chicken stock` |
 | tsp, tbsp | Small amounts of anything, up to 4 tbsp: spices, salt, sauces, oil, pastes | `2 tbsp fish sauce` |
 | cans | Ingredients sold in cans, when you use the whole can | `1 can (400 g) chopped tomatoes` |
