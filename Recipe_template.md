@@ -212,8 +212,8 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 - Write times as `10 min`, `1 hr` or `1 hr 30 min`.
 - **Prep time:** hands-on time preparing ingredients, such as chopping, measuring and pounding.
 - **Cook time:** time on the hob or in the oven. Write `None` if there's no cooking.
-- **Total time:** start to finish, including any wait under 1 hr, such as soaking, marinating, resting or cooling. Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
-- Put a wait of 1 hr or more after the time instead, starting with `plus`: `45 min, plus 4 hr marinating` or `1 hr 5 min, plus overnight in the fridge`. Join two or more waits with "and": `1 hr, plus 2 hr proving and 1 hr cooling`. Write `overnight` when the recipe says to leave something overnight.
+- **Total time:** start to finish, including any wait under 2 hr, such as soaking, marinating, resting or cooling. Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
+- Put a wait of 2 hr or more after the time instead, starting with `plus`: `45 min, plus 4 hr marinating` or `1 hr 5 min, plus overnight in the fridge`. Join two or more waits with "and": `1 hr, plus 2 hr proving and 2 hr cooling`. Write `overnight` when the recipe says to leave something overnight.
 - Leave out waits that not every cook needs, such as thawing frozen prawns. They go only in **Before you start**.
 - Times are for this recipe only. Don't include the time it takes to make linked recipes: give that in **Before you start** instead.
 - **Servings:** the number of people it feeds, e.g. `4`.
@@ -423,7 +423,7 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 
 - [ ] The file is in `recipes/` and named as described in [File names](#file-names).
 - [ ] The description is 100 words or fewer.
-- [ ] Total time is start to finish, with any wait of 1 hr or more after `plus`, and only counts overlaps that a step tells the cook to do.
+- [ ] Total time is start to finish, with any wait of 2 hr or more after `plus`, and only counts overlaps that a step tells the cook to do.
 - [ ] **Before you start** has everything the cook must do or know before Step 1, including other recipes to make first and how long they take.
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list, apart from water for soaking, boiling or thinning.
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
