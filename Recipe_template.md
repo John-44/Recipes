@@ -320,7 +320,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 A tip is the advice a professional chef, or a cook from where the dish comes from, would give someone making it for the first time. It goes directly under the step it's about, as a quote:
 
 ```markdown
-**Step 7: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
+**Step 8: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
 > **Tip:** The prawns keep cooking in the hot sauce. If they curl into a tight O, they've gone too far.
 ```

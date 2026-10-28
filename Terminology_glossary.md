@@ -352,6 +352,7 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 | Simmer the potatoes | | |
 | Add the coconut cream | | |
 | Taste and adjust | Season to taste, Adjust the seasoning, Check the seasoning | |
+| Toast the crispy fried shallots | | |
 | Cook the prawns | | |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
 | Use or store | Store the paste | The last step of a component recipe. |
