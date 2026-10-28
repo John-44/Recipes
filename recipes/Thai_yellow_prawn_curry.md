@@ -69,8 +69,6 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 9: Serve the curry.** Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil or coriander leaves and chilli. Optionally serve prik nam pla on the side.
 
-> **Tip:** Toasting the crispy fried shallots freshens them up and makes them crisper.
-
 ## Notes and substitutions
 
 - **Coconut milk:** For the coconut milk to separate, buy one that isn't homogenised and has no emulsifiers or stabilisers, such as guar gum or carboxymethylcellulose. [Biona Organic coconut milk](https://biona.co.uk/products/biona-organic-coconut-milk-400ml) has neither; the Thai brands Aroy-D and Chaokoh contain an emulsifier, but you can use them if you can't find one without.
