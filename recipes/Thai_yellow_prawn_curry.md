@@ -30,7 +30,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 4 kaffir lime leaves, crumpled
 - 2 tsp tamarind paste (used in Steps 4 and 6)
 - 1½ tbsp fish sauce, plus extra to taste
-- 1 tbsp palm sugar, grated (¼ of a palm sugar block), plus extra to taste
+- 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
 - ¼ tsp MSG
 - 1 small carton (250 ml) coconut cream (used in Steps 5 and 8)
 - 400 g peeled raw king prawns, deveined (thawed if frozen)
