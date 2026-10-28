@@ -316,7 +316,6 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 
 | Label | Don't use | Notes |
 | --- | --- | --- |
-| (about a handful) | (a large handful), (a good handful), (a small bunch) | A rough guide for herbs and leaves, which are weighed, as in "10 g Thai basil or coriander leaves (about a handful)". For more, write "(about 2 handfuls)". |
 | (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "12 g ginger, peeled and finely chopped (about a 3 cm piece)". |
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g shallots, roughly chopped (about 3)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |

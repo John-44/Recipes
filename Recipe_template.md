@@ -278,7 +278,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - A standard can is 400 g (or 400 ml for liquids such as coconut milk). Always give the size in brackets: `1 can (400 g) chickpeas, drained and rinsed`, `2 cans (400 g each) chopped tomatoes`.
 - Cartons come in several sizes, so say whether you need a small or large one, and always give its size in brackets: `1 small carton (250 ml) coconut cream`.
 - If you only use part of a can or carton, give the amount in g or ml instead: `200 ml coconut milk`.
-- Don't use cups. Weigh herbs and leaves in grams, with a rough guide in brackets: `10 g Thai basil leaves (about a handful)`.
+- Don't use cups. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
 - Round to amounts that are easy to measure: `250 g`, not `247 g`. Switch to kg and L from 1,000: `1.2 kg`, `1.5 L`.
 - Use ½, ⅓, ⅔, ¼ and ¾ with spoons, cans and counts (`1½ tsp`). Don't use fractions with g or ml.
 - Give a size for counted items when it matters (`1 large onion`), and a rough weight when it matters a lot (`1 large potato (about 300 g)`).
