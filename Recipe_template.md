@@ -212,7 +212,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 - Write times as `10 min`, `1 hr` or `1 hr 30 min`.
 - **Prep time:** hands-on time preparing ingredients, such as chopping, measuring and pounding.
 - **Cook time:** time on the hob or in the oven. Write `None` if there's no cooking.
-- **Total time:** start to finish, including any waiting time (soaking, marinating, resting, cooling). Don't count time twice when things overlap, such as chopping while something soaks.
+- **Total time:** start to finish, including any waiting time (soaking, marinating, resting, cooling). Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
 - Times are for this recipe only. Don't include the time it takes to make linked recipes: give that in **Before you start** instead.
 - **Servings:** the number of people it feeds, e.g. `4`.
 - For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 125 ml (enough for 1 curry for 4)`.
@@ -302,7 +302,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - Put every action in the step where the cook does it, including:
   - Optional actions, saying what they depend on: "If you're using head-on prawns, fry the heads…"
   - Conditional actions: "If the oil hasn't separated out after 12 minutes, stir in the coconut oil."
-  - Anything the cook does while something else cooks: "While it simmers, cook the jasmine rice."
+  - Anything the cook does while something else cooks or soaks, including preparing ingredients: "While it simmers, cook the jasmine rice." or "Prepare the rest of the ingredients while the chillies finish soaking."
 - A short warning stays in its step: "Don't add extra water to help it along." Put why something matters, or what can go wrong, in a [tip](#tips) under the step.
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
@@ -421,12 +421,12 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 
 - [ ] The file is in `recipes/` and named as described in [File names](#file-names).
 - [ ] The description is 100 words or fewer.
-- [ ] Total time is start to finish, including any waiting time.
+- [ ] Total time is start to finish, including any waiting time, and only counts overlaps that a step tells the cook to do.
 - [ ] **Before you start** has everything the cook must do or know before Step 1, including other recipes to make first and how long they take.
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list, apart from water for soaking, boiling or thinning.
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
-- [ ] Every action, including optional ones and anything done while something else cooks, is in the step where the cook does it, with the most reliable doneness cue.
+- [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
 - [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, saying what the dish should taste like and how to fix each thing that's off.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
 - [ ] Every step number the recipe mentions, in any section, points to the right step.
