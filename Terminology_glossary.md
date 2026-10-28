@@ -112,10 +112,10 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | Thai shrimp paste | shrimp paste | kapi, Thai prawn paste, fermented shrimp paste | "Shrimp" is right here, even though the recipes say "prawns" everywhere else. Not vegetarian. |
 | Seasonings | white miso | white miso | shiro miso, white miso paste, miso (on its own) | |
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |
-| Seasonings | palm sugar | palm sugar | | Usually sold in hard blocks, so it's grated. |
+| Seasonings | palm sugar | palm sugar | | Usually sold in hard blocks, so it's measured after grating, as in "1 tbsp grated palm sugar". |
 | Oils and fats | coconut oil | oil | coconut fat | Solid when cool, and melts as soon as it's heated. Not creamed coconut, which is made from the whole flesh. Keep "coconut oil" when the recipe also talks about the oil that separates out of coconut milk. |
 | Liquids | coconut cream | coconut cream | | Thicker and richer than coconut milk, and sold in cartons and cans. Not the thick part from the top of a can of coconut milk, or creamed coconut, which is a hard block. |
-| Liquids | coconut milk | coconut milk | | The canned kind, not the coconut drinks sold in cartons. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
+| Liquids | full-fat coconut milk | coconut milk | full fat coconut milk | The canned kind, not the coconut drinks sold in cartons. Reduced-fat (light) coconut milk won't crack. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
 | Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
@@ -195,7 +195,7 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 
 ## Preparation terms
 
-How ingredients are prepared, mostly written after the comma in an ingredient line. Join two with "and", as in "peeled and finely chopped". When the amount is the weight after preparing, write the term before the ingredient instead, as in "400 g peeled raw king prawns".
+How ingredients are prepared, mostly written after the comma in an ingredient line. Join two with "and", as in "peeled and finely chopped". When the amount is measured after preparing, write the term before the ingredient instead, as in "400 g peeled raw king prawns" or "1 tbsp grated palm sugar".
 
 **Families**, from cleaning and removing parts, through cutting and bruising, to measuring and seasoning:
 
@@ -317,7 +317,7 @@ The `###` subheadings in **Ingredients**.
 
 ### Ingredient-line labels
 
-The short notes in brackets near the end of an ingredient line, after any preparation. Only "plus extra to taste" comes after them, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block), plus extra to taste".
+The short notes in brackets near the end of an ingredient line, after any preparation. Only "plus extra to taste" comes after them, as in "1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste".
 
 **Order:** amounts, then swaps, then other notes; A to Z within each.
 
@@ -325,8 +325,8 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | --- | --- | --- |
 | (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "12 g ginger, peeled and finely chopped (about a 3 cm piece)". |
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g Thai shallots, roughly chopped (about 8)". |
+| (about {fraction} of a palm sugar block) | (about {fraction} of a block of palm sugar), (about {fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp grated palm sugar (about ¼ of a palm sugar block)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
-| ({fraction} of a palm sugar block) | ({fraction} of a block of palm sugar), ({fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
 | (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 1)". |
 | (optional) | (if you like), (if using) | For something the cook can leave out. |
@@ -352,6 +352,7 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 | Simmer the potatoes | | |
 | Add the coconut cream | | |
 | Taste and adjust | Season to taste, Adjust the seasoning, Check the seasoning | |
+| Toast the crispy fried shallots | | |
 | Cook the prawns | | |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
 | Use or store | Store the paste | The last step of a component recipe. |

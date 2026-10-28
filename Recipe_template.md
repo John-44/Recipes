@@ -212,10 +212,12 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 - Write times as `10 min`, `1 hr` or `1 hr 30 min`.
 - **Prep time:** hands-on time preparing ingredients, such as chopping, measuring and pounding.
 - **Cook time:** time on the hob or in the oven. Write `None` if there's no cooking.
-- **Total time:** start to finish, including any waiting time (soaking, marinating, resting, cooling). Don't count time twice when things overlap, such as chopping while something soaks.
+- **Total time:** start to finish, including any wait under 2 hr, such as soaking, marinating, resting or cooling. Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
+- Put a wait of 2 hr or more after the time instead, starting with `plus`: `45 min, plus 4 hr marinating` or `1 hr 5 min, plus overnight in the fridge`. Join two or more waits with "and": `1 hr, plus 2 hr proving and 2 hr cooling`. Write `overnight` when the recipe says to leave something overnight.
+- Leave out waits that not every cook needs, such as thawing frozen prawns. They go only in **Before you start**.
 - Times are for this recipe only. Don't include the time it takes to make linked recipes: give that in **Before you start** instead.
 - **Servings:** the number of people it feeds, e.g. `4`.
-- For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 125 ml (enough for 1 curry for 4)`.
+- For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 250 g (enough for 2 curries for 4)`.
 
 ### Before you start
 
@@ -244,21 +246,21 @@ Write each ingredient on its own line, in the order you use it, following this p
 ```markdown
 - 400 g peeled raw king prawns, deveined
 - 2 lemongrass stalks, top half and tough outer layers removed, finely sliced
-- 1 can (400 ml) coconut milk (used in Steps 1, 3 and 4)
+- 1 can (400 ml) full-fat coconut milk (used in Steps 1, 3 and 4)
 - 1 tbsp coconut oil (only if needed, see Step 1)
-- 4 tbsp [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
-- 1 tbsp palm sugar, grated (¼ of a palm sugar block), plus extra to taste
+- 150 g [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
+- 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
 - 10 g Thai basil leaves (about a handful)
 - Salt, to taste
 ```
 
 - If the [glossary](Terminology_glossary.md#ingredients) lists the ingredient, use its term exactly. If it doesn't, name the ingredient as you'd find it in a UK shop, such as "raw king prawns", "unsalted butter" or "plain flour", and add it to the glossary.
 - Put the preparation after a comma: "finely chopped", "peeled and finely chopped".
-- The amount is measured before the preparation after the comma: `12 g galangal, peeled and finely chopped` means weigh it, then peel and chop it. If you mean the weight after preparing, put the state before the name: `400 g peeled raw king prawns`.
+- The amount is measured before the preparation after the comma: `12 g galangal, peeled and finely chopped` means weigh it, then peel and chop it. If you mean the amount after preparing, put the state before the name: `400 g peeled raw king prawns`, `1 tbsp grated palm sugar`.
 - Use brackets for short notes only, such as `(optional)` or a quick swap. Put longer advice in **Notes and substitutions**, or in a [tip](#tips) if it's about technique.
 - Use `(optional)` for something the cook can leave out. For a fallback they only need if something goes wrong, use `(only if needed, see Step {number})` instead, so they still have it to hand.
 - If you add an ingredient in more than one step, such as half in Step 4 and the rest in Step 6, say which steps: `2 tsp tamarind paste (used in Steps 4 and 6)`. Otherwise a cook who has measured everything out may add it all at once.
-- If the **Taste and adjust** step might add more of an ingredient, end its line with `plus extra to taste`, after any note in brackets: `1 tbsp palm sugar, grated (¼ of a palm sugar block), plus extra to taste`.
+- If the **Taste and adjust** step might add more of an ingredient, end its line with `plus extra to taste`, after any note in brackets: `1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste`.
 - Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water and soak until soft". That includes soaking water you keep for a later step, as in "Drain, keeping 3 tbsp of the soaking water". Do list water when it's a measured part of the dish, such as `500 ml water` for a soup.
 - If the recipe has distinct parts, group the ingredients under `###` subheadings, such as `### For the marinade` and `### To serve`.
 
@@ -266,7 +268,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 
 | Measure | Use it for | Example |
 | --- | --- | --- |
-| g, kg | Solid ingredients: meat, fish, vegetables, herbs and leaves, flour, sugar, rice, noodles | `500 g raw king prawns` |
+| g, kg | Solid ingredients, and pastes over 4 tbsp: meat, fish, vegetables, herbs and leaves, flour, sugar, rice, noodles, curry paste | `500 g raw king prawns` |
 | ml, L | Liquids over 4 tbsp | `250 ml chicken stock` |
 | tsp, tbsp | Small amounts of anything, up to 4 tbsp: spices, salt, sauces, oil, pastes | `2 tbsp fish sauce` |
 | cans | Ingredients sold in cans, when you use the whole can | `1 can (400 g) chopped tomatoes` |
@@ -277,7 +279,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - 1 tsp = 5 ml and 1 tbsp = 15 ml. Spoon measures are level unless the recipe says "heaped".
 - A standard can is 400 g (or 400 ml for liquids such as coconut milk). Always give the size in brackets: `1 can (400 g) chickpeas, drained and rinsed`, `2 cans (400 g each) chopped tomatoes`.
 - Cartons come in several sizes, so say whether you need a small or large one, and always give its size in brackets: `1 small carton (250 ml) coconut cream`.
-- If you only use part of a can or carton, give the amount in g or ml instead: `200 ml coconut milk`.
+- If you only use part of a can or carton, give the amount in g or ml instead: `200 ml full-fat coconut milk`.
 - Don't use cups. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
 - Round to amounts that are easy to measure: `250 g`, not `247 g`. Switch to kg and L from 1,000: `1.2 kg`, `1.5 L`.
 - Use ½, ⅓, ⅔, ¼ and ¾ with spoons, cans and counts (`1½ tsp`). Don't use fractions with g or ml.
@@ -302,7 +304,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - Put every action in the step where the cook does it, including:
   - Optional actions, saying what they depend on: "If you're using head-on prawns, fry the heads…"
   - Conditional actions: "If the oil hasn't separated out after 12 minutes, stir in the coconut oil."
-  - Anything the cook does while something else cooks: "While it simmers, cook the jasmine rice."
+  - Anything the cook does while something else cooks or soaks, including preparing ingredients: "While it simmers, cook the jasmine rice." or "While the chillies soak, toast the coriander seeds…"
 - A short warning stays in its step: "Don't add extra water to help it along." Put why something matters, or what can go wrong, in a [tip](#tips) under the step.
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
@@ -318,7 +320,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 A tip is the advice a professional chef, or a cook from where the dish comes from, would give someone making it for the first time. It goes directly under the step it's about, as a quote:
 
 ```markdown
-**Step 7: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
+**Step 8: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
 > **Tip:** The prawns keep cooking in the hot sauce. If they curl into a tight O, they've gone too far.
 ```
@@ -421,13 +423,13 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 
 - [ ] The file is in `recipes/` and named as described in [File names](#file-names).
 - [ ] The description is 100 words or fewer.
-- [ ] Total time is start to finish, including any waiting time.
+- [ ] Total time is start to finish, with any wait of 2 hr or more after `plus`, and only counts overlaps that a step tells the cook to do.
 - [ ] **Before you start** has everything the cook must do or know before Step 1, including other recipes to make first and how long they take.
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list, apart from water for soaking, boiling or thinning.
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
-- [ ] Every action, including optional ones and anything done while something else cooks, is in the step where the cook does it, with the most reliable doneness cue.
-- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, saying what the dish should taste like and how to fix each thing that's off.
+- [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
+- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
 - [ ] Every step number the recipe mentions, in any section, points to the right step.
 - [ ] **Equipment** lists every piece of kit beyond the basics that the recipe uses, including protective kit.
