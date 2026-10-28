@@ -4,7 +4,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
-| 15 min | 50 min | 1 hr 5 min | 4 |
+| 15 min | 50 min | 1 hr 5 min, plus overnight in the fridge | 4 |
 
 ## Before you start
 
