@@ -78,7 +78,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought with their heads on, write "head-on prawns". |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
 | Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
-| Aromatics | shallots | shallots | eschalots, French shallots | The ordinary shallots sold in UK supermarkets. Not crispy fried shallots. |
+| Aromatics | Thai shallots | shallots | Asian shallots, red shallots, Thai red onions, hom daeng | Small red shallots, sold in Asian supermarkets. They're smaller than the shallots in UK supermarkets, which would need their own term. Not crispy fried shallots. |
 | Aromatics | onion | onion | brown onion, yellow onion | An ordinary onion. Red onions and spring onions would need their own terms. |
 | Roots | fresh turmeric | fresh turmeric | turmeric root, raw turmeric | Keep "fresh" whenever you mean this ingredient, because "turmeric" on its own usually means ground. When you mean the spice in general, "turmeric" is fine, as in "warm with turmeric". |
 | Roots | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
@@ -90,9 +90,9 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
 | Herbs | Thai basil leaves | Thai basil | Thai sweet basil, horapha, Asian basil | Not holy basil or Italian basil, which are different herbs. When coriander works too, write "Thai basil or coriander leaves". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
-| Chillies | mild dried red chillies | chillies | dried red chilies, whole dried chillies, dry red chillies | Large, mild dried chillies, such as Kashmiri chillies or guajillo chillies. If the recipe also uses fresh chillies, shorten to "dried chillies" instead. |
 | Chillies | Kashmiri chillies | Kashmiri chillies | Kashmiri red chillies, Kashmiri chilies | Mild dried Indian chillies with a deep red colour. |
 | Chillies | guajillo chillies | guajillo chillies | guajillo peppers, guajillo chiles | Fairly mild dried Mexican chillies. Outside Mexican recipes, you can introduce them as "Mexican guajillo chillies". |
+| Chillies | dried Thai spur chillies | chillies | dried spur chilies, dried long chillies, dried big chillies | Large dried Thai chillies with a mild to moderate heat, prized for the colour they give curry pastes. In the ingredient list, follow the term with its Thai name in brackets, as in "dried Thai spur chillies (*prik chee fah haeng*)". If the recipe also uses fresh chillies, shorten to "dried chillies" instead. |
 | Chillies | red chilli | chilli | red chili, red chile, fresh red chilli | Means a fresh one. For small, very hot chillies, use bird's eye chillies. |
 | Chillies | bird's eye chillies | bird's eye chillies | birds eye chillies, bird's-eye chillies, bird chillies, Thai chillies | Small, very hot chillies, sold fresh or dried. Say "dried" when you mean dried ones. |
 | Spices | coriander seeds | coriander seeds | whole coriander, coriander seed | Ground, they're ground coriander. |
@@ -119,7 +119,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
-| Garnishes | crispy fried shallots | crispy fried shallots | fried shallots, crispy shallots, shallot crisps | Ready-made, for scattering over a dish. Not the same as shallots. |
+| Garnishes | crispy fried shallots | crispy fried shallots | fried shallots, crispy shallots, shallot crisps | Ready-made, for scattering over a dish. Not the same as Thai shallots. |
 
 ## Equipment
 
@@ -129,10 +129,11 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 
 | Family | What goes in it | Order within the family |
 | --- | --- | --- |
-| Cutting | Chopping boards, knives and scissors | A to Z |
+| Cutting | Chopping boards and the baking paper that covers them, knives and scissors | A to Z |
 | Bowls and jugs | Bowls and jugs | A to Z |
-| Blending and grinding | Blenders, grinders, and mortars and pestles | Electric first, then by hand; A to Z within each |
+| Blending and grinding | Blenders and their jars, grinders, and mortars and pestles | Electric first, then by hand; A to Z within each |
 | Hob and pans | The hob, and the pans you use on it | The hob, then pans from shallowest to deepest |
+| Utensils | Spoons, cloths and other small hand tools | A to Z |
 | Storage | Appliances, containers and wraps for keeping food | Appliances first, then containers and wraps from most rigid to least |
 | Protective kit | Kit that protects the cook, such as gloves | A to Z |
 
@@ -140,6 +141,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
+| Cutting | baking paper | parchment paper, baking parchment | A sheet on top of the chopping board stops fresh turmeric staining it. |
 | Cutting | chopping board | cutting board | |
 | Cutting | knife | | |
 | Cutting | scissors | kitchen shears | |
@@ -147,11 +149,14 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Bowls and jugs | heatproof bowl | heat-proof bowl, heat-resistant bowl | |
 | Bowls and jugs | jug | pitcher, beaker | For a stick blender, ask for "a tall, narrow jug". |
 | Blending and grinding | high-speed blender | high speed blender, high-powered blender, power blender | A powerful blender, such as a Blendtec, that grinds whole spices as well as blending pastes. Not a stick blender. |
+| Blending and grinding | jar | blender container, blender cup | The part of a high-speed blender that holds the food, as in "If the jar feels warm". |
 | Blending and grinding | stick blender | hand blender, immersion blender | |
 | Hob and pans | hob | stove, stovetop, cooktop | |
-| Hob and pans | frying pan | skillet, fry pan | "A dry frying pan" has no oil in it, for toasting spices. |
+| Hob and pans | frying pan | skillet, fry pan | "A dry frying pan" has no oil in it, for toasting spices and dried chillies. |
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | pot | |
+| Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
+| Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
 | Storage | freezer bag | ziplock bag, zip-lock bag, sandwich bag | |
@@ -252,13 +257,14 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
-| Before cooking | split | slit, cut open | Cut open lengthways, as in "Split the chillies open lengthways with scissors". For coconut milk, use crack and separate out instead. |
+| Before cooking | wipe | | Clean with a damp cloth, as in "Wipe the dust off the chillies with a damp cloth". |
+| Before cooking | split | slit, cut open | Cut open lengthways, as in "split them open lengthways with scissors". For coconut milk, use crack and separate out instead. |
 | Before cooking | scrape out the seeds | deseed, remove the seeds | For dried chillies, once they're split open. |
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
 | Blending and grinding | blend | blitz, process | Wet ingredients, to a paste, with a high-speed blender or stick blender. |
-| Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder in the high-speed blender". |
+| Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder". |
 | Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |
 | Blending and grinding | scrape down the sides | | While blending, as in "then stop and scrape down the sides". |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
@@ -269,14 +275,14 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
 | Heating liquids | bring to the boil | bring to a boil | |
 | Covering | uncovered | lid off, without a lid | With no lid on the pan, so the liquid reduces as it simmers, as in "cook, uncovered, over medium-low heat". |
-| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
+| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices, dried chillies or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
 | Frying and toasting | crack | break, split | Simmer the thick part from the top of a can of coconut milk until the oil separates out, so you can fry curry paste in it, as in "Crack the coconut milk". Coconut milk with emulsifiers or stabilisers may not crack. |
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Doneness | the raw {ingredient} smell has gone | no longer smells raw | For frying curry paste, as in "the raw shallot and garlic smell has gone". |
 | Doneness | until fragrant | until aromatic | |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out", and again when you fry curry paste in it. |
-| Doneness | until it darkens a shade | until it deepens in colour | For frying curry paste: its colour deepens slightly as it cooks. |
+| Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices and dried chillies, as in "until they're fragrant and darken a shade". |
 | Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
@@ -289,7 +295,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the crispy fried shallots". |
 | Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when to give a vacuum-packed time. |
 | Storing and reheating | refrigerate | chill | |
-| Storing and reheating | thaw | defrost | As in "Thaw in the fridge overnight". |
+| Storing and reheating | thaw | defrost | As in "thaw them in the fridge overnight". |
+| Storing and reheating | straight from frozen | | Cooked without thawing first, as in "The paste can be fried straight from frozen". |
 | Storing and reheating | reheat | warm up, heat up | |
 | Storing and reheating | steaming hot all the way through | piping hot, heated through | The food safety test for reheated food. |
 
@@ -317,7 +324,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | Label | Don't use | Notes |
 | --- | --- | --- |
 | (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "12 g ginger, peeled and finely chopped (about a 3 cm piece)". |
-| (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g shallots, roughly chopped (about 3)". |
+| (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g Thai shallots, roughly chopped (about 8)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
 | ({fraction} of a palm sugar block) | ({fraction} of a block of palm sugar), ({fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp palm sugar, grated (¼ of a palm sugar block)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
@@ -334,8 +341,9 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 
 | Step title | Don't use | Notes |
 | --- | --- | --- |
-| Soak the chillies | | |
-| Toast and grind the spices | | |
+| Toast and soak the chillies | | |
+| Toast the spices | | |
+| Grind the spices | | |
 | Blend the paste | Blitz the paste, Process the paste | |
 | Blend in the spices | Add the spices, Add the ground spices | Adding ground spices to a paste you've just blended, and blending again. |
 | Crack the coconut milk | Break the coconut milk, Split the coconut milk | |
@@ -397,7 +405,7 @@ Where to buy ingredients, as named in **Notes and substitutions**.
 | --- | --- | --- |
 | Asian supermarkets | Asian grocers, Asian stores, oriental supermarkets | Here "Asian" means East and Southeast Asian, for ingredients such as galangal. |
 | Indian grocers | Indian shops, Indian supermarkets | For Indian ingredients, such as Kashmiri chillies. |
-| online | on the internet | As in "sold in Indian grocers and online". |
+| online | on the internet | As in "in Asian supermarkets or online". |
 
 ## Brands
 
@@ -409,7 +417,7 @@ Brands named in **Equipment** and **Notes and substitutions**. Write each one as
 | --- | --- | --- |
 | Aroy-D | Aroy D, AroyD | A Thai brand. Its coconut milk contains an emulsifier. |
 | Biona Organic | Biona (on its own) | A UK brand of organic food. Its coconut milk has no emulsifiers or stabilisers. |
-| Blendtec | BlendTec, Blend-Tec | A US brand of high-speed blenders. Write its wide, five-sided jar as "WildSide jar", which covers the newer WildSide+ Jar too. |
+| Blendtec | BlendTec, Blend-Tec | A US brand of high-speed blenders. Write its small jar for thick mixtures, which has a lid you turn to scrape the sides, as "Twister jar". |
 | Chaokoh | Chao Koh, ChaoKoh | A Thai brand. Its coconut milk contains an emulsifier. |
 
 ## Food labels
@@ -487,6 +495,8 @@ The website names at the start of each line in **Sources**, before the colon.
 | --- | --- | --- |
 | America's Test Kitchen | americastestkitchen.com | Americas Test Kitchen, ATK |
 | Biona Organic | biona.co.uk | Biona (on its own) |
+| Blendtec | blendtec.com | BlendTec, Blend-Tec |
+| Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |

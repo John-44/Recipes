@@ -51,7 +51,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 3: Fry the paste.** Stir in the curry paste and fry it in the oil over medium heat, stirring often, until it darkens a shade, the raw shallot and garlic smell has gone and the oil separates out again, 5–8 minutes (3–5 minutes for store-bought paste). If it starts to stick, stir in 1 tbsp of the rest of the coconut milk.
 
-> **Tip:** Under-fried paste is a common reason homemade curry tastes raw. Homemade paste is wetter than store-bought, so it takes longer to fry.
+> **Tip:** Under-fried paste is a common reason homemade curry tastes raw. Homemade paste is wetter than store-bought, and the wetter it is the longer it takes to fry.
 
 **Step 4: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, lime leaves, fish sauce, palm sugar, MSG and half the tamarind paste (1 tsp). Bring to a gentle simmer over medium heat, then cook, uncovered, over medium-low heat until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice. Toast the crispy fried shallots too, in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes.
 
