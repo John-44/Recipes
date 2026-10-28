@@ -49,8 +49,6 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 > **Tip:** Thai curry recipes expect a thick paste. Starting with the soft, wet ingredients gets the paste moving, so it blends without extra water.
 
-> **Tip:** Long blending on the highest speed warms the paste, and heat dulls the fresh aroma of the lemongrass and galangal.
-
 **Step 5: Blend in the spices.** Add the ground spices to the high-speed blender and blend them in the same way as in Step 4, leaving the jar to cool whenever it feels warm, until very smooth. Rub a little between your fingers: it shouldn't feel gritty.
 
 **Step 6: Use or store.** Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
