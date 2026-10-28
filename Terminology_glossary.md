@@ -74,7 +74,8 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Family | Term | Short name | Don't use | Notes |
 | --- | --- | --- | --- | --- |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
-| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". |
+| Seafood | head fat | head fat | tomalley, prawn fat, man goong | The prawn's hepatopancreas: the soft, orange organ in its head, which holds much of its flavour. The first time, write "the rich hepatopancreas (head fat)". |
+| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought with their heads on, write "head-on prawns". |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
 | Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
 | Aromatics | shallots | shallots | eschalots, French shallots | The ordinary shallots sold in UK supermarkets. Not crispy fried shallots. |
@@ -107,6 +108,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
 | Seasonings | fish sauce | fish sauce | nam pla, Thai fish sauce | Not vegetarian. |
 | Seasonings | MSG | MSG | monosodium glutamate, umami seasoning | A seasoning that adds savoury depth. Packs may call it umami seasoning or E621. |
+| Seasonings | prik nam pla | prik nam pla | nam pla prik, phrik nam pla, chilli fish sauce | A Thai table condiment of sliced bird's eye chillies in fish sauce, for each person to add heat and salt. Not vegetarian. |
 | Seasonings | Thai shrimp paste | shrimp paste | kapi, Thai prawn paste, fermented shrimp paste | "Shrimp" is right here, even though the recipes say "prawns" everywhere else. Not vegetarian. |
 | Seasonings | white miso | white miso | shiro miso, white miso paste, miso (on its own) | |
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |
@@ -217,7 +219,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Chopping | finely chopped | minced | Chopped into very small pieces. In the UK, "minced" means put through a mincer. |
 | Chopping | roughly chopped | coarsely chopped | |
 | Slicing | finely sliced | thinly sliced | In notes, "sliced" on its own is fine, as in "sliced bird's eye chillies". |
-| Cutting | cut into thin wedges | sliced into wedges | For onions. |
+| Cutting | cut into thick wedges | sliced into wedges | For onions, so they hold their shape as they simmer. |
 | Cutting | cut into {size} cm chunks | cubed | As in "cut into 2 cm chunks". |
 | Cutting | cut into bite-size pieces | cut into bite-sized pieces | |
 | Grating | zest | rind, grated peel | Finely grated citrus peel, as in "the zest of 1 lime". |
@@ -237,6 +239,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Blending and grinding | Blending, grinding and pounding | Electric first, then by hand; A to Z within each |
 | Heat levels | How hot the hob is | Least heat to most |
 | Heating liquids | Simmering and boiling | Least heat to most |
+| Covering | Whether the pan has a lid on | Least covered to most |
 | Frying and toasting | Cooking in a pan with little or no liquid | Least fat to most |
 | Stirring | How often to stir | Least often to most |
 | Doneness | How to tell when something is ready | By the sense you check with: smell, then sight, then touch; A to Z within each |
@@ -265,12 +268,16 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Heating liquids | bring to a gentle simmer | bring to a low simmer | |
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
 | Heating liquids | bring to the boil | bring to a boil | |
+| Covering | uncovered | lid off, without a lid | With no lid on the pan, so the liquid reduces as it simmers, as in "cook, uncovered, over medium-low heat". |
 | Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
 | Frying and toasting | crack | break, split | Simmer the thick part from the top of a can of coconut milk until the oil separates out, so you can fry curry paste in it, as in "Crack the coconut milk". Coconut milk with emulsifiers or stabilisers may not crack. |
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
-| Doneness | until fragrant | until aromatic | Also "until thick and fragrant", for frying paste. |
-| Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out". |
+| Doneness | the raw {ingredient} smell has gone | no longer smells raw | For frying curry paste, as in "the raw shallot and garlic smell has gone". |
+| Doneness | until fragrant | until aromatic | |
+| Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out", and again when you fry curry paste in it. |
+| Doneness | until it darkens a shade | until it deepens in colour | For frying curry paste: its colour deepens slightly as it cooks. |
+| Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
 | Doneness | until soft | until softened | |
@@ -278,7 +285,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Texture problems | grainy | mealy | What potatoes go when frozen. |
 | Texture problems | rubbery | chewy | What prawns go when overcooked or frozen. |
 | Cooling | leave to cool | let cool, allow to cool | |
-| Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the Thai basil or coriander leaves". |
+| Finishing | drizzle | trickle | Pour in a thin stream over the top, as in "drizzle the rest of the coconut cream on top in a spiral". |
+| Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the crispy fried shallots". |
 | Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when to give a vacuum-packed time. |
 | Storing and reheating | refrigerate | chill | |
 | Storing and reheating | thaw | defrost | As in "Thaw in the fridge overnight". |
@@ -308,7 +316,6 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 
 | Label | Don't use | Notes |
 | --- | --- | --- |
-| (about a handful) | (a large handful), (a good handful), (a small bunch) | A rough guide for herbs and leaves, which are weighed, as in "10 g Thai basil or coriander leaves (about a handful)". For more, write "(about 2 handfuls)". |
 | (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "12 g ginger, peeled and finely chopped (about a 3 cm piece)". |
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g shallots, roughly chopped (about 3)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
@@ -317,7 +324,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 1)". |
 | (optional) | (if you like), (if using) | For something the cook can leave out. |
 | (thawed if frozen) | (defrosted if frozen) | |
-| (used in Steps {number} and {number}) | (divided), (split), (half now, half later) | For an ingredient added in more than one step, as in "2 tsp tamarind paste (used in Steps 3 and 6)". |
+| (used in Steps {number} and {number}) | (divided), (split), (half now, half later) | For an ingredient added in more than one step, as in "2 tsp tamarind paste (used in Steps 4 and 6)". For three steps, write "(used in Steps 1, 3 and 4)". |
 
 ### Step titles
 
@@ -332,11 +339,12 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 | Blend the paste | Blitz the paste, Process the paste | |
 | Blend in the spices | Add the spices, Add the ground spices | Adding ground spices to a paste you've just blended, and blending again. |
 | Crack the coconut milk | Break the coconut milk, Split the coconut milk | |
+| Fry the prawn heads | | Frying the heads of head-on prawns in oil, to draw out their head fat. |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Simmer the potatoes | | |
 | Add the coconut cream | | |
-| Cook the prawns | | |
 | Taste and adjust | Season to taste, Adjust the seasoning, Check the seasoning | |
+| Cook the prawns | | |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
 | Use or store | Store the paste | The last step of a component recipe. |
 
@@ -348,7 +356,7 @@ Phrases that send the cook to another step or note, or to instructions outside t
 
 | Term | Don't use | Notes |
 | --- | --- | --- |
-| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 3" or "carry on from Step 4". For more than one step, write "Steps 3 and 6". |
+| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 4" or "carry on from Step 5". For more than one step, write "Steps 4 and 6" or "Steps 1, 3 and 4". |
 | (see **{topic}**) | (see above), (see below), (see the note above) | Sends the cook to a note in **Notes and substitutions**, using its bold topic, as in "(see **Ground spices**)". Use it in other notes and in **Before you start**. |
 
 ### Note topics

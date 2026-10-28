@@ -45,14 +45,14 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 **Step 4: Blend in the spices.** Add the ground spices to the high-speed blender and blend them in the same way as in Step 3, until very smooth. Rub a little between your fingers: it shouldn't feel gritty.
 
-**Step 5: Use or store.** Use half the paste (about 125 g) for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
+**Step 5: Use or store.** Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
 
 ## Notes and substitutions
 
 - **Dried chillies:** Kashmiri chillies, sold in Indian grocers and online, add colour without much heat. Mexican guajillo chillies work too.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets. If you can't find it, use the same amount of extra ginger plus the zest of 1 lime.
-- **Fresh turmeric:** If you can't find it, use 1½ tsp ground turmeric.
+- **Fresh turmeric:** If you can't find it, use 1 tsp ground turmeric.
 - **Coriander roots:** Look for them in Asian supermarkets. If you can't find any, use the same weight of tender coriander stalks.
 - **More heat:** Swap 2 or 3 of the mild chillies for small, hot dried chillies, such as bird's eye.
 - **Vegetarian:** Leave out the shrimp paste, or use 2 tsp white miso instead.
@@ -83,7 +83,7 @@ A mild, fragrant curry paste made from dried red chillies, lemongrass, galangal,
 
 ## Sources
 
-- Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, and the freezing tip.
+- Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, how much ground turmeric to use instead of fresh, and the freezing tip.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Toasting the spices, slicing the fresh ingredients finely, the weight of the lemongrass, the amount of coriander roots and the coriander stalks swap, and storage times.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, and the warning about turmeric stains.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed.
