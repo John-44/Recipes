@@ -39,9 +39,9 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 - 300 g jasmine rice
 - 2 tbsp crispy fried shallots
-- 10 g Thai basil or coriander leaves (about a handful) (optional)
+- 10 g Thai basil or coriander leaves (optional)
 - 1 red chilli, finely sliced (optional)
-- Prik nam pla (sliced bird's eye chillies in fish sauce), as an accompanying condiment (optional)
+- Prik nam pla as an accompanying condiment (optional)
 
 ## Directions
 
@@ -57,7 +57,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 > **Tip:** Tamarind paste varies a lot in sourness from brand to brand, which is why half of it waits until Step 6.
 
-**Step 5: Add the coconut cream.** Stir in the coconut cream, keeping back 4 tbsp for Step 8, and bring to a gentle simmer over medium heat, 2–3 minutes.
+**Step 5: Add the coconut cream.** Stir in the coconut cream, keeping back 3 tbsp for Step 8, and bring to a gentle simmer over medium heat, 2–3 minutes.
 
 **Step 6: Taste and adjust.** Taste the sauce: it should be rich, savoury and slightly sweet, with a hint of sourness. Add more fish sauce if it needs salt, or more palm sugar if it needs sweetness. If it isn't sour enough, stir in the rest of the tamarind paste a little at a time.
 
@@ -65,7 +65,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 > **Tip:** The prawns keep cooking in the hot sauce, and overcooked prawns go rubbery. If they curl into a tight O, they've gone too far.
 
-**Step 8: Serve the curry.** Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil or coriander leaves and chilli, if you're using them. Serve the prik nam pla on the side, if you're using it.
+**Step 8: Serve the curry.** Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil or coriander leaves and chilli. Optionally serve prik nam pla on the side.
 
 > **Tip:** Toasting the crispy fried shallots freshens them up and makes them crisper.
 
@@ -84,7 +84,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - **Fridge:** Up to 2 days in an airtight container. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
 - **Freezer:** Not recommended. The potatoes go grainy and the prawns turn rubbery.
 - **Make ahead:** Make the curry up to the end of Step 4, leaving the rice and crispy fried shallots until the day you serve it. Cool it, and refrigerate for up to 2 days. Reheat until simmering, then carry on from Step 5.
-- **Reheat:** Take out the prawns, then reheat the curry gently on the hob until steaming hot all the way through. Stir the prawns back in and simmer for 1–2 minutes, until they're steaming hot too, so they don't go rubbery.
+- **Reheat:** Take out the prawns, then reheat the curry gently on the hob until steaming hot all the way through. Stir the prawns back in and simmer for 1–2 minutes, so they don't become rubbery.
 
 ## Origin
 
