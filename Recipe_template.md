@@ -244,7 +244,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 ```markdown
 - 400 g peeled raw king prawns, deveined
 - 2 lemongrass stalks, top half and tough outer layers removed, finely sliced
-- 1 can (400 ml) coconut milk (used in Steps 1, 3 and 4)
+- 1 can (400 ml) full-fat coconut milk (used in Steps 1, 3 and 4)
 - 1 tbsp coconut oil (only if needed, see Step 1)
 - 150 g [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
 - 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
@@ -277,7 +277,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - 1 tsp = 5 ml and 1 tbsp = 15 ml. Spoon measures are level unless the recipe says "heaped".
 - A standard can is 400 g (or 400 ml for liquids such as coconut milk). Always give the size in brackets: `1 can (400 g) chickpeas, drained and rinsed`, `2 cans (400 g each) chopped tomatoes`.
 - Cartons come in several sizes, so say whether you need a small or large one, and always give its size in brackets: `1 small carton (250 ml) coconut cream`.
-- If you only use part of a can or carton, give the amount in g or ml instead: `200 ml coconut milk`.
+- If you only use part of a can or carton, give the amount in g or ml instead: `200 ml full-fat coconut milk`.
 - Don't use cups. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
 - Round to amounts that are easy to measure: `250 g`, not `247 g`. Switch to kg and L from 1,000: `1.2 kg`, `1.5 L`.
 - Use ½, ⅓, ⅔, ¼ and ¾ with spoons, cans and counts (`1½ tsp`). Don't use fractions with g or ml.
