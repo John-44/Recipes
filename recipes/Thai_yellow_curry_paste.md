@@ -55,7 +55,7 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 ## Notes and substitutions
 
-- **Dried chillies:** Look for dried Thai spur chillies in Asian supermarkets or online. If you can't find them, use the same weight of Kashmiri chillies (sold in Indian grocers and online) or Mexican guajillo chillies, which both add colour without much heat.
+- **Dried chillies:** Look for dried Thai spur chillies in Asian supermarkets or online. If you can't find them, use the same weight of Kashmiri chillies (sold in Indian grocers) or Mexican guajillo chillies, which both add colour without much heat.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets. If you can't find it, use the same amount of extra ginger plus the zest of 1 lime.
 - **Fresh turmeric:** If you can't find it, use 1 tsp ground turmeric.

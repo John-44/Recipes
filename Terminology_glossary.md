@@ -405,7 +405,7 @@ Where to buy ingredients, as named in **Notes and substitutions**.
 | --- | --- | --- |
 | Asian supermarkets | Asian grocers, Asian stores, oriental supermarkets | Here "Asian" means East and Southeast Asian, for ingredients such as galangal. |
 | Indian grocers | Indian shops, Indian supermarkets | For Indian ingredients, such as Kashmiri chillies. |
-| online | on the internet | As in "sold in Indian grocers and online". |
+| online | on the internet | As in "in Asian supermarkets or online". |
 
 ## Brands
 
