@@ -4,7 +4,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
-| 15 min | 45 min | 1 hr | 4 |
+| 15 min | 50 min | 1 hr 5 min | 4 |
 
 ## Before you start
 
@@ -83,7 +83,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 - **Fridge:** Up to 2 days in an airtight container. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
 - **Freezer:** Not recommended. The potatoes go grainy and the prawns turn rubbery.
-- **Make ahead:** Make the curry up to the end of Step 4, leaving the rice and crispy fried shallots until the day you serve it. Cool it, and refrigerate for up to 2 days. Reheat until simmering, then carry on from Step 5.
+- **Make ahead:** Make the curry up to the end of Step 4, leaving the rice and crispy fried shallots until the day you serve it. Cool it, and refrigerate for up to 2 days. Reheat until simmering, then carry on from Step 5. Don't keep fresh or thawed prawns in the fridge for more than 24 hours, so if you won't have them until the day you serve, skip Step 2.
 - **Reheat:** Take out the prawns, then reheat the curry gently on the hob until steaming hot all the way through. Stir the prawns back in and simmer for 1–2 minutes, so they don't become rubbery.
 
 ## Origin
