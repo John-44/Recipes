@@ -296,7 +296,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when to give a vacuum-packed time. |
 | Storing and reheating | refrigerate | chill | |
 | Storing and reheating | thaw | defrost | As in "thaw them in the fridge overnight". |
-| Storing and reheating | straight from frozen | | Cooked without thawing first, as in "You can fry it straight from frozen". |
+| Storing and reheating | straight from frozen | | Cooked without thawing first, as in "The paste can be fried straight from frozen". |
 | Storing and reheating | reheat | warm up, heat up | |
 | Storing and reheating | steaming hot all the way through | piping hot, heated through | The food safety test for reheated food. |
 

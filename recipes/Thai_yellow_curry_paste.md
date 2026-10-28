@@ -67,7 +67,7 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 ## Storage and make-ahead
 
 - **Fridge:** Up to 1 week in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
-- **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. You can fry it straight from frozen, so there's no need to thaw it.
+- **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
 
 ## Used in
 
