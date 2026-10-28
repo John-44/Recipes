@@ -427,7 +427,7 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
 - [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
-- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, saying what the dish should taste like and how to fix each thing that's off.
+- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
 - [ ] Every step number the recipe mentions, in any section, points to the right step.
 - [ ] **Equipment** lists every piece of kit beyond the basics that the recipe uses, including protective kit.
