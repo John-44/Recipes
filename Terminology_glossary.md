@@ -158,7 +158,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | pot | |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
-| Utensils | kitchen paper | kitchen roll, kitchen towel, paper towels | For patting food dry, as in "pat the prawns dry with kitchen paper". |
+| Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "pat the prawns dry with kitchen roll". |
 | Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
@@ -267,7 +267,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
-| Before cooking | pat dry | blot, dab dry | Press kitchen paper onto food to soak up the water on its surface, as in "pat the prawns dry with kitchen paper". |
+| Before cooking | pat dry | blot, dab dry | Press kitchen roll onto food to soak up the water on its surface, as in "pat the prawns dry with kitchen roll". |
 | Blending and grinding | blend | blitz, process | Wet ingredients, to a paste, with a high-speed blender or stick blender. |
 | Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder". |
 | Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |

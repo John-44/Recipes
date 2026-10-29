@@ -69,7 +69,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 8: Toast the crispy fried shallots.** Toast the crispy fried shallots in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes.
 
-**Step 9: Cook the prawns.** While the crispy fried shallots are toasting, pat the prawns dry with kitchen paper, then add them to the curry sauce and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
+**Step 9: Cook the prawns.** While the crispy fried shallots are toasting, pat the prawns dry with kitchen roll, then add them to the curry sauce and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
 > **Tip:** The prawns keep cooking in the hot sauce, and overcooked prawns go rubbery. If they curl into a tight O, they've gone too far.
 
