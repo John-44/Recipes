@@ -345,7 +345,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 
 ### Step titles
 
-The level 3 (`###`) step headings in **Directions**. Reuse a title when a step does the same job.
+The level 4 (`####`) step headings in **Directions**. Reuse a title when a step does the same job.
 
 **Order:** the order they'd usually happen in a recipe: getting ready, cooking, then finishing.
 

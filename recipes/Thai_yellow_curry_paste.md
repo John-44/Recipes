@@ -35,7 +35,7 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 ## Directions
 
-### Step 1: Toast and soak the chillies.
+#### Step 1: Toast and soak the chillies.
 
 - Wipe the dust off the chillies with a damp cloth, then split them open lengthways with scissors and scrape out the seeds.
 - Toast them in a dry frying pan over medium heat, pressing them flat with the back of a spoon, until they're fragrant and darken a shade, about 30 seconds a side. Stop before they blacken.
@@ -44,17 +44,17 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 > **Tip:** Dried chillies burn in seconds, and burnt chillies make the paste bitter.
 
-### Step 2: Toast the spices.
+#### Step 2: Toast the spices.
 
 While the chillies soak, toast the coriander seeds in the dry frying pan over medium-low heat for 1 minute, shaking the pan. Add the cumin seeds and white peppercorns and keep shaking the pan until they're all fragrant and darken a shade, 1–2 minutes more. Tip them into a small bowl straight away and leave to cool for 2 minutes.
 
 > **Tip:** The spices keep cooking in the hot pan, even off the heat, and burnt spices make the paste bitter.
 
-### Step 3: Grind the spices.
+#### Step 3: Grind the spices.
 
 Put the toasted spices and the curry powder in the high-speed blender and grind to a fine powder. Tip the ground spices back into the small bowl, ready for Step 5.
 
-### Step 4: Blend the paste.
+#### Step 4: Blend the paste.
 
 Put the 3 tbsp of soaking water, salt, MSG, chillies, shallots, garlic and shrimp paste in the high-speed blender, then add the lemongrass, galangal, ginger, fresh turmeric and coriander roots on top.
 
@@ -64,11 +64,11 @@ If the jar feels warm when you stop, leave it to cool before blending again. Try
 
 > **Tip:** Thai curry recipes expect a thick paste. Starting with the soft, wet ingredients gets the paste moving, so it usually blends without extra water.
 
-### Step 5: Blend in the spices.
+#### Step 5: Blend in the spices.
 
 Add the ground spices to the high-speed blender and blend them in the same way as in Step 4, leaving the jar to cool whenever it feels warm, until very smooth. Rub a little between your fingers: it shouldn't feel gritty.
 
-### Step 6: Use or store.
+#### Step 6: Use or store.
 
 Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
 

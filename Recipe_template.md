@@ -75,13 +75,13 @@ Keep the sections in this order.
 
 ## Directions
 
-### Step 1: {Short title}.
+#### Step 1: {Short title}.
 
 {What to do, how hot, how long, and how to tell when it's done.}
 
 > **Tip:** {Why something matters, or what can go wrong.}
 
-### Step 2: {Short title}.
+#### Step 2: {Short title}.
 
 {...}
 
@@ -293,16 +293,16 @@ Write each ingredient on its own line, in the order you use it, following this p
 
 ### Directions
 
-Start each step with a level 3 (`###`) heading containing the step number and short title. Leave a blank line before the instructions. A short step can have one paragraph of instructions. For a longer stage, use short paragraphs or an unnumbered list under the same step number:
+Start each step with a level 4 (`####`) heading containing the step number and short title. Leave a blank line before the instructions. A short step can have one paragraph of instructions. For a longer stage, use short paragraphs or an unnumbered list under the same step number:
 
 ```markdown
-### Step 1: Prep the prawns.
+#### Step 1: Prep the prawns.
 
 Peel and devein the prawns, keeping the heads for Step 3.
 
 Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out the salt if the label on the prawns lists salt, and the bicarbonate of soda if it lists a stabiliser. Refrigerate them until Step 9.
 
-### Step 2: Crack the coconut milk.
+#### Step 2: Crack the coconut milk.
 
 - Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across.
 - Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
@@ -323,7 +323,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
 - Use the same ingredient names as the ingredient list, or shorten them as far as their [glossary](Terminology_glossary.md#ingredients) short names: "the prawns" for raw king prawns. Only repeat an amount when you add an ingredient in more than one step: "Add half the coconut milk (200 ml)."
-- If the recipe has separate parts, such as a marinade and a sauce, you can introduce each group of steps with a bold label matching its ingredient group, such as `**For the marinade**`. Reserve `###` headings in the directions for steps. A `### To serve` ingredient group doesn't need a label. Keep counting steps across groups. Don't restart at Step 1.
+- If the recipe has separate parts, such as a marinade and a sauce, you can introduce each group of steps with a bold label matching its ingredient group, such as `**For the marinade**`. Reserve `####` headings in the directions for steps. A `### To serve` ingredient group doesn't need a label. Keep counting steps across groups. Don't restart at Step 1.
 - When you add, remove or reorder steps, update every step number the recipe mentions to match: in ingredient labels, **Before you start**, other steps, tips, **Notes and substitutions** and **Storage and make-ahead**.
 - For a savoury dish, add a **Taste and adjust** step at the last point where the seasoning can still change. That's near the end for a sauce, soup, stew or curry, or before baking for a pie filling. If the dish finishes with something that cooks in a few minutes, such as prawns, put the step just before it goes in, so it doesn't overcook while you taste. Leave it out where there's no such point, such as for bread or a roast, and for a raw paste or spice mix, which you can't judge by tasting.
 - In the **Taste and adjust** step, say what the dish should taste like, such as "rich, savoury and slightly sweet, with a hint of sourness", what to add to fix each thing that's off, and how much to add at a time, such as "Adjust it ½ tsp at a time: more fish sauce if it needs salt". If it's eaten with something plain, such as rice, say how that changes the target, as in "It's eaten with plain rice, so it should be strongly seasoned". If the cook might thin or thicken it, give a target for how thick it should be too.
@@ -334,7 +334,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
 A tip is the advice a professional chef, or a cook from where the dish comes from, would give someone making it for the first time. It goes directly under the step it's about, as a quote:
 
 ```markdown
-### Step 9: Cook the prawns.
+#### Step 9: Cook the prawns.
 
 Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
@@ -446,7 +446,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
 - [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
-- [ ] Every step title uses a level 3 (`###`) heading, with a blank line before the instructions.
+- [ ] Every step title uses a level 4 (`####`) heading, with a blank line before the instructions.
 - [ ] Longer steps use short paragraphs or bullets where helpful, with actions after a substantial wait in a separate paragraph or bullet.
 - [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off, with how much to add at a time.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
