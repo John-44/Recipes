@@ -246,8 +246,8 @@ Write each ingredient on its own line, in the order you use it, following this p
 ```markdown
 - 400 g peeled raw king prawns, deveined
 - 2 lemongrass stalks, top half and tough outer layers removed, finely sliced
-- 1 can (400 ml) full-fat coconut milk (used in Steps 1, 3 and 4)
-- 1 tbsp coconut oil (only if needed, see Step 1)
+- 1 can (400 ml) full-fat coconut milk (used in Steps 2, 4 and 5)
+- 1 tbsp coconut oil (only if needed, see Step 2)
 - 150 g [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
 - 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
 - 10 g Thai basil leaves (about a handful)
@@ -259,7 +259,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - The amount is measured before the preparation after the comma: `12 g galangal, peeled and finely chopped` means weigh it, then peel and chop it. If you mean the amount after preparing, put the state before the name: `400 g peeled raw king prawns`, `1 tbsp grated palm sugar`.
 - Use brackets for short notes only, such as `(optional)` or a quick swap. Put longer advice in **Notes and substitutions**, or in a [tip](#tips) if it's about technique.
 - Use `(optional)` for something the cook can leave out. For a fallback they only need if something goes wrong, use `(only if needed, see Step {number})` instead, so they still have it to hand.
-- If you add an ingredient in more than one step, such as half in Step 4 and the rest in Step 6, say which steps: `2 tsp tamarind paste (used in Steps 4 and 6)`. Otherwise a cook who has measured everything out may add it all at once.
+- If you add an ingredient in more than one step, such as half in Step 5 and the rest in Step 7, say which steps: `2 tsp tamarind paste (used in Steps 5 and 7)`. Otherwise a cook who has measured everything out may add it all at once.
 - If the **Taste and adjust** step might add more of an ingredient, end its line with `plus extra to taste`, after any note in brackets: `1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste`.
 - Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water and soak until soft". That includes soaking water you keep for a later step, as in "Drain, keeping 3 tbsp of the soaking water". Do list water when it's a measured part of the dish, such as `500 ml water` for a soup.
 - If the recipe has distinct parts, group the ingredients under `###` subheadings, such as `### For the marinade` and `### To serve`.
@@ -291,9 +291,9 @@ Write each ingredient on its own line, in the order you use it, following this p
 Write each step as its own paragraph, starting with a bold step number and a short title:
 
 ```markdown
-**Step 1: Crack the coconut milk.** Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across. Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
+**Step 1: Prep the prawns.** Peel and devein the prawns, keeping the heads for Step 3. Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out the salt if the label on the prawns lists salt, and the bicarbonate of soda if it lists a stabiliser. Refrigerate them until Step 9.
 
-**Step 2: Fry the prawn heads.** If you're using head-on prawns, fry the heads in the oil over medium heat, pressing them with the back of a spoon to squeeze out the rich hepatopancreas (head fat) and juices, until the oil turns orange, 2–3 minutes. Lift out the heads and any bits of hard shell.
+**Step 2: Crack the coconut milk.** Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across. Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
 ```
 
 - Each step covers one stage of cooking. Keep it short, but never by moving an action, a time or a doneness cue out of it.
@@ -320,7 +320,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 A tip is the advice a professional chef, or a cook from where the dish comes from, would give someone making it for the first time. It goes directly under the step it's about, as a quote:
 
 ```markdown
-**Step 8: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
+**Step 9: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
 > **Tip:** The prawns keep cooking in the hot sauce. If they curl into a tight O, they've gone too far.
 ```
