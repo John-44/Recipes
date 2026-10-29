@@ -150,7 +150,6 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Bowls and jugs | bowl | | As in "a small bowl". Use a heatproof bowl for anything hot. |
 | Bowls and jugs | heatproof bowl | heat-proof bowl, heat-resistant bowl | |
 | Bowls and jugs | jug | pitcher, beaker | For a stick blender, ask for "a tall, narrow jug". |
-| Plates | plate | | For getting food out of a hot pan, as in "then tip them onto a plate". |
 | Plates | saucer | | For keeping food under water while it soaks, as in "with a saucer on top to keep them under the water". |
 | Blending and grinding | high-speed blender | high speed blender, high-powered blender, power blender | A powerful blender, such as a Blendtec, that grinds whole spices as well as blending pastes. Not a stick blender. |
 | Blending and grinding | jar | blender container, blender cup | The part of a high-speed blender that holds the food, as in "If the jar feels warm". |
