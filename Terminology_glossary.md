@@ -281,7 +281,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Heat levels | medium-high heat | medium high heat, med-high heat | |
 | Heating liquids | bring to a gentle simmer | bring to a low simmer | |
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
-| Heating liquids | bring to the boil | bring to a boil | |
+| Heating liquids | bring to boil | bring to a boil, bring to the boil | |
 | Covering | uncovered | lid off, without a lid | With no lid on the pan, so the liquid reduces as it simmers, as in "cook, uncovered, over medium-low heat". |
 | Frying and toasting | roast | | Cook shallots or garlic, usually whole and in their skins, with no oil, until soft and golden, as in "Many recipes call for roasting the shallots and garlic". For spices, dried chillies, galangal and ginger, use toast. |
 | Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices, dried chillies, crispy fried shallots, galangal or ginger in a dry frying pan, with no oil, until fragrant. |
@@ -290,7 +290,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Doneness | the raw {ingredient} smell has gone | no longer smells raw | For frying curry paste, as in "the raw shallot and garlic smell has gone". |
 | Doneness | until fragrant | until aromatic | |
-| Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's very thick and the oil separates out", and again when you fry curry paste in it. |
+| Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's thick and the oil separates out", and again when you fry curry paste in it. |
 | Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices and dried chillies, as in "until they're fragrant and darken a shade". |
 | Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
@@ -316,7 +316,7 @@ Fixed wording for headings, labels and references, in the order they appear in a
 
 ### Ingredient group headings
 
-The `###` subheadings in **Ingredients**.
+The level 4 (`####`) subheadings in **Ingredients**.
 
 **Order:** as they'd appear in a recipe: "For the {part}" headings A to Z, then To serve.
 
@@ -345,7 +345,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 
 ### Step titles
 
-The bold titles in **Directions**. Reuse one when a step does the same job.
+The level 4 (`####`) step headings in **Directions**. Reuse a title when a step does the same job.
 
 **Order:** the order they'd usually happen in a recipe: getting ready, cooking, then finishing.
 
