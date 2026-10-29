@@ -305,7 +305,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
 #### Step 2: Crack the coconut milk.
 
 - Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across.
-- Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
+- Bring to boil over medium-high heat, then simmer over medium heat, stirring often, until it's thick and the oil separates out, 7–12 minutes.
 ```
 
 - Each step covers one stage of cooking. Keep it short, but never by moving an action, a time or a doneness cue out of it.

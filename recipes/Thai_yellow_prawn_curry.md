@@ -31,7 +31,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 300 g Charlotte or other waxy potatoes, peeled and cut into 2 cm chunks
 - 1 small onion, cut into thick wedges
 - 4 kaffir lime leaves, crumpled
-- 2 tsp tamarind paste (used in Steps 5 and 7)
+- 2 tsp tamarind paste (used in Steps 5 and 7), plus extra to taste
 - 1½ tbsp fish sauce, plus extra to taste
 - 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
 - ¼ tsp MSG
@@ -59,7 +59,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
 
 Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across.
 
-Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
+Bring to boil over medium-high heat, then simmer over medium heat, stirring often, until it's thick and the oil separates out, 7–12 minutes.
 
 If the oil hasn't separated out after 12 minutes, stir in the coconut oil.
 
@@ -91,7 +91,7 @@ Stir in the coconut cream, keeping back 3 tbsp for Step 10, and bring to a gentl
 
 Taste the sauce. It's eaten with plain rice, so it should be strongly seasoned: rich, savoury and slightly sweet, with a hint of sourness.
 
-Adjust it ½ tsp at a time: more fish sauce if it needs salt, more palm sugar if it needs sweetness, or the rest of the tamarind paste if it isn't sour enough.
+Adjust it ½ tsp at a time: more fish sauce if it needs salt, more palm sugar if it needs sweetness, or more tamarind paste if it isn't sour enough.
 
 #### Step 8: Toast the crispy fried shallots.
 
@@ -145,12 +145,12 @@ Yellow curry is closely linked to Thailand's Muslim community, and its curry pow
 ## Sources
 
 - America's Test Kitchen: [For Plump and Juicy Shrimp, Reach for the Baking Soda](https://www.americastestkitchen.com/articles/4247-for-plump-and-juicy-shrimp-reach-for-the-baking-soda). Tossing the prawns with bicarbonate of soda, how much to use, and refrigerating them for at least 15 minutes.
-- America's Test Kitchen: [Garlicky Broiled Shrimp](https://www.americastestkitchen.com/recipes/14570-garlicky-broiled-shrimp). Salting the prawns so they stay juicy, and leaving out the salt when the prawns already contain it.
-- America's Test Kitchen: [How to "Crack" Coconut Cream](https://www.americastestkitchen.com/how_tos/8358-how-to-crack-coconut-cream). How to crack the coconut milk and how long it takes, and frying the paste in oil instead.
+- America's Test Kitchen: [Garlicky Broiled Shrimp](https://www.americastestkitchen.com/recipes/14570-garlicky-broiled-shrimp). Salting the prawns so they stay juicy.
+- America's Test Kitchen: [How to "Crack" Coconut Cream](https://www.americastestkitchen.com/how_tos/8358-how-to-crack-coconut-cream). How to crack the coconut milk and how long it takes.
 - Biona Organic: [Organic Coconut Milk 400ml](https://biona.co.uk/products/biona-organic-coconut-milk-400ml). A coconut milk with no emulsifiers or stabilisers.
 - Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk until the oil separates out, the seasonings, holding back half the tamarind paste, how much homemade paste to use, cutting the onion thickly, crispy fried shallots as the main garnish and toasting them, and the dish's background.
-- Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating, and what Aroy-D contains.
-- Hot Thai Kitchen: [Thai Curry Master Class - Make Any Curry Without Recipes!](https://hot-thai-kitchen.com/thai-curry-master-class/). Seasoning the curry strongly, because it's eaten with plain rice.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, how many unpeeled prawns to buy, the cooking times, the garnishes and the chicken swap.
+- Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating.
+- Hot Thai Kitchen: [Thai Curry Master Class - Make Any Curry Without Recipes!](https://hot-thai-kitchen.com/thai-curry-master-class/). Season curry strongly, because it's eaten with plain rice.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, how many prawns to buy, the cooking times, the garnishes and the chicken swap.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). How much homemade paste one curry for 4 needs.
 - TODAY: [The Easiest Way to Tell If Shrimp Is Cooked or Overcooked](https://www.today.com/food/cook-smarter/how-to-tell-if-shrimp-is-cooked-or-overcooked-rcna230408). The C and O test for cooked prawns.
