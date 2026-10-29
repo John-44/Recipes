@@ -10,7 +10,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 
 - Ovenproof meat thermometer
 - Wire rack set in a baking tray
-- Cast-iron frying pan at least 24 cm across (or a heavy stainless-steel frying pan)
+- Cast iron skillet at least 24 cm across (or a heavy stainless-steel frying pan)
 - Tongs
 
 ## Ingredients
@@ -48,7 +48,7 @@ Wash the coriander leaves and stalks, and pat them dry with kitchen roll. Pick o
 
 #### Step 3: Sear the steak.
 
-When the steak reaches 41°C (35°C for rare), put the ghee in a cast-iron frying pan at least 24 cm across, and heat it over high heat until it starts to smoke, 3–5 minutes.
+When the steak reaches 41°C (35°C for rare), put the ghee in a cast iron skillet at least 24 cm across, and heat it over high heat until it starts to smoke, 3–5 minutes.
 
 As soon as the steak reaches 46°C (40°C for rare), take it out of the oven, remove the ovenproof meat thermometer, and lay the steak in the hot ghee. Sear it until deep brown, 90 seconds a side, then hold it on its edges with tongs and sear each edge for 30 seconds. Put the steak on a plate to rest while you make the sauce.
 
@@ -56,9 +56,9 @@ As soon as the steak reaches 46°C (40°C for rare), take it out of the oven, re
 
 #### Step 4: Fry the shallots and garlic.
 
-Take the frying pan off the heat and leave it to cool for 60 seconds. Add the shallots and fry them in the hot fat for 90 seconds, still off the heat, stirring all the time and scraping up the fond (the browned bits stuck to the bottom of the pan).
+Take the cast iron skillet off the heat and leave it to cool for 60 seconds. Add the shallots and fry them in the hot fat for 90 seconds, still off the heat, stirring all the time and scraping up the fond (the browned bits stuck to the bottom of the pan).
 
-Put the frying pan back over medium heat, add the garlic and fry, stirring all the time, until fragrant, 90 seconds.
+Put the cast iron skillet back over medium heat, add the garlic and fry, stirring all the time, until fragrant, 90 seconds.
 
 > **Tip:** Cast iron stays very hot after searing. The minute off the heat stops the shallots burning, while leaving them enough heat to sizzle and loosen the fond.
 
@@ -68,11 +68,11 @@ Pour in the wine, then add the finely chopped coriander leaves and stalks, musta
 
 #### Step 6: Reduce the sauce.
 
-Boil hard over high heat, stirring all the time and scraping the bottom of the frying pan to lift any fond that's left, until the sauce is thick enough to coat the back of a spoon, about 4 minutes. As it thickens, gradually turn the heat down to medium, so it doesn't burn on the bottom.
+Boil hard over high heat, stirring all the time and scraping the bottom of the cast iron skillet to lift any fond that's left, until the sauce is thick enough to coat the back of a spoon, about 4 minutes. As it thickens, gradually turn the heat down to medium, so it doesn't burn on the bottom.
 
 #### Step 7: Stir in the butter.
 
-Take the frying pan off the heat. Add the butter and stir it in, scraping up the last of the fond as it melts, until the sauce is glossy, about 1 minute.
+Take the cast iron skillet off the heat. Add the butter and stir it in, scraping up the last of the fond as it melts, until the sauce is glossy, about 1 minute.
 
 > **Tip:** Off the heat, the butter melts into the sauce and makes it glossy. If the sauce gets too hot once the butter is in, its fat comes out and floats on top in a greasy layer.
 

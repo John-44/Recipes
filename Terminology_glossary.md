@@ -171,10 +171,10 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Blending and grinding | spice grinder | spice mill | A small electric grinder for whole spices. A blade coffee grinder works too. |
 | Blending and grinding | stick blender | hand blender, immersion blender | |
 | Hob and pans | hob | stove, stovetop, cooktop | |
-| Hob and pans | cast-iron frying pan | cast iron frying pan, cast-iron skillet, cast iron skillet | Heavy, and holds its heat, so it's good for searing. |
-| Hob and pans | frying pan | skillet, fry pan | "A dry frying pan" has no oil in it, for toasting spices and dried chillies. |
+| Hob and pans | cast iron skillet | cast-iron skillet, cast iron frying pan, cast-iron frying pan | A heavy cast iron pan that holds its heat, so it's good for searing. Not a frying pan. |
+| Hob and pans | frying pan | fry pan | "A dry frying pan" has no oil in it, for toasting spices and dried chillies. Not a cast iron skillet. |
 | Hob and pans | non-stick frying pan | nonstick frying pan, non stick frying pan | Not for searing: it shouldn't be heated that hot. |
-| Hob and pans | stainless-steel frying pan | stainless steel frying pan | A heavy one can sear instead of a cast-iron frying pan. |
+| Hob and pans | stainless-steel frying pan | stainless steel frying pan | A heavy one can sear instead of a cast iron skillet. |
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | pot | |
 | Oven and trays | oven | | |
