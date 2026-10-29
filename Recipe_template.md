@@ -210,7 +210,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 ### Summary box
 
 - Write times as `10 min`, `1 hr` or `1 hr 30 min`.
-- **Start ahead:** if every cook must do something in **Before you start** 2 hr or more before Step 1, such as refrigerating a can or soaking beans, say how far ahead: `The night before` for an overnight wait, `The day before` for a longer one, or a time such as `4 hr`. Otherwise, delete the column.
+- **Start ahead:** how far ahead of Step 1 every cook has to begin anything in **Before you start** that takes time to work, such as refrigerating a can or soaking beans: `The night before` for an overnight wait, `The day before` for a longer one, or a time such as `1 hr`. If nothing has to be started ahead, delete the column.
 - **Prep time:** hands-on time preparing ingredients, such as chopping, measuring and pounding.
 - **Cook time:** time on the hob or in the oven. Write `None` if there's no cooking.
 - **Total time:** from Step 1 to the end of the last step, including any wait under 2 hr, such as soaking, marinating, resting or cooling. Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
@@ -224,7 +224,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 - Use it for anything the cook must do or know before Step 1, so nothing catches them out halfway through, such as:
   - Other recipes to make first, with their total time: `Make the [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) first (35 minutes), or use store-bought paste.`
-  - Anything that needs doing hours or a day ahead, such as thawing, soaking or marinating overnight. If every cook has to do it 2 hr or more before Step 1, show how far ahead in **Start ahead** too (see [Summary box](#summary-box)), and start the bullet with when to do it: "The night before, refrigerate the can of full-fat coconut milk…".
+  - Anything that needs doing hours or a day ahead, such as thawing, soaking or marinating overnight. If every cook has to do it, show how far ahead in **Start ahead** too (see [Summary box](#summary-box)), and start the bullet with when to do it: "The night before, refrigerate the can of full-fat coconut milk…".
   - Buying advice the recipe depends on. Send the cook to the note with the details, as in "(see **Coconut milk**)".
   - Safety advice and protective kit, such as gloves for fresh turmeric.
   - Anything else important that must be known before starting to make the recipe.
@@ -424,7 +424,7 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 
 - [ ] The file is in `recipes/` and named as described in [File names](#file-names).
 - [ ] The description is 100 words or fewer.
-- [ ] **Start ahead** says how far ahead to begin anything in **Before you start** that every cook must do 2 hr or more before Step 1. If there's nothing, the column has been deleted.
+- [ ] **Start ahead** says how far ahead of Step 1 every cook has to begin anything in **Before you start** that takes time to work. If there's nothing, the column has been deleted.
 - [ ] **Total time** runs from Step 1 to the end of the last step, with any wait of 2 hr or more in the steps after `plus`, and only counts overlaps that a step tells the cook to do.
 - [ ] **Before you start** has everything the cook must do or know before Step 1, including other recipes to make first and how long they take.
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list, apart from water for soaking, boiling or thinning.
