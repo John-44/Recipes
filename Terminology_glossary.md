@@ -76,7 +76,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | --- | --- | --- | --- | --- |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Seafood | head fat | head fat | tomalley, prawn fat, man goong | The prawn's hepatopancreas: the soft, orange organ in its head, which holds much of its flavour. The first time, write "the rich hepatopancreas (head fat)". |
-| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought with their heads on, write "head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
+| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
 | Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
 | Aromatics | Thai shallots | shallots | Asian shallots, red shallots, Thai red onions, hom daeng | Small red shallots, sold in Asian supermarkets. They're smaller than the shallots in UK supermarkets, which would need their own term. Not crispy fried shallots. |

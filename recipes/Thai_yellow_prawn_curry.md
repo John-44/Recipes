@@ -21,7 +21,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 ### For the curry
 
-- 800 g head-on raw king prawns (thawed if frozen)
+- 800 g whole head-on raw king prawns (thawed if frozen)
 - ½ tsp coarse sea salt
 - ¼ tsp bicarbonate of soda
 - 1 can (400 ml) full-fat coconut milk (used in Steps 2, 4 and 5)
