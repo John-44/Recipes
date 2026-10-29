@@ -58,7 +58,7 @@ Put the toasted spices and the curry powder in the high-speed blender and grind 
 
 Put the 3 tbsp of soaking water, salt, MSG, chillies, shallots, garlic and shrimp paste in the high-speed blender, then add the lemongrass, galangal, ginger, fresh turmeric and coriander roots on top.
 
-Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. If you're using a Twister jar, keep turning the lid anticlockwise the whole time it's blending.
+Blend on the highest speed in short bursts, stopping to scrape down the sides, until the paste has no perceptible woody fibres or gritty particles. If you're using a Twister jar, keep turning the lid anticlockwise the whole time it's blending.
 
 If the jar feels warm when you stop, leave it to cool before blending again. Try not to add extra water. If the paste stops moving, add water 1 tsp at a time, just until it moves again.
 
@@ -66,7 +66,7 @@ If the jar feels warm when you stop, leave it to cool before blending again. Try
 
 #### Step 5: Blend in the spices.
 
-Add the ground spices to the high-speed blender and blend them in the same way as in Step 4, leaving the jar to cool whenever it feels warm, until very smooth. Rub a little between your fingers: it shouldn't feel gritty.
+Add the ground spices to the high-speed blender and blend just until evenly incorporated and smooth, leaving the jar to cool whenever it feels warm. Rub a little between your fingers: it shouldn't feel gritty.
 
 #### Step 6: Use or store.
 
@@ -76,7 +76,7 @@ Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. F
 
 - **Dried chillies:** Look for dried Thai spur chillies in Asian supermarkets or online. If you can't find them, use the same weight of Kashmiri chillies (sold in Indian grocers) or Mexican guajillo chillies, which both add colour without much heat.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper. Skip Steps 2 and 3, and add them with the curry powder in Step 5.
-- **Galangal:** Look for it fresh or frozen in Asian supermarkets. If you can't find it, use the same amount of extra ginger plus the zest of 1 lime.
+- **Galangal:** Look for it fresh or frozen in Asian supermarkets.
 - **Fresh turmeric:** If you can't find it, use 1 tsp ground turmeric, and add it with the ground spices in Step 5.
 - **Coriander roots:** Look for them in Asian supermarkets. If you can't find any, use the same weight of tender coriander stalks.
 - **More heat:** Swap 2 or 3 of the spur chillies for small, hot dried chillies, such as bird's eye.
@@ -111,7 +111,7 @@ Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. F
 
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, grinding the spices in a spice grinder, how much ground turmeric to use instead of fresh, and the freezing tip.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Using dried Thai spur chillies, toasting the spices, slicing the fresh ingredients finely, the weight of the lemongrass, how much a piece of fresh turmeric weighs, the amount of coriander roots and the coriander stalks swap, and storage times.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the galangal and turmeric swaps, and turmeric stains warning.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the turmeric swap, and turmeric stains warning.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long paste keeps in freezer when vacuum packed.
 - Blendtec: [Blending 101: How to Load a Jar](https://www.blendtec.com/blogs/news/blending-101-how-to-load-a-jar). Loading the soft, wet ingredients first and the hard ones on top.
 - Blendtec: [Twister Jar](https://www.blendtec.com/products/twister-jar). Turning the lid anticlockwise while it blends.
