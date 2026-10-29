@@ -75,11 +75,15 @@ Keep the sections in this order.
 
 ## Directions
 
-**Step 1: {Short title}.** {What to do, how hot, how long, and how to tell when it's done.}
+**Step 1: {Short title}.**
+
+{What to do, how hot, how long, and how to tell when it's done.}
 
 > **Tip:** {Why something matters, or what can go wrong.}
 
-**Step 2: {Short title}.** {...}
+**Step 2: {Short title}.**
+
+{...}
 
 ## Notes and substitutions
 
@@ -289,10 +293,12 @@ Write each ingredient on its own line, in the order you use it, following this p
 
 ### Directions
 
-Start each step with a bold step number and a short title. A short step can be one paragraph. For a longer stage, use short paragraphs or an unnumbered list under the same step number:
+Start each step with a bold step number and short title on one line. Leave a blank line before the instructions. A short step can have one paragraph of instructions. For a longer stage, use short paragraphs or an unnumbered list under the same step number:
 
 ```markdown
-**Step 1: Prep the prawns.** Peel and devein the prawns, keeping the heads for Step 3.
+**Step 1: Prep the prawns.**
+
+Peel and devein the prawns, keeping the heads for Step 3.
 
 Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out the salt if the label on the prawns lists salt, and the bicarbonate of soda if it lists a stabiliser. Refrigerate them until Step 9.
 
@@ -328,7 +334,9 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
 A tip is the advice a professional chef, or a cook from where the dish comes from, would give someone making it for the first time. It goes directly under the step it's about, as a quote:
 
 ```markdown
-**Step 9: Cook the prawns.** Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
+**Step 9: Cook the prawns.**
+
+Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
 > **Tip:** The prawns keep cooking in the hot sauce. If they curl into a tight O, they've gone too far.
 ```
@@ -438,6 +446,7 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
 - [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
+- [ ] Every bold step title is on its own line, with a blank line before the instructions.
 - [ ] Longer steps use short paragraphs or bullets where helpful, with actions after a substantial wait in a separate paragraph or bullet.
 - [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off, with how much to add at a time.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
