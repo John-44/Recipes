@@ -66,7 +66,7 @@ If the jar feels warm when you stop, leave it to cool before blending again. Try
 
 #### Step 5: Blend in the spices.
 
-Add the ground spices to the high-speed blender and blend just until evenly incorporated and smooth, leaving the jar to cool whenever it feels warm. Rub a little between your fingers: it shouldn't feel gritty.
+Add the ground spices to the high-speed blender and blend in short bursts, stopping to scrape down the sides, until evenly incorporated and smooth, leaving the jar to cool whenever it feels warm. Rub a little between your fingers: it shouldn't feel gritty.
 
 #### Step 6: Use or store.
 
