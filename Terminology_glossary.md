@@ -67,6 +67,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | Milks, stocks and water | Richest to thinnest |
 | Grains | Rice and other grains | A to Z |
 | Pasta and noodles | Pasta and noodles | A to Z |
+| Raising agents | Bicarbonate of soda, baking powder and yeast | A to Z |
 | Garnishes | Ready-made toppings | A to Z |
 
 **Terms:**
@@ -75,7 +76,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | --- | --- | --- | --- | --- |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Seafood | head fat | head fat | tomalley, prawn fat, man goong | The prawn's hepatopancreas: the soft, orange organ in its head, which holds much of its flavour. The first time, write "the rich hepatopancreas (head fat)". |
-| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought with their heads on, write "head-on prawns". |
+| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
 | Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
 | Aromatics | Thai shallots | shallots | Asian shallots, red shallots, Thai red onions, hom daeng | Small red shallots, sold in Asian supermarkets. They're smaller than the shallots in UK supermarkets, which would need their own term. Not crispy fried shallots. |
@@ -119,6 +120,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
+| Raising agents | bicarbonate of soda | bicarbonate of soda | baking soda, bicarb, bicarb of soda, sodium bicarbonate, bread soda | Not baking powder, which also contains an acid. Labels may call it sodium bicarbonate. |
 | Garnishes | crispy fried shallots | crispy fried shallots | fried shallots, crispy shallots, shallot crisps | Ready-made, for scattering over a dish. Not the same as Thai shallots. |
 
 ## Equipment
@@ -156,6 +158,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | pot | |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
+| Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "pat the prawns dry with kitchen roll". |
 | Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
@@ -217,7 +220,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
-| Trimming | deveined | de-veined | The dark vein along the back removed. For prawns bought peeled, as in "400 g peeled raw king prawns, deveined". |
+| Trimming | deveined | de-veined | The dark vein along the back removed, as in "Peel and devein the prawns". |
 | Trimming | stalks removed | stemmed, destemmed | For dried chillies. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
 | Peeling | peeled | shelled | For prawns too, as in "400 g peeled raw king prawns". |
@@ -263,6 +266,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
+| Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
+| Before cooking | pat dry | blot, dab dry | Press kitchen roll onto food to soak up the water on its surface, as in "pat the prawns dry with kitchen roll". |
 | Blending and grinding | blend | blitz, process | Wet ingredients, to a paste, with a high-speed blender or stick blender. |
 | Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder". |
 | Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |
@@ -328,10 +333,10 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (about {fraction} of a palm sugar block) | (about {fraction} of a block of palm sugar), (about {fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp grated palm sugar (about ¼ of a palm sugar block)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
-| (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 1)". |
+| (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 2)". |
 | (optional) | (if you like), (if using) | For something the cook can leave out. |
 | (thawed if frozen) | (defrosted if frozen) | |
-| (used in Steps {number} and {number}) | (divided), (split), (half now, half later) | For an ingredient added in more than one step, as in "2 tsp tamarind paste (used in Steps 4 and 6)". For three steps, write "(used in Steps 1, 3 and 4)". |
+| (used in Steps {number} and {number}) | (divided), (split), (half now, half later) | For an ingredient added in more than one step, as in "2 tsp tamarind paste (used in Steps 5 and 7)". For three steps, write "(used in Steps 2, 4 and 5)". |
 
 ### Step titles
 
@@ -341,6 +346,7 @@ The bold titles in **Directions**. Reuse one when a step does the same job.
 
 | Step title | Don't use | Notes |
 | --- | --- | --- |
+| Prep the prawns | Prepare the prawns, Clean the prawns | Getting prawns ready to cook, such as peeling and deveining them and tossing them with salt and bicarbonate of soda. |
 | Toast and soak the chillies | | |
 | Toast the spices | | |
 | Grind the spices | | |
@@ -365,7 +371,7 @@ Phrases that send the cook to another step or note, or to instructions outside t
 
 | Term | Don't use | Notes |
 | --- | --- | --- |
-| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 4" or "carry on from Step 5". For more than one step, write "Steps 4 and 6" or "Steps 1, 3 and 4". |
+| Step {number} | step 2, Step Two, the second step | A capital S and a digit, as in "in Step 5" or "carry on from Step 6". For more than one step, write "Steps 5 and 7" or "Steps 2, 4 and 5". |
 | (see **{topic}**) | (see above), (see below), (see the note above) | Sends the cook to a note in **Notes and substitutions**, using its bold topic, as in "(see **Ground spices**)". Use it in other notes and in **Before you start**. |
 
 ### Note topics
@@ -438,7 +444,7 @@ Words from the labels on food packs, for saying what to look for, or avoid, when
 | --- | --- | --- | --- |
 | Processing | homogenised | homogenized | Processed so the fat stays evenly mixed in. Homogenised coconut milk may not separate in the can. |
 | Additives | emulsifiers | emulsifying agents | Additives that keep fat and water mixed, such as E435 (polysorbate 60). Coconut milk that contains them may not separate in the can. |
-| Additives | stabilisers | stabilizers, thickeners | Additives that thicken food and keep it mixed. Coconut milk that contains them may not separate in the can. Labels sometimes call them thickeners. |
+| Additives | stabilisers | stabilizers, thickeners | Additives that thicken food and keep it mixed, or help it hold on to water. Coconut milk that contains them may not separate in the can, and prawns that contain them don't need bicarbonate of soda. Labels sometimes call them thickeners. |
 | Additives | carboxymethylcellulose | carboxymethyl cellulose, cellulose gum, CMC | A stabiliser. Labels may call it cellulose gum or E466. |
 | Additives | guar gum | guar | A stabiliser. Labels may call it E412. |
 
