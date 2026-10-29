@@ -2,16 +2,16 @@
 
 A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turmeric and curry spices. It's the prawn version of *gaeng garee*, the yellow curry found on Thai restaurant menus around the world. It adds professional Thai chef touches that most recipes leave out: cracking the coconut milk, frying the prawn heads, tossing the prawns with bicarbonate of soda and seasoning with MSG. Serve with jasmine rice.
 
-| Prep time | Cook time | Total time | Servings |
-| --- | --- | --- | --- |
-| 15 min | 50 min | 1 hr 5 min, plus overnight in the fridge | 4 |
+| Start ahead | Prep time | Cook time | Total time | Servings |
+| --- | --- | --- | --- | --- |
+| The night before | 15 min | 50 min | 1 hr 5 min | 4 |
 
 ## Before you start
 
 - Make the [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) first (35 minutes), or use store-bought paste for a quick weeknight dinner.
 - If your raw king prawns are frozen, thaw them in the fridge overnight, then drain them well.
 - Buy full-fat coconut milk, ideally with no emulsifiers or stabilisers, or the oil may not separate out in Step 2 (see **Coconut milk**).
-- Keep the can of full-fat coconut milk in the fridge overnight, so the thick part sets firm at the top of the can and is easy to spoon off in Step 2.
+- The night before, refrigerate the can of full-fat coconut milk, so the thick part sets firm at the top of the can and is easy to spoon off in Step 2.
 
 ## Equipment
 

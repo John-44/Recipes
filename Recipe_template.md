@@ -7,7 +7,7 @@ This file sets out how every recipe in this repository is written. Follow it whe
 1. Read the [Terminology glossary](Terminology_glossary.md).
 2. Copy [the template](#the-template) into a new file in the `recipes/` folder, named as described in [File names](#file-names).
 3. Fill in every `{placeholder}`, following the [rules](#rules) for each section. Wherever the glossary has a term for something, use it exactly. In **Credits**, put yourself as the **Original author**.
-4. Delete any optional section you don't need.
+4. Delete any optional section you don't need, and the **Start ahead** column if nothing has to be started ahead.
 5. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section. That counts as editing that recipe, so add yourself to its **Editors** too, unless you're already credited there.
 6. Add every new term the recipe uses to the glossary, as described in [Terminology](#terminology).
 7. Check your work against the [checklist](#checklist).
@@ -31,7 +31,7 @@ Keep the sections in this order.
 | Title | Yes | The name of the dish |
 | Photo | Optional | A photo of the finished dish |
 | Description | Yes | What the dish is, in 100 words or fewer |
-| Summary box | Yes | Prep time, cook time, total time and servings |
+| Summary box | Yes | How far ahead to start (if needed), prep time, cook time, total time and servings |
 | Before you start | Optional | Anything the cook must do or know before Step 1 |
 | Equipment | Optional | Kit beyond the basics |
 | Ingredients | Yes | Everything you need, in the order you use it |
@@ -53,9 +53,9 @@ Keep the sections in this order.
 
 {What the dish is, what it tastes like, and how to serve it. 100 words max.}
 
-| Prep time | Cook time | Total time | Servings |
-| --- | --- | --- | --- |
-| {15 min} | {30 min} | {45 min} | {4} |
+| Start ahead | Prep time | Cook time | Total time | Servings |
+| --- | --- | --- | --- | --- |
+| {The night before} | {15 min} | {30 min} | {45 min} | {4} |
 
 ## Before you start
 
@@ -210,11 +210,12 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 ### Summary box
 
 - Write times as `10 min`, `1 hr` or `1 hr 30 min`.
+- **Start ahead:** if every cook must do something in **Before you start** 2 hr or more before Step 1, such as refrigerating a can or soaking beans, say how far ahead: `The night before` for an overnight wait, `The day before` for a longer one, or a time such as `4 hr`. Otherwise, delete the column.
 - **Prep time:** hands-on time preparing ingredients, such as chopping, measuring and pounding.
 - **Cook time:** time on the hob or in the oven. Write `None` if there's no cooking.
-- **Total time:** start to finish, including any wait under 2 hr, such as soaking, marinating, resting or cooling. Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
-- Put a wait of 2 hr or more after the time instead, starting with `plus`: `45 min, plus 4 hr marinating` or `1 hr 5 min, plus overnight in the fridge`. Join two or more waits with "and": `1 hr, plus 2 hr proving and 2 hr cooling`. Write `overnight` when the recipe says to leave something overnight.
-- Leave out waits that not every cook needs, such as thawing frozen prawns. They go only in **Before you start**.
+- **Total time:** from Step 1 to the end of the last step, including any wait under 2 hr, such as soaking, marinating, resting or cooling. Don't count time twice when things overlap, such as chopping while something soaks, but only when a step tells the cook to do them at the same time (see [Directions](#directions)).
+- Put a wait of 2 hr or more in the steps after the time instead, starting with `plus` and saying what's happening, so the cook can tell where it falls: `45 min, plus 4 hr marinating` or `30 min, plus overnight setting`. Join two or more waits with "and": `1 hr, plus 2 hr proving and 2 hr cooling`. Write `overnight` when the recipe says to leave something overnight.
+- Leave waits that not every cook needs, such as thawing frozen prawns, out of the summary box. They go only in **Before you start**.
 - Times are for this recipe only. Don't include the time it takes to make linked recipes: give that in **Before you start** instead.
 - **Servings:** the number of people it feeds, e.g. `4`.
 - For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 250 g (enough for 2 curries for 4)`.
@@ -223,7 +224,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 - Use it for anything the cook must do or know before Step 1, so nothing catches them out halfway through, such as:
   - Other recipes to make first, with their total time: `Make the [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) first (35 minutes), or use store-bought paste.`
-  - Anything that needs doing hours or a day ahead, such as thawing, soaking or marinating overnight.
+  - Anything that needs doing hours or a day ahead, such as thawing, soaking or marinating overnight. If every cook has to do it 2 hr or more before Step 1, show how far ahead in **Start ahead** too (see [Summary box](#summary-box)), and start the bullet with when to do it: "The night before, refrigerate the can of full-fat coconut milk…".
   - Buying advice the recipe depends on. Send the cook to the note with the details, as in "(see **Coconut milk**)".
   - Safety advice and protective kit, such as gloves for fresh turmeric.
   - Anything else important that must be known before starting to make the recipe.
@@ -423,7 +424,8 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 
 - [ ] The file is in `recipes/` and named as described in [File names](#file-names).
 - [ ] The description is 100 words or fewer.
-- [ ] Total time is start to finish, with any wait of 2 hr or more after `plus`, and only counts overlaps that a step tells the cook to do.
+- [ ] **Start ahead** says how far ahead to begin anything in **Before you start** that every cook must do 2 hr or more before Step 1. If there's nothing, the column has been deleted.
+- [ ] **Total time** runs from Step 1 to the end of the last step, with any wait of 2 hr or more in the steps after `plus`, and only counts overlaps that a step tells the cook to do.
 - [ ] **Before you start** has everything the cook must do or know before Step 1, including other recipes to make first and how long they take.
 - [ ] Every ingredient is used in the directions, and every ingredient in the directions is in the list, apart from water for soaking, boiling or thinning.
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
