@@ -90,7 +90,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - **Fridge:** Up to 2 days in an airtight container. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
 - **Freezer:** Not recommended. The potatoes go grainy and the prawns turn rubbery.
 - **Make ahead:** Make the curry up to the end of Step 5, but don't toss the prawns with the salt and bicarbonate of soda in Step 1, and leave the rice until the day you serve it. Cool it, and refrigerate for up to 2 days. On the day, toss the prawns as in Step 1 and refrigerate them for 15 minutes, then reheat the curry until simmering and carry on from Step 6.
-- **Reheat:** Take out the prawns, then reheat the curry gently on the hob until steaming hot all the way through. Stir the prawns back in and simmer for 1–2 minutes, so they don't become rubbery.
+- **Reheat:** Take out the prawns, then reheat the curry on the hob over medium-low heat until steaming hot all the way through. Stir the prawns back in and simmer for 1–2 minutes, so they don't become rubbery.
 
 ## Origin
 
