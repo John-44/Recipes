@@ -305,7 +305,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
   - Optional actions, saying what they depend on: "If you're using head-on prawns, fry the heads…"
   - Conditional actions: "If the oil hasn't separated out after 12 minutes, stir in the coconut oil."
   - Anything the cook does while something else cooks or soaks, including preparing ingredients: "While it simmers, cook the jasmine rice." or "While the chillies soak, toast the coriander seeds…"
-- A short warning stays in its step: "Don't add extra water to help it along." Put why something matters, or what can go wrong, in a [tip](#tips) under the step.
+- A short warning stays in its step: "Stop before they blacken." Put why something matters, or what can go wrong, in a [tip](#tips) under the step.
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
 - Use the same ingredient names as the ingredient list, or shorten them as far as their [glossary](Terminology_glossary.md#ingredients) short names: "the prawns" for raw king prawns. Only repeat an amount when you add an ingredient in more than one step: "Add half the coconut milk (200 ml)."

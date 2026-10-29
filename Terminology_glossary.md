@@ -76,7 +76,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | --- | --- | --- | --- | --- |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Seafood | head fat | head fat | tomalley, prawn fat, man goong | The prawn's hepatopancreas: the soft, orange organ in its head, which holds much of its flavour. The first time, write "the rich hepatopancreas (head fat)". |
-| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
+| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai fermented shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
 | Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
 | Aromatics | Thai shallots | shallots | Asian shallots, red shallots, Thai red onions, hom daeng | Small red shallots, sold in Asian supermarkets. They're smaller than the shallots in UK supermarkets, which would need their own term. Not crispy fried shallots. |
@@ -110,7 +110,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | fish sauce | fish sauce | nam pla, Thai fish sauce | Not vegetarian. |
 | Seasonings | MSG | MSG | monosodium glutamate, umami seasoning | A seasoning that adds savoury depth. Packs may call it umami seasoning or E621. |
 | Seasonings | prik nam pla | prik nam pla | nam pla prik, phrik nam pla, chilli fish sauce | A Thai table condiment of sliced bird's eye chillies in fish sauce, for each person to add heat and salt. Not vegetarian. |
-| Seasonings | Thai shrimp paste | shrimp paste | kapi, Thai prawn paste, fermented shrimp paste | "Shrimp" is right here, even though the recipes say "prawns" everywhere else. Not vegetarian. |
+| Seasonings | Thai fermented shrimp paste | shrimp paste | Thai prawn paste | "Shrimp" is right here, even though the recipes say "prawns" everywhere else. In the ingredient list, follow the term with its Thai names in brackets, as in "Thai fermented shrimp paste (*kapi* or *gapi*)". Not vegetarian. |
 | Seasonings | white miso | white miso | shiro miso, white miso paste, miso (on its own) | |
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |
 | Seasonings | palm sugar | palm sugar | | Usually sold in hard blocks, so it's measured after grating, as in "1 tbsp grated palm sugar". |
@@ -133,6 +133,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | --- | --- | --- |
 | Cutting | Chopping boards and the baking paper that covers them, knives and scissors | A to Z |
 | Bowls and jugs | Bowls and jugs | A to Z |
+| Plates | Plates and saucers | A to Z |
 | Blending and grinding | Blenders and their jars, grinders, and mortars and pestles | Electric first, then by hand; A to Z within each |
 | Hob and pans | The hob, and the pans you use on it | The hob, then pans from shallowest to deepest |
 | Utensils | Spoons, cloths and other small hand tools | A to Z |
@@ -150,8 +151,10 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Bowls and jugs | bowl | | As in "a small bowl". Use a heatproof bowl for anything hot. |
 | Bowls and jugs | heatproof bowl | heat-proof bowl, heat-resistant bowl | |
 | Bowls and jugs | jug | pitcher, beaker | For a stick blender, ask for "a tall, narrow jug". |
+| Plates | saucer | | For keeping food under water while it soaks, as in "with a saucer on top to keep them under the water". |
 | Blending and grinding | high-speed blender | high speed blender, high-powered blender, power blender | A powerful blender, such as a Blendtec, that grinds whole spices as well as blending pastes. Not a stick blender. |
 | Blending and grinding | jar | blender container, blender cup | The part of a high-speed blender that holds the food, as in "If the jar feels warm". |
+| Blending and grinding | spice grinder | spice mill | A small electric grinder for whole spices. A blade coffee grinder works too. |
 | Blending and grinding | stick blender | hand blender, immersion blender | |
 | Hob and pans | hob | stove, stovetop, cooktop | |
 | Hob and pans | frying pan | skillet, fry pan | "A dry frying pan" has no oil in it, for toasting spices and dried chillies. |
@@ -272,6 +275,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder". |
 | Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |
 | Blending and grinding | scrape down the sides | | While blending, as in "then stop and scrape down the sides". |
+| Blending and grinding | turn the lid anticlockwise | twist the lid, turn the lid counter-clockwise | For a Blendtec Twister jar, whose lid scrapes the sides as it turns, as in "keep turning the lid anticlockwise the whole time it's blending". |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
 | Heat levels | medium-low heat | medium low heat, low-medium heat | |
 | Heat levels | medium heat | moderate heat | |
@@ -280,7 +284,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
 | Heating liquids | bring to the boil | bring to a boil | |
 | Covering | uncovered | lid off, without a lid | With no lid on the pan, so the liquid reduces as it simmers, as in "cook, uncovered, over medium-low heat". |
-| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices, dried chillies or crispy fried shallots in a dry frying pan, with no oil, until fragrant. |
+| Frying and toasting | roast | | Cook shallots or garlic, usually whole and in their skins, with no oil, until soft and golden, as in "Many recipes call for roasting the shallots and garlic". For spices, dried chillies, galangal and ginger, use toast. |
+| Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices, dried chillies, crispy fried shallots, galangal or ginger in a dry frying pan, with no oil, until fragrant. |
 | Frying and toasting | crack | break, split | Simmer the thick part from the top of a can of coconut milk until the oil separates out, so you can fry curry paste in it, as in "Crack the coconut milk". Coconut milk with emulsifiers or stabilisers may not crack. |
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
@@ -387,6 +392,7 @@ The bold topic at the start of each note in **Notes and substitutions**. A note 
 | Ingredients | Store-bought paste | Shop-bought paste, Ready-made paste | How much store-bought paste to use, and how it differs from homemade. |
 | Variations | Chicken instead | Chicken version, Using chicken | How to use chicken in place of the main ingredient. Use the same pattern for other swaps: "{Ingredient} instead". |
 | Variations | More heat | Spicier, Hotter, Spice level | How to make the dish hotter. |
+| Variations | Roasted shallots and garlic | Roasted aromatics, Roasting | How some recipes cook the shallots and garlic before making the paste, and how that changes the flavour. |
 | Variations | Vegetarian | Veggie, Vegetarian version, Meat-free | How to make the recipe vegetarian. |
 | Equipment | Stick blender | Hand blender, Immersion blender | How to make the recipe with a stick blender instead. |
 
@@ -507,5 +513,6 @@ The website names at the start of each line in **Sources**, before the colon.
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |
+| Rosa's Thai | rosasthai.com | Rosas Thai, Rosa's (on its own) |
 | Serious Eats | seriouseats.com | SeriousEats |
 | TODAY | today.com | Today, TODAY.com |
