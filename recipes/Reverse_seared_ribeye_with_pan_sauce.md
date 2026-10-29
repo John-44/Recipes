@@ -10,7 +10,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 
 - Ovenproof meat thermometer
 - Wire rack set in a baking tray
-- Cast iron skillet at least 24 cm across (or a heavy stainless-steel frying pan)
+- Cast iron skillet at least 24 cm across
 - Tongs
 
 ## Ingredients
