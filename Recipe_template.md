@@ -67,7 +67,7 @@ Keep the sections in this order.
 
 ## Ingredients
 
-### {Group name, only if the recipe has more than one part}
+#### {Group name, only if the recipe has more than one part}
 
 - {amount} {unit} {ingredient}, {preparation}
 - {amount} {unit} [{Linked Recipe Title}]({Linked_recipe_title}.md)
@@ -267,7 +267,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - If you add an ingredient in more than one step, such as half in Step 5 and the rest in Step 7, say which steps: `2 tsp tamarind paste (used in Steps 5 and 7)`. Otherwise a cook who has measured everything out may add it all at once.
 - If the **Taste and adjust** step might add more of an ingredient, end its line with `plus extra to taste`, after any note in brackets: `1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste`.
 - Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water and soak until soft". That includes soaking water you keep for a later step, as in "Drain, keeping 3 tbsp of the soaking water". Do list water when it's a measured part of the dish, such as `500 ml water` for a soup.
-- If the recipe has distinct parts, group the ingredients under `###` subheadings, such as `### For the marinade` and `### To serve`.
+- If the recipe has distinct parts, group the ingredients under level 4 (`####`) subheadings, such as `#### For the marinade` and `#### To serve`.
 
 #### Measurements
 
@@ -323,7 +323,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
 - Use the same ingredient names as the ingredient list, or shorten them as far as their [glossary](Terminology_glossary.md#ingredients) short names: "the prawns" for raw king prawns. Only repeat an amount when you add an ingredient in more than one step: "Add half the coconut milk (200 ml)."
-- If the recipe has separate parts, such as a marinade and a sauce, you can introduce each group of steps with a bold label matching its ingredient group, such as `**For the marinade**`. Reserve `####` headings in the directions for steps. A `### To serve` ingredient group doesn't need a label. Keep counting steps across groups. Don't restart at Step 1.
+- If the recipe has separate parts, such as a marinade and a sauce, you can introduce each group of steps with a bold label matching its ingredient group, such as `**For the marinade**`. Reserve `####` headings in the directions for steps. A `#### To serve` ingredient group doesn't need a label. Keep counting steps across groups. Don't restart at Step 1.
 - When you add, remove or reorder steps, update every step number the recipe mentions to match: in ingredient labels, **Before you start**, other steps, tips, **Notes and substitutions** and **Storage and make-ahead**.
 - For a savoury dish, add a **Taste and adjust** step at the last point where the seasoning can still change. That's near the end for a sauce, soup, stew or curry, or before baking for a pie filling. If the dish finishes with something that cooks in a few minutes, such as prawns, put the step just before it goes in, so it doesn't overcook while you taste. Leave it out where there's no such point, such as for bread or a roast, and for a raw paste or spice mix, which you can't judge by tasting.
 - In the **Taste and adjust** step, say what the dish should taste like, such as "rich, savoury and slightly sweet, with a hint of sourness", what to add to fix each thing that's off, and how much to add at a time, such as "Adjust it ½ tsp at a time: more fish sauce if it needs salt". If it's eaten with something plain, such as rice, say how that changes the target, as in "It's eaten with plain rice, so it should be strongly seasoned". If the cook might thin or thicken it, give a target for how thick it should be too.

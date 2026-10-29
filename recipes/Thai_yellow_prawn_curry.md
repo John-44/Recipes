@@ -19,7 +19,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 ## Ingredients
 
-### For the curry
+#### For the curry
 
 - 800 g whole head-on raw king prawns (thawed if frozen)
 - ½ tsp coarse sea salt
@@ -37,7 +37,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - ¼ tsp MSG
 - 1 small carton (250 ml) coconut cream (used in Steps 6 and 10)
 
-### To serve
+#### To serve
 
 - 300 g jasmine rice
 - 4 tbsp crispy fried shallots

@@ -316,7 +316,7 @@ Fixed wording for headings, labels and references, in the order they appear in a
 
 ### Ingredient group headings
 
-The `###` subheadings in **Ingredients**.
+The level 4 (`####`) subheadings in **Ingredients**.
 
 **Order:** as they'd appear in a recipe: "For the {part}" headings A to Z, then To serve.
 
