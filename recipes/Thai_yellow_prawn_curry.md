@@ -65,7 +65,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 6: Add the coconut cream.** Stir in the coconut cream, keeping back 3 tbsp for Step 10, and bring to a gentle simmer over medium heat, 2–3 minutes.
 
-**Step 7: Taste and adjust.** Taste the sauce: it should be rich, savoury and slightly sweet, with a hint of sourness. Add more fish sauce if it needs salt, or more palm sugar if it needs sweetness. If it isn't sour enough, stir in the rest of the tamarind paste a little at a time.
+**Step 7: Taste and adjust.** Taste the sauce. It's eaten with plain rice, so it should be strongly seasoned: rich, savoury and slightly sweet, with a hint of sourness. Adjust it ½ tsp at a time: more fish sauce if it needs salt, more palm sugar if it needs sweetness, or the rest of the tamarind paste if it isn't sour enough.
 
 **Step 8: Toast the crispy fried shallots.** Toast the crispy fried shallots in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes.
 
@@ -118,6 +118,7 @@ Yellow curry is closely linked to Thailand's Muslim community, and its curry pow
 - Biona Organic: [Organic Coconut Milk 400ml](https://biona.co.uk/products/biona-organic-coconut-milk-400ml). A coconut milk with no emulsifiers or stabilisers.
 - Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk until the oil separates out, the seasonings, holding back half the tamarind paste, how much homemade paste to use, cutting the onion thickly, crispy fried shallots as the main garnish and toasting them, and the dish's background.
 - Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating, and what Aroy-D contains.
+- Hot Thai Kitchen: [Thai Curry Master Class - Make Any Curry Without Recipes!](https://hot-thai-kitchen.com/thai-curry-master-class/). Seasoning the curry strongly, because it's eaten with plain rice.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/). Using prawns, how many unpeeled prawns to buy, the cooking times, the garnishes and the chicken swap.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). How much homemade paste one curry for 4 needs.
 - TODAY: [The Easiest Way to Tell If Shrimp Is Cooked or Overcooked](https://www.today.com/food/cook-smarter/how-to-tell-if-shrimp-is-cooked-or-overcooked-rcna230408). The C and O test for cooked prawns.

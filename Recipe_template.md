@@ -312,7 +312,7 @@ Write each step as its own paragraph, starting with a bold step number and a sho
 - If the recipe has separate parts, such as a marinade and a sauce, you can use matching `###` subheadings here too. A `### To serve` ingredient group doesn't need one. Keep counting steps across subheadings. Don't restart at Step 1.
 - When you add, remove or reorder steps, update every step number the recipe mentions to match: in ingredient labels, **Before you start**, other steps, tips, **Notes and substitutions** and **Storage and make-ahead**.
 - For a savoury dish, add a **Taste and adjust** step at the last point where the seasoning can still change. That's near the end for a sauce, soup, stew or curry, or before baking for a pie filling. If the dish finishes with something that cooks in a few minutes, such as prawns, put the step just before it goes in, so it doesn't overcook while you taste. Leave it out where there's no such point, such as for bread or a roast, and for a raw paste or spice mix, which you can't judge by tasting.
-- In the **Taste and adjust** step, say what the dish should taste like, such as "rich, savoury and slightly sweet, with a hint of sourness", and what to add to fix each thing that's off, such as "more fish sauce if it needs salt". If the cook might thin or thicken it, give a target for how thick it should be too.
+- In the **Taste and adjust** step, say what the dish should taste like, such as "rich, savoury and slightly sweet, with a hint of sourness", what to add to fix each thing that's off, and how much to add at a time, such as "Adjust it ½ tsp at a time: more fish sauce if it needs salt". If it's eaten with something plain, such as rice, say how that changes the target, as in "It's eaten with plain rice, so it should be strongly seasoned". If the cook might thin or thicken it, give a target for how thick it should be too.
 - Finish with how to serve.
 
 #### Tips
@@ -429,7 +429,7 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
 - [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
-- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off.
+- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off, with how much to add at a time.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
 - [ ] Every step number the recipe mentions, in any section, points to the right step.
 - [ ] **Equipment** lists every piece of kit beyond the basics that the recipe uses, including protective kit.
