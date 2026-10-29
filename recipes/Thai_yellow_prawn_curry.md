@@ -77,7 +77,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 ## Notes and substitutions
 
-- **Prawns:** Frozen raw prawns work well. Instead of head-on prawns, you can use about 500 g of shell-on prawns without heads, or 400 g peeled raw king prawns: peel and devein them as needed in Step 1, and skip Step 3.
+- **Prawns:** Instead of whole head-on prawns, you can use about 500 g of shell-on prawns without heads, or 400 g peeled raw king prawns: peel and devein them as needed in Step 1, and skip Step 3.
 - **Coconut milk:** For the coconut milk to separate, buy one that isn't homogenised and has no emulsifiers or stabilisers, such as guar gum or carboxymethylcellulose. [Biona Organic coconut milk](https://biona.co.uk/products/biona-organic-coconut-milk-400ml) has neither; the Thai brands Aroy-D and Chaokoh contain an emulsifier, but you can use them if you can't find one without.
 - **Store-bought paste:** Use 4–5 tbsp. It's saltier than homemade, so add only half the fish sauce in Step 5, then more to taste in Step 7.
 - **Buying paste:** Thai yellow curry paste is sometimes labelled "karee" or "kari" curry paste. Don't buy "yellow sour curry paste": that's for *gaeng leuang*, a different, sour and very spicy curry from Southern Thailand.
