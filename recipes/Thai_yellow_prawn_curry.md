@@ -47,25 +47,37 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 ## Directions
 
-**Step 1: Prep the prawns.** Peel and devein the prawns, keeping the heads for Step 3. Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out the salt if the label on the prawns lists salt, and the bicarbonate of soda if it lists a stabiliser. Refrigerate them until Step 9.
+**Step 1: Prep the prawns.** Peel and devein the prawns, keeping the heads for Step 3.
+
+Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out the salt if the label on the prawns lists salt, and the bicarbonate of soda if it lists a stabiliser. Refrigerate them until Step 9.
 
 > **Tip:** The salt seasons the prawns, and the bicarbonate of soda helps them hold on to their juices, so they stay plump and snappy and are slower to turn rubbery. Some prawns are sold with salt, or a stabiliser that does the bicarbonate of soda's job, already added.
 
-**Step 2: Crack the coconut milk.** Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across. Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes. If the oil hasn't separated out after 12 minutes, stir in the coconut oil.
+**Step 2: Crack the coconut milk.** Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across.
+
+Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
+
+If the oil hasn't separated out after 12 minutes, stir in the coconut oil.
 
 **Step 3: Fry the prawn heads.** Fry the heads in the oil over medium heat, pressing them with the back of a spoon to squeeze out the rich hepatopancreas (head fat) and juices, until the oil turns orange, 2–3 minutes. Lift out the heads and any bits of hard shell.
 
-**Step 4: Fry the paste.** Stir in the curry paste and fry it in the oil over medium heat, stirring often, until it darkens a shade, the raw shallot and garlic smell has gone and the oil separates out again, 5–8 minutes (3–5 minutes for store-bought paste). If it starts to stick, stir in 1 tbsp of the rest of the coconut milk.
+**Step 4: Fry the paste.** Stir in the curry paste and fry it in the oil over medium heat, stirring often, until it darkens a shade, the raw shallot and garlic smell has gone and the oil separates out again, 5–8 minutes (3–5 minutes for store-bought paste).
+
+If it starts to stick, stir in 1 tbsp of the rest of the coconut milk.
 
 > **Tip:** Under-fried paste is a common reason homemade curry tastes raw. Homemade paste is wetter than store-bought, and the wetter it is the longer it takes to fry.
 
-**Step 5: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, lime leaves, fish sauce, palm sugar, MSG and half the tamarind paste (1 tsp). Bring to a gentle simmer over medium heat, then cook, uncovered, over medium-low heat until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice.
+**Step 5: Simmer the potatoes.** Add the rest of the coconut milk, the stock, potatoes, onion, lime leaves, fish sauce, palm sugar, MSG and half the tamarind paste (1 tsp).
+
+Bring to a gentle simmer over medium heat, then cook, uncovered, over medium-low heat until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice.
 
 > **Tip:** Tamarind paste varies a lot in sourness from brand to brand, which is why half of it waits until Step 7.
 
 **Step 6: Add the coconut cream.** Stir in the coconut cream, keeping back 3 tbsp for Step 10, and bring to a gentle simmer over medium heat, 2–3 minutes.
 
-**Step 7: Taste and adjust.** Taste the sauce. It's eaten with plain rice, so it should be strongly seasoned: rich, savoury and slightly sweet, with a hint of sourness. Adjust it ½ tsp at a time: more fish sauce if it needs salt, more palm sugar if it needs sweetness, or the rest of the tamarind paste if it isn't sour enough.
+**Step 7: Taste and adjust.** Taste the sauce. It's eaten with plain rice, so it should be strongly seasoned: rich, savoury and slightly sweet, with a hint of sourness.
+
+Adjust it ½ tsp at a time: more fish sauce if it needs salt, more palm sugar if it needs sweetness, or the rest of the tamarind paste if it isn't sour enough.
 
 **Step 8: Toast the crispy fried shallots.** Toast the crispy fried shallots in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes.
 

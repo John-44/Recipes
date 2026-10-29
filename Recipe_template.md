@@ -289,15 +289,22 @@ Write each ingredient on its own line, in the order you use it, following this p
 
 ### Directions
 
-Write each step as its own paragraph, starting with a bold step number and a short title:
+Start each step with a bold step number and a short title. A short step can be one paragraph. For a longer stage, use short paragraphs or an unnumbered list under the same step number:
 
 ```markdown
-**Step 1: Prep the prawns.** Peel and devein the prawns, keeping the heads for Step 3. Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out the salt if the label on the prawns lists salt, and the bicarbonate of soda if it lists a stabiliser. Refrigerate them until Step 9.
+**Step 1: Prep the prawns.** Peel and devein the prawns, keeping the heads for Step 3.
 
-**Step 2: Crack the coconut milk.** Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across. Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
+Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out the salt if the label on the prawns lists salt, and the bicarbonate of soda if it lists a stabiliser. Refrigerate them until Step 9.
+
+**Step 2: Crack the coconut milk.**
+
+- Without shaking the can, spoon the thick part from the top of the can (about 150 ml) into a wok or a saucepan at least 24 cm across.
+- Bring to the boil over medium-high heat, then simmer over medium heat, stirring often, until it's very thick and the oil separates out, 7–12 minutes.
 ```
 
 - Each step covers one stage of cooking. Keep it short, but never by moving an action, a time or a doneness cue out of it.
+- Group related actions in each paragraph or bullet. Put actions after a substantial wait in a new paragraph or bullet.
+- Keep any step photo and tips after the step's final paragraph or bullet.
 - Start the step title with a verb and keep it to 2–5 words: "Fry the paste."
 - Say how hot (low, medium-low, medium, medium-high or high heat), how long, and how to tell when it's done: "until golden, about 5 minutes". Give the most reliable cue you know, such as "until they turn pink and curl into a loose C" for prawns.
 - Where a thermometer is more reliable than looking or touching, such as for meat, frying oil, sugar or bread, give the temperature too: "Heat the oil to 180°C."
@@ -431,6 +438,7 @@ A tip is the advice a professional chef, or a cook from where the dish comes fro
 - [ ] Measurements follow the [measurement rules](#measurements), and every can and carton has its size.
 - [ ] Every ingredient added in more than one step says which steps, and everything **Taste and adjust** might add more of says "plus extra to taste".
 - [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
+- [ ] Longer steps use short paragraphs or bullets where helpful, with actions after a substantial wait in a separate paragraph or bullet.
 - [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off, with how much to add at a time.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
 - [ ] Every step number the recipe mentions, in any section, points to the right step.

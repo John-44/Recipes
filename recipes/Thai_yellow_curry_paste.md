@@ -35,7 +35,12 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 ## Directions
 
-**Step 1: Toast and soak the chillies.** Wipe the dust off the chillies with a damp cloth, then split them open lengthways with scissors and scrape out the seeds. Toast them in a dry frying pan over medium heat, pressing them flat with the back of a spoon, until they're fragrant and darken a shade, about 30 seconds a side. Stop before they blacken. Snip the chillies into 2 cm pieces and put them in a heatproof bowl. Cover with boiling water and soak until soft, 15–20 minutes, with a saucer on top to keep them under the water. Drain, keeping 3 tbsp of the soaking water.
+**Step 1: Toast and soak the chillies.**
+
+- Wipe the dust off the chillies with a damp cloth, then split them open lengthways with scissors and scrape out the seeds.
+- Toast them in a dry frying pan over medium heat, pressing them flat with the back of a spoon, until they're fragrant and darken a shade, about 30 seconds a side. Stop before they blacken.
+- Snip the chillies into 2 cm pieces and put them in a heatproof bowl. Cover with boiling water and soak until soft, 15–20 minutes, with a saucer on top to keep them under the water.
+- Drain, keeping 3 tbsp of the soaking water.
 
 > **Tip:** Dried chillies burn in seconds, and burnt chillies make the paste bitter.
 
@@ -45,7 +50,11 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 
 **Step 3: Grind the spices.** Put the toasted spices and the curry powder in the high-speed blender and grind to a fine powder. Tip the ground spices back into the small bowl, ready for Step 5.
 
-**Step 4: Blend the paste.** Put the 3 tbsp of soaking water, salt, MSG, chillies, shallots, garlic and shrimp paste in the high-speed blender, then add the lemongrass, galangal, ginger, fresh turmeric and coriander roots on top. Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. If you're using a Twister jar, keep turning the lid anticlockwise the whole time it's blending. If the jar feels warm when you stop, leave it to cool before blending again. Try not to add extra water. If the paste stops moving, add water 1 tsp at a time, just until it moves again.
+**Step 4: Blend the paste.** Put the 3 tbsp of soaking water, salt, MSG, chillies, shallots, garlic and shrimp paste in the high-speed blender, then add the lemongrass, galangal, ginger, fresh turmeric and coriander roots on top.
+
+Blend on the highest speed for 30 seconds, then stop and scrape down the sides. Do this 4 times. If you're using a Twister jar, keep turning the lid anticlockwise the whole time it's blending.
+
+If the jar feels warm when you stop, leave it to cool before blending again. Try not to add extra water. If the paste stops moving, add water 1 tsp at a time, just until it moves again.
 
 > **Tip:** Thai curry recipes expect a thick paste. Starting with the soft, wet ingredients gets the paste moving, so it usually blends without extra water.
 
