@@ -4,7 +4,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 | Start ahead | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- | --- |
-| The night before | 25 min | 50 min | 1 hr 15 min | 4 |
+| The night before | 25 min | 55 min | 1 hr 20 min | 4 |
 
 ## Before you start
 
@@ -67,7 +67,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 7: Taste and adjust.** Taste the sauce. It's eaten with plain rice, so it should be strongly seasoned: rich, savoury and slightly sweet, with a hint of sourness. Adjust it ½ tsp at a time: more fish sauce if it needs salt, more palm sugar if it needs sweetness, or the rest of the tamarind paste if it isn't sour enough.
 
-**Step 8: Toast the crispy fried shallots.** Toast the crispy fried shallots in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes.
+**Step 8: Toast the crispy fried shallots.** Toast the crispy fried shallots in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes, then tip them onto a plate.
 
 **Step 9: Cook the prawns.** Pat the prawns dry with kitchen roll, then add them to the curry sauce and simmer over medium heat until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
