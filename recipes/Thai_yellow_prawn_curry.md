@@ -4,11 +4,11 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 | Start ahead | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- | --- |
-| The night before | 15 min | 50 min | 1 hr 5 min | 4 |
+| The night before | 25 min | 55 min | 1 hr 20 min | 4 |
 
 ## Before you start
 
-- Make the [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) first (35 minutes), or use store-bought paste for a quick weeknight dinner.
+- Make the [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) first (35 minutes), or use store-bought paste.
 - If your raw king prawns are frozen, thaw them in the fridge overnight, then drain them well.
 - Buy full-fat coconut milk, ideally with no emulsifiers or stabilisers, or the oil may not separate out in Step 2 (see **Coconut milk**).
 - The night before, refrigerate the can of full-fat coconut milk, so the thick part sets firm at the top of the can and is easy to spoon off in Step 2.
@@ -26,8 +26,8 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - ¼ tsp bicarbonate of soda
 - 1 can (400 ml) full-fat coconut milk (used in Steps 2, 4 and 5)
 - 1 tbsp coconut oil (only if needed, see Step 2)
-- 150 g [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
-- 250 ml chicken stock
+- 125 g [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
+- 250 ml low-salt chicken stock
 - 300 g Charlotte or other waxy potatoes, peeled and cut into 2 cm chunks
 - 1 small onion, cut into thick wedges
 - 4 kaffir lime leaves, crumpled
@@ -40,8 +40,8 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 ### To serve
 
 - 300 g jasmine rice
-- 2 tbsp crispy fried shallots
-- 10 g Thai basil or coriander leaves (optional)
+- 4 tbsp crispy fried shallots
+- 10 g coriander leaves (optional)
 - 1 red chilli, finely sliced (optional)
 - Prik nam pla as an accompanying condiment (optional)
 
@@ -69,11 +69,11 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 
 **Step 8: Toast the crispy fried shallots.** Toast the crispy fried shallots in a dry frying pan over medium-low heat, stirring often, until fragrant, 2–3 minutes.
 
-**Step 9: Cook the prawns.** While the crispy fried shallots are toasting, pat the prawns dry with kitchen roll, then add them to the curry sauce and simmer until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
+**Step 9: Cook the prawns.** Pat the prawns dry with kitchen roll, then add them to the curry sauce and simmer over medium heat until they turn pink and curl into a loose C, 2–3 minutes. Take the curry off the heat straight away.
 
 > **Tip:** The prawns keep cooking in the hot sauce, and overcooked prawns go rubbery. If they curl into a tight O, they've gone too far.
 
-**Step 10: Serve the curry.** Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil or coriander leaves and chilli. Optionally serve prik nam pla on the side.
+**Step 10: Serve the curry.** Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the coriander leaves and chilli. Optionally serve prik nam pla on the side.
 
 ## Notes and substitutions
 

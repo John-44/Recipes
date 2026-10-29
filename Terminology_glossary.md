@@ -89,7 +89,6 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | coriander stalks | coriander stalks | coriander stems, cilantro stems | The stalks of the coriander plant. Keep "coriander", so they can't be mistaken for lemongrass stalks. |
 | Herbs | kaffir lime leaves | lime leaves | makrut lime leaves, kafir lime leaves, bai makrut | Sold fresh, frozen or dried. Say "dried" when you mean dried ones. Some packs are labelled "makrut lime leaves": use that name only to describe a label, in quotes. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
-| Herbs | Thai basil leaves | Thai basil | Thai sweet basil, horapha, Asian basil | Not holy basil or Italian basil, which are different herbs. When coriander works too, write "Thai basil or coriander leaves". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
 | Chillies | Kashmiri chillies | Kashmiri chillies | Kashmiri red chillies, Kashmiri chilies | Mild dried Indian chillies with a deep red colour. |
 | Chillies | guajillo chillies | guajillo chillies | guajillo peppers, guajillo chiles | Fairly mild dried Mexican chillies. Outside Mexican recipes, you can introduce them as "Mexican guajillo chillies". |
@@ -117,7 +116,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Oils and fats | coconut oil | oil | coconut fat | Solid when cool, and melts as soon as it's heated. Not creamed coconut, which is made from the whole flesh. Keep "coconut oil" when the recipe also talks about the oil that separates out of coconut milk. |
 | Liquids | coconut cream | coconut cream | | Thicker and richer than coconut milk, and sold in cartons and cans. Not the thick part from the top of a can of coconut milk, or creamed coconut, which is a hard block. |
 | Liquids | full-fat coconut milk | coconut milk | full fat coconut milk | The canned kind, not the coconut drinks sold in cartons. Reduced-fat (light) coconut milk won't crack. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
-| Liquids | chicken stock | stock | chicken broth, bouillon | Write "chicken stock or water" when water works too. |
+| Liquids | low-salt chicken stock | stock | low-sodium chicken stock, chicken broth, bouillon | Not standard chicken stock, which is saltier. Write "low-salt chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
 | Raising agents | bicarbonate of soda | bicarbonate of soda | baking soda, bicarb, bicarb of soda, sodium bicarbonate, bread soda | Not baking powder, which also contains an acid. Labels may call it sodium bicarbonate. |
@@ -161,7 +160,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | pot | |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
-| Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "pat the prawns dry with kitchen roll". |
+| Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "Pat the prawns dry with kitchen roll". |
 | Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
@@ -270,7 +269,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
-| Before cooking | pat dry | blot, dab dry | Press kitchen roll onto food to soak up the water on its surface, as in "pat the prawns dry with kitchen roll". |
+| Before cooking | pat dry | blot, dab dry | Press kitchen roll onto food to soak up the water on its surface, as in "Pat the prawns dry with kitchen roll". |
 | Blending and grinding | blend | blitz, process | Wet ingredients, to a paste, with a high-speed blender or stick blender. |
 | Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder". |
 | Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |
