@@ -127,6 +127,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | light brown soft sugar | brown sugar | light soft brown sugar, soft light brown sugar | Moist, fine brown sugar, sold under this name in UK supermarkets. Dark brown soft sugar and light muscovado sugar would need their own terms. |
 | Seasonings | palm sugar | palm sugar | | Usually sold in hard blocks, so it's measured after grating, as in "1 tbsp grated palm sugar". |
 | Oils and fats | coconut oil | oil | coconut fat | Solid when cool, and melts as soon as it's heated. Not creamed coconut, which is made from the whole flesh. Keep "coconut oil" when the recipe also talks about the oil that separates out of coconut milk. |
+| Oils and fats | unsalted butter | butter | sweet butter | Salted butter would need its own term. |
 | Liquids | whipping cream | cream | heavy cream, heavy whipping cream | Cream with at least 35% fat, sold in pots. It's the nearest UK match to US heavy cream. Double cream is richer, and would need its own term. |
 | Liquids | coconut cream | coconut cream | | Thicker and richer than coconut milk, and sold in cartons and cans. Not the thick part from the top of a can of coconut milk, or creamed coconut, which is a hard block. |
 | Liquids | full-fat coconut milk | coconut milk | full fat coconut milk | The canned kind, not the coconut drinks sold in cartons. Reduced-fat (light) coconut milk won't crack. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
@@ -135,7 +136,6 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
 | Flours and starches | cornflour | cornflour | cornstarch, corn starch, maize starch | A fine white starch that thickens liquids and helps them set. Not cornmeal or polenta. |
-| Flours and starches | plain flour | flour | all-purpose flour | Self-raising flour would need its own term. |
 | Pastry | all-butter shortcrust pastry | pastry | all butter shortcrust pastry, pie dough | Ready-made shortcrust pastry made with butter rather than vegetable fat, sold chilled or frozen. |
 | Raising agents | bicarbonate of soda | bicarbonate of soda | baking soda, bicarb, bicarb of soda, sodium bicarbonate, bread soda | Not baking powder, which also contains an acid. Labels may call it sodium bicarbonate. |
 | Garnishes | crispy fried shallots | crispy fried shallots | fried shallots, crispy shallots, shallot crisps | Ready-made, for scattering over a dish. Not the same as Thai shallots. |
@@ -148,7 +148,6 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 
 | Family | What goes in it | Order within the family |
 | --- | --- | --- |
-| Work surfaces | Surfaces you prepare food on | A to Z |
 | Cutting | Chopping boards and the baking paper that covers them, knives and scissors | A to Z |
 | Bowls and jugs | Bowls and jugs | A to Z |
 | Plates | Plates and saucers | A to Z |
@@ -163,7 +162,6 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
-| Work surfaces | work surface | worktop, counter, countertop | Dust it with flour before rolling out pastry on it. |
 | Cutting | baking paper | parchment paper, baking parchment | A sheet on top of the chopping board stops fresh turmeric staining it. |
 | Cutting | chopping board | cutting board | |
 | Cutting | knife | | |
@@ -187,7 +185,6 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Oven and bakeware | pie dish | pie plate, pie pan, pie tin | Give its size and depth, as in "a 23 cm metal or glass pie dish, at least 4 cm deep". |
 | Oven and bakeware | wire rack | cooling rack, cake rack | For cooling baked food, so air can reach its underside. |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
-| Utensils | fork | | Its prongs are handy for crimping pastry, as in "Crimp the edge by pressing the prongs of a fork into it all the way round". |
 | Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "Pat the prawns dry with kitchen roll". |
 | Utensils | rolling pin | | |
 | Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
@@ -311,10 +308,9 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Blending and grinding | turn the lid anticlockwise | twist the lid, turn the lid counter-clockwise | For a Blendtec Twister jar, whose lid scrapes the sides as it turns, as in "keep turning the lid anticlockwise the whole time it's blending". |
 | Mixing | whisk | beat | Stir briskly with a whisk, as in "whisk until smooth". For cream, use whip. |
 | Mixing | whip | whisk (for cream) | Work air into cream with a whisk until it thickens and holds its shape, as in "whip the cream until it holds soft peaks". |
-| Pastry and baking | dust | flour (as a verb) | Scatter a thin layer of flour over a work surface and rolling pin, so pastry doesn't stick, as in "Dust a work surface and a rolling pin with flour". In the ingredient list, write "Plain flour, for dusting". |
-| Pastry and baking | roll out | | Roll pastry flat with a rolling pin, as in "Roll out the pastry into a circle about 35 cm across". |
+| Pastry and baking | roll out | | Roll pastry flat with a rolling pin, as in "Roll out the pastry". |
 | Pastry and baking | line | | Cover the inside of a dish with pastry, or of a pastry case with foil, as in "Line the pie dish". |
-| Pastry and baking | crimp | | Press a pattern into the edge of a pastry case, as in "Crimp the edge by pressing the prongs of a fork into it all the way round". |
+| Pastry and baking | crimp | | Press the edge of a pastry case into shape, as in "Crimp the edge by pressing the pastry together with fingers". |
 | Pastry and baking | pastry case | pie crust, pie shell, pastry shell | The pastry once it's lining the dish, as in "Refrigerate the pastry case". |
 | Pastry and baking | preheat | pre-heat | Heat the oven to the temperature you need before the food goes in, as in "preheat the oven to 180°C (160°C fan)". |
 | Pastry and baking | blind bake | blind-bake, bake blind, prebake | Bake a pastry case empty, lined with foil and filled with sugar to weigh it down, so it's crisp before the filling goes in. Never hyphenated. In the ingredient list, write "1 kg granulated sugar, for blind baking". |

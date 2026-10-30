@@ -25,7 +25,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 #### For the pastry case
 
 - 350 g all-butter shortcrust pastry (thawed if frozen)
-- Plain flour, for dusting
+- 1 tsp unsalted butter
 - 1 kg granulated sugar, for blind baking
 
 #### For the filling
@@ -50,11 +50,11 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 
 #### Step 1: Line the pie dish.
 
-Dust a work surface and a rolling pin with flour. Roll out the pastry into a circle about 35 cm across and 3 mm thick, giving it a quarter turn every few rolls so it doesn't stick.
+Roll out the pastry and rub a very thin layer of butter on to the sides and bottom of the pie dish.
 
 Roll the pastry loosely around the rolling pin, then unroll it over a 23 cm metal or glass pie dish, at least 4 cm deep. Ease it into the pie dish and press it into the corners, without stretching it.
 
-Trim the overhang to 2 cm with scissors, then fold it under so it sits on the rim of the pie dish. Crimp the edge by pressing the prongs of a fork into it all the way round.
+Trim the overhang to 2 cm with scissors, then fold it under so it sits on the rim of the pie dish. Crimp the edge by pressing the pastry together with fingers.
 
 Refrigerate the pastry case for at least 2 hours, until it's cold and firm. About 20 minutes before the time is up, put an oven shelf in the lower third of the oven, and preheat the oven to 180°C (160°C fan).
 
@@ -126,6 +126,6 @@ Just before serving, whip the cream in a large bowl until it holds soft peaks (w
 
 ## Sources
 
-- Preppy Kitchen: [Pumpkin Pie Recipe](https://preppykitchen.com/pumpkin-pie-2/). The filling and how to make it, the size of the pie dish and the pastry circle, the oven shelf position, the two oven temperatures and baking times, the wobble test, cooling the pie on a wire rack, and making it up to 2 days ahead.
-- Sally's Baking: [The Great Pumpkin Pie Recipe](https://sallysbakingaddiction.com/the-great-pumpkin-pie-recipe/). The cornflour and black pepper, turning the pastry as you roll it out, folding the overhang under and crimping it with a fork, covering the edge with foil partway through baking, cooling the pie for 3 hours, freezing it, and Libby's pumpkin purée.
+- Preppy Kitchen: [Pumpkin Pie Recipe](https://preppykitchen.com/pumpkin-pie-2/). The filling and how to make it, the size of the pie dish, the oven shelf position, the two oven temperatures and baking times, the wobble test, cooling the pie on a wire rack, and making it up to 2 days ahead.
+- Sally's Baking: [The Great Pumpkin Pie Recipe](https://sallysbakingaddiction.com/the-great-pumpkin-pie-recipe/). The cornflour and black pepper, folding the overhang under, covering the edge with foil partway through baking, cooling the pie for 3 hours, freezing it, and Libby's pumpkin purée.
 - Serious Eats: [How to Blind Bake Pie Crust Without Weights](https://www.seriouseats.com/how-to-blind-bake-a-pie-crust). Blind baking the pastry case: using a metal or glass pie dish, refrigerating the pastry case for 2 hours first, lining it with foil folded over the edge, filling it with sugar, baking it on a baking tray at 180°C for 1 hour, and reusing the sugar.
