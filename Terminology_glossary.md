@@ -108,7 +108,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | cumin seeds | cumin seeds | whole cumin, cumin seed, jeera | Ground, they're ground cumin. |
 | Spices | ground cumin | ground cumin | cumin powder | Whole, they're cumin seeds. |
 | Spices | ground ginger | ground ginger | ginger powder | Keep "ground" whenever you mean this ingredient. Fresh, it's ginger. |
-| Spices | ground nutmeg | ground nutmeg | nutmeg powder | Freshly grated whole nutmeg would need its own term. |
+| Spices | ground nutmeg | ground nutmeg | nutmeg powder | Freshly ground from a whole nutmeg, it's stronger than ready-ground, so you need less, as in "½ tsp ground nutmeg (¼ tsp if freshly ground)". |
 | Spices | ground turmeric | ground turmeric | turmeric powder | Keep "ground" whenever you mean this ingredient. Fresh, it's fresh turmeric. |
 | Spices | white peppercorns | white peppercorns | whole white pepper | Ground, it's ground white pepper. |
 | Spices | ground white pepper | ground white pepper | white pepper powder, white pepper (on its own) | Whole, they're white peppercorns. |
@@ -387,6 +387,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g Thai shallots, roughly chopped (about 8)". |
 | (about {fraction} of a palm sugar block) | (about {fraction} of a block of palm sugar), (about {fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp grated palm sugar (about ¼ of a palm sugar block)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
+| ({amount} if freshly ground) | (or {amount} freshly ground), ({amount} if fresh) | How much to use if the cook grinds the spice fresh, which tastes stronger, as in "½ tsp ground nutmeg (¼ tsp if freshly ground)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
 | (at room temperature) | (room temperature), (room temp) | For eggs and other ingredients from the fridge that should warm up before you use them. Say in a step when to take them out, as in "While it bakes, take the eggs out of the fridge". |
 | (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 2)". |

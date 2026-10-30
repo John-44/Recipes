@@ -34,7 +34,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 - 1 tbsp cornflour
 - 2 tsp ground cinnamon
 - ½ tsp ground ginger
-- ½ tsp ground nutmeg
+- ½ tsp ground nutmeg (¼ tsp if freshly ground)
 - ⅛ tsp ground cloves
 - ½ tsp fine sea salt
 - ⅛ tsp freshly ground black pepper
