@@ -18,6 +18,10 @@ Suggestions for this repository that have been considered and turned down. Read 
 - "Chill" or "chilling" for refrigerating, or loosening the entry that rules them out.
 - Trimming the step title, note topic, shop, brand, food label or source tables.
 
+## Pumpkin Pie
+
+- A homemade shortcrust pastry recipe instead of the store-bought all-butter shortcrust pastry.
+
 ## Thai Yellow Curry Paste
 
 - Flagging the 35 min total time as relying on preparation done while the chillies soak.
