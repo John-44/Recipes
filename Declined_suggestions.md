@@ -21,6 +21,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 ## Pumpkin Pie
 
 - A homemade shortcrust pastry recipe instead of the store-bought all-butter shortcrust pastry.
+- A size and thickness to roll the pastry to in Step 1.
 
 ## Thai Yellow Curry Paste
 
