@@ -51,7 +51,7 @@ Keep the sections in this order.
 
 ![{What the finished dish looks like}](images/{Recipe_title}.jpg)
 
-{What the dish is, what it tastes like, and how to serve it. 100 words max.}
+{What the dish is, what it tastes like and, if it helps, how to serve it. 100 words max.}
 
 | Start ahead | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- | --- |
@@ -207,7 +207,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 ### Description
 
 - 100 words max. Two to four sentences is usually enough.
-- Say what the dish is, what it tastes like, what makes this version good, and how to serve it.
+- Say what the dish is, what it tastes like, what makes this version good and, if it helps, how to serve it.
 - Give the dish's original name if it has one, e.g. "Known in Thailand as *gaeng garee*."
 - Anything the cook needs to do or know before they start, such as overnight marinating or another recipe that must be made first, goes in **Before you start**, not here.
 
