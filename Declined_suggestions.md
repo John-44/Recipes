@@ -20,6 +20,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 
 ## Pumpkin Pie
 
+- Saying in **Equipment** that the measuring cup should be metal, and what it's for.
 - A homemade shortcrust pastry recipe instead of the store-bought all-butter shortcrust pastry.
 - A size and thickness to roll the pastry to in Step 1.
 
