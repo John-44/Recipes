@@ -320,6 +320,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Pastry and baking | crimp | | Press the edge of a pastry case into shape, as in "Crimp the edge by pressing the pastry together with fingers". |
 | Pastry and baking | pastry case | pie crust, pie shell, pastry shell | The pastry once it's lining the dish, as in "Line the cold pastry case with foil". |
 | Pastry and baking | preheat | pre-heat | Heat the oven to the temperature you need before the food goes in, as in "preheat the oven to 180°C (160°C fan)". |
+| Pastry and baking | at temperature | hot (for an oven), up to temperature | When the oven has reached the temperature it's set to, as in "Once the oven is at temperature". |
 | Pastry and baking | blind bake | blind-bake, bake blind, prebake | Bake a pastry case empty, lined with foil and filled with sugar to weigh it down, so it's crisp before the filling goes in. Never hyphenated. In the ingredient list, write "1.5 kg granulated sugar, for blind baking". |
 | Pastry and baking | paint | brush (as a verb), glaze | Spread a thin layer of milk over pastry with a pastry brush, so it browns in the oven, as in "paint the milk on to the edges of the pastry". |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |

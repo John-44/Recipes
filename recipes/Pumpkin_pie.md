@@ -17,7 +17,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 - Foil
 - Baking tray
 - Whisk
-- Metal measuring cup, for scooping out the granulated sugar
+- Measuring cup
 - Pastry brush
 - Probe thermometer
 - Wire rack
@@ -88,7 +88,7 @@ The bottom of the pastry case should be golden brown. If it's still pale, put it
 
 #### Step 5: Bake the pie.
 
-Once the oven is hot, pour the filling into the warm pastry case. Put the baking tray back in the oven and bake for 15 minutes.
+Once the oven is at temperature, pour the filling into the warm pastry case. Put the baking tray back in the oven and bake for 15 minutes.
 
 Turn the oven down to 180°C (160°C fan), and make a pie guard again, so the edge of the pastry case doesn't brown too much. Bake until only the centre wobbles when you gently shake the baking tray, and the filling has puffed up slightly at the edge, about 40–60 minutes more. Measure the centre of the filling with a probe thermometer to know when it is done: it will be done when the centre reaches 80°C.
 
