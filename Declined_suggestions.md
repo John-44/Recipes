@@ -24,6 +24,10 @@ Suggestions for this repository that have been considered and turned down. Read 
 - A homemade shortcrust pastry recipe instead of the store-bought all-butter shortcrust pastry.
 - A size and thickness to roll the pastry to in Step 1.
 
+## Reverse Seared Ribeye with Pan Sauce
+
+- Keeping the heat on high for the whole of Step 6, rather than turning it down to medium as the sauce thickens.
+
 ## Thai Yellow Curry Paste
 
 - Flagging the 35 min total time as relying on preparation done while the chillies soak.

@@ -372,7 +372,6 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | glossy | shiny | How a sauce looks once butter has melted into it, as in "until the sauce is glossy". |
 | Doneness | golden brown | golden-brown | The colour of fully baked pastry, as in "The bottom of the pastry case should be golden brown". |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's thick and the oil separates out", and again when you fry curry paste in it. |
-| Doneness | thick enough to coat the back of a spoon | coats the spoon, nappe | For a reduced sauce: it should cling to the back of a spoon in an even layer. |
 | Doneness | until deep brown | until well browned, until dark brown | For searing meat. |
 | Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices and dried chillies, as in "until they're fragrant and darken a shade". |
 | Doneness | until it holds soft peaks | to soft peaks, until soft peaks form | For whipped cream: when you lift out the whisk, the cream forms a peak that flops over at the tip. The first time, explain it in brackets. |
@@ -430,7 +429,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g Thai shallots, roughly chopped (about 8)". |
 | (about {fraction} of a palm sugar block) | (about {fraction} of a block of palm sugar), (about {fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp grated palm sugar (about ¼ of a palm sugar block)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
-| (or {ingredient}) | (or use {ingredient}), (alternatively {ingredient}) | A quick swap, with its amount if that's different, as in "2 shallots (or 1 banana shallot)". |
+| (or {ingredient}) | (or use {ingredient}), (alternatively {ingredient}) | A quick swap, with its amount if that's different, as in "1 large or 2 small banana shallots (or twice as many shallots)". |
 | (or {ingredient}, see Notes) | (or {ingredient}, see below) | A swap whose details, such as which one to buy, are in **Notes and substitutions**, as in "2 tsp thick demi-glace (or concentrated beef stock, see Notes)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
 | (at room temperature) | (room temperature), (room temp) | For eggs and other ingredients from the fridge that should warm up before you use them. Say in a step when to take them out, as in "While it bakes, take the eggs out of the fridge". |
@@ -631,7 +630,6 @@ The website names at the start of each line in **Sources**, before the colon.
 | America's Test Kitchen | americastestkitchen.com | Americas Test Kitchen, ATK |
 | Biona Organic | biona.co.uk | Biona (on its own) |
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
-| Food Standards Agency | gov.uk | FSA, GOV.UK |
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | M&S | marksandspencer.com | Marks & Spencer, Marks and Spencer |
