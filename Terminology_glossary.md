@@ -108,7 +108,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | cumin seeds | cumin seeds | whole cumin, cumin seed, jeera | Ground, they're ground cumin. |
 | Spices | ground cumin | ground cumin | cumin powder | Whole, they're cumin seeds. |
 | Spices | ground ginger | ground ginger | ginger powder | Keep "ground" whenever you mean this ingredient. Fresh, it's ginger. |
-| Spices | ground nutmeg | ground nutmeg | nutmeg powder | Freshly ground from a whole nutmeg, it's stronger than ready-ground, so you need less, as in "½ tsp ground nutmeg (¼ tsp if freshly ground)". |
+| Spices | ground nutmeg | ground nutmeg | nutmeg powder | Freshly ground from a whole nutmeg, it's stronger than ready-ground, so you need less. Say when a recipe needs it ground fresh, as in "¾ tsp freshly ground nutmeg". |
 | Spices | ground turmeric | ground turmeric | turmeric powder | Keep "ground" whenever you mean this ingredient. Fresh, it's fresh turmeric. |
 | Spices | white peppercorns | white peppercorns | whole white pepper | Ground, it's ground white pepper. |
 | Spices | ground white pepper | ground white pepper | white pepper powder, white pepper (on its own) | Whole, they're white peppercorns. |
@@ -132,10 +132,12 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | coconut cream | coconut cream | | Thicker and richer than coconut milk, and sold in cartons and cans. Not the thick part from the top of a can of coconut milk, or creamed coconut, which is a hard block. |
 | Liquids | full-fat coconut milk | coconut milk | full fat coconut milk | The canned kind, not the coconut drinks sold in cartons. Reduced-fat (light) coconut milk won't crack. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
 | Liquids | evaporated milk | evaporated milk | evap, unsweetened condensed milk | Unsweetened canned milk, with some of its water removed. Not condensed milk, which is sweetened. UK cans usually hold 410 g. |
+| Liquids | milk | milk | | Whole or semi-skimmed cow's milk, as in "1 tbsp milk". Not evaporated milk, which has some of its water removed. |
 | Liquids | low-salt chicken stock | stock | low-sodium chicken stock, chicken broth, bouillon | Not standard chicken stock, which is saltier. Write "low-salt chicken stock or water" when water works too. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
 | Flours and starches | cornflour | cornflour | cornstarch, corn starch, maize starch | A fine white starch that thickens liquids and helps them set. Not cornmeal or polenta. |
+| Flours and starches | plain flour | flour | all-purpose flour, AP flour | Wheat flour with no raising agent, as in "1 tbsp plain flour, for dusting". Self-raising flour would need its own term. |
 | Pastry | all-butter shortcrust pastry | pastry | all butter shortcrust pastry, pie dough | Ready-made shortcrust pastry made with butter rather than vegetable fat, sold chilled or frozen. |
 | Raising agents | bicarbonate of soda | bicarbonate of soda | baking soda, bicarb, bicarb of soda, sodium bicarbonate, bread soda | Not baking powder, which also contains an acid. Labels may call it sodium bicarbonate. |
 | Garnishes | crispy fried shallots | crispy fried shallots | fried shallots, crispy shallots, shallot crisps | Ready-made, for scattering over a dish. Not the same as Thai shallots. |
@@ -183,18 +185,22 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Oven and bakeware | foil | tinfoil, tin foil, aluminium foil, kitchen foil | For lining a pastry case to blind bake it, and for covering pastry that's browning too fast. |
 | Oven and bakeware | oven shelf | oven rack | One of the shelves inside the oven, as in "put an oven shelf in the lower third of the oven". Not a wire rack. |
 | Oven and bakeware | pie dish | pie plate, pie pan, pie tin | Give its size and depth, as in "a 23 cm metal or glass pie dish, at least 4 cm deep". |
+| Oven and bakeware | pie guard | pie shield, pie crust shield, crust shield | Foil covering the edge of a pastry case, so it doesn't burn, as in "Make a pie guard by covering the edges of the pastry with foil". |
 | Oven and bakeware | wire rack | cooling rack, cake rack | For cooling baked food, so air can reach its underside. |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
 | Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "Pat the prawns dry with kitchen roll". |
+| Utensils | measuring cup | cup measure | Used as a scoop, never to measure ingredients (see the [measurement rules](Recipe_template.md#measurements)). Use a metal one for anything hot, such as the sugar after blind baking. |
+| Utensils | pastry brush | basting brush | A small brush for painting milk on to pastry. |
+| Utensils | probe thermometer | meat thermometer, food thermometer, digital thermometer, instant-read thermometer | A digital thermometer with a metal probe you push into the food, as in "Measure the centre of the filling with a probe thermometer". |
 | Utensils | rolling pin | | |
 | Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Utensils | whisk | | A hand whisk, such as a balloon whisk. An electric whisk would need its own term. |
+| Storage | freezer | deep freeze, deep freezer | |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
 | Storage | freezer bag | ziplock bag, zip-lock bag, sandwich bag | |
 | Storage | cling film | clingfilm, plastic wrap, food wrap | |
 | Protective kit | gloves | | Worn when handling fresh turmeric, which stains. |
-| Protective kit | oven gloves | oven mitts | For handling anything hot from the oven, such as the sugar used to blind bake a pastry case. |
 
 ## Dish names
 
@@ -309,11 +315,14 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Mixing | whisk | beat | Stir briskly with a whisk, as in "whisk until smooth". For cream, use whip. |
 | Mixing | whip | whisk (for cream) | Work air into cream with a whisk until it thickens and holds its shape, as in "whip the cream until it holds soft peaks". |
 | Pastry and baking | roll out | | Roll pastry flat with a rolling pin, as in "Roll out the pastry". |
+| Pastry and baking | dust | sprinkle with flour, flour (as a verb) | Scatter a thin layer of flour over pastry, so it doesn't stick, as in "Dust the top of the pastry with flour". |
 | Pastry and baking | line | | Cover the inside of a dish with pastry, or of a pastry case with foil, as in "Line the pie dish". |
 | Pastry and baking | crimp | | Press the edge of a pastry case into shape, as in "Crimp the edge by pressing the pastry together with fingers". |
-| Pastry and baking | pastry case | pie crust, pie shell, pastry shell | The pastry once it's lining the dish, as in "Refrigerate the pastry case". |
+| Pastry and baking | pastry case | pie crust, pie shell, pastry shell | The pastry once it's lining the dish, as in "Line the cold pastry case with foil". |
 | Pastry and baking | preheat | pre-heat | Heat the oven to the temperature you need before the food goes in, as in "preheat the oven to 180°C (160°C fan)". |
-| Pastry and baking | blind bake | blind-bake, bake blind, prebake | Bake a pastry case empty, lined with foil and filled with sugar to weigh it down, so it's crisp before the filling goes in. Never hyphenated. In the ingredient list, write "1 kg granulated sugar, for blind baking". |
+| Pastry and baking | at temperature | hot (for an oven), up to temperature | When the oven has reached the temperature it's set to, as in "Once the oven is at temperature". |
+| Pastry and baking | blind bake | blind-bake, bake blind, prebake | Bake a pastry case empty, lined with foil and filled with sugar to weigh it down, so it's crisp before the filling goes in. Never hyphenated. In the ingredient list, write "1.5 kg granulated sugar, for blind baking". |
+| Pastry and baking | paint | brush (as a verb), glaze | Spread a thin layer of milk over pastry with a pastry brush, so it browns in the oven, as in "paint the milk on to the edges of the pastry". |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
 | Heat levels | medium-low heat | medium low heat, low-medium heat | |
 | Heat levels | medium heat | moderate heat | |
@@ -383,9 +392,9 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g Thai shallots, roughly chopped (about 8)". |
 | (about {fraction} of a palm sugar block) | (about {fraction} of a block of palm sugar), (about {fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp grated palm sugar (about ¼ of a palm sugar block)". |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
-| ({amount} if freshly ground) | (or {amount} freshly ground), ({amount} if fresh) | How much to use if the cook grinds the spice fresh, which tastes stronger, as in "½ tsp ground nutmeg (¼ tsp if freshly ground)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
 | (at room temperature) | (room temperature), (room temp) | For eggs and other ingredients from the fridge that should warm up before you use them. Say in a step when to take them out, as in "While it bakes, take the eggs out of the fridge". |
+| (not fresh) | | For a ground spice that's easy to confuse with its fresh form, as in "¾ tsp ground ginger (not fresh)". |
 | (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 2)". |
 | (optional) | (if you like), (if using) | For something the cook can leave out. |
 | (thawed if frozen) | (defrosted if frozen) | |
@@ -489,6 +498,7 @@ Brands named in **Equipment** and **Notes and substitutions**. Write each one as
 | Blendtec | BlendTec, Blend-Tec | A US brand of high-speed blenders. Write its small jar for thick mixtures, which has a lid you turn to scrape the sides, as "Twister jar". |
 | Chaokoh | Chao Koh, ChaoKoh | A Thai brand. Its coconut milk contains an emulsifier. |
 | Libby's | Libbys, Libby | A US brand of canned pumpkin purée. |
+| Pyrex | PYREX, pyrex | A brand of heatproof glass bakeware. |
 
 ## Food labels
 
