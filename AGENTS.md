@@ -30,7 +30,9 @@ Every rule about what goes in a recipe and how it's written is in the template o
 
 ## Checking sources
 
-Some recipe sites block automated requests. If a page won't open, don't try to get round the block, such as a bot check. Leave it out of **Sources**, as the template requires, and tell the user you couldn't check it, in your reply and under **Worth checking** in the pull request. You can still use what search results show, as long as you say the page itself wasn't checked.
+Some recipe sites block automated requests but still open in an ordinary browser. If a page won't open with your usual web tools, open it in the user's own Chrome through a browser extension such as Claude in Chrome, if you have one, and read it there. Treat it as an ordinary visit: if the page puts a CAPTCHA, a check that you're human, a sign-in or a paywall in the way, stop rather than trying to get past it. If your tools or permissions refuse the browser for a site, accept that, and don't retry or look for another way in.
+
+If you still can't open the page, leave it out of **Sources**, as the template requires, and tell the user you couldn't check it, in your reply and under **Worth checking** in the pull request. You can still use what search results show, as long as you say the page itself wasn't checked.
 
 ## Questions and reviews
 
