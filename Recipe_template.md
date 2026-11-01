@@ -287,7 +287,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - If you only use part of a can or carton, give the amount in g or ml instead: `200 ml full-fat coconut milk`.
 - Don't use cups. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
 - Round to amounts that are easy to measure: `250 g`, not `247 g`. Switch to kg and L from 1,000: `1.2 kg`, `1.5 L`.
-- Use ½, ⅓, ⅔, ¼ and ¾ with spoons, cans and counts (`1½ tsp`). Don't use fractions with g or ml.
+- Use ½, ⅓, ⅔, ¼, ¾ and ⅛ with spoons, cans and counts (`1½ tsp`). Don't use fractions with g or ml.
 - Give a size for counted items when it matters (`1 large onion`), and a rough weight when it matters a lot (`1 large potato (about 300 g)`).
 - Put a space between the number and the unit: `500 g`, `2 cm`.
 
