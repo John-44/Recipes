@@ -329,7 +329,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
 | Before cooking | pat dry | blot, dab dry | Press kitchen roll onto food to soak up the water on its surface, as in "Pat the prawns dry with kitchen roll". |
-| Before cooking | season | | Sprinkle food all over with salt and pepper before cooking, as in "season it all over, including the edges, with the salt and ½ tsp of the pepper". |
+| Before cooking | season | | Sprinkle food all over with salt and pepper before cooking, as in "season it all over (including the edges) to taste, with the salt and 1 tsp of the pepper". |
 | Blending and grinding | blend | blitz, process | Wet ingredients, to a paste, with a high-speed blender or stick blender. |
 | Blending and grinding | grind | blitz, pulverise | Dry ingredients, such as toasted spices, to a powder, as in "grind to a fine powder". |
 | Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |
@@ -364,6 +364,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Frying and toasting | sear | seal, pan-sear | Fry over high heat until a deep brown crust forms, as in "Sear the steak". |
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Pan sauces | fond | fonds | The browned bits stuck to the bottom of a pan after searing or frying meat. The first time, write "the fond (the browned bits stuck to the bottom of the pan)". |
+| Pan sauces | deglaze | de-glaze | Loosen the fond by pouring liquid into the hot pan, so it dissolves into the sauce, as in "deglazes the cast iron skillet". |
 | Pan sauces | pan sauce | | A sauce made in the pan the meat was seared in, from its fond. |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Stirring | stirring all the time | stirring constantly, stirring continuously | |
