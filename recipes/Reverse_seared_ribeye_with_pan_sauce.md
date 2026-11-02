@@ -68,7 +68,7 @@ Pour in the wine, then add the finely chopped coriander leaves and stalks, musta
 
 Boil hard over high heat, stirring all the time and scraping the bottom of the cast iron skillet to lift any fond that's left, until the sauce is thick, about 4 minutes. As it thickens, gradually turn the heat down to medium, so it doesn't burn on the bottom.
 
-> **Tip:** If you turn the heat down before the sauce starts to thicken, it won't reduce in 4 minutes. Until then, stirring and scraping all the time is what stops it burning.
+> **Tip:** If you turn the heat down before the sauce starts to thicken, it won't reduce in 4 minutes. Until then, stirring all the time and scraping the bottom is what stops it burning.
 
 #### Step 7: Stir in the butter.
 
