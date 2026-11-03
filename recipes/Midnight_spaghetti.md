@@ -1,6 +1,6 @@
 # Midnight Spaghetti
 
-Spaghetti in a crema (a creamy sauce) made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes knock up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
+Spaghetti in a crema (a creamy sauce) made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes rustle up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ Put 3 L water in the large saucepan, add the salt and MSG, stir, and bring to bo
 
 While it heats, break the garlic into cloves, then peel and finely slice them. Wash the coriander leaves and stalks. Pick off the coriander leaves for serving (about a small handful), and set them aside for Step 5. Finely chop the rest of the coriander leaves and stalks.
 
-Once boiling, put the pasta strainer insert in the saucepan (if it has one).
+Once boiling, put the pasta strainer insert in the pot (if it has one).
 
 > **Tip:** Don't use more than 3 L of water. More would dilute the starch, salt and MSG in the pasta water below what the sauce needs.
 
@@ -63,7 +63,7 @@ Pour the olive oil into a cold frying pan at least 28 cm across, and add the gar
 
 Turn the heat down to low, add the pine nuts and fry, stirring often, until lightly golden, about 2 minutes.
 
-Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the saucepan with a heatproof jug just before you add it. Stand back, as it spits in the hot oil. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 250 ml in all.
+Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the saucepan with a heatproof jug just before you add it. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 250 ml in all. Turn the heat up to medium-low while the pasta water is evaporating, then after the water is mostly evaporated turn the heat down to low again.
 
 > **Tip:** The pasta water holds starch from the spaghetti, as well as salt and MSG. Stirred into the olive oil, the starch acts as an emulsifier, making a crema (a creamy sauce that coats the spaghetti, with no pools of oil or water). Pasta water gets starchier as the spaghetti cooks, which is why it's scooped just before it goes in.
 
@@ -83,7 +83,7 @@ Divide the spaghetti between 3 or 4 plates. Finely grate the Parmesan over the t
 
 - **Spaghetti:** Use a high-quality Italian brand, such as La Molisana.
 - **Extra virgin olive oil:** Use a high-quality one. The sauce is mostly olive oil, so you'll taste it.
-- **Chilli flakes:** This recipe uses [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929), sold at Waitrose. If you can't find it, use the same amount of ordinary chilli flakes.
+- **Chilli flakes:** This recipe uses [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929), sold at Waitrose. If you can't find it, use ordinary chilli flakes.
 - **Vegetarian:** Parmesan is made with calf rennet, so it isn't vegetarian. Use a vegetarian Italian-style hard cheese instead.
 
 ## Origin
@@ -104,7 +104,6 @@ Divide the spaghetti between 3 or 4 plates. Finely grate the Parmesan over the t
 
 ## Sources
 
-- Vegetarian Society: [Which cheeses are suitable for vegetarians, and which aren't?](https://vegsoc.org/news/vegetarian-cheese/). Parmesan being made with calf rennet, for the **Vegetarian** note.
 - Waitrose: [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929). The chilli flakes, and their ingredients, for the **Allergens** line.
 - Wikipedia: [Spaghetti aglio e olio](https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio). The dish being typical of Naples, for the **Origin**.
-- YouTube: [Midnight Pasta - Chef in Tuscany shares "Aglio, Olio e Peperoncino" Recipe](https://www.youtube.com/watch?v=U2MZbpI5kj0&t=212s). The primary inspiration: Aden Films' video of chef Simone Acquarelli, for the name and the late-night custom behind it, starting the garlic in a cold pan of extra virgin olive oil and cooking it gently, finishing the spaghetti in the pan with pasta water, moving it all the time so its starch makes the sauce creamy, and Parmesan on top.
+- YouTube: [Midnight Pasta - Chef in Tuscany shares "Aglio, Olio e Peperoncino" Recipe](https://www.youtube.com/watch?v=U2MZbpI5kj0&t=212s) is the primary inspiration behind this recipe. Chef Simone Acquarelli shows how he cooks the dish, starting the garlic in a cold pan of extra virgin olive oil and cooking it gently, finishing the spaghetti in the pan with pasta water, moving it all the time so its starch makes the crema sauce.

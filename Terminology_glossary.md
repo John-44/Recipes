@@ -671,7 +671,6 @@ The website names at the start of each line in **Sources**, before the colon.
 | Sally's Baking | sallysbakingaddiction.com | Sally's Baking Addiction, Sallys Baking |
 | Serious Eats | seriouseats.com | SeriousEats |
 | TODAY | today.com | Today, TODAY.com |
-| Vegetarian Society | vegsoc.org | VegSoc, The Vegetarian Society |
 | Waitrose | waitrose.com | Waitrose & Partners |
 | Wikipedia | wikipedia.org | Wiki |
 | YouTube | youtube.com | Youtube, YT |
