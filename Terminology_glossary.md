@@ -362,6 +362,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Pastry and baking | blind bake | blind-bake, bake blind, prebake | Bake a pastry case empty, lined with foil and filled with sugar to weigh it down, so it's crisp before the filling goes in. Never hyphenated. In the ingredient list, write "1.5 kg granulated sugar, for blind baking". |
 | Pastry and baking | paint | brush (as a verb), glaze | Spread a thin layer of milk over pastry with a pastry brush, so it browns in the oven, as in "paint the milk on to the edges of the pastry". |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
+| Heat levels | low heat | minimum heat, gentle heat | The lowest setting on the hob. |
 | Heat levels | medium-low heat | medium low heat, low-medium heat | |
 | Heat levels | medium heat | moderate heat | |
 | Heat levels | medium-high heat | medium high heat, med-high heat | |
@@ -381,6 +382,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Pan sauces | fond | fonds | The browned bits stuck to the bottom of a pan after searing or frying meat. The first time, write "the fond (the browned bits stuck to the bottom of the pan)". |
 | Pan sauces | deglaze | de-glaze | Loosen the fond by pouring liquid into the hot pan, so it dissolves into the sauce, as in "deglazes the cast iron skillet". |
 | Pan sauces | pan sauce | | A sauce made in the pan the meat was seared in, from its fond. |
+| Stirring | stirring occasionally | stirring now and then, stirring from time to time | |
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Stirring | stirring all the time | stirring constantly, stirring continuously | |
 | Doneness | the raw {ingredient} smell has gone | no longer smells raw | For frying curry paste, as in "the raw shallot and garlic smell has gone". |
@@ -658,7 +660,6 @@ The website names at the start of each line in **Sources**, before the colon.
 | America's Test Kitchen | americastestkitchen.com | Americas Test Kitchen, ATK |
 | Biona Organic | biona.co.uk | Biona (on its own) |
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
-| Costco UK | costco.co.uk | Costco (on its own) |
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | M&S | marksandspencer.com | Marks & Spencer, Marks and Spencer |

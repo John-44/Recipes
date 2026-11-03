@@ -1,6 +1,6 @@
 # Midnight Spaghetti
 
-Spaghetti in a creamy sauce of olive oil, garlic, chilli flakes and starchy pasta water, under a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians often make at midnight after an evening with friends, hence the name. Smoked garlic, pine nuts and MSG give this version an extra umami kick, and coriander leaves add freshness.
+Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes knock up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
@@ -8,7 +8,7 @@ Spaghetti in a creamy sauce of olive oil, garlic, chilli flakes and starchy past
 
 ## Before you start
 
-- With so few ingredients, buy the best you can (see **Spaghetti**, **Extra virgin olive oil** and **Chilli flakes**).
+- This dish relies on high-quality ingredients, so make sure you buy the best dried spaghetti, extra virgin olive oil, chilli flakes and Parmesan you can (see **Spaghetti**, **Extra virgin olive oil** and **Chilli flakes**).
 
 ## Equipment
 
@@ -26,7 +26,7 @@ Spaghetti in a creamy sauce of olive oil, garlic, chilli flakes and starchy past
 
 #### For the sauce
 
-- 250 ml extra virgin olive oil
+- 200 ml extra virgin olive oil
 - 1 large or 2 small smoked garlic bulbs (or ordinary garlic)
 - 1 tbsp chilli flakes
 - 60 g pine nuts
@@ -41,25 +41,25 @@ Spaghetti in a creamy sauce of olive oil, garlic, chilli flakes and starchy past
 
 #### Step 1: Prep the vegetables.
 
-Put 3 L water in the large saucepan, with the pasta strainer insert in place if it has one. Add the salt and MSG, stir, and bring to boil over high heat.
+Put 3 L water in the large saucepan, add the salt and MSG, stir, and bring to boil over high heat. Once boiling, put the pasta strainer insert in the pot (if it has one).
 
-While it heats, break the garlic into cloves, then peel and finely slice them. Wash the coriander leaves and stalks, and pat them dry with kitchen roll. Pick off the coriander leaves for serving (about a small handful), and set them aside for Step 5. Finely chop the rest of the coriander leaves and stalks.
+While it heats, break the garlic into cloves, then peel and finely slice them. Wash the coriander leaves and stalks. Pick off the coriander leaves for serving (about a small handful), and set them aside for Step 5. Finely chop the rest of the coriander leaves and stalks.
 
 > **Tip:** Don't use more than 3 L of water. More would dilute the starch, salt and MSG in the pasta water below what the sauce needs.
 
 #### Step 2: Boil the spaghetti.
 
-Add the spaghetti and boil it for 1 minute longer than the time on the pack (11 minutes for La Molisana spaghetti), stirring often, especially for the first 4 minutes. If the spaghetti sticks up out of the water, wait until the ends in the water are soft, then turn the spaghetti over with tongs so the other ends soften too, and push any that still sticks up under the water.
+Add the spaghetti and boil it for the time on the pack (11 minutes for La Molisana spaghetti), stirring often, especially for the first 4 minutes. If the spaghetti sticks up out of the water, wait until the ends in the water are soft, then turn the spaghetti over with tongs so the other ends soften too, and push any that still sticks up under the water.
 
-When the spaghetti has 7 minutes left (after 4 minutes for La Molisana spaghetti), start Step 3, and keep stirring the spaghetti often while you fry the sauce.
+When the spaghetti has 7 minutes left, start Step 3, and keep stirring the spaghetti occasionally while you fry the sauce.
 
-> **Tip:** There's less water than usual, so the spaghetti is crowded and sticks together if it isn't stirred.
+> **Tip:** This recipe uses less water than usual, so the spaghetti is crowded and sticks together if it isn't stirred.
 
 #### Step 3: Fry the sauce.
 
-Pour the olive oil into a cold frying pan at least 28 cm across, and add the garlic and chilli flakes. Fry over medium-high heat, stirring often, until the garlic is soft and lightly golden, about 4 minutes. Don't let the garlic or the oil burn.
+Pour the olive oil into a cold frying pan at least 28 cm across, and add the garlic and chilli flakes. Fry over medium-low heat, stirring often, until the garlic is soft and lightly golden, about 4 minutes. Don't let the garlic or the oil burn.
 
-Turn the heat down to medium, add the pine nuts and fry, stirring often, until lightly golden, about 2 minutes.
+Turn the heat down to low, add the pine nuts and fry, stirring often, until lightly golden, about 2 minutes.
 
 Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the saucepan with a heatproof jug just before you add it. Stand back, as it spits in the hot oil. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 250 ml in all.
 
@@ -102,7 +102,6 @@ Divide the spaghetti between 3 or 4 plates. Finely grate the Parmesan over the t
 
 ## Sources
 
-- Costco UK: [La Molisana Spaghetti, 6 x 500g](https://www.costco.co.uk/Grocery-Household/Food-Cupboard/Pasta-Rice-Noodles/La-Molisana-Spaghetti-6-x-500g/p/8560785). La Molisana spaghetti's 10-minute cooking time, which the boiling time in Step 2 is based on.
 - Vegetarian Society: [Which cheeses are suitable for vegetarians, and which aren't?](https://vegsoc.org/news/vegetarian-cheese/). Parmesan being made with calf rennet, for the **Vegetarian** note.
 - Waitrose: [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929). The chilli flakes, and their ingredients, for the **Allergens** line.
 - Wikipedia: [Spaghetti aglio e olio](https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio). The dish being typical of Naples, for the **Origin**.
