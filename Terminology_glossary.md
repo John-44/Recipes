@@ -217,7 +217,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Appliances | sous-vide machine | sous vide machine, immersion circulator | Cooks food sealed in a bag, in a water bath held at an exact temperature. |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
 | Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "Pat the prawns dry with kitchen roll". |
-| Utensils | measuring cup | cup measure | Used as a scoop, never to measure ingredients (see the [measurement rules](Recipe_template.md#measurements)). Use a metal one for anything hot, such as the sugar after blind baking. |
+| Utensils | measuring cup | cup measure | Metric, so the 1-cup size holds 250 ml, a little more than a US measuring cup. Used to measure liquids (see the [measurement rules](Recipe_template.md#measurements)), and as a scoop. Use a metal one for anything hot, such as the sugar after blind baking. |
 | Utensils | ovenproof meat thermometer | oven-safe thermometer, oven proof thermometer, leave-in thermometer, meat probe | A thermometer you leave in the meat while it cooks, such as a probe on a cable to a display outside the oven. |
 | Utensils | pastry brush | basting brush | A small brush for painting milk on to pastry. |
 | Utensils | probe thermometer | meat thermometer, food thermometer, digital thermometer, instant-read thermometer | A digital thermometer with a metal probe you push into the food, as in "Measure the centre of the filling with a probe thermometer". |

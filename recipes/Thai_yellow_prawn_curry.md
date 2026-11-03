@@ -16,6 +16,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 ## Equipment
 
 - Wok (or a saucepan at least 24 cm across)
+- Measuring cup
 
 ## Ingredients
 
@@ -27,7 +28,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 1 can (400 ml) full-fat coconut milk (used in Steps 2, 4 and 5)
 - 1 tbsp coconut oil (only if needed, see Step 2)
 - 125 g [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) (or store-bought, see Notes)
-- 250 ml low-salt chicken stock
+- 1 metric cup low-salt chicken stock
 - 300 g Charlotte or other waxy potatoes, peeled and cut into 2 cm chunks
 - 1 small onion, cut into thick wedges
 - 4 kaffir lime leaves, crumpled

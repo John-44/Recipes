@@ -11,6 +11,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 - Moving waits of 1 hr or more after `plus` in **Total time**. The cut-off is 2 hr.
 - **Before you start** bullets for preparation that matters more than usual, such as chopping very finely so a paste isn't gritty, or for measuring everything out before Step 1.
 - Saying how to cook each accompaniment in **To serve**, such as the jasmine rice, or linking a rice recipe.
+- Rounding liquids that don't fit a metric cup measure to the nearest one, such as 200 ml to ¾ metric cup. They stay in ml.
 - Dropping **Credits** on the grounds that git history already records who changed each recipe.
 
 ## Terminology glossary

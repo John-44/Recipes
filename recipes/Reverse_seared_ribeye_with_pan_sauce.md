@@ -12,6 +12,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 - Wire rack set in a baking tray
 - Cast iron skillet
 - Tongs
+- Measuring cup
 
 ## Ingredients
 
@@ -22,7 +23,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 - 8 garlic cloves
 - 30 g coriander leaves and stalks (used in Steps 5 and 8)
 - 3 tbsp ghee
-- 250 ml red wine
+- 1 metric cup red wine
 - 2 tsp English mustard powder
 - 2 tsp thick demi-glace (or concentrated beef stock, see Notes)
 - 1 tbsp balsamic vinegar

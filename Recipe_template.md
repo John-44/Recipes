@@ -266,7 +266,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - Use `(optional)` for something the cook can leave out. For a fallback they only need if something goes wrong, use `(only if needed, see Step {number})` instead, so they still have it to hand.
 - If you add an ingredient in more than one step, such as half in Step 5 and the rest in Step 7, say which steps: `2 tsp tamarind paste (used in Steps 5 and 7)`. Otherwise a cook who has measured everything out may add it all at once.
 - If the **Taste and adjust** step might add more of an ingredient, end its line with `plus extra to taste`, after any note in brackets: `1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste`.
-- Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water and soak until soft". That includes soaking water you keep for a later step, as in "Drain, keeping 3 tbsp of the soaking water". Do list water when it's a measured part of the dish, such as `500 ml water` for a soup.
+- Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water and soak until soft". That includes soaking water you keep for a later step, as in "Drain, keeping 3 tbsp of the soaking water". Do list water when it's a measured part of the dish, such as `2 metric cups water` for a soup.
 - If the recipe has distinct parts, group the ingredients under level 4 (`####`) subheadings, such as `#### For the marinade` and `#### To serve`.
 
 #### Measurements
@@ -274,20 +274,23 @@ Write each ingredient on its own line, in the order you use it, following this p
 | Measure | Use it for | Example |
 | --- | --- | --- |
 | g, kg | Solid ingredients, and pastes over 4 tbsp: meat, fish, vegetables, herbs and leaves, flour, sugar, rice, noodles, curry paste | `500 g raw king prawns` |
-| ml, L | Liquids over 4 tbsp | `250 ml chicken stock` |
+| metric cups | Liquids over 4 tbsp and under 1 L, when the amount fits a metric cup measure | `1 metric cup chicken stock` |
+| ml, L | Other liquids over 4 tbsp | `350 ml evaporated milk` |
 | tsp, tbsp | Small amounts of anything, up to 4 tbsp: spices, salt, sauces, oil, pastes | `2 tbsp fish sauce` |
 | cans | Ingredients sold in cans, when you use the whole can | `1 can (400 g) chopped tomatoes` |
 | cartons | Ingredients sold in cartons, when you use the whole carton | `1 small carton (250 ml) coconut cream` |
 | Count | Things you naturally count | `4 garlic cloves`, `2 eggs` |
 | To taste | Seasoning you adjust at the end | `Salt, to taste` |
 
-- 1 tsp = 5 ml and 1 tbsp = 15 ml. Spoon measures are level unless the recipe says "heaped".
+- 1 tsp = 5 ml, 1 tbsp = 15 ml and 1 metric cup = 250 ml. Spoon measures are level unless the recipe says "heaped".
 - A standard can is 400 g (or 400 ml for liquids such as coconut milk). Always give the size in brackets: `1 can (400 g) chickpeas, drained and rinsed`, `2 cans (400 g each) chopped tomatoes`.
 - Cartons come in several sizes, so say whether you need a small or large one, and always give its size in brackets: `1 small carton (250 ml) coconut cream`.
-- If you only use part of a can or carton, give the amount in g or ml instead: `200 ml full-fat coconut milk`.
-- Don't use cups. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
+- If you only use part of a can or carton, give the amount in g, ml or metric cups instead: `200 ml full-fat coconut milk`.
+- A liquid fits a metric cup measure when it's a whole number of metric cups, or ends in ¼, ⅓, ½, ⅔ or ¾ of one: 125 ml is `½ metric cup`, 250 ml is `1 metric cup` and 375 ml is `1½ metric cups`. Give any other amount in ml, as in `200 ml extra virgin olive oil`. Can and carton sizes stay as printed on the pack, as in `1 small carton (250 ml) coconut cream`.
+- Write "metric cup" in full, never just "cup". A US cup is smaller, about 240 ml, so convert a US recipe's cups to ml before you decide whether an amount fits.
+- Only use metric cups for liquids. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
 - Round to amounts that are easy to measure: `250 g`, not `247 g`. Switch to kg and L from 1,000: `1.2 kg`, `1.5 L`.
-- Use ½, ⅓, ⅔, ¼, ¾ and ⅛ with spoons, cans and counts (`1½ tsp`). Don't use fractions with g or ml.
+- Use ½, ⅓, ⅔, ¼, ¾ and ⅛ with spoons, cans and counts (`1½ tsp`), and all but ⅛ with metric cups. Don't use fractions with g or ml.
 - Give a size for counted items when it matters (`1 large onion`), and a rough weight when it matters a lot (`1 large potato (about 300 g)`).
 - Put a space between the number and the unit: `500 g`, `2 cm`.
 
