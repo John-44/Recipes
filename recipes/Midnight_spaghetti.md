@@ -1,6 +1,6 @@
 # Midnight Spaghetti
 
-Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes knock up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
+Spaghetti in a crema (a creamy sauce) made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes knock up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
@@ -41,9 +41,11 @@ Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starch
 
 #### Step 1: Prep the vegetables.
 
-Put 3 L water in the large saucepan, add the salt and MSG, stir, and bring to boil over high heat. Once boiling, put the pasta strainer insert in the pot (if it has one).
+Put 3 L water in the large saucepan, add the salt and MSG, stir, and bring to boil over high heat.
 
 While it heats, break the garlic into cloves, then peel and finely slice them. Wash the coriander leaves and stalks. Pick off the coriander leaves for serving (about a small handful), and set them aside for Step 5. Finely chop the rest of the coriander leaves and stalks.
+
+Once boiling, put the pasta strainer insert in the saucepan (if it has one).
 
 > **Tip:** Don't use more than 3 L of water. More would dilute the starch, salt and MSG in the pasta water below what the sauce needs.
 
