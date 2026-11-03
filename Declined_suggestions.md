@@ -19,6 +19,10 @@ Suggestions for this repository that have been considered and turned down. Read 
 - "Chill" or "chilling" for refrigerating, or loosening the entry that rules them out.
 - Trimming the step title, note topic, shop, brand, food label or source tables.
 
+## Chilli con Carne
+
+- A **Taste and adjust** step.
+
 ## Pumpkin Pie
 
 - Saying in **Equipment** that the measuring cup should be metal, and what it's for.
