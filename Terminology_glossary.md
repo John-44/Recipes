@@ -510,7 +510,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | --- | --- | --- |
 | Prep the ingredients | Prepare the ingredients, Mise en place | Getting everything ready before the cooking starts, such as mixing a spice blend, soaking dried chillies and chopping vegetables. |
 | Prep the prawns | Prepare the prawns, Clean the prawns | Getting prawns ready to cook, such as peeling and deveining them and tossing them with salt and bicarbonate of soda. |
-| Prep the vegetables | Prepare the vegetables, Chop the vegetables | Peeling, washing and chopping vegetables and herbs, often while something else cooks. |
+| Prep the aromatics | Prepare the aromatics, Chop the aromatics | Peeling and chopping aromatics, such as shallots and garlic, and washing and chopping herbs, often while something else cooks. |
 | Toast and soak the chillies | | |
 | Toast the spices | | |
 | Grind the spices | | |
