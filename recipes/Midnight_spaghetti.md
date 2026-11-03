@@ -1,6 +1,6 @@
 # Midnight Spaghetti
 
-Spaghetti in a crema (a creamy sauce) made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes rustle up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
+Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes rustle up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
@@ -63,15 +63,15 @@ Pour the olive oil into a cold frying pan at least 28 cm across, and add the gar
 
 Turn the heat down to low, add the pine nuts and fry, stirring often, until lightly golden, about 2 minutes.
 
-Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the pot with a heatproof jug just before you add it. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 250 ml in all. Turn the heat up to medium-low while the pasta water is evaporating, then after the pasta water is mostly evaporated turn the heat down to low again.
+Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the pot with a heatproof jug just before you add it. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 200 ml in all. Turn the heat up to medium-low while the pasta water is evaporating, then after the pasta water is mostly evaporated turn the heat down to low again.
 
 > **Tip:** The pasta water holds starch from the spaghetti, as well as salt and MSG. Stirred into the olive oil, the starch acts as an emulsifier, making a crema (a creamy sauce that coats the spaghetti, with no pools of oil or water). Pasta water gets starchier as the spaghetti cooks, which is why it's scooped just before it goes in.
 
 #### Step 4: Finish the spaghetti.
 
-Just before you drain the spaghetti, scoop another 250 ml of pasta water out of the pot with the heatproof jug. Drain the spaghetti by lifting out the pasta strainer insert (or lift the spaghetti out with tongs, if your pot has no pasta strainer insert), and add it to the sauce in the frying pan.
+Just before you drain the spaghetti, scoop 150 ml of pasta water out of the pot. Drain the spaghetti by lifting out the pasta strainer insert (or lift the spaghetti out with tongs, if your pot has no pasta strainer insert), and add it to the sauce in the frying pan.
 
-Turn the heat up to high, add the 250 ml of pasta water, and stir the spaghetti vigorously with tongs, lifting it through the sauce, for at least 2 minutes, until the sauce is a crema that coats the spaghetti, rather than looking oily or watery.
+Turn the heat up to high, add the 150 ml of pasta water, and stir the spaghetti vigorously with tongs, lifting it through the sauce, for at least 2 minutes, until the sauce is a crema that coats the spaghetti, rather than looking oily or watery.
 
 #### Step 5: Serve the spaghetti.
 
