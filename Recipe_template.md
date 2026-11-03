@@ -138,7 +138,7 @@ Keep the sections in this order.
 - Write numbers as digits: "2 minutes", not "two minutes".
 - Call each thing by the same name every time, in this recipe and every other. Use the terms in the [Terminology glossary](Terminology_glossary.md), as described in [Terminology](#terminology).
 - No life stories, adverts or hype ("the best ever").
-- Write in your own words. Don't copy text from sources.
+- You can use a source's wording, such as a doneness cue it already puts well, as long as the source is listed in **Sources**. Keep it to a sentence or two from each source.
 
 ### Terminology
 
@@ -328,7 +328,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
 - Use the same ingredient names as the ingredient list, or shorten them as far as their [glossary](Terminology_glossary.md#ingredients) short names: "the prawns" for raw king prawns. Only repeat an amount when you add an ingredient in more than one step: "Add half the coconut milk (200 ml)."
 - If the recipe has separate parts, such as a marinade and a sauce, you can introduce each group of steps with a bold label matching its ingredient group, such as `**For the marinade**`. Reserve `####` headings in the directions for steps. A `#### To serve` ingredient group doesn't need a label. Keep counting steps across groups. Don't restart at Step 1.
 - When you add, remove or reorder steps, update every step number the recipe mentions to match: in ingredient labels, **Before you start**, other steps, tips, **Notes and substitutions** and **Storage and make-ahead**.
-- For a savoury dish, add a **Taste and adjust** step at the last point where the seasoning can still change. That's near the end for a sauce, soup, stew or curry, or before baking for a pie filling. If the dish finishes with something that cooks in a few minutes, such as prawns, put the step just before it goes in, so it doesn't overcook while you taste. Leave it out where there's no such point, such as for bread or a roast, and for a raw paste or spice mix, which you can't judge by tasting.
+- A **Taste and adjust** step is optional, even for a savoury dish. If you add one, put it at the last point where the seasoning can still change. That's near the end for a sauce, soup, stew or curry, or before baking for a pie filling. If the dish finishes with something that cooks in a few minutes, such as prawns, put the step just before it goes in, so it doesn't overcook while you taste. Leave it out where there's no such point, such as for bread or a roast, and for a raw paste or spice mix, which you can't judge by tasting.
 - In the **Taste and adjust** step, say what the dish should taste like, such as "rich, savoury and slightly sweet, with a hint of sourness", what to add to fix each thing that's off, and how much to add at a time, such as "Adjust it ½ tsp at a time: more fish sauce if it needs salt". If it's eaten with something plain, such as rice, say how that changes the target, as in "It's eaten with plain rice, so it should be strongly seasoned". If the cook might thin or thicken it, give a target for how thick it should be too.
 - Finish with how to serve.
 
@@ -451,7 +451,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - [ ] Every action, including optional ones and anything done while something else cooks or soaks, is in the step where the cook does it, with the most reliable doneness cue.
 - [ ] Every step title uses a level 4 (`####`) heading, with a blank line before the instructions.
 - [ ] Longer steps use short paragraphs or bullets where helpful, with actions after a substantial wait in a separate paragraph or bullet.
-- [ ] A savoury dish whose seasoning can still change has a **Taste and adjust** step at the last point it can, or just before anything that cooks in a few minutes goes in, saying what the dish should taste like and how to fix each thing that's off, with how much to add at a time.
+- [ ] Any **Taste and adjust** step is at the last point the seasoning can still change, or just before anything that cooks in a few minutes goes in, and says what the dish should taste like and how to fix each thing that's off, with how much to add at a time.
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
 - [ ] Every step number the recipe mentions, in any section, points to the right step.
 - [ ] **Equipment** lists every piece of kit beyond the basics that the recipe uses, including protective kit.
