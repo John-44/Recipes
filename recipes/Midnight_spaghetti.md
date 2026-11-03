@@ -12,7 +12,7 @@ Spaghetti in a crema (a creamy sauce) made with olive oil, garlic, chilli flakes
 
 ## Equipment
 
-- Large saucepan, ideally with a pasta strainer insert
+- Large pot, ideally with a pasta strainer insert
 - Tongs
 - Frying pan at least 28 cm across
 
@@ -41,7 +41,7 @@ Spaghetti in a crema (a creamy sauce) made with olive oil, garlic, chilli flakes
 
 #### Step 1: Prep the vegetables.
 
-Put 3 L water in the large saucepan, add the salt and MSG, stir, and bring to boil over high heat.
+Put 3 L water in the large pot, add the salt and MSG, stir, and bring to boil over high heat.
 
 While it heats, break the garlic into cloves, then peel and finely slice them. Wash the coriander leaves and stalks. Pick off the coriander leaves for serving (about a small handful), and set them aside for Step 5. Finely chop the rest of the coriander leaves and stalks.
 
@@ -63,13 +63,13 @@ Pour the olive oil into a cold frying pan at least 28 cm across, and add the gar
 
 Turn the heat down to low, add the pine nuts and fry, stirring often, until lightly golden, about 2 minutes.
 
-Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the saucepan with a heatproof jug just before you add it. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 250 ml in all. Turn the heat up to medium-low while the pasta water is evaporating, then after the water is mostly evaporated turn the heat down to low again.
+Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the pot with a heatproof jug just before you add it. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 250 ml in all. Turn the heat up to medium-low while the pasta water is evaporating, then after the pasta water is mostly evaporated turn the heat down to low again.
 
 > **Tip:** The pasta water holds starch from the spaghetti, as well as salt and MSG. Stirred into the olive oil, the starch acts as an emulsifier, making a crema (a creamy sauce that coats the spaghetti, with no pools of oil or water). Pasta water gets starchier as the spaghetti cooks, which is why it's scooped just before it goes in.
 
 #### Step 4: Finish the spaghetti.
 
-Just before you drain the spaghetti, scoop another 250 ml of pasta water out of the saucepan with the heatproof jug. Drain the spaghetti by lifting out the pasta strainer insert (or lift the spaghetti out with tongs, if your saucepan has no pasta strainer insert), and add it to the sauce in the frying pan.
+Just before you drain the spaghetti, scoop another 250 ml of pasta water out of the pot with the heatproof jug. Drain the spaghetti by lifting out the pasta strainer insert (or lift the spaghetti out with tongs, if your pot has no pasta strainer insert), and add it to the sauce in the frying pan.
 
 Turn the heat up to high, add the 250 ml of pasta water, and stir the spaghetti vigorously with tongs, lifting it through the sauce, for at least 2 minutes, until the sauce is a crema that coats the spaghetti, rather than looking oily or watery.
 
@@ -106,4 +106,4 @@ Divide the spaghetti between 3 or 4 plates. Finely grate the Parmesan over the t
 
 - Waitrose: [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929). The chilli flakes, and their ingredients, for the **Allergens** line.
 - Wikipedia: [Spaghetti aglio e olio](https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio). The dish being typical of Naples, for the **Origin**.
-- YouTube: [Midnight Pasta - Chef in Tuscany shares "Aglio, Olio e Peperoncino" Recipe](https://www.youtube.com/watch?v=U2MZbpI5kj0&t=212s) is the primary inspiration behind this recipe. Chef Simone Acquarelli shows how he cooks the dish, starting the garlic in a cold pan of extra virgin olive oil and cooking it gently, finishing the spaghetti in the pan with pasta water, moving it all the time so its starch makes the crema sauce.
+- YouTube: [Midnight Pasta - Chef in Tuscany shares "Aglio, Olio e Peperoncino" Recipe](https://www.youtube.com/watch?v=U2MZbpI5kj0&t=212s). The primary inspiration behind this recipe: chef Simone Acquarelli shows how he cooks the dish, starting the garlic in a cold pan of extra virgin olive oil and cooking it gently, finishing the spaghetti in the pan with pasta water, moving it all the time so its starch makes the crema sauce.

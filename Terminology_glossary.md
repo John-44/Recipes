@@ -204,8 +204,9 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Hob and pans | frying pan | fry pan | "A dry frying pan" has no oil in it, for toasting spices and dried chillies. Not a cast iron skillet. |
 | Hob and pans | non-stick frying pan | nonstick frying pan, non stick frying pan | Not for searing: it shouldn't be heated that hot. |
 | Hob and pans | wok | wok pan | |
-| Hob and pans | saucepan | pot | |
-| Hob and pans | pasta strainer insert | pasta insert, pasta basket, strainer basket | A perforated basket that sits inside a large saucepan, so you can lift pasta out of the water to drain it. |
+| Hob and pans | saucepan | | Not a pot, which is larger and deeper. |
+| Hob and pans | pot | stockpot, stock pot, pasta pot | A large, deep pan with two handles, for boiling pasta, as in "Put 3 L water in the large pot". Not a saucepan, which is smaller, with one long handle. |
+| Hob and pans | pasta strainer insert | pasta insert, pasta basket, strainer basket | A perforated basket that sits inside a large pot, so you can lift pasta out of the water to drain it. |
 | Oven and bakeware | oven | | |
 | Oven and bakeware | baking tray | baking sheet, oven tray, sheet pan | |
 | Oven and bakeware | foil | tinfoil, tin foil, aluminium foil, kitchen foil | For lining a pastry case to blind bake it, and for covering pastry that's browning too fast. |
