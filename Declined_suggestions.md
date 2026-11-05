@@ -45,6 +45,13 @@ Suggestions for this repository that have been considered and turned down. Read 
 - Saying in **Equipment** that the measuring cup should be metal, and what it's for.
 - A homemade shortcrust pastry recipe instead of the store-bought all-butter shortcrust pastry.
 - A size and thickness to roll the pastry to in Step 1.
+- Keeping the pastry trimmings to patch any cracks in the pastry case before the filling goes in.
+- Reusing the Step 2 pie guard in Step 5, or leaving the pie guard out of the blind bake, as Serious Eats says the foil folded over the edge already protects it.
+- Cooking the pumpkin with the sugar, cornflour and spices in a saucepan before the evaporated milk and eggs go in, as Preppy Kitchen used to.
+- Plainer wording: "most of the sugar" and "the rest of the sugar" in Step 4, and "so the pastry comes out pale and soft rather than crisp" in the **Pie dish** note.
+- Cutting the pie with a knife dipped in boiling water and wiped dry between cuts.
+- A buying note saying most packs of all-butter shortcrust pastry hold less than 350 g. The pastry is now 320 g instead.
+- Homemade pumpkin or butternut squash purée as a fallback in the **Pumpkin purée** note.
 
 ## Reverse Seared Ribeye with Pan Sauce
 
