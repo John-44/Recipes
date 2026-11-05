@@ -162,7 +162,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 **When you change a term or delete a recipe:**
 
 - Don't change an existing term just because you prefer another word. If a term really does need to change, change it in the glossary and in every recipe that uses it, at the same time.
-- If no recipe uses a term any more, remove it from the glossary. Tags are the exception: the tag list keeps every tag.
+- If no recipe uses a term any more, remove it from the glossary. Tags and step titles are the exceptions: the tag list keeps every tag, and a step title can stay for later recipes.
 
 ### File names
 
