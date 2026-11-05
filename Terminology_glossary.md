@@ -83,7 +83,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Family | Term | Short name | Don't use | Notes |
 | --- | --- | --- | --- | --- |
 | Meat | beef mince | mince | minced beef, ground beef | Sold by how much fat it contains. Lean mince has 10% fat or less. Give the fat content in brackets, as in "1 kg lean beef mince (10% fat is ideal, or use 5% fat)". |
-| Meat | ribeye steak | steak | rib-eye steak, rib eye steak | A boneless steak cut from the rib, marbled with fat. Give its thickness, as in "1 ribeye steak, 3 cm thick (about 400 g)". |
+| Meat | ribeye steak | steak | rib-eye steak, rib eye steak | A boneless steak cut from the rib, marbled with fat. Give its thickness, as in "1 ribeye steak, 3.5 cm thick (about 400 g)". |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Seafood | head fat | head fat | tomalley, prawn fat, man goong | The prawn's hepatopancreas: the soft, orange organ in its head, which holds much of its flavour. The first time, write "the rich hepatopancreas (head fat)". |
 | Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai fermented shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
@@ -217,7 +217,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Bowls and jugs | heatproof bowl | heat-proof bowl, heat-resistant bowl | |
 | Bowls and jugs | heatproof jug | heat-proof jug, heat-resistant jug | For scooping hot liquid, such as pasta water, out of a pan. |
 | Bowls and jugs | jug | pitcher, beaker | For a stick blender, ask for "a tall, narrow jug". |
-| Plates | plate | | As in "Put the steak on a plate to rest". |
+| Plates | plate | | As in "Spoon about half the sauce onto a plate". |
 | Plates | saucer | | For keeping food under water while it soaks, as in "with a saucer on top to keep them under the water". |
 | Blending and grinding | high-speed blender | high speed blender, high-powered blender, power blender | A powerful blender, such as a Blendtec, that grinds whole spices as well as blending pastes. Not a stick blender. |
 | Blending and grinding | jar | blender container, blender cup | The part of a high-speed blender that holds the food, as in "If the jar feels warm". |
@@ -434,18 +434,19 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until smooth | until combined, until well combined | For a whisked mixture, such as a pie filling, with no lumps or streaks. For a blended paste, use until very smooth. |
 | Doneness | until the mushrooms have released all their liquid | | For mushrooms cooked with the lid on: their juices pool in the pan. |
 | Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
+| Doneness | until the sauce stops bubbling | | For a sauce taken off the heat before the butter goes in, as in "wait until the sauce stops bubbling". A cast iron skillet holds its heat, so this can take a while. |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | soft, squidgy and slightly translucent | | For fried onions: soft enough to squash, and starting to turn see-through, as in "until the onions are soft, squidgy and slightly translucent". |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
 | Doneness | until crisp | until crispy | For dried chillies left to cool after they've been warmed in a microwave: they snap rather than bend, as in "Leave them to cool until crisp, about 1 minute". |
 | Doneness | until soft | until softened | |
 | Doneness | until very smooth | until puréed | For a blended paste. To check, rub a little between your fingers: it shouldn't feel gritty. |
-| Steak doneness | rare | | Red in the middle. |
 | Steak doneness | medium-rare | medium rare | Pink in the middle. |
+| Steak doneness | medium | | Pale pink in the middle. For the heat level, write medium heat. |
 | Texture problems | grainy | mealy | What potatoes go when frozen. |
 | Texture problems | rubbery | chewy | What prawns go when overcooked or frozen. |
 | Cooling | leave to cool | let cool, allow to cool | |
-| Finishing | rest | let rest | Leave cooked meat to stand before cutting it, as in "Put the steak on a plate to rest". |
+| Finishing | rest | let rest | Leave cooked meat to stand before cutting it, as in "Put the steak back on the wire rack to rest". |
 | Finishing | {amount} at a time | a little at a time, bit by bit, in {amount} increments | For adding something in small steps, such as seasoning in **Taste and adjust**, as in "Adjust it ½ tsp at a time", or water to a paste that won't blend, as in "add water 1 tsp at a time". |
 | Finishing | drizzle | trickle | Pour in a thin stream over the top, as in "drizzle the rest of the coconut cream on top in a spiral". |
 | Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the crispy fried shallots". |

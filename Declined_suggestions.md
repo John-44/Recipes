@@ -32,7 +32,18 @@ Suggestions for this repository that have been considered and turned down. Read 
 
 ## Reverse Seared Ribeye with Pan Sauce
 
+- Naming the vegetables the description says the sauce can go over, or dropping "the", and adding "is" to "then finished with butter".
+- Salting the steak the night before and leaving it uncovered on the wire rack in the fridge, as an option in **Before you start**.
+- A **Before you start** warning that the cast iron skillet's handle gets as hot as the pan, and turning on the extractor fan before heating the ghee in Step 3.
+- Mixing the mustard powder with cold water in Step 2, so it has more heat and no lumps.
+- Cooking only the coriander stalks in the sauce, and stirring the finely chopped leaves in with the butter.
+- Searing for 45–60 seconds a side, as Serious Eats does with the same oven temperatures. The sear stays at 90 seconds a side, and 46°C and 40°C are for medium and medium-rare.
+- Making the sauce in a saucepan while the steak is in the oven, then deglazing the cast iron skillet with it after searing and serving the steak straight away.
+- Pouring off all but about 1 tbsp of the fat before frying the shallots. The recipe uses 2 tbsp of ghee, and keeps all of it.
 - Keeping the heat on high for the whole of Step 6, rather than turning it down to medium as the sauce thickens.
+- A **Ribeye steak** note recommending a steak at least 4 cm thick, shared between 2. The steak is 3.5 cm thick.
+- Naming example wines, such as Côtes du Rhône, Merlot or Grenache, in the **Red wine** note.
+- Rewording the **Origin** to say several cooks seem to have developed the reverse sear independently, J. Kenji López-Alt among them, instead of "test cooks like J. Kenji López-Alt".
 
 ## Thai Yellow Curry Paste
 
