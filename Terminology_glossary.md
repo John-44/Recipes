@@ -226,7 +226,8 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Hob and pans | hob | stove, stovetop, cooktop | |
 | Hob and pans | cast iron skillet | cast-iron skillet, cast iron frying pan, cast-iron frying pan | A heavy cast iron pan that holds its heat, so it's good for searing. Not a frying pan. |
 | Hob and pans | frying pan | fry pan | "A dry frying pan" has no oil in it, for toasting spices and dried chillies. Not a cast iron skillet. |
-| Hob and pans | non-stick frying pan | nonstick frying pan, non stick frying pan | Not for searing: it shouldn't be heated that hot. || Hob and pans | wok | wok pan | |
+| Hob and pans | non-stick frying pan | nonstick frying pan, non stick frying pan | Not for searing: it shouldn't be heated that hot. |
+| Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | | Not a pot, which is larger and deeper. |
 | Hob and pans | pot | stockpot, stock pot, pasta pot | A large, deep pan with two handles, for boiling pasta or simmering a stew, as in "Put 3 L water in the large pot". Not a saucepan, which is smaller, with one long handle. |
 | Hob and pans | pasta strainer insert | pasta insert, pasta basket, strainer basket | A perforated basket that sits inside a large pot, so you can lift pasta out of the water to drain it. |
