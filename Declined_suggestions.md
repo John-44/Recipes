@@ -17,6 +17,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 ## Terminology glossary
 
 - "Chill" or "chilling" for refrigerating, or loosening the entry that rules them out.
+- Changing the example "soaking dried chillies" to "microwaving dried chillies" in the note for **Prep the ingredients**.
 - Trimming the step title, note topic, shop, brand, food label or source tables.
 
 ## Chilli con Carne
