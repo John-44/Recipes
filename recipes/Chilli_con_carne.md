@@ -42,7 +42,7 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 - 1 tsp fine sea salt
 - 4 tbsp olive oil (used in Steps 4 and 5)
 - 100 g tomato purée (about 6 tbsp)
-- 2 metric cups red wine
+- 2 metric cups red wine (used in Steps 4 and 6)
 - 3 cans (400 g each) finely chopped tomatoes
 - 4 bay leaves
 - 3 tbsp Worcestershire sauce
@@ -65,17 +65,15 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 
 - Take the mince out of the fridge, so it isn't fridge-cold when it goes in the pot.
 - Mix the dry spices to create the spice blend, and set aside.
-- Split the bird's eye chillies open lengthways with scissors and scrape out the seeds. Place them on a plate and microwave on high power 15 seconds at a time until they're pliable and toasted-smelling, about 30 seconds total.
-- Put the bird's eye chillies in a heatproof bowl, cover with boiling water and soak until soft, 15–20 minutes, with a saucer on top to keep them under the water.
-- While they soak, finely chop the onions and place in a bowl. Peel and finely slice the carrots, and add them to the bowl. Peel and finely chop the garlic.
+- Split the bird's eye chillies open lengthways with scissors and scrape out the seeds. Place them on a plate and microwave on high power 15 seconds at a time until they're pliable and toasted-smelling, about 30 seconds total. Leave them to cool until crisp, about 1 minute, then finely chop them.
+- Finely chop the onions and place in a bowl. Peel and finely slice the carrots, and add them to the bowl. Peel and finely chop the garlic.
 - Remove the stalks from the mushrooms, then halve the caps, or quarter any wider than 4 cm. Wash them in cold water and pat them dry with kitchen roll.
-- Drain the bird's eye chillies and finely chop them.
 
 #### Step 2: Sear the mince.
 
-Put the ghee in the pot, and heat it over high heat until it starts to smoke.
+Put ½ tbsp of the ghee in the pot, and heat it over high heat until it starts to smoke.
 
-Sear the mince in 4 batches of about 250 g, by pressing each batch down gently into a flat layer in the pot. Leave it undisturbed for 2–4 minutes so a deep, caramelised crust can form. Then flip it so the other side browns, about 2 minutes, then break the meat apart and place it in a colander on top of a plate so it can drain, before starting on the next batch.
+Sear the mince in 4 batches of about 250 g, by pressing each batch down gently into a flat layer in the pot. Leave it undisturbed for 2–4 minutes so a deep, caramelised crust can form. Then flip it so the other side browns, about 2 minutes, then break the meat apart and place it in a colander on top of a plate so it can drain. Before each of the next 3 batches, add another ½ tbsp of the ghee and heat it until it starts to smoke.
 
 If the fat smokes heavily or the fond (the browned bits stuck to the bottom of the pan) starts to blacken, turn the heat down to medium-high.
 
@@ -91,7 +89,7 @@ Remove the mushrooms from the pot and place them in a bowl on the side, ready fo
 
 In a mini frying pan, heat 2 tbsp of the olive oil over medium-low heat. Add the tomato purée, and fry, stirring all the time, for 2–5 minutes. You will know when the tomato purée is ready because it will have gone from bright red to a darker brick or rust colour, smells sweet rather than sharp, and starts to catch on the bottom of the pan. Be careful not to burn it!
 
-Take the mini frying pan off the heat, and set it aside for Step 6.
+Take the mini frying pan off the heat, pour in ½ metric cup of the wine, and stir, scraping the bottom of the pan, until nothing is stuck to it. Set it aside for Step 6.
 
 #### Step 5: Fry the aromatics.
 
@@ -101,9 +99,9 @@ Drop the heat to medium-low, then add the garlic and spice blend and stir for 3 
 
 #### Step 6: Add the stew ingredients.
 
-Turn the heat up to high and pour in the wine to deglaze the pot. Boil it for 2 minutes, scraping the bottom to lift the fond.
+Turn the heat up to high and pour in the rest of the wine (1½ metric cups) to deglaze the pot. Boil it for 2 minutes, scraping the bottom to lift the fond.
 
-Add the tomatoes, bay leaves, Worcestershire sauce, demi-glace (or concentrated beef stock), dark chocolate, cinnamon sticks, apple cider vinegar and bird's eye chillies. Then add the tomato purée you fried in Step 4, and the mince you seared in Step 2, with any juices from the plate. Stir well.
+Add the tomatoes, bay leaves, Worcestershire sauce, demi-glace (or concentrated beef stock), dark chocolate, cinnamon sticks, apple cider vinegar and bird's eye chillies. Then add the tomato purée and wine from Step 4, and the mince you seared in Step 2, with any juices from the plate. Stir well.
 
 #### Step 7: Slow cook the chilli.
 
@@ -128,7 +126,7 @@ Divide the rice between 8 bowls, spoon the chilli over the top, and add a spoonf
 
 - **Fridge:** Up to 2 days. Divide it between airtight containers so it cools quickly, and refrigerate it within 1–2 hours. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
 - **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Thaw it in the fridge overnight, and eat it within 24 hours.
-- **Make ahead:** Make the chilli up to the end of Step 7, leaving the rice and the fresh coriander until the day you serve it. Lift out the bay leaves and cinnamon sticks, then leave it to cool and refrigerate it for up to 2 days. On the day, reheat it until steaming hot all the way through, then carry on from Step 8.
+- **Make ahead:** Make the chilli up to the end of Step 7, leaving the rice and the coriander leaves and stalks until the day you serve it. Lift out the bay leaves and cinnamon sticks, then leave it to cool and refrigerate it for up to 2 days. On the day, reheat it until steaming hot all the way through, then carry on from Step 8.
 - **Reheat:** Reheat it in a saucepan over medium-low heat, stirring often, until steaming hot all the way through.
 
 ## Origin

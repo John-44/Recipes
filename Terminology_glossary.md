@@ -437,6 +437,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | soft, squidgy and slightly translucent | | For fried onions: soft enough to squash, and starting to turn see-through, as in "until the onions are soft, squidgy and slightly translucent". |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
+| Doneness | until crisp | until crispy | For dried chillies left to cool after they've been warmed in a microwave: they snap rather than bend, as in "Leave them to cool until crisp, about 1 minute". |
 | Doneness | until soft | until softened | |
 | Doneness | until very smooth | until puréed | For a blended paste. To check, rub a little between your fingers: it shouldn't feel gritty. |
 | Steak doneness | rare | | Red in the middle. |
