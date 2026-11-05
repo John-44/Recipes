@@ -105,10 +105,14 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Roots | fresh turmeric | fresh turmeric | turmeric root, raw turmeric | Keep "fresh" whenever you mean this ingredient, because "turmeric" on its own usually means ground. When you mean the spice in general, "turmeric" is fine, as in "warm with turmeric". |
 | Roots | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
 | Roots | ginger | ginger | root ginger, fresh ginger, ginger root | Means fresh root ginger. Ground ginger would be a separate term. |
+| Herbs | basil leaves and stalks | basil | fresh basil, sweet basil, basil bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Thai basil would need its own term. |
 | Herbs | coriander leaves | coriander leaves | cilantro, fresh coriander, Chinese parsley | The fresh herb. Always add "leaves", so it can't be mistaken for coriander seeds or ground coriander. |
 | Herbs | coriander leaves and stalks | coriander leaves and stalks | fresh coriander, coriander bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Not coriander roots. |
 | Herbs | coriander roots | coriander roots | cilantro roots | The roots of the coriander plant. Always add "roots", so they can't be mistaken for coriander leaves or coriander stalks. |
 | Herbs | coriander stalks | coriander stalks | coriander stems, cilantro stems | The stalks of the coriander plant. Keep "coriander", so they can't be mistaken for lemongrass stalks. |
+| Herbs | flat-leaf parsley leaves | parsley leaves | flat leaf parsley, Italian parsley, continental parsley | The fresh herb's flat leaves, picked off the stalks. Curly parsley would need its own term. |
+| Herbs | flat-leaf parsley leaves and stalks | parsley leaves and stalks | fresh parsley, parsley bunch | The whole fresh herb, leaves and tender stalks, as from a supermarket pack. Curly parsley would need its own term. |
+| Herbs | flat-leaf parsley stalks | parsley stalks | parsley stems | The stalks of flat-leaf parsley. They stand up to cooking better than the leaves. |
 | Herbs | kaffir lime leaves | lime leaves | makrut lime leaves, kafir lime leaves, bai makrut | Sold fresh, frozen or dried. Say "dried" when you mean dried ones. Some packs are labelled "makrut lime leaves": use that name only to describe a label, in quotes. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
@@ -331,7 +335,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Cutting | cut into {size} cm chunks | cubed | As in "cut into 2 cm chunks". |
 | Cutting | cut into bite-size pieces | cut into bite-sized pieces | |
 | Grating | zest | rind, grated peel | Finely grated citrus peel, as in "the zest of 1 lime". |
-| Grating | finely grated | microplaned | Grated on the fine holes of a grater, as in "Finely grate the Parmesan over the top". |
+| Grating | finely grated | microplaned | Grated on the fine holes of a grater, as in "Finely grate the Parmesan". |
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
 | Measuring | heaped | heaping, rounded | Piled above the rim of the spoon, as in "2 heaped tsp ground coriander". Spoon measures are level unless the recipe says heaped. |
@@ -430,7 +434,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices and dried chillies, as in "until they're fragrant and darken a shade". |
 | Doneness | until it holds soft peaks | to soft peaks, until soft peaks form | For whipped cream: when you lift out the whisk, the cream forms a peak that flops over at the tip. The first time, explain it in brackets. |
 | Doneness | until it starts to smoke | until smoking, smoking hot | For heating fat in a pan before searing. |
-| Doneness | until lightly golden | until pale golden, until light golden | For garlic and pine nuts fried in oil: pale gold, well short of brown, as in "until the garlic is soft and lightly golden". |
+| Doneness | until lightly golden | until pale golden, until light golden | For garlic and pine nuts fried in oil: pale gold, well short of brown, as in "until the garlic is soft and the garlic and pine nuts are lightly golden". |
 | Doneness | until only the centre wobbles | until just set, until it jiggles | The test for a baked custard filling, such as in a pumpkin pie: when you gently shake the dish, the edge is set and only the middle still wobbles. |
 | Doneness | until smooth | until combined, until well combined | For a whisked mixture, such as a pie filling, with no lumps or streaks. For a blended paste, use until very smooth. |
 | Doneness | until the mushrooms have released all their liquid | | For mushrooms cooked with the lid on: their juices pool in the pan. |
@@ -447,6 +451,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Texture problems | grainy | mealy | What potatoes go when frozen. |
 | Texture problems | rubbery | chewy | What prawns go when overcooked or frozen. |
 | Cooling | leave to cool | let cool, allow to cool | |
+| Finishing | warm | heat (for plates), warm up | Heat plates so the food on them stays hot, as in "put 4 plates in the oven at 70°C (50°C fan) to warm". To heat food again, use reheat. |
 | Finishing | rest | let rest | Leave cooked meat to stand before cutting it, as in "Put the steak back on the wire rack to rest". |
 | Finishing | {amount} at a time | a little at a time, bit by bit, in {amount} increments | For adding something in small steps, such as seasoning in **Taste and adjust**, as in "Adjust it ½ tsp at a time", or water to a paste that won't blend, as in "add water 1 tsp at a time". |
 | Finishing | drizzle | trickle | Pour in a thin stream over the top, as in "drizzle the rest of the coconut cream on top in a spiral". |
@@ -644,6 +649,7 @@ Words from the labels on food packs, for saying what to look for, or avoid, when
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
+| Processing | bronze-die | bronze die, bronze-cut, bronze-drawn | Pasta pushed through bronze dies, which leave it with a rough surface. Packs may say *trafilata al bronzo*. |
 | Processing | homogenised | homogenized | Processed so the fat stays evenly mixed in. Homogenised coconut milk may not separate in the can. |
 | Contents | cocoa solids | cocoa content, cacao | How much of a chocolate's weight comes from cocoa, as in "20 g dark chocolate (80% or 90% cocoa solids)". |
 | Additives | emulsifiers | emulsifying agents | Additives that keep fat and water mixed, such as E435 (polysorbate 60). Coconut milk that contains them may not separate in the can. |
@@ -715,6 +721,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | BBC Food | bbc.co.uk/food | BBC (on its own) |
 | Biona Organic | biona.co.uk | Biona (on its own) |
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
+| Costco UK | costco.co.uk | Costco (on its own) |
 | Don't Go Bacon My Heart | dontgobaconmyheart.co.uk | Dont Go Bacon My Heart |
 | Good Food | bbcgoodfood.com | BBC Good Food |
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
@@ -730,6 +737,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Rosa's Thai | rosasthai.com | Rosas Thai, Rosa's (on its own) |
 | Sally's Baking | sallysbakingaddiction.com | Sally's Baking Addiction, Sallys Baking |
 | Serious Eats | seriouseats.com | SeriousEats |
+| The Takeout | thetakeout.com | Takeout (on its own), TheTakeout |
 | TODAY | today.com | Today, TODAY.com |
 | Waitrose | waitrose.com | Waitrose & Partners |
 | Wikipedia | wikipedia.org | Wiki |

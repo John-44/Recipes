@@ -30,12 +30,13 @@ Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starch
 - 1 large or 2 small smoked garlic bulbs (or ordinary garlic)
 - 1 tbsp chilli flakes
 - 60 g pine nuts
-- 45 g coriander leaves and stalks
+- 45 g flat-leaf parsley leaves and stalks (used in Steps 3 and 4)
+- 30 g basil leaves and stalks
 
 #### To serve
 
 - 100 g Parmesan
-- 5 g coriander leaves
+- 5 g flat-leaf parsley leaves
 
 ## Directions
 
@@ -43,7 +44,7 @@ Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starch
 
 Put 3 L water in the large pot, add the salt and MSG, stir, and bring to boil over high heat.
 
-While it heats, break the garlic into cloves, then peel and finely slice them. Wash the coriander leaves and stalks. Pick off the coriander leaves for serving (about a small handful), and set them aside for Step 5. Finely chop the rest of the coriander leaves and stalks.
+While it heats, break the garlic into cloves, then peel and finely slice them. Wash the parsley leaves and stalks and the basil. Pick off the parsley leaves for serving (about a small handful), and set them aside for Step 5. Finely chop the parsley stalks and basil together, and the rest of the parsley leaves separately. Finely grate the Parmesan, and put 4 plates in the oven at 70°C (50°C fan) to warm.
 
 Once boiling, put the pasta strainer insert in the pot (if it has one).
 
@@ -59,11 +60,9 @@ When the spaghetti has 7 minutes left, start Step 3, and keep stirring the spagh
 
 #### Step 3: Fry the sauce.
 
-Pour the olive oil into a cold frying pan at least 28 cm across, and add the garlic and chilli flakes. Fry over medium-low heat, stirring often, until the garlic is soft and lightly golden, about 4 minutes. Don't let the garlic or the oil burn.
+Pour the olive oil into a cold frying pan at least 28 cm across, and add the garlic, pine nuts and chilli flakes. Fry over medium-low heat, stirring often, until the garlic is soft and the garlic and pine nuts are lightly golden, about 3 minutes. Don't let the garlic or the oil burn.
 
-Turn the heat down to low, add the pine nuts and fry, stirring often, until lightly golden, about 2 minutes.
-
-Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped from the pot with a heatproof jug just before you add it. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 200 ml in all. Turn the heat up to medium-low while the pasta water is evaporating, then after the pasta water is mostly evaporated turn the heat down to low again.
+Add the parsley stalks, basil and about 3 tbsp of pasta water, scooped from the pot with a heatproof jug just before you add it. Keep stirring until the spaghetti is ready, adding about 3 tbsp more freshly scooped pasta water whenever the pan starts to sizzle again, up to 200 ml in all. Keep the heat at medium-low while the pasta water is evaporating, then after the pasta water is mostly evaporated turn the heat down to low.
 
 > **Tip:** The pasta water holds starch from the spaghetti, as well as salt and MSG. Stirred into the olive oil, the starch acts as an emulsifier, making a crema (a creamy sauce that coats the spaghetti, with no pools of oil or water). Pasta water gets starchier as the spaghetti cooks, which is why it's scooped just before it goes in.
 
@@ -71,20 +70,25 @@ Add the coriander leaves and stalks and about 3 tbsp of pasta water, scooped fro
 
 Just before you drain the spaghetti, scoop 150 ml of pasta water out of the pot. Drain the spaghetti by lifting out the pasta strainer insert (or lift the spaghetti out with tongs, if your pot has no pasta strainer insert), and add it to the sauce in the frying pan.
 
-Turn the heat up to high, add the 150 ml of pasta water, and stir the spaghetti vigorously with tongs, lifting it through the sauce, for at least 2 minutes, until the sauce is a crema that coats the spaghetti, rather than looking oily or watery.
+Turn the heat up to high, add the 150 ml of pasta water, and stir the spaghetti vigorously with tongs, lifting it through the sauce, for at least 2 minutes, until the sauce is a crema that coats the spaghetti, rather than looking oily or watery. Stir in the chopped parsley leaves.
 
 #### Step 5: Serve the spaghetti.
 
-Divide the spaghetti between 3 or 4 plates. Finely grate the Parmesan over the top, dividing it between the plates, then scatter with the coriander leaves.
+Divide the spaghetti between 3 or 4 of the warm plates, and spoon over the garlic, pine nuts and any sauce left in the pan. Scatter with the Parmesan, then the parsley leaves, and serve straight away.
 
 > **Tip:** It's a lot of Parmesan, but a large amount is essential to the flavour.
 
 ## Notes and substitutions
 
-- **Spaghetti:** Use a high-quality Italian brand, such as La Molisana.
+- **Spaghetti:** Buy a bronze-die spaghetti (the pack may say *trafilata al bronzo*), such as La Molisana. Its rough surface releases more starch into the pasta water for the crema, and holds on to the sauce.
 - **Extra virgin olive oil:** Use a high-quality one. The sauce is mostly olive oil, so you'll taste it.
-- **Chilli flakes:** This recipe uses [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929), sold at Waitrose. If you can't find it, use ordinary chilli flakes.
+- **Chilli flakes:** This recipe uses [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929), sold at Waitrose. If you can't find it, start with 1 tsp ordinary chilli flakes, which are usually hotter.
 - **Vegetarian:** Parmesan is made with calf rennet, so it isn't vegetarian. Use a vegetarian Italian-style hard cheese instead.
+
+## Storage and make-ahead
+
+- **Fridge:** Up to 2 days in an airtight container.
+- **Reheat:** Reheat in a frying pan over medium heat with 2 tbsp water, stirring often with tongs, until steaming hot all the way through.
 
 ## Origin
 
@@ -104,6 +108,8 @@ Divide the spaghetti between 3 or 4 plates. Finely grate the Parmesan over the t
 
 ## Sources
 
+- Costco UK: [La Molisana Spaghetti, 6 x 500g](https://www.costco.co.uk/Grocery-Household/Food-Cupboard/Pasta-Rice-Noodles/La-Molisana-Spaghetti-6-x-500g/p/8560785). La Molisana spaghetti being bronze-die, for the **Spaghetti** note.
+- The Takeout: [Why Chefs Prefer Bronze-Cut Pasta](https://www.thetakeout.com/what-is-bronze-cut-pasta-why-is-it-better-for-sauce-1849918733/). Bronze-die pasta releasing more starch into the pasta water, and holding on to the sauce, for the **Spaghetti** note.
 - Waitrose: [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929). The chilli flakes, and their ingredients, for the **Allergens** line.
 - Wikipedia: [Spaghetti aglio e olio](https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio). The dish being typical of Naples, for the **Origin**.
 - YouTube: [Midnight Pasta - Chef in Tuscany shares "Aglio, Olio e Peperoncino" Recipe](https://www.youtube.com/watch?v=U2MZbpI5kj0&t=212s). The primary inspiration behind this recipe: chef Simone Acquarelli shows how he cooks the dish, starting the garlic in a cold pan of extra virgin olive oil and cooking it gently, finishing the spaghetti in the pan with pasta water, moving it all the time so its starch makes the crema sauce.

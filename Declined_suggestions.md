@@ -16,6 +16,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 
 ## Terminology glossary
 
+- Changing the **crema** entry so a recipe's description can use the word without explaining it in brackets.
 - "Chill" or "chilling" for refrigerating, or loosening the entry that rules them out.
 - Changing the example "soaking dried chillies" to "microwaving dried chillies" in the note for **Prep the ingredients**.
 - Trimming the step title, note topic, shop, brand, food label or source tables.
@@ -23,6 +24,21 @@ Suggestions for this repository that have been considered and turned down. Read 
 ## Chilli con Carne
 
 - A **Taste and adjust** step.
+
+## Midnight Spaghetti
+
+- Rewording the description to mention the herbs, to say what the smoked garlic and pine nuts add rather than "umami", and to avoid "at night during an evening".
+- Putting the parsley for the sauce and for serving on one ingredient line, as Reverse Seared Ribeye with Pan Sauce does with its coriander, so the amounts in Step 1 match the list.
+- A thickness for the garlic slices.
+- Boiling the spaghetti for 2 minutes less than the time on the pack, as Simone Acquarelli does in the video, or changing La Molisana's time from 11 minutes to the 10 on its pack.
+- Starting Step 3 as soon as the spaghetti goes in, and making it clearer that the heat goes down to low once, after the last of the pasta water.
+- Replacing "Don't let the garlic or the oil burn" with what to do if the garlic colours before it softens.
+- A fix in Step 4 for a crema that looks oily, and al dente as the test for when the spaghetti is done.
+- Keeping back 2 tbsp of the olive oil to stir in uncooked at the end of Step 4.
+- A **Taste and adjust** step.
+- A buying note for the smoked garlic.
+- Telling the cook to check the pine nuts' label on the **Allergens** line, though pine nuts aren't one of the 14.
+- Crediting the YouTube source with the name, the late-night custom and the boiling time, and dropping the timestamp from its link.
 
 ## Pumpkin Pie
 
