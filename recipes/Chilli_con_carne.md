@@ -91,7 +91,7 @@ In a mini frying pan, heat 2 tbsp of the olive oil over medium-low heat. Add the
 
 Take the mini frying pan off the heat, pour in ½ metric cup of the wine, and stir, scraping the bottom of the pan, until nothing is stuck to it. Set it aside for Step 6.
 
-#### Step 5: Fry the aromatics.
+#### Step 5: Fry the aromatics and carrots.
 
 Add the rest of the olive oil (2 tbsp) to the pot over medium heat, then add the onions and carrots. Fry, stirring often, for 8–10 minutes, or until the onions are soft, squidgy and slightly translucent.
 

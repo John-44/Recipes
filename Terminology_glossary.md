@@ -529,7 +529,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Fry the prawn heads | | Frying the heads of head-on prawns in oil, to draw out their head fat. |
 | Fry the mushrooms | Sauté the mushrooms, Cook the mushrooms | |
 | Fry the shallots and garlic | Sauté the shallots and garlic | |
-| Fry the aromatics | Sauté the aromatics, Sweat the aromatics | Frying the onions and other vegetables a dish starts with, such as carrots and garlic, often with spices. |
+| Fry the aromatics and carrots | Sauté the aromatics and carrots, Sweat the aromatics and carrots | Frying the onions and other vegetables a dish starts with, such as carrots and garlic, often with spices. |
 | Fry the tomato purée | Sauté the tomato purée, Cook out the tomato purée | Frying tomato purée in oil until it darkens and smells sweet. |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Fry the sauce | Make the sauce, Cook the sauce | Frying garlic and chilli flakes in oil, then stirring in pasta water. |
