@@ -41,7 +41,7 @@ Turn the oven on to 120°C fan, and cook until the centre of the steak reaches 4
 
 > **Tip:** The steak keeps cooking as you sear and rest it, so it comes out of the oven well below the temperature you want to eat it at.
 
-#### Step 2: Prep the vegetables.
+#### Step 2: Prep the aromatics.
 
 While the steak is in the oven, peel and finely chop the shallots and the garlic, keeping them separate.
 

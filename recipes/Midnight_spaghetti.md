@@ -39,7 +39,7 @@ Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starch
 
 ## Directions
 
-#### Step 1: Prep the vegetables.
+#### Step 1: Prep the aromatics.
 
 Put 3 L water in the large pot, add the salt and MSG, stir, and bring to boil over high heat.
 
