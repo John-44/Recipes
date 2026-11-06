@@ -1,5 +1,7 @@
 # Declined suggestions
 
+![Oil painting of an English lady in period dress raising her palm and looking away from a sad gentleman offering pastries on a country-house terrace](images/Declined_suggestions.webp)
+
 Suggestions for this repository that have been considered and turned down. Read this file before you suggest a change to a recipe, the [Recipe template](Recipe_template.md) or the [Terminology glossary](Terminology_glossary.md), and leave out anything it lists unless the user brings it up again.
 
 **To add a suggestion:** put it under the heading for the file it's about, roughly where it would have gone in that file, adding the heading if there isn't one yet. Say in a few words what was suggested, and why it was turned down if a reason was given. Add it in the same pull request as the changes that were accepted. If something listed here is accepted later, delete it in the pull request that makes the change.
