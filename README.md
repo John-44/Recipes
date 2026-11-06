@@ -12,11 +12,11 @@ Recipes for UK home cooks, written in Markdown and managed in Git.
 [![Spelling: British English](https://img.shields.io/badge/spelling-British%20English-2A9D8F?style=flat-square)](Recipe_template.md#writing-style)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-7B5EA7?style=flat-square)](#contributing)
 
-[The idea](#the-idea) · [Principles](#principles) · [The recipes](#the-recipes) · [How the recipes are written](#how-the-recipes-are-written) · [Contributing](#contributing) · [Licence](#licence)
+[Concept](#concept) · [Principles](#principles) · [Recipes](#recipes) · [How the recipes are written](#how-the-recipes-are-written) · [Contributing](#contributing) · [Licence](#licence)
 
 </div>
 
-## The idea
+## Concept
 
 The Recipe Repo was born out of a personal need: I found that all the recipes I read for a particular dish seemed to miss out some ingredients, steps or important details. But the missed items in each recipe were different, so that by reading 5 to 10 recipes for the same dish, I could arrive at an aggregate recipe that contained the best touches from all of them.
 
@@ -36,7 +36,7 @@ The aggregated recipes are shaped and scoped according to the following principl
 | 🧂 | **No superstitions** | For example, use MSG when it makes sense. |
 | ✂️ | **Succinct** | No long, waffling text or stories. Each recipe should contain only pertinent information, and be short and to the point. |
 
-## The recipes
+## Recipes
 
 Every recipe is a Markdown file in [`recipes/`](recipes/).
 
