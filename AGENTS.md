@@ -28,6 +28,11 @@ Every rule about what goes in a recipe and how it's written is in the template o
 - Check `recipes/` and the glossary's recipe titles first. If a recipe already covers the dish, or a note in one does, such as **Chicken instead**, say so and ask whether to build on it before you write a separate recipe.
 - Ask about anything the user hasn't settled that would change the whole recipe, such as which version of the dish they want. Make smaller calls yourself, and list them under **Worth checking**.
 
+## Recipe images
+
+- Creating an image for a recipe is a separate step from writing or editing the recipe. Only do it when the user explicitly asks you to, even for a recipe you've just written.
+- When they ask, read [Illustration_style_template.md](Illustration_style_template.md) in full and follow it.
+
 ## Checking sources
 
 Some recipe sites block automated requests but still open in an ordinary browser. If a page won't open with your usual web tools, open it in the user's own Chrome through a browser extension such as Claude in Chrome, if you have one, and read it there.

@@ -1,5 +1,7 @@
 # Midnight Spaghetti
 
+![Oil painting of garlic spaghetti with Parmesan on a candlelit table, with friends playing cards behind it](../images/Midnight_spaghetti.webp)
+
 Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starchy pasta water, topped with a generous layer of Parmesan. It's a version of *spaghetti aglio, olio e peperoncino*, which Italians sometimes rustle up at night during an evening with friends when folks get hungry. Smoked garlic, pine nuts and MSG give this version an extra umami kick.
 
 | Prep time | Cook time | Total time | Servings |

@@ -1,5 +1,7 @@
 # Chilli con Carne
 
+![Oil painting of chilli con carne over basmati rice, with soured cream and coriander leaves, on a porch overlooking the Texas countryside at dusk](../images/Chilli_con_carne.webp)
+
 A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow cooked in red wine and finely chopped tomatoes with a spice blend of sweet smoked paprika, ground cumin and dried herbs. Shiitake mushrooms, demi-glace, Worcestershire sauce and a little dark chocolate give it extra depth, dried bird's eye chillies give it a gentle heat, and lime juice and coriander leaves and stalks freshen it at the end. It makes a big batch, and like most stews it tastes even better the next day. Serve with rice and soured cream.
 
 | Prep time | Cook time | Total time | Servings |
