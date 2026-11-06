@@ -292,7 +292,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 | Count | Things you naturally count | `4 garlic cloves`, `2 eggs` |
 | To taste | Seasoning you adjust at the end | `Salt, to taste` |
 
-- 1 tsp = 5 ml, 1 tbsp = 15 ml and 1 metric cup = 250 ml. Spoon measures are always level, so don't write "level". Never use heaped or rounded spoons, because a heap varies from cook to cook. If a source uses them, count each one as 2 level spoons, so 1 heaped tsp becomes 2 tsp.
+- 1 tsp = 5 ml, 1 tbsp = 15 ml and 1 metric cup = 250 ml. Spoon measures are always level, so don't write "level". Never use heaped or rounded spoons, because a heap varies from cook to cook. If a source uses them, count each one as 1½ level spoons, so 2 heaped tsp become 3 tsp.
 - A standard can is 400 g (or 400 ml for liquids such as coconut milk). Always give the size in brackets: `1 can (400 g) chickpeas, drained and rinsed`, `2 cans (400 g each) chopped tomatoes`.
 - Cartons come in several sizes, so say whether you need a small or large one, and always give its size in brackets: `1 small carton (250 ml) coconut cream`.
 - If you only use part of a can or carton, give the amount in g, ml or metric cups instead: `200 ml full-fat coconut milk`.

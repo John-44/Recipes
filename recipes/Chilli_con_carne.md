@@ -23,11 +23,11 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 - 2 tsp smoked sea salt flakes
 - 1 tsp ground black pepper
 - 1 tsp MSG
-- 4 tbsp sweet smoked paprika
+- 3 tbsp sweet smoked paprika
 - 2 tsp ground ginger
-- 4 tsp ground coriander
-- 4 tsp dried oregano
-- 4 tsp dried thyme
+- 1 tbsp ground coriander
+- 1 tbsp dried oregano
+- 1 tbsp dried thyme
 - 1 tsp dried marjoram
 - 1 tsp medium curry powder
 
