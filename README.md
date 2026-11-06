@@ -53,7 +53,7 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 
 - 📋 **[Recipe_template.md](Recipe_template.md)** defines the consistent Markdown format all the recipes are in, from file names and sections to credits and sources.
 - 📖 **[Terminology_glossary.md](Terminology_glossary.md)** enforces terminology consistency, so every recipe calls things by the same name.
-- 🎨 **[Illustration_style_template.md](Illustration_style_template.md)** defines the oil painting style of the recipes' masthead images, so they look like one collection.
+- 🎨 **[Illustration_style_template.md](Illustration_style_template.md)** defines the style of the masthead images, so they look like one collection.
 - 🚫 **[Declined_suggestions.md](Declined_suggestions.md)** lists suggestions that have already been considered and turned down.
 - 🤖 **[AGENTS.md](AGENTS.md)** tells AI agents, such as Claude Code and Codex, how to work in this repository.
 
