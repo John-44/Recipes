@@ -124,16 +124,16 @@ These briefs establish the intended food and setting for the six example referen
 
 | Recipe | Essential food details | Setting and atmosphere | Common errors to prevent |
 | --- | --- | --- | --- |
-| Chilli con Carne | Thick reddish-brown beef mince chilli with red kidney beans, mushrooms and small carrot pieces; served over basmati rice with a spoonful of soured cream. Coriander is mixed through the chilli. | A timber porch overlooking open Texas countryside at dusk; substantial sky, warm food and cool distance. | Cubed steak, bean-free chilli, watery soup, nachos, cheese or an invented topping. |
+| Chilli con Carne | Thick reddish-brown beef mince chilli with red kidney beans, mushrooms and small carrot pieces; served over basmati rice with a spoonful of soured cream. Coriander leaves and stalks are mixed through the chilli. | A timber porch overlooking open Texas countryside at dusk; substantial sky, warm food and cool distance. | Cubed steak, bean-free chilli, watery soup, nachos, cheese or an invented topping. |
 | Midnight Spaghetti | Long spaghetti coated in a pale olive-oil and pasta-water crema; garlic, pine nuts, chilli flecks and herbs; generous finely grated Parmesan with parsley leaves. | An Italian terrace or open room at night; a small group of adult friends drinking wine, talking and playing cards; warm lamplight against cool night air. | Tomato sauce, meatballs, cream sauce, a token dusting of cheese, giant cheese shavings, people dominating the dish. |
-| Pumpkin Pie | Smooth orange-brown pumpkin custard in an open-topped, crimped shortcrust pastry case; a clean cut slice reveals the filling; soft whipped cream alongside. A metal or glass baking dish if the tin remains visible. | An autumn porch or window setting at Halloween, with a carved pumpkin lantern and leaf colour as secondary cues; gentle mystery and welcome. | Pastry lid or lattice, pumpkin chunks in the filling, ceramic baking tin, aggressive horror imagery, lantern brighter than the pie, steam. |
-| Reverse Seared Ribeye with Pan Sauce | Sliced ribeye with a brown crust and pink centre, dark pan sauce and coriander. | Rural dining room with a view at dusk. | Bones, grill stripes, or an unrelated sauce. |
-| Thai Yellow Curry Paste | A small bowl of thick, cohesive, smooth mustard-ochre paste; a few relevant ingredients such as lemongrass, turmeric and shallots nearby. | An open garden kitchen in Thailand in soft morning light; tropical foliage and everyday timber details. | A bowl of liquid curry, rice, prawns, red or green curry paste, gritty fibrous texture, mortar and pestle implying the recipe's method, steam. |
-| Thai Yellow Prawn Curry | Peeled, headless king prawns in loose C shapes; potato chunks and onion in a rich golden coconut curry, spooned over jasmine rice; coconut-cream spiral, fried shallots, optional coriander and thin red chilli. | A Thai riverside veranda in warm late light, with humid blue-green distance and a quiet water surface. | Shells or heads on served prawns, tightly curled rings, noodles, red or green sauce, missing potatoes, a separate rice bowl replacing the prescribed serving. |
+| Pumpkin Pie | Smooth orange-brown pumpkin custard in an open-topped, crimped shortcrust pastry case; a clean cut slice reveals the filling; soft whipped cream alongside. A metal or glass pie dish if it remains visible. | An autumn porch or window setting at Halloween, with a carved pumpkin lantern and leaf colour as secondary cues; gentle mystery and welcome. | Pastry lid or lattice, pumpkin chunks in the filling, ceramic pie dish, aggressive horror imagery, lantern brighter than the pie, steam. |
+| Reverse Seared Ribeye with Pan Sauce | Sliced ribeye with a brown crust and pink centre, dark pan sauce and coriander leaves. | Rural dining room with a view at dusk. | Bones, grill stripes, or an unrelated sauce. |
+| Thai Yellow Curry Paste | A small bowl of thick, cohesive, smooth mustard-ochre paste; a few relevant ingredients such as lemongrass, fresh turmeric and shallots nearby. | An open garden kitchen in Thailand in soft morning light; tropical foliage and everyday timber details. | A bowl of liquid curry, rice, prawns, red or green curry paste, gritty fibrous texture, mortar and pestle implying the recipe's method, steam. |
+| Thai Yellow Prawn Curry | Peeled, headless king prawns in loose C shapes; potato chunks and onion in a rich golden coconut curry, spooned over jasmine rice; coconut-cream spiral, crispy fried shallots, optional coriander leaves and thin red chilli. | A Thai riverside veranda in warm late light, with humid blue-green distance and a quiet water surface. | Shells or heads on served prawns, tightly curled rings, noodles, red or green sauce, missing potatoes, a separate rice bowl replacing the prescribed serving. |
 
 ## Prompt template
 
-Use the same style block in every prompt. Change the recipe, scene and prop fields. Explicitly state the exceptions that matter for that dish rather than relying on a long list of generic exclusions. Do not put a generic linen napkin or kitchen towel in the shared style block.
+Use the same style block in every prompt. Change the recipe, scene and prop fields. Explicitly state the exceptions that matter for that dish rather than relying on a long list of generic exclusions. Do not put a generic linen napkin or tea towel in the shared style block.
 
 ```text
 Use case: illustration-story.
@@ -233,7 +233,7 @@ Use these paintings as examples of the collection's composition, paint handling,
 - [Thai Yellow Curry Paste](images/Thai_yellow_curry_paste.webp) — a component recipe in a garden kitchen.
 - [Thai Yellow Prawn Curry](images/Thai_yellow_prawn_curry.webp) — golden curry and a Thai riverside setting.
 
-These reference examples where created from food briefs following these repository recipes. 
+These reference examples were created from food briefs following these repository recipes.
 
 - [Chilli con Carne](https://github.com/John-44/Recipes/blob/main/recipes/Chilli_con_carne.md)
 - [Midnight Spaghetti](https://github.com/John-44/Recipes/blob/main/recipes/Midnight_spaghetti.md)
