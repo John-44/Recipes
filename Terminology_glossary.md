@@ -342,7 +342,6 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Grating | finely grated | microplaned | Grated on the fine holes of a grater, as in "Finely grate the Parmesan". |
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
-| Measuring | heaped | heaping, rounded | Piled above the rim of the spoon, as in "2 heaped tsp ground coriander". Spoon measures are level unless the recipe says heaped. |
 | Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". It ends the line, after any note in brackets. |
 
 ## Cooking terms
@@ -378,6 +377,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | split | slit, cut open | Cut open lengthways, as in "split them open lengthways with scissors". For coconut milk, use crack and separate out instead. |
 | Before cooking | scrape out the seeds | deseed, remove the seeds | For dried chillies, once they're split open. |
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
+| Before cooking | squeeze | juice (as a verb) | Press the juice out of something, as in "squeeze the limes". |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
@@ -433,8 +433,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | glossy | shiny | How a sauce looks once butter has melted into it, as in "until the sauce is glossy". |
 | Doneness | golden brown | golden-brown | The colour of fully baked pastry, as in "The bottom of the pastry case should be golden brown". |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's thick and the oil separates out", and again when you fry curry paste in it. |
-| Doneness | until a spoon dragged across the bottom of the {pan} leaves a clear trail | | The test for a thick stew, as in "until a spoon dragged across the bottom of the pot leaves a clear trail". |
 | Doneness | until deep brown | until well browned, until dark brown | For searing meat. |
+| Doneness | until it becomes thicker | | For a stew simmering uncovered, as in "Cook, stirring often, until it becomes thicker, about 30 minutes". |
 | Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices and dried chillies, as in "until they're fragrant and darken a shade". |
 | Doneness | until it holds soft peaks | to soft peaks, until soft peaks form | For whipped cream: when you lift out the whisk, the cream forms a peak that flops over at the tip. The first time, explain it in brackets. |
 | Doneness | until it starts to smoke | until smoking, smoking hot | For heating fat in a pan before searing. |
