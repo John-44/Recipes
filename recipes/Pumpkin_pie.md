@@ -78,7 +78,7 @@ When the pastry case has 15 minutes left, whisk all the dry ingredients (the bro
 
 Add the evaporated milk and whisk, then add the pumpkin and whisk until smooth. Crack the eggs into a separate bowl and whisk them, then pour them into the filling and stir gently until smooth.
 
-> **Tip:** Whisking hard beats air into the filling. The air makes it puff up in the oven, then sink and crack as it cools.
+> **Tip:** Be careful not to overmix the eggs. Whisking hard after eggs have been added beats air into the filling. The air makes it puff up in the oven, then sink and crack as it cools.
 
 #### Step 4: Lift out the sugar.
 
