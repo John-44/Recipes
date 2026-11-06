@@ -10,7 +10,7 @@ body:
         - **Title:** start with the recipe's name, then say what's wrong in a few words.
         - **One problem per issue:** report each problem separately, so it can be fixed and closed on its own. Small slips in the same recipe, such as typos, can go together.
         - **Food safety:** if it could make someone ill or hurt them, such as an unsafe storage time or an allergen missing from the **Allergens** line, choose that under **How serious is it?** and it'll be looked at first.
-        - **Ideas rather than problems:** check [Declined_suggestions.md](https://github.com/John-44/Recipes/blob/main/Declined_suggestions.md) in case it's already been turned down, then open a blank issue instead.
+        - **Ideas rather than problems:** use the [Recipe improvement suggestion](https://github.com/John-44/Recipes/issues/new?template=Recipe_suggestion.yml) form instead.
 
   - type: input
     id: recipe
@@ -55,6 +55,8 @@ body:
       options:
         - It could make someone ill or hurt them
         - It spoils the dish
+        - It makes the dish noticeably worse, but doesn't spoil it
+        - It makes the dish slightly worse
         - It's wrong or unclear, but the dish still works
         - It's minor, such as a typo or a broken link
     validations:
