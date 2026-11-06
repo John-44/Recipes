@@ -12,6 +12,7 @@ Read it before you write or edit a recipe, use its terms exactly, and add any ne
 - **Family** (in some tables) groups similar terms, such as Chopping or Peeling.
 - **Short name** (ingredients and recipe titles only) is the shortest form to use once something has been introduced. You can drop words from the term as far as its short name, so "raw king prawns" can become "king prawns" or "prawns", but never "shrimp".
 - You can add a word that describes the size or state you need, such as "1 small onion", "a large saucepan" or "frozen raw prawns", unless the result is in the **Don't use** column.
+- **Flag** (countries only) is the emoji that goes before the country on a recipe's **Country** line, and nowhere else.
 - **Don't use** lists other names for the same thing. Never use them for that thing, even where they're correct English.
 - **Notes** explain anything that's easy to confuse with the term, and how to use it.
 - `{Curly brackets}` mark a part you fill in, as in the recipe template.
@@ -671,13 +672,13 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 
 **Order:** A to Z.
 
-| Country | Don't use | Notes |
-| --- | --- | --- |
-| Italy | Italia | |
-| Mexico | México | |
-| Thailand | Siam | |
-| United Kingdom | UK, Britain, Great Britain | Made up of England, Scotland, Wales and Northern Ireland. Give the one a dish comes from as its **Region**, as in England. |
-| United States | USA, US, America, United States of America | |
+| Country | Flag | Don't use | Notes |
+| --- | --- | --- | --- |
+| Italy | 🇮🇹 | Italia | |
+| Mexico | 🇲🇽 | México | |
+| Thailand | 🇹🇭 | Siam | |
+| United Kingdom | 🇬🇧 | UK, Britain, Great Britain | Made up of England, Scotland, Wales and Northern Ireland. Give the one a dish comes from as its **Region**, as in England. |
+| United States | 🇺🇸 | USA, US, America, United States of America | |
 
 ### Regions
 
@@ -693,7 +694,9 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 
 ## Tags
 
-The full list of tags a recipe can choose from, including some that no recipe uses yet. The [tag rules](Recipe_template.md#tags) in the recipe template say how to choose them and how to set them out in a recipe. If no tag fits, add a new one here, following those rules, at the place the order below gives it. The **Allergens** group is the exception: it's a fixed list, so never add to it.
+The full list of tags a recipe can choose from, including some that no recipe uses yet. The [tag rules](Recipe_template.md#tags) in the recipe template say how to choose them and how to set them out in a recipe. If no tag fits, add a new one here, with its own emoji, following those rules, at the place the order below gives it. The **Allergens** group is the exception: it's a fixed list, so never add to it.
+
+Each tag has an emoji, which goes before it in a recipe, as in `- **Type:** 🍛 Curries`. No two tags share one, unless they're for the same food: Pasta dishes and Pasta, Tofu and Soya, and Eggs and Fish, which are each in both **Main ingredient** and **Allergens**.
 
 **Order:** the groups stay in this order. Within each group:
 
@@ -705,11 +708,11 @@ The full list of tags a recipe can choose from, including some that no recipe us
 
 | Group | Tags |
 | --- | --- |
-| Course | Breakfasts, Starters, Mains, Sides, Desserts, Snacks, Drinks |
-| Type | Breads, Cakes, Curries, Dressings, Marinades, Pasta dishes, Pastes, Pickles, Pies, Salads, Sauces, Soups, Spice mixes, Steaks, Stews, Stir-fries, Stocks |
-| Main ingredient | Beef, Lamb, Pork, Chicken, Fish, Seafood, Eggs, Pulses, Tofu, Vegetables, Rice, Noodles, Pasta |
-| Diet | Dairy-free, Gluten-free, Vegetarian, Vegan |
-| Allergens | Celery, Cereals containing gluten, Crustaceans, Eggs, Fish, Lupin, Milk, Molluscs, Mustard, Peanuts, Sesame, Soya, Sulphites, Tree nuts |
+| Course | 🥐 Breakfasts, 🥟 Starters, 🍽️ Mains, 🥔 Sides, 🍨 Desserts, 🍿 Snacks, 🥤 Drinks |
+| Type | 🍞 Breads, 🍰 Cakes, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
+| Main ingredient | 🐄 Beef, 🐑 Lamb, 🐖 Pork, 🐔 Chicken, 🐟 Fish, 🦐 Seafood, 🥚 Eggs, 🫘 Pulses, 🫛 Tofu, 🥦 Vegetables, 🍚 Rice, 🍜 Noodles, 🍝 Pasta |
+| Diet | 🥥 Dairy-free, 🌽 Gluten-free, 🫑 Vegetarian, 🌱 Vegan |
+| Allergens | 🥬 Celery, 🌾 Cereals containing gluten, 🦀 Crustaceans, 🥚 Eggs, 🐟 Fish, 🪻 Lupin, 🥛 Milk, 🦪 Molluscs, 🌭 Mustard, 🥜 Peanuts, 🍔 Sesame, 🫛 Soya, 🍷 Sulphites, 🌰 Tree nuts |
 
 Prawns and other shellfish are **Seafood**, not **Fish**.
 

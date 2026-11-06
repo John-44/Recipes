@@ -12,7 +12,7 @@ This file sets out how every recipe in this repository is written. Follow it whe
 4. Delete any optional section you don't need, and the **Start ahead** column if nothing has to be started ahead.
 5. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section. That counts as editing that recipe, so add yourself to its **Editors** too, unless you're already credited there.
 6. Add every new term the recipe uses to the glossary, as described in [Terminology](#terminology).
-7. Add the recipe to the [recipe table](README.md#recipes) in the README, at its place A to Z by title, with an emoji for the dish and its **Course** and **Type** tags.
+7. Add the recipe to the [recipe table](README.md#recipes) in the README, at its place A to Z by title, with the dish's emoji (the one before its title) and its **Course** and **Type** tags.
 8. Check your work against the [checklist](#checklist).
 
 **To edit a recipe:**
@@ -21,7 +21,7 @@ This file sets out how every recipe in this repository is written. Follow it whe
 2. Make your changes, following the [rules](#rules) for each section you change.
 3. Add yourself to the recipe's **Editors**, unless you're already credited there, as described in [Credits](#credits).
 4. Add every new term your changes use to the glossary, as described in [Terminology](#terminology).
-5. If you change the recipe's title, or its **Course** or **Type** tags, update its row in the [recipe table](README.md#recipes) in the README.
+5. If you change the recipe's title or emoji, or its **Course** or **Type** tags, update its row in the [recipe table](README.md#recipes) in the README.
 6. Check your work against the [checklist](#checklist).
 
 For complete examples, see [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) and [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md).
@@ -51,7 +51,7 @@ Keep the sections in this order.
 ## The template
 
 ```markdown
-# {Recipe Title}
+# {Dish emoji} {Recipe Title}
 
 ![{What the finished dish looks like}](../images/{Recipe_title}.webp)
 
@@ -61,15 +61,15 @@ Keep the sections in this order.
 | --- | --- | --- | --- | --- |
 | {The night before} | {15 min} | {30 min} | {45 min} | {4} |
 
-## Before you start
+## 📌 Before you start
 
 - {Something the cook must do or know before Step 1.}
 
-## Equipment
+## 🔪 Equipment
 
 - {Item} ({alternative, if there is one})
 
-## Ingredients
+## 🥕 Ingredients
 
 #### {Group name, only if the recipe has more than one part}
 
@@ -77,7 +77,7 @@ Keep the sections in this order.
 - {amount} {unit} [{Linked Recipe Title}]({Linked_recipe_title}.md)
 - {ingredient}, to taste
 
-## Directions
+## 🍳 Directions
 
 #### Step 1: {Short title}.
 
@@ -89,42 +89,42 @@ Keep the sections in this order.
 
 {...}
 
-## Notes and substitutions
+## 📝 Notes and substitutions
 
 - **{Topic}:** {Swap, shortcut, variation or buying tip.}
 
-## Storage and make-ahead
+## 🫙 Storage and make-ahead
 
-- **Fridge:** {How long it keeps}. {How to store it.}
-- **Freezer:** {How long it keeps}, or up to {time} if vacuum packed. {How to thaw it.}
-- **Make ahead:** {What you can do in advance.}
-- **Reheat:** {How to reheat it.}
+- 🧊 **Fridge:** {How long it keeps}. {How to store it.}
+- ❄️ **Freezer:** {How long it keeps}, or up to {time} if vacuum packed. {How to thaw it.}
+- 📅 **Make ahead:** {What you can do in advance.}
+- ♨️ **Reheat:** {How to reheat it.}
 
-## Used in
+## 🔗 Used in
 
 - [{Recipe Title}]({Recipe_title}.md)
 
-## Origin
+## 🗺️ Origin
 
-- **Country:** {Country}
+- **Country:** {Flag} {Country}
 - **Region:** {Region}
 
 {1–2 sentences about where the dish comes from, if there's something useful to say.}
 
-## Tags
+## 🏷️ Tags
 
-- **Course:** {Tag}
-- **Type:** {Tag}
-- **Main ingredient:** {Tag}
-- **Diet:** {Tag}, {Tag}
-- **Allergens:** {Tag}, {Tag}. {Which store-bought ingredients to check the labels on, if any.}
+- **Course:** {Emoji} {Tag}
+- **Type:** {Emoji} {Tag}
+- **Main ingredient:** {Emoji} {Tag}
+- **Diet:** {Emoji} {Tag}, {Emoji} {Tag}
+- **Allergens:** {Emoji} {Tag}, {Emoji} {Tag}. {Which store-bought ingredients to check the labels on, if any.}
 
-## Credits
+## ✍️ Credits
 
 - **Original author:** [{GitHub username}](https://github.com/{GitHub username})
 - **Editors:** [{GitHub username}](https://github.com/{GitHub username}), [{GitHub username}](https://github.com/{GitHub username})
 
-## Sources
+## 📚 Sources
 
 - {Website}: [{Page title}]({URL}). {What this recipe took from it.}
 
@@ -146,6 +146,7 @@ Keep the sections in this order.
 - Write numbers as digits: "2 minutes", not "two minutes".
 - Call each thing by the same name every time, in this recipe and every other. Use the terms in the [Terminology glossary](Terminology_glossary.md), as described in [Terminology](#terminology).
 - No life stories, adverts or hype ("the best ever").
+- Only use emoji where [the template](#the-template) puts them: before the title, the section headings, the storage labels, the country and each tag. Each of these always has one. Don't add emoji anywhere else, such as to ingredients, equipment, step titles or notes, where only some items would have one.
 - You can use a source's wording, such as a doneness cue it already puts well, as long as the source is listed in **Sources**. Keep it to a sentence or two from each source.
 
 ### Terminology
@@ -201,6 +202,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 - Include the main ingredient when the dish comes in several versions: "Thai Yellow Prawn Curry", not "Yellow Curry".
 - Use an English name, unless the dish is best known in the UK by its original name (e.g. "Pad Thai"). Mention the original name in the description instead.
 - Don't use brackets in the title.
+- Put an emoji for the dish before the title, as in `# 🍤 Thai Yellow Prawn Curry`, and use the same one in the recipe's row in the [recipe table](README.md#recipes) in the README. The emoji isn't part of the title, so leave it out of the file name and of links to the recipe.
 
 ### Photos
 
@@ -377,7 +379,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 
 ### Storage and make-ahead
 
-- Use these labels, and leave out any that don't apply: **Fridge**, **Freezer**, **Make ahead**, **Reheat**.
+- Use these labels, each after its emoji, and leave out any that don't apply: 🧊 **Fridge**, ❄️ **Freezer**, 📅 **Make ahead**, ♨️ **Reheat**.
 - Follow UK food safety guidance from the [Food Standards Agency](https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely) and the NHS:
   - Cool leftovers and put them in the fridge within 1–2 hours. Eat them within 2 days.
   - Eat cooked rice within 24 hours, and reheat it only once.
@@ -403,26 +405,26 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 ### Origin
 
 - Give where the dish itself comes from, not where this version was created.
-- **Country:** the country's current English name, e.g. `Thailand`.
-- **Region:** the region, state, province or city it comes from, e.g. `Southern Thailand`, `Sichuan` or `Naples`.
+- **Country:** the country's flag, then its current English name, e.g. `🇹🇭 Thailand`. Take the flag from the glossary's [Countries](Terminology_glossary.md#countries) table.
+- **Region:** the region, state, province or city it comes from, e.g. `Southern Thailand`, `Sichuan` or `Naples`. Don't give it a flag, even if it has one, such as England, because most regions don't.
 - If the dish comes from the whole country rather than one region, write `Nationwide`.
 - If experts disagree, give the most widely accepted answer, add `(disputed)`, and explain why in 1–2 sentences under the list.
-- Don't guess. If you can't find a reliable answer regarding the **Country**, write `Unknown`. If you can't find a reliable answer regarding the **Region**, don't write anything: leave the **Region** line out.
+- Don't guess. If you can't find a reliable answer regarding the **Country**, write `❓ Unknown`. If you can't find a reliable answer regarding the **Region**, don't write anything: leave the **Region** line out.
 - You can add 1–2 sentences under the list about where the dish comes from, such as the community or cuisines behind it. Anything about cooking it belongs in **Notes and substitutions**.
 
 ### Tags
 
 - Each tag is a single category: `Pastes`, not `Pastes and sauces`. If two categories apply, use two tags.
-- Choose from the [tag list](Terminology_glossary.md#tags) in the Terminology glossary, spelled exactly as shown.
+- Choose from the [tag list](Terminology_glossary.md#tags) in the Terminology glossary, spelled exactly as shown, and put each tag's emoji from the list before it.
 - Every recipe needs at least one **Type** tag and an **Allergens** line. Add **Course**, **Main ingredient** and **Diet** tags where they apply.
-- Give each group its own line: the group's name in bold, then its tags, separated by commas, as in `- **Diet:** Dairy-free, Gluten-free`.
+- Give each group its own line: the group's name in bold, then its tags, separated by commas, as in `- **Diet:** 🥥 Dairy-free, 🌽 Gluten-free`.
 - Keep the groups in the tag list's order: **Course**, **Type**, **Main ingredient**, **Diet**, then **Allergens**. Leave out any group with no tags, apart from **Allergens**.
 - On each line, put the tags in the order the tag list gives them.
 - Don't tag the country or cuisine. That's what **Origin** is for.
 - Only use a **Diet** tag if the whole recipe qualifies, including linked recipes. For example, fish sauce and shrimp paste aren't vegetarian, and ordinary soy sauce contains wheat, so it isn't gluten-free.
-- **Allergens** lists which of the UK's 14 main allergens the recipe contains as written, including linked recipes, so the cook can check it against a guest's allergies. If it contains none, write `None`.
-- If a store-bought ingredient often contains one of the 14, depending on the brand, end the **Allergens** line by telling the cook to check its label: `- **Allergens:** Crustaceans, Fish. Check the labels on the chicken stock and curry powder, which can contain celery, mustard or gluten.`
-- If no tag fits, add a new one to the glossary's tag list (following the same rules), then use it. **Allergens** is the exception: it's the FSA's fixed list, so never add to it.
+- **Allergens** lists which of the UK's 14 main allergens the recipe contains as written, including linked recipes, so the cook can check it against a guest's allergies. If it contains none, write `✅ None`.
+- If a store-bought ingredient often contains one of the 14, depending on the brand, end the **Allergens** line by telling the cook to check its label: `- **Allergens:** 🦀 Crustaceans, 🐟 Fish. Check the labels on the chicken stock and curry powder, which can contain celery, mustard or gluten.`
+- If no tag fits, add a new one, with its own emoji, to the glossary's tag list (following the same rules), then use it. **Allergens** is the exception: it's the FSA's fixed list, so never add to it.
 
 ### Credits
 
@@ -469,7 +471,8 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - [ ] Each linked component recipe lists this recipe under **Used in**.
 - [ ] **Origin** has a country, and a region if you found a reliable answer.
 - [ ] Tags come from the [tag list](Terminology_glossary.md#tags), or you've added new ones to it, and each group is on its own line, in the tag list's order.
-- [ ] The [recipe table](README.md#recipes) in the README has a row for the recipe, with the same title and **Course** and **Type** tags.
+- [ ] The [recipe table](README.md#recipes) in the README has a row for the recipe, with the same emoji, title and **Course** and **Type** tags.
+- [ ] The title, section headings, storage labels, country and tags have their emoji, and nothing else has one.
 - [ ] The **Allergens** line lists every one of the 14 allergens the recipe contains, including in linked recipes.
 - [ ] You're credited in **Credits** on every recipe you've added or changed.
 - [ ] Everything the [Terminology glossary](Terminology_glossary.md) lists is called by its exact term or short name, and nothing is called by a name from a **Don't use** column.

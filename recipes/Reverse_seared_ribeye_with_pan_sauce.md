@@ -1,4 +1,4 @@
-# Reverse Seared Ribeye with Pan Sauce
+# 🥩 Reverse Seared Ribeye with Pan Sauce
 
 ![Oil painting of sliced ribeye steak, pink in the middle, in pan sauce with coriander leaves, on a table by a window overlooking the countryside at sunset](../images/Reverse_seared_ribeye_with_pan_sauce.webp)
 
@@ -8,7 +8,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 | --- | --- | --- | --- |
 | 15 min | 55 min | 1 hr 5 min | 1 |
 
-## Equipment
+## 🔪 Equipment
 
 - Ovenproof meat thermometer
 - Wire rack set in a baking tray
@@ -16,7 +16,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 - Tongs
 - Measuring cup
 
-## Ingredients
+## 🥕 Ingredients
 
 - 1 ribeye steak, 3.5 cm thick (about 400 g)
 - 1 tsp coarse sea salt
@@ -31,7 +31,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 - 1 tbsp balsamic vinegar
 - 2 tsp cold unsalted butter
 
-## Directions
+## 🍳 Directions
 
 #### Step 1: Cook the steak in the oven.
 
@@ -83,36 +83,36 @@ Take the cast iron skillet off the heat, and wait until the sauce stops bubbling
 
 Cut the steak across the grain (at right angles to the lines of muscle running through it) into 1 cm slices. Spoon about half the sauce onto a plate, lay the slices on top, and scatter with the roughly chopped coriander leaves. Serve the rest of the sauce on the side.
 
-## Notes and substitutions
+## 📝 Notes and substitutions
 
 - **Red wine:** Use an inexpensive, medium-bodied red. Avoid oaky, sweet or very tannic (mouth-drying) wines, because reducing the wine concentrates those flavours.
 - **English mustard powder:** This recipe uses Colman's Mustard, sold in small yellow tins.
 - **Demi-glace:** A thick, rich sauce base made by reducing beef or veal stock. If you can't find it, use the same amount of concentrated beef stock, such as [M&S Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097).
 - **Non-stick frying pan:** Don't use one. It shouldn't be heated this hot, and less fond sticks to it for the sauce.
 
-## Storage and make-ahead
+## 🫙 Storage and make-ahead
 
-- **Fridge:** Up to 2 days, with the steak and sauce in separate airtight containers.
-- **Reheat:** Reheat the sauce in a small saucepan over medium-low heat, stirring often, until steaming hot all the way through. Eat the steak cold, as reheating it until steaming hot all the way through would overcook it.
+- 🧊 **Fridge:** Up to 2 days, with the steak and sauce in separate airtight containers.
+- ♨️ **Reheat:** Reheat the sauce in a small saucepan over medium-low heat, stirring often, until steaming hot all the way through. Eat the steak cold, as reheating it until steaming hot all the way through would overcook it.
 
-## Origin
+## 🗺️ Origin
 
-- **Country:** United States
+- **Country:** 🇺🇸 United States
 
 The reverse sear technique was independently developed around 2006 by test cooks like J. Kenji López-Alt at Cook's Illustrated as an accessible alternative to expensive sous-vide machines.
 
-## Tags
+## 🏷️ Tags
 
-- **Course:** Mains
-- **Type:** Steaks
-- **Main ingredient:** Beef
-- **Allergens:** Milk, Mustard, Sulphites. Check the label on the demi-glace (or concentrated beef stock), which can contain celery or gluten.
+- **Course:** 🍽️ Mains
+- **Type:** 🥩 Steaks
+- **Main ingredient:** 🐄 Beef
+- **Allergens:** 🥛 Milk, 🌭 Mustard, 🍷 Sulphites. Check the label on the demi-glace (or concentrated beef stock), which can contain celery or gluten.
 
-## Credits
+## ✍️ Credits
 
 - **Original author:** [John-44](https://github.com/John-44)
 
-## Sources
+## 📚 Sources
 
 - America's Test Kitchen: [4 Steps for Cooking the Juiciest Steak](https://www.americastestkitchen.com/articles/1918-4-steps-for-making-the-juiciest-steak). The reverse sear technique.
 - America's Test Kitchen: [Always Finish Pan Sauces with Butter Off Heat](https://www.americastestkitchen.com/how_tos/6685-always-finish-pan-sauces-with-butter-off-heat). Stirring in the butter off the heat, so its fat doesn't float on top.

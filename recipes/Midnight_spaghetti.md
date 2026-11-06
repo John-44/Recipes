@@ -1,4 +1,4 @@
-# Midnight Spaghetti
+# 🍝 Midnight Spaghetti
 
 ![Oil painting of garlic spaghetti with Parmesan on a candlelit table, with friends playing cards behind it](../images/Midnight_spaghetti.webp)
 
@@ -8,17 +8,17 @@ Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starch
 | --- | --- | --- | --- |
 | 20 min | 25 min | 35 min | 3–4 |
 
-## Before you start
+## 📌 Before you start
 
 - This dish relies on high-quality ingredients, so make sure you buy the best dried spaghetti, extra virgin olive oil, chilli flakes and Parmesan you can (see **Spaghetti**, **Extra virgin olive oil** and **Chilli flakes**).
 
-## Equipment
+## 🔪 Equipment
 
 - Large pot, ideally with a pasta strainer insert
 - Tongs
 - Frying pan at least 28 cm across
 
-## Ingredients
+## 🥕 Ingredients
 
 #### For the spaghetti
 
@@ -40,7 +40,7 @@ Spaghetti in a crema sauce made with olive oil, garlic, chilli flakes and starch
 - 100 g Parmesan
 - 5 g flat-leaf parsley leaves
 
-## Directions
+## 🍳 Directions
 
 #### Step 1: Prep the aromatics.
 
@@ -80,35 +80,35 @@ Divide the spaghetti between 3 or 4 of the warm plates, and spoon over the garli
 
 > **Tip:** It's a lot of Parmesan, but a large amount is essential to the flavour.
 
-## Notes and substitutions
+## 📝 Notes and substitutions
 
 - **Spaghetti:** Buy a bronze-die spaghetti (the pack may say *trafilata al bronzo*), such as La Molisana. Its rough surface releases more starch into the pasta water for the crema, and holds on to the sauce.
 - **Extra virgin olive oil:** Use a high-quality one. The sauce is mostly olive oil, so you'll taste it.
 - **Chilli flakes:** This recipe uses [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929), sold at Waitrose. If you can't find it, start with 1 tsp ordinary chilli flakes, which are usually hotter.
 - **Vegetarian:** Parmesan is made with calf rennet, so it isn't vegetarian. Use a vegetarian Italian-style hard cheese instead.
 
-## Storage and make-ahead
+## 🫙 Storage and make-ahead
 
-- **Fridge:** Up to 2 days in an airtight container.
-- **Reheat:** Reheat in a frying pan over medium heat with 2 tbsp water, stirring often with tongs, until steaming hot all the way through.
+- 🧊 **Fridge:** Up to 2 days in an airtight container.
+- ♨️ **Reheat:** Reheat in a frying pan over medium heat with 2 tbsp water, stirring often with tongs, until steaming hot all the way through.
 
-## Origin
+## 🗺️ Origin
 
-- **Country:** Italy
+- **Country:** 🇮🇹 Italy
 - **Region:** Naples
 
-## Tags
+## 🏷️ Tags
 
-- **Course:** Mains
-- **Type:** Pasta dishes
-- **Main ingredient:** Pasta
-- **Allergens:** Cereals containing gluten, Milk
+- **Course:** 🍽️ Mains
+- **Type:** 🍝 Pasta dishes
+- **Main ingredient:** 🍝 Pasta
+- **Allergens:** 🌾 Cereals containing gluten, 🥛 Milk
 
-## Credits
+## ✍️ Credits
 
 - **Original author:** [John-44](https://github.com/John-44)
 
-## Sources
+## 📚 Sources
 
 - Costco UK: [La Molisana Spaghetti, 6 x 500g](https://www.costco.co.uk/Grocery-Household/Food-Cupboard/Pasta-Rice-Noodles/La-Molisana-Spaghetti-6-x-500g/p/8560785). La Molisana spaghetti being bronze-die, for the **Spaghetti** note.
 - The Takeout: [Why Chefs Prefer Bronze-Cut Pasta](https://www.thetakeout.com/what-is-bronze-cut-pasta-why-is-it-better-for-sauce-1849918733/). Bronze-die pasta releasing more starch into the pasta water, and holding on to the sauce, for the **Spaghetti** note.
