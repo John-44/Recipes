@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">The Recipe Repo</title>
+  <desc id="banner-desc">Six coloured lines, one for each recipe read, merging into a single ribbon that flows into a steaming bowl.</desc>
+  <!-- © 2026 John-44 (https://github.com/John-44). Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). -->
+  <defs>
+    <linearGradient id="dish" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F28B4B"/>
+      <stop offset="1" stop-color="#D9432B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Glow behind the finished dish -->
+  <circle cx="890" cy="140" r="72" fill="#E4572E" fill-opacity="0.15"/>
+
+  <!-- One strand per recipe read, merging into a single ribbon -->
+  <g fill="none" stroke-width="6.5" stroke-linecap="round">
+    <path stroke="#7B5EA7" d="M96 40 H260 C410 40 410 125 560 125 H850"/>
+    <path stroke="#2A9D8F" d="M96 80 H260 C410 80 410 131 560 131 H850"/>
+    <path stroke="#6A994E" d="M96 120 H260 C410 120 410 137 560 137 H850"/>
+    <path stroke="#E3A72F" d="M96 160 H260 C410 160 410 143 560 143 H850"/>
+    <path stroke="#F07B3F" d="M96 200 H260 C410 200 410 149 560 149 H850"/>
+    <path stroke="#E4572E" d="M96 240 H260 C410 240 410 155 560 155 H850"/>
+  </g>
+
+  <!-- Commits along each strand -->
+  <g>
+    <circle cx="135" cy="40" r="7" fill="#7B5EA7"/>
+    <circle cx="210" cy="40" r="7" fill="#7B5EA7"/>
+    <circle cx="165" cy="80" r="7" fill="#2A9D8F"/>
+    <circle cx="235" cy="80" r="7" fill="#2A9D8F"/>
+    <circle cx="125" cy="120" r="7" fill="#6A994E"/>
+    <circle cx="195" cy="120" r="7" fill="#6A994E"/>
+    <circle cx="150" cy="160" r="7" fill="#E3A72F"/>
+    <circle cx="225" cy="160" r="7" fill="#E3A72F"/>
+    <circle cx="180" cy="200" r="7" fill="#F07B3F"/>
+    <circle cx="245" cy="200" r="7" fill="#F07B3F"/>
+    <circle cx="140" cy="240" r="7" fill="#E4572E"/>
+    <circle cx="205" cy="240" r="7" fill="#E4572E"/>
+  </g>
+
+  <!-- A recipe card at the start of each strand -->
+  <g stroke-linecap="round">
+    <g stroke="#7B5EA7">
+      <rect x="40" y="24" width="56" height="32" rx="7" fill="#7B5EA7" fill-opacity="0.14" stroke-width="2.5"/>
+      <path d="M50 33 H84" stroke-width="3.5"/>
+      <path d="M50 41 H78 M50 48 H70" stroke-width="2.5"/>
+    </g>
+    <g stroke="#2A9D8F">
+      <rect x="40" y="64" width="56" height="32" rx="7" fill="#2A9D8F" fill-opacity="0.14" stroke-width="2.5"/>
+      <path d="M50 73 H84" stroke-width="3.5"/>
+      <path d="M50 81 H78 M50 88 H70" stroke-width="2.5"/>
+    </g>
+    <g stroke="#6A994E">
+      <rect x="40" y="104" width="56" height="32" rx="7" fill="#6A994E" fill-opacity="0.14" stroke-width="2.5"/>
+      <path d="M50 113 H84" stroke-width="3.5"/>
+      <path d="M50 121 H78 M50 128 H70" stroke-width="2.5"/>
+    </g>
+    <g stroke="#E3A72F">
+      <rect x="40" y="144" width="56" height="32" rx="7" fill="#E3A72F" fill-opacity="0.14" stroke-width="2.5"/>
+      <path d="M50 153 H84" stroke-width="3.5"/>
+      <path d="M50 161 H78 M50 168 H70" stroke-width="2.5"/>
+    </g>
+    <g stroke="#F07B3F">
+      <rect x="40" y="184" width="56" height="32" rx="7" fill="#F07B3F" fill-opacity="0.14" stroke-width="2.5"/>
+      <path d="M50 193 H84" stroke-width="3.5"/>
+      <path d="M50 201 H78 M50 208 H70" stroke-width="2.5"/>
+    </g>
+    <g stroke="#E4572E">
+      <rect x="40" y="224" width="56" height="32" rx="7" fill="#E4572E" fill-opacity="0.14" stroke-width="2.5"/>
+      <path d="M50 233 H84" stroke-width="3.5"/>
+      <path d="M50 241 H78 M50 248 H70" stroke-width="2.5"/>
+    </g>
+  </g>
+
+  <!-- The finished dish: a steaming bowl -->
+  <circle cx="890" cy="140" r="56" fill="url(#dish)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M876 134 c-5 -6.5 5 -6.5 0 -13 c-5 -6.5 5 -6.5 0 -13"/>
+    <path d="M890 132 c-5 -7 5 -7 0 -14 c-5 -7 5 -7 0 -14"/>
+    <path d="M904 134 c-5 -6.5 5 -6.5 0 -13 c-5 -6.5 5 -6.5 0 -13"/>
+  </g>
+  <path fill="#FFFFFF" d="M866 142 H914 A24 24 0 0 1 866 142 Z"/>
+  <path d="M860 142 H920" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <rect x="880" y="165" width="20" height="6" rx="3" fill="#FFFFFF"/>
+</svg>
