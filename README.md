@@ -35,6 +35,7 @@ The aggregated recipes are shaped and scoped according to the following principl
 | 🥫 | **Use the best ingredients** | Counterintuitively, this sometimes means using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md). |
 | 🧂 | **No superstitions** | For example, use MSG when it makes sense. |
 | ✂️ | **Succinct** | No long, waffling text or stories. Each recipe should contain only pertinent information, and be short and to the point. |
+| ⚖️ | **Precise** | Every quantity, timing and temperature should be given exactly, leaving nothing to guesswork. |
 
 ## Recipes
 
