@@ -433,8 +433,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | glossy | shiny | How a sauce looks once butter has melted into it, as in "until the sauce is glossy". |
 | Doneness | golden brown | golden-brown | The colour of fully baked pastry, as in "The bottom of the pastry case should be golden brown". |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's thick and the oil separates out", and again when you fry curry paste in it. |
-| Doneness | until a spoon dragged across the bottom of the {pan} leaves a clear trail | | The test for a thick stew, as in "until a spoon dragged across the bottom of the pot leaves a clear trail". |
 | Doneness | until deep brown | until well browned, until dark brown | For searing meat. |
+| Doneness | until it becomes thicker | | For a stew simmering uncovered, as in "Cook, stirring often, until it becomes thicker, about 30 minutes". |
 | Doneness | until it darkens a shade | until it deepens in colour, a shade darker | For frying curry paste: its colour deepens slightly as it cooks. Also for toasting whole spices and dried chillies, as in "until they're fragrant and darken a shade". |
 | Doneness | until it holds soft peaks | to soft peaks, until soft peaks form | For whipped cream: when you lift out the whisk, the cream forms a peak that flops over at the tip. The first time, explain it in brackets. |
 | Doneness | until it starts to smoke | until smoking, smoking hot | For heating fat in a pan before searing. |

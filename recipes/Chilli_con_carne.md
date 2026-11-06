@@ -109,7 +109,7 @@ Add the tomatoes, bay leaves, Worcestershire sauce, demi-glace (or concentrated 
 
 Bring to a simmer, then turn the heat down to low. Cook for 1½ hours at this low temperature with the lid on, stirring occasionally so it doesn't catch on the bottom of the pot.
 
-Then add the kidney beans and the mushrooms, remove the lid, and turn the heat up to medium-low so it simmers. Cook, stirring often, until a spoon dragged across the bottom of the pot leaves a clear trail, about 30 minutes. While it simmers, cook the rice, wash and roughly chop the coriander leaves and stalks, and squeeze the limes.
+Then add the kidney beans and the mushrooms, remove the lid, and turn the heat up to medium-low so it simmers. Cook, stirring often, until it becomes thicker, about 30 minutes. While it simmers, cook the rice, wash and roughly chop the coriander leaves and stalks, and squeeze the limes.
 
 #### Step 8: Finish the chilli.
 
