@@ -1,5 +1,7 @@
 # Recipe template
 
+![Oil painting of a bowl of vegetable soup and a handwritten recipe, turning into a pencil sketch on the right](images/Recipe_template.webp)
+
 This file sets out how every recipe in this repository is written. Follow it whenever you create or edit a recipe, whether you are a person or an LLM. Use it together with the [Terminology glossary](Terminology_glossary.md), which pins the exact words the recipes use.
 
 **To write a new recipe:**
