@@ -126,7 +126,7 @@ Keep the sections in this order.
 
 ---
 
-Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+© {Year added} [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 ```
 
 ## Rules
@@ -475,4 +475,4 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 
 ---
 
-Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
