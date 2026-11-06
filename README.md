@@ -20,7 +20,7 @@ Recipes for UK home cooks, written in Markdown and managed in Git.
 
 The Recipe Repo was born out of a personal need: I found that all the recipes I read for a particular dish seemed to miss out some ingredients, steps or important details. But the missed items in each recipe were different, so by reading 5 to 10 recipes for the same dish, I could arrive at an aggregate recipe that contained the best touches from all.
 
-And wouldn't it be great to have a collection of recipes managed in Git and in Markdown format, that are succinct, pragmatic and straight to the point, and that anybody could provide feedback on or contribute to? That's what The Recipe Repo aims to deliver.
+And wouldn't it be great to have a collection of recipes managed in Git and in Markdown format, that are succinct, pragmatic and straight to the point, and that anybody could provide feedback on or contribute to? That's what *The Recipe Repo* aims to do.
 
 ## Principles
 
