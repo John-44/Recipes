@@ -1,0 +1,119 @@
+name: Recipe improvement suggestion
+description: An idea to make a recipe better, such as a new technique, ingredient, swap or tip.
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to suggest a way to make a recipe better. If something in a recipe is wrong, unclear or unsafe, or it didn't work when you cooked it, use the [Recipe problem](https://github.com/John-44/Recipes/issues/new?template=Recipe_problem.yml) form instead.
+
+        - **Title:** start with the recipe's name, then sum up your idea in a few words.
+        - **One suggestion per issue:** suggest each idea separately, so it can be weighed up on its own. Small changes to the same recipe can go together.
+        - **Check first:** [Declined_suggestions.md](https://github.com/John-44/Recipes/blob/main/Declined_suggestions.md) lists ideas that have already been turned down. Anything turned down is added to it, so it isn't suggested again.
+        - **What's most likely to be accepted:** ideas that fit the [principles](https://github.com/John-44/Recipes#principles) the recipes follow, such as making a dish better for a reason you can measure, while keeping it practical to cook.
+        - **New recipes and rule changes:** to ask for a new recipe, or a change to the Recipe template or the Terminology glossary, open a blank issue instead.
+
+  - type: input
+    id: recipe
+    attributes:
+      label: Which recipe is it?
+      description: Give its title, or a link to it. If your idea would suit more than one recipe, list them all.
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where in the recipe?
+      description: Give the section, and the step or line if you can. Leave this blank if it's about the whole recipe.
+      placeholder: Step 4, or Notes and substitutions
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of suggestion is it?
+      description: Choose all that apply.
+      multiple: true
+      options:
+        - Amounts and servings
+        - Ingredients
+        - Times and temperatures
+        - Directions
+        - Equipment
+        - Storage and make-ahead
+        - Allergens and diet tags
+        - Sources and credits
+        - Wording and formatting
+        - Something else
+    validations:
+      required: true
+
+  - type: dropdown
+    id: benefit
+    attributes:
+      label: What would it improve?
+      description: Choose all that apply.
+      multiple: true
+      options:
+        - Taste
+        - Texture
+        - How it looks
+        - How reliably it works
+        - Time or effort
+        - Cost
+        - Finding ingredients in the UK
+        - Diet or allergens
+        - How easy it is to follow
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What's your suggestion?
+      description: Say what you'd change, and why it would make the recipe better. Be as specific as you can, such as how many minutes it saves, or what it does to the texture. If it changes a step or line, quote it as the recipe has it now. You can drag photos into this box.
+    validations:
+      required: true
+
+  - type: textarea
+    id: wording
+    attributes:
+      label: What should it say?
+      description: If you know how you'd word it, give the new wording. If you're not sure, leave this blank.
+
+  - type: textarea
+    id: downsides
+    attributes:
+      label: Any downsides?
+      description: Say what it might cost, such as more time or effort, extra kit, an ingredient that's harder to find, or a change to the character of the dish. If you can't think of any, leave this blank.
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How do you know?
+      description: Say what it's based on, such as a recipe, video or book that does it this way, advice from cooks who know the dish well, or a test you've cooked. If you've cooked it both ways, say how they compared, and what kit you used. Add links where you can.
+
+  - type: dropdown
+    id: tried
+    attributes:
+      label: Have you tried it?
+      options:
+        - Yes, side by side with the recipe as written
+        - Yes, but not side by side
+        - No, but a source I trust does it this way
+        - No, it's just an idea
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: "I've searched the [open and closed issues](https://github.com/John-44/Recipes/issues?q=is%3Aissue), and this hasn't been suggested already."
+          required: true
+        - label: "My suggestion isn't in [Declined_suggestions.md](https://github.com/John-44/Recipes/blob/main/Declined_suggestions.md)."
+          required: true
+
+# © 2026 John-44 (https://github.com/John-44). Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
