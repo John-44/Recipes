@@ -1,0 +1,111 @@
+name: Recipe problem
+description: Something in a recipe is wrong, unclear or unsafe, or it didn't work when you cooked it.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for anything in a recipe that's wrong, unclear or unsafe, or for a recipe that didn't work when you cooked it. Anything that breaks the rules in the [Recipe template](https://github.com/John-44/Recipes/blob/main/Recipe_template.md) or the [Terminology glossary](https://github.com/John-44/Recipes/blob/main/Terminology_glossary.md) counts too.
+
+        - **Title:** start with the recipe's name, then say what's wrong in a few words.
+        - **One problem per issue:** report each problem separately, so it can be fixed and closed on its own. Small slips in the same recipe, such as typos, can go together.
+        - **Food safety:** if it could make someone ill or hurt them, such as an unsafe storage time or an allergen missing from the **Allergens** line, choose that under **How serious is it?** and it'll be looked at first.
+        - **Ideas rather than problems:** check [Declined_suggestions.md](https://github.com/John-44/Recipes/blob/main/Declined_suggestions.md) in case it's already been turned down, then open a blank issue instead.
+
+  - type: input
+    id: recipe
+    attributes:
+      label: Which recipe is it?
+      description: Give its title, or a link to it. If it's in more than one recipe, list them all.
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where in the recipe?
+      description: Give the section, and the step or line if you can.
+      placeholder: Step 4, or the fish sauce in Ingredients
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem is it?
+      description: Choose all that apply.
+      multiple: true
+      options:
+        - Amounts and servings
+        - Ingredients
+        - Times and temperatures
+        - Directions
+        - Equipment
+        - Storage and make-ahead
+        - Allergens and diet tags
+        - Sources and credits
+        - Wording and formatting
+        - It didn't work and I don't know why
+        - Something else
+    validations:
+      required: true
+
+  - type: dropdown
+    id: seriousness
+    attributes:
+      label: How serious is it?
+      options:
+        - It could make someone ill or hurt them
+        - It spoils the dish
+        - It's wrong or unclear, but the dish still works
+        - It's minor, such as a typo or a broken link
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Quote the step or line as the recipe has it now, and say what's wrong with it. If you cooked it, say what happened, and at which step. You can drag photos into this box.
+    validations:
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: What should it say?
+      description: If you know how to fix it, give the new wording. If you're not sure, leave this blank.
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How do you know?
+      description: Say what it's based on, such as a source, the label on a pack, a thermometer reading, guidance from the Food Standards Agency or the NHS, or cooking it more than once. Add links where you can.
+
+  - type: dropdown
+    id: cooked
+    attributes:
+      label: Did you cook it?
+      options:
+        - Yes, as written
+        - Yes, with some changes
+        - No, I spotted it while reading
+    validations:
+      required: true
+
+  - type: textarea
+    id: kitchen
+    attributes:
+      label: If you cooked it, what did you use and change?
+      description: Say which hob (gas, electric or induction) and oven (fan, conventional or gas) you used, and which pans and other kit, with their sizes. Then give any swaps or brands that might matter, and anything else you did differently, such as halving the recipe.
+      placeholder: Induction hob and a fan oven. A 24 cm wok, and a stick blender instead of a high-speed blender. Chaokoh coconut milk. I halved the recipe.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: "I've searched the [open and closed issues](https://github.com/John-44/Recipes/issues?q=is%3Aissue), and this hasn't been reported already."
+          required: true
+        - label: "If I'm suggesting a change, it isn't in [Declined_suggestions.md](https://github.com/John-44/Recipes/blob/main/Declined_suggestions.md)."
+          required: true
+
+# © 2026 John-44 (https://github.com/John-44). Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
