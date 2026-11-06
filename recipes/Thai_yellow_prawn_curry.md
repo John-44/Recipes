@@ -1,5 +1,7 @@
 # Thai Yellow Prawn Curry
 
+![Oil painting of Thai yellow prawn curry over jasmine rice, with coconut cream, crispy fried shallots, coriander leaves and red chilli, on a riverside veranda in Thailand at sunset](../images/Thai_yellow_prawn_curry.webp)
+
 A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turmeric and curry spices. It's the prawn version of *gaeng garee*, the yellow curry found on Thai restaurant menus around the world. This recipe adds professional Thai chef touches: cracking the coconut milk, frying the prawn heads, tossing the prawns with bicarbonate of soda and seasoning with MSG. Serve with jasmine rice.
 
 | Start ahead | Prep time | Cook time | Total time | Servings |

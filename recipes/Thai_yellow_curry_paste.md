@@ -1,5 +1,7 @@
 # Thai Yellow Curry Paste
 
+![Oil painting of a bowl of Thai yellow curry paste with lemongrass, fresh turmeric, Thai shallots and dried chillies, in a garden kitchen in Thailand](../images/Thai_yellow_curry_paste.webp)
+
 A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, galangal, fresh turmeric and warm spices. In Thailand it's called *prik gaeng garee*, and it's the base of Thai yellow curry. Curry powder gives it a gentle, Indian-style warmth, and fresh turmeric gives the yellow colour. This batch makes enough for 2 curries, so freeze half for next time.
 
 | Prep time | Cook time | Total time | Makes |

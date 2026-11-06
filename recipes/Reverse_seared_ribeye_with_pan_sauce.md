@@ -1,5 +1,7 @@
 # Reverse Seared Ribeye with Pan Sauce
 
+![Oil painting of sliced ribeye steak, pink in the middle, in pan sauce with coriander leaves, on a table by a window overlooking the countryside at sunset](../images/Reverse_seared_ribeye_with_pan_sauce.webp)
+
 A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's evenly pink from edge to edge, then seared in a very hot cast iron skillet for a deep brown crust. The sauce is made in the same pan, from the fond the steak leaves behind: red wine reduced with shallots, garlic, coriander leaves and stalks, English mustard powder, demi-glace and balsamic vinegar deglazes the cast iron skillet, then finished with butter until glossy. The sauce is rich with a sweet-sour tang, and there's plenty of it so it can be served over the vegetables as well.
 
 | Prep time | Cook time | Total time | Servings |

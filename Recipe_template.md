@@ -51,7 +51,7 @@ Keep the sections in this order.
 ```markdown
 # {Recipe Title}
 
-![{What the finished dish looks like}](images/{Recipe_title}.jpg)
+![{What the finished dish looks like}](../images/{Recipe_title}.webp)
 
 {What the dish is, what it tastes like and, if it helps, how to serve it. 100 words max.}
 
@@ -172,7 +172,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 ### File names
 
-- All recipes go in the `recipes/` folder, with no subfolders apart from `recipes/images/` for photos.
+- All recipes go in the `recipes/` folder, with no subfolders.
 - The file name is the recipe title in Sentence_case: a capital first letter, everything else lower case, underscores instead of spaces, and `.md` on the end.
 - Leave out apostrophes, accents and other punctuation.
 
@@ -205,9 +205,9 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 - A photo of the finished dish goes straight under the title. It's optional, but it shows the cook what they're aiming for.
 - A step can have a photo too, under the step and above any tip, when a first-timer can't picture what to look for, such as cracked coconut milk. Most steps won't need one.
 - Only use photos you took yourself, or have permission to use. Never copy one from a website.
-- Put photos in `recipes/images/`. Name the finished-dish photo after the recipe's file, and a step photo after the recipe's file plus what it shows: `Thai_yellow_prawn_curry.jpg`, `Thai_yellow_prawn_curry_cracked_coconut_milk.jpg`.
-- Resize each photo to about 1,200 pixels wide, and save it as a JPEG of 300 KB or less.
-- Describe what the photo shows in its alt text: `![Thai yellow prawn curry in a bowl, with jasmine rice](images/Thai_yellow_prawn_curry.jpg)`.
+- Put photos in the top-level `images/` folder. Name the finished-dish photo after the recipe's file, and a step photo after the recipe's file plus what it shows: `Thai_yellow_prawn_curry.webp`, `Thai_yellow_prawn_curry_cracked_coconut_milk.webp`.
+- Resize each photo to about 1,800 pixels wide, and save it as a WebP of 400 KB or less.
+- Describe what the photo shows in its alt text: `![Thai yellow prawn curry in a bowl, with jasmine rice](../images/Thai_yellow_prawn_curry.webp)`.
 - If you rename or delete a recipe, rename or delete its photos too, and update their links.
 
 ### Description
@@ -461,7 +461,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - [ ] Every tip sits under the step it's about, and none repeats the step, contradicts it or adds an action to it.
 - [ ] Every step number the recipe mentions, in any section, points to the right step.
 - [ ] **Equipment** lists every piece of kit beyond the basics that the recipe uses, including protective kit.
-- [ ] Every photo is your own or one you have permission to use, is in `recipes/images/`, and has alt text.
+- [ ] Every photo is your own or one you have permission to use, is in `images/`, and has alt text.
 - [ ] Every link points to a recipe that exists, and the link text matches its title.
 - [ ] The **Freezer** entry follows the [vacuum packing rules](#vacuum-packing), and the **Fridge** entry gives no vacuum-packed time.
 - [ ] Each linked component recipe lists this recipe under **Used in**.

@@ -1,5 +1,7 @@
 # Pumpkin Pie
 
+![Oil painting of pumpkin pie and a slice with whipped cream, on an autumn porch at Halloween with a carved pumpkin lantern](../images/Pumpkin_pie.webp)
+
 The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eggs and sweetened with light brown soft sugar, in a crisp shortcrust pastry case. It's warm with ground cinnamon, ginger, nutmeg and cloves, with a hint of black pepper. Cornflour helps the filling set firm enough to slice cleanly. The pastry case is blind baked for an hour, weighed down with sugar, so it stays crisp and doesn't shrink.
 
 | Prep time | Cook time | Total time | Servings |
