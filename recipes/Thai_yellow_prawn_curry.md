@@ -1,4 +1,4 @@
-# Thai Yellow Prawn Curry
+# 🍤 Thai Yellow Prawn Curry
 
 ![Oil painting of Thai yellow prawn curry over jasmine rice, with coconut cream, crispy fried shallots, coriander leaves and red chilli, on a riverside veranda in Thailand at sunset](../images/Thai_yellow_prawn_curry.webp)
 
@@ -8,19 +8,19 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 | --- | --- | --- | --- | --- |
 | The night before | 25 min | 55 min | 1 hr 20 min | 4 |
 
-## Before you start
+## 📌 Before you start
 
 - Make the [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) first (35 minutes), or use store-bought paste.
 - If your raw king prawns are frozen, thaw them in the fridge overnight, then drain them well.
 - Buy full-fat coconut milk, ideally with no emulsifiers or stabilisers, or the oil may not separate out in Step 2 (see **Coconut milk**).
 - The night before, place can of coconut milk in the refrigerator, so the fat rises to the top and is easy to spoon off in Step 2.
 
-## Equipment
+## 🔪 Equipment
 
 - Wok (or a saucepan at least 24 cm across)
 - Measuring cup
 
-## Ingredients
+## 🥕 Ingredients
 
 #### For the curry
 
@@ -48,7 +48,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 1 red chilli, finely sliced (optional)
 - Prik nam pla as an accompanying condiment (optional)
 
-## Directions
+## 🍳 Directions
 
 #### Step 1: Prep the prawns.
 
@@ -110,7 +110,7 @@ Pat the prawns dry with kitchen roll, then add them to the curry sauce and simme
 
 Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the coriander leaves and chilli. Optionally serve prik nam pla on the side.
 
-## Notes and substitutions
+## 📝 Notes and substitutions
 
 - **Prawns:** Instead of whole head-on prawns, you can use about 500 g of shell-on prawns without heads, or 400 g peeled raw king prawns: peel and devein them as needed in Step 1, and skip Step 3.
 - **Coconut milk:** For the coconut milk to separate, buy one that isn't homogenised and has no emulsifiers or stabilisers, such as guar gum or carboxymethylcellulose. [Biona Organic coconut milk](https://biona.co.uk/products/biona-organic-coconut-milk-400ml) has neither; the Thai brands Aroy-D and Chaokoh contain an emulsifier, but you can use them if you can't find one without.
@@ -120,32 +120,32 @@ Spoon the curry over the rice, then drizzle the rest of the coconut cream on top
 - **Chicken instead:** Use 500 g boneless, skinless chicken thighs, cut into bite-size pieces. Add them with the potatoes in Step 5, and skip Steps 1, 3 and 9.
 - **More heat:** This curry is mild. For more heat, add 1 or 2 sliced bird's eye chillies with the potatoes.
 
-## Storage and make-ahead
+## 🫙 Storage and make-ahead
 
-- **Fridge:** Up to 2 days in an airtight container. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
-- **Freezer:** Not recommended. The potatoes go grainy and the prawns turn rubbery.
-- **Make ahead:** Make the curry up to the end of Step 5, but don't toss the prawns with the salt and bicarbonate of soda in Step 1, and leave the rice until the day you serve it. Cool it, and refrigerate for up to 2 days. On the day, toss the prawns as in Step 1 and refrigerate them for 15 minutes, then reheat the curry until simmering and carry on from Step 6.
-- **Reheat:** Take out the prawns, then reheat the curry on the hob over medium-low heat until steaming hot all the way through. Stir the prawns back in and simmer for 1–2 minutes, so they don't become rubbery.
+- 🧊 **Fridge:** Up to 2 days in an airtight container. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
+- ❄️ **Freezer:** Not recommended. The potatoes go grainy and the prawns turn rubbery.
+- 📅 **Make ahead:** Make the curry up to the end of Step 5, but don't toss the prawns with the salt and bicarbonate of soda in Step 1, and leave the rice until the day you serve it. Cool it, and refrigerate for up to 2 days. On the day, toss the prawns as in Step 1 and refrigerate them for 15 minutes, then reheat the curry until simmering and carry on from Step 6.
+- ♨️ **Reheat:** Take out the prawns, then reheat the curry on the hob over medium-low heat until steaming hot all the way through. Stir the prawns back in and simmer for 1–2 minutes, so they don't become rubbery.
 
-## Origin
+## 🗺️ Origin
 
-- **Country:** Thailand
+- **Country:** 🇹🇭 Thailand
 
 Yellow curry is closely linked to Thailand's Muslim community, and its curry powder shows an Indian influence.
 
-## Tags
+## 🏷️ Tags
 
-- **Course:** Mains
-- **Type:** Curries
-- **Main ingredient:** Seafood
-- **Diet:** Dairy-free
-- **Allergens:** Crustaceans, Fish. Check the labels on the chicken stock, the curry powder (or store-bought paste), the crispy fried shallots and the prawns, which can contain celery, mustard, gluten or sulphites.
+- **Course:** 🍽️ Mains
+- **Type:** 🍛 Curries
+- **Main ingredient:** 🦐 Seafood
+- **Diet:** 🥥 Dairy-free
+- **Allergens:** 🦀 Crustaceans, 🐟 Fish. Check the labels on the chicken stock, the curry powder (or store-bought paste), the crispy fried shallots and the prawns, which can contain celery, mustard, gluten or sulphites.
 
-## Credits
+## ✍️ Credits
 
 - **Original author:** [John-44](https://github.com/John-44)
 
-## Sources
+## 📚 Sources
 
 - America's Test Kitchen: [For Plump and Juicy Shrimp, Reach for the Baking Soda](https://www.americastestkitchen.com/articles/4247-for-plump-and-juicy-shrimp-reach-for-the-baking-soda). Tossing the prawns with bicarbonate of soda, how much to use, and refrigerating them for at least 15 minutes.
 - America's Test Kitchen: [Garlicky Broiled Shrimp](https://www.americastestkitchen.com/recipes/14570-garlicky-broiled-shrimp). Salting the prawns so they stay juicy.

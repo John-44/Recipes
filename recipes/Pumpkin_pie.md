@@ -1,4 +1,4 @@
-# Pumpkin Pie
+# 🥧 Pumpkin Pie
 
 ![Oil painting of pumpkin pie and a slice with whipped cream, on an autumn porch at Halloween with a carved pumpkin lantern](../images/Pumpkin_pie.webp)
 
@@ -8,11 +8,11 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 | --- | --- | --- | --- |
 | 30 min | 2 hr 15 min | 4 hr 10 min, plus 3 hr cooling | 8 |
 
-## Before you start
+## 📌 Before you start
 
 - If your all-butter shortcrust pastry is frozen, thaw it in the fridge overnight.
 
-## Equipment
+## 🔪 Equipment
 
 - Rolling pin
 - 23 cm metal or glass pie dish, at least 4 cm deep
@@ -24,7 +24,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 - Probe thermometer
 - Wire rack
 
-## Ingredients
+## 🥕 Ingredients
 
 #### For the pastry case
 
@@ -52,7 +52,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 
 - 300 ml whipping cream
 
-## Directions
+## 🍳 Directions
 
 #### Step 1: Line the pie dish.
 
@@ -106,38 +106,38 @@ Take the pie out of the fridge 30 minutes before serving, so the pastry softens 
 
 Just before serving, whip the cream in a large bowl until it holds soft peaks (when you lift out the whisk, the cream forms a peak that flops over at the tip), 3–5 minutes. Cut the pie into 8 slices, and serve each one with a spoonful of the whipped cream.
 
-## Notes and substitutions
+## 📝 Notes and substitutions
 
 - **Granulated sugar:** It's only there to weigh down the pastry, so it isn't eaten in the pie. Once it's cool, keep it in an airtight container and use it like any other sugar, or for blind baking again until it turns pale tan.
 - **Pumpkin purée:** Look for cans of Libby's, sold in larger supermarkets and online.
 - **Pie dish:** Use a glass (Pyrex) or metal one. A ceramic pie dish heats up too slowly, so it will cause the pastry to come out pale and soft rather than crisp.
 
-## Storage and make-ahead
+## 🫙 Storage and make-ahead
 
-- **Fridge:** Up to 2 days, covered with cling film.
-- **Freezer:** Up to 3 months. Freeze it uncovered until firm, then wrap it tightly in cling film. Thaw it in the fridge overnight, and eat it within 24 hours.
-- **Make ahead:** Make the pie up to 2 days ahead, then cover it with cling film in the fridge. Or make the filling the night before, so the flavours can blend. Cover and refrigerate it, and stir it gently before you pour it in Step 5. It takes a little longer to bake from cold, so go by the probe thermometer. Whip the cream just before serving.
+- 🧊 **Fridge:** Up to 2 days, covered with cling film.
+- ❄️ **Freezer:** Up to 3 months. Freeze it uncovered until firm, then wrap it tightly in cling film. Thaw it in the fridge overnight, and eat it within 24 hours.
+- 📅 **Make ahead:** Make the pie up to 2 days ahead, then cover it with cling film in the fridge. Or make the filling the night before, so the flavours can blend. Cover and refrigerate it, and stir it gently before you pour it in Step 5. It takes a little longer to bake from cold, so go by the probe thermometer. Whip the cream just before serving.
 
-## Origin
+## 🗺️ Origin
 
-- **Country:** United Kingdom
+- **Country:** 🇬🇧 United Kingdom
 - **Region:** England
 
 Pumpkin pie began in England, where 17th-century cooks baked layers of sliced pumpkin and apple between two crusts. English colonists took it to New England, where it was adapted into the custard pie known today, as printed in the first American cookbook, Amelia Simmons' *American Cookery* (1796).
 
-## Tags
+## 🏷️ Tags
 
-- **Course:** Desserts
-- **Type:** Pies
-- **Main ingredient:** Vegetables
-- **Diet:** Vegetarian
-- **Allergens:** Cereals containing gluten, Eggs, Milk
+- **Course:** 🍨 Desserts
+- **Type:** 🥧 Pies
+- **Main ingredient:** 🥦 Vegetables
+- **Diet:** 🫑 Vegetarian
+- **Allergens:** 🌾 Cereals containing gluten, 🥚 Eggs, 🥛 Milk
 
-## Credits
+## ✍️ Credits
 
 - **Original author:** [John-44](https://github.com/John-44)
 
-## Sources
+## 📚 Sources
 
 - Library of Congress: [A Brief History of Pumpkin Pie in America](https://blogs.loc.gov/inside_adams/2017/11/a-brief-history-of-pumpkin-pie-in-america/). Where the dish comes from, for the **Origin**.
 - Preppy Kitchen: [Homemade Pumpkin Pie](https://preppykitchen.com/pumpkin-pie-2/). The filling and how to make it, why whisking hard makes the filling crack, the size of the pie dish, the oven shelf position, stirring the filling before it goes in, the two oven temperatures, baking for 15 minutes then about 40 minutes more, the wobble test, cooling the pie on a wire rack, letting the pie sit out of the fridge before serving, and making it up to 2 days ahead.

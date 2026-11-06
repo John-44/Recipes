@@ -1,4 +1,4 @@
-# Chilli con Carne
+# 🌶️ Chilli con Carne
 
 ![Oil painting of chilli con carne over basmati rice, with soured cream and coriander leaves, on a porch overlooking the Texas countryside at dusk](../images/Chilli_con_carne.webp)
 
@@ -8,14 +8,14 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 | --- | --- | --- | --- |
 | 35 min | 3 hr 25 min | 4 hr | 8 |
 
-## Equipment
+## 🔪 Equipment
 
 - Microwave
 - 28 cm stainless steel pot, holding at least 6 L, with a lid (not non-stick)
 - Colander
 - Measuring cup
 
-## Ingredients
+## 🥕 Ingredients
 
 #### For the spice blend
 
@@ -61,7 +61,7 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 - 600 g basmati rice
 - 300 ml soured cream
 
-## Directions
+## 🍳 Directions
 
 #### Step 1: Prep the ingredients.
 
@@ -119,37 +119,37 @@ Turn off the heat, lift out the bay leaves and cinnamon sticks, then add the rou
 
 Divide the rice between 8 bowls, spoon the chilli over the top, and add a spoonful of soured cream to each.
 
-## Notes and substitutions
+## 📝 Notes and substitutions
 
 - **Red wine:** Use an inexpensive, medium-bodied red. Avoid oaky, sweet or very tannic (mouth-drying) wines, because reducing the wine concentrates those flavours.
 - **Demi-glace:** A thick, rich sauce base made by reducing beef or veal stock. If you can't find it, use the same amount of concentrated beef stock, such as [M&S Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097).
 
-## Storage and make-ahead
+## 🫙 Storage and make-ahead
 
-- **Fridge:** Up to 2 days. Divide it between airtight containers so it cools quickly, and refrigerate it within 1–2 hours. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
-- **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Thaw it in the fridge overnight, and eat it within 24 hours.
-- **Make ahead:** Make the chilli up to the end of Step 7, leaving the rice and the coriander leaves and stalks until the day you serve it. Lift out the bay leaves and cinnamon sticks, then leave it to cool and refrigerate it for up to 2 days. On the day, reheat it until steaming hot all the way through, then carry on from Step 8.
-- **Reheat:** Reheat it in a saucepan over medium-low heat, stirring often, until steaming hot all the way through.
+- 🧊 **Fridge:** Up to 2 days. Divide it between airtight containers so it cools quickly, and refrigerate it within 1–2 hours. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
+- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Thaw it in the fridge overnight, and eat it within 24 hours.
+- 📅 **Make ahead:** Make the chilli up to the end of Step 7, leaving the rice and the coriander leaves and stalks until the day you serve it. Lift out the bay leaves and cinnamon sticks, then leave it to cool and refrigerate it for up to 2 days. On the day, reheat it until steaming hot all the way through, then carry on from Step 8.
+- ♨️ **Reheat:** Reheat it in a saucepan over medium-low heat, stirring often, until steaming hot all the way through.
 
-## Origin
+## 🗺️ Origin
 
-- **Country:** United States (disputed)
+- **Country:** 🇺🇸 United States (disputed)
 - **Region:** Texas
 
 It grew out of Mexican stews of beef in a red chilli sauce, and became popular in Texas, which made it the state's official dish in 1977. Wikipedia gives both Mexico and the United States as its place of origin.
 
-## Tags
+## 🏷️ Tags
 
-- **Course:** Mains
-- **Type:** Stews
-- **Main ingredient:** Beef
-- **Allergens:** Cereals containing gluten, Fish, Milk, Sulphites. Check the labels on the demi-glace (or concentrated beef stock), the curry powder and the dark chocolate, which can contain celery, mustard or soya.
+- **Course:** 🍽️ Mains
+- **Type:** 🍲 Stews
+- **Main ingredient:** 🐄 Beef
+- **Allergens:** 🌾 Cereals containing gluten, 🐟 Fish, 🥛 Milk, 🍷 Sulphites. Check the labels on the demi-glace (or concentrated beef stock), the curry powder and the dark chocolate, which can contain celery, mustard or soya.
 
-## Credits
+## ✍️ Credits
 
 - **Original author:** [John-44](https://github.com/John-44)
 
-## Sources
+## 📚 Sources
 
 - America's Test Kitchen: [The Best Wine for Cooking (Is Not What You Think)](https://www.americastestkitchen.com/articles/1271-the-best-wine-for-cooking-is-not-what-you-think). Choosing an inexpensive, medium-bodied red, and avoiding oaky, sweet or very tannic wines, whose flavours cooking concentrates.
 - BBC Food: [Easy chilli con carne](https://www.bbc.co.uk/food/recipes/chilliconcarne_67875). Using 1 kg of lean beef mince with a cinnamon stick and Worcestershire sauce, boiling the red wine before the tomatoes go in, adding the kidney beans near the end with plenty of roughly chopped coriander leaves, finishing with lime, serving it with rice and soured cream, and that it tastes better a day or two after it's made.

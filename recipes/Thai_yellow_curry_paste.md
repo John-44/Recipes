@@ -1,4 +1,4 @@
-# Thai Yellow Curry Paste
+# 🌿 Thai Yellow Curry Paste
 
 ![Oil painting of a bowl of Thai yellow curry paste with lemongrass, fresh turmeric, Thai shallots and dried chillies, in a garden kitchen in Thailand](../images/Thai_yellow_curry_paste.webp)
 
@@ -8,16 +8,16 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 | --- | --- | --- | --- |
 | 30 min | 5 min | 35 min | About 250 g (enough for 2 curries for 4) |
 
-## Before you start
+## 📌 Before you start
 
 - Fresh turmeric stains, so wear gloves to prepare it, and chop it with a sheet of baking paper on top of the chopping board.
 
-## Equipment
+## 🔪 Equipment
 
 - High-speed blender, such as a Blendtec with a Twister jar (or a stick blender and a tall, narrow jug, plus a spice grinder if you have one)
 - Gloves, for the fresh turmeric
 
-## Ingredients
+## 🥕 Ingredients
 
 - 15 g dried Thai spur chillies (*prik chee fah haeng*), stalks removed (about 8 large chillies)
 - 1 tbsp coriander seeds
@@ -35,7 +35,7 @@ A mild, fragrant curry paste made from dried Thai spur chillies, lemongrass, gal
 - 12 g fresh turmeric, peeled and finely chopped (about a 7 cm piece)
 - 10 g coriander roots, scrubbed and finely chopped (about 3)
 
-## Directions
+## 🍳 Directions
 
 #### Step 1: Toast and soak the chillies.
 
@@ -74,7 +74,7 @@ Add the ground spices to the high-speed blender and blend in short bursts, stopp
 
 Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
 
-## Notes and substitutions
+## 📝 Notes and substitutions
 
 - **Dried chillies:** Look for dried Thai spur chillies in Asian supermarkets or online. If you can't find them, use the same weight of Kashmiri chillies (sold in Indian grocers) or Mexican guajillo chillies, which both add colour without much heat.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper. Skip Steps 2 and 3, and add them with the curry powder in Step 5.
@@ -86,30 +86,30 @@ Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. F
 - **Vegetarian:** Leave out the shrimp paste, or use 2 tsp white miso instead.
 - **Stick blender:** It can't grind whole spices, so grind them in a spice grinder in Step 3, or use ground spices instead (see **Ground spices**). For Steps 4 and 5, put the lemongrass, galangal, ginger, fresh turmeric and coriander roots in the tall, narrow jug first, then everything else, and lift and move the stick blender around as you blend.
 
-## Storage and make-ahead
+## 🫙 Storage and make-ahead
 
-- **Fridge:** Up to 1 week in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
-- **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
+- 🧊 **Fridge:** Up to 1 week in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
+- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
 
-## Used in
+## 🔗 Used in
 
 - [Thai Yellow Prawn Curry](Thai_yellow_prawn_curry.md)
 
-## Origin
+## 🗺️ Origin
 
-- **Country:** Thailand
+- **Country:** 🇹🇭 Thailand
 
-## Tags
+## 🏷️ Tags
 
-- **Type:** Pastes
-- **Diet:** Dairy-free
-- **Allergens:** Crustaceans. Check the label on the curry powder, which can contain mustard.
+- **Type:** 🌿 Pastes
+- **Diet:** 🥥 Dairy-free
+- **Allergens:** 🦀 Crustaceans. Check the label on the curry powder, which can contain mustard.
 
-## Credits
+## ✍️ Credits
 
 - **Original author:** [John-44](https://github.com/John-44)
 
-## Sources
+## 📚 Sources
 
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, grinding the spices in a spice grinder, how much ground turmeric to use instead of fresh, and the freezing tip.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Using dried Thai spur chillies, toasting the spices, slicing the fresh ingredients finely, the weight of the lemongrass, how much a piece of fresh turmeric weighs, the amount of coriander roots and the coriander stalks swap, and storage times.
