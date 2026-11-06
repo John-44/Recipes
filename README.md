@@ -18,7 +18,7 @@ Recipes for UK home cooks, written in Markdown and managed in Git.
 
 ## Concept
 
-The Recipe Repo was born out of a personal need: I found that all the recipes I read for a particular dish seemed to miss out some ingredients, steps or important details. But the missed items in each recipe were different, so by reading 5 to 10 recipes for the same dish, I could arrive at an aggregate recipe that contained the best touches from all.
+*The Recipe Repo* was born out of a personal need: I found that all the recipes I read for a particular dish seemed to miss out some ingredients, steps or important details. But the missed items in each recipe were different, so by reading 5 to 10 recipes for the same dish, I could arrive at an aggregate recipe that contained the best touches from all.
 
 And wouldn't it be great to have a collection of recipes managed in Git and in Markdown format, that are succinct, pragmatic and straight to the point, and that anybody could provide feedback on or contribute to? That's what *The Recipe Repo* aims to do.
 
@@ -72,7 +72,7 @@ Bug reports and pull requests are gratefully accepted, and will be reviewed and 
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="CC BY-NC-SA 4.0" width="88"></a>
 
-The Recipe Repo is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0). In short, you can share and adapt the recipes, as long as you follow its terms:
+*The Recipe Repo* is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0). In short, you can share and adapt the recipes, as long as you follow its terms:
 
 - **Attribution:** give appropriate credit, link to the licence and say if you made changes.
 - **NonCommercial:** don't use them for commercial purposes.
