@@ -119,3 +119,7 @@ The reverse sear technique was independently developed around 2006 by test cooks
 - M&S: [Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097). The swap for demi-glace, and its ingredients for the **Allergens** line.
 - Maximum Fun: [TRANSCRIPT Judge John Hodgman Ep. 465: Licorice Adjacent Flavor](https://maximumfun.org/transcripts/judge-john-hodgman/transcript-judge-john-hodgman-ep-465-licorice-adjacent-flavor). J. Kenji López-Alt on developing the method for Cook's Illustrated so home cooks could get sous-vide results without a costly machine, and on others using similar methods before him.
 - Serious Eats: [Reverse-Seared Steak](https://www.seriouseats.com/reverse-seared-steak-recipe). Cooking the steak on a wire rack set in a baking tray, taking it out of the oven at 46°C or 40°C, searing its edges with tongs, and J. Kenji López-Alt's account of developing the method in 2006.
+
+---
+
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

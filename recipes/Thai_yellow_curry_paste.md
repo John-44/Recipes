@@ -117,3 +117,7 @@ Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. F
 - Blendtec: [Twister Jar](https://www.blendtec.com/products/twister-jar). Turning the lid anticlockwise while it blends.
 - Grantourismo Travels: [Geng Gari Gai Aromatic Chicken Curry Recipe from Southern Thailand](https://grantourismotravels.com/geng-gari-gai-aromatic-chicken-curry-recipe/). Toasting the dried chillies, which David Thompson grills for his curry paste.
 - Rosa's Thai: [Yellow Curry Paste](https://rosasthai.com/recipes/yellow-curry-paste). Roasting the shallots and garlic, and toasting the galangal and ginger.
+
+---
+
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

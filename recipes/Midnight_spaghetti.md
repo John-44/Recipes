@@ -113,3 +113,7 @@ Divide the spaghetti between 3 or 4 of the warm plates, and spoon over the garli
 - Waitrose: [Ottolenghi Aleppo & Other Chillies](https://www.waitrose.com/ecom/products/ottolenghi-aleppo-other-chillies/842911-824928-824929). The chilli flakes, and their ingredients, for the **Allergens** line.
 - Wikipedia: [Spaghetti aglio e olio](https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio). The dish being typical of Naples, for the **Origin**.
 - YouTube: [Midnight Pasta - Chef in Tuscany shares "Aglio, Olio e Peperoncino" Recipe](https://www.youtube.com/watch?v=U2MZbpI5kj0&t=212s). The primary inspiration behind this recipe: chef Simone Acquarelli shows how he cooks the dish, starting the garlic in a cold pan of extra virgin olive oil and cooking it gently, finishing the spaghetti in the pan with pasta water, moving it all the time so its starch makes the crema sauce.
+
+---
+
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

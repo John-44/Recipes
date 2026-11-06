@@ -141,3 +141,7 @@ Pumpkin pie began in England, where 17th-century cooks baked layers of sliced pu
 - Preppy Kitchen: [Homemade Pumpkin Pie](https://preppykitchen.com/pumpkin-pie-2/). The filling and how to make it, why whisking hard makes the filling crack, the size of the pie dish, the oven shelf position, stirring the filling before it goes in, the two oven temperatures, baking for 15 minutes then about 40 minutes more, the wobble test, cooling the pie on a wire rack, letting the pie sit out of the fridge before serving, and making it up to 2 days ahead.
 - Sally's Baking: [The Great Pumpkin Pie Recipe](https://sallysbakingaddiction.com/the-great-pumpkin-pie-recipe/). The cornflour and black pepper, rolling out the pastry on a work surface dusted with flour, folding the overhang under, covering the edge with foil partway through baking, cooling the pie for 3 hours, making the filling the night before, freezing it, and Libby's pumpkin purée.
 - Serious Eats: [How to Blind Bake Pie Crust Without Weights](https://www.seriouseats.com/how-to-blind-bake-a-pie-crust). Blind baking the pastry case: using a metal or glass pie dish, lining it with foil folded over the edge, filling it with sugar, baking it on a baking tray at 180°C for 1 hour, and reusing the sugar.
+
+---
+
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

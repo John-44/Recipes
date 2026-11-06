@@ -21,6 +21,10 @@ Suggestions for this repository that have been considered and turned down. Read 
 - Changing the example "soaking dried chillies" to "microwaving dried chillies" in the note for **Prep the ingredients**.
 - Trimming the step title, note topic, shop, brand, food label or source tables.
 
+## Licence
+
+- A note that the licence doesn't cover the sentence or two of a source's wording that a recipe can use.
+
 ## Chilli con Carne
 
 - A **Taste and adjust** step.
@@ -100,3 +104,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 - A tip on why to toast the crispy fried shallots.
 - Moving the crispy fried shallots out of the pan once they're toasted.
 - In **Storage and make-ahead**: counting the fridge's 2 days from when the make-ahead base was made, saying to cool it within 1–2 hours, making the prawns steaming hot when reheating, or a limit on how long fresh or thawed prawns keep before cooking.
+
+---
+
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

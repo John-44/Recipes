@@ -49,3 +49,7 @@ When they ask for a review of a recipe, the template or the glossary, the delive
 ## Keeping this file current
 
 If the user corrects how you work in a way that would apply to later tasks, offer to add it here, so every agent picks it up. Rules for the recipes themselves belong in the template or the glossary instead.
+
+---
+
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

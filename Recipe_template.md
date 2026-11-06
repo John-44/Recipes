@@ -123,6 +123,10 @@ Keep the sections in this order.
 ## Sources
 
 - {Website}: [{Page title}]({URL}). {What this recipe took from it.}
+
+---
+
+© {Year added} [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 ```
 
 ## Rules
@@ -468,3 +472,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - [ ] Every source URL is real and you have checked it.
 - [ ] Optional sections with nothing in them have been deleted.
 - [ ] No `{placeholders}` are left.
+
+---
+
+© 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
