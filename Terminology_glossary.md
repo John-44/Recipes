@@ -87,7 +87,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Seafood | head fat | head fat | tomalley, prawn fat, man goong | The prawn's hepatopancreas: the soft, orange organ in its head, which holds much of its flavour. The first time, write "the rich hepatopancreas (head fat)". |
 | Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai fermented shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
-| Eggs | eggs | eggs | | Hen's eggs. Give the size, as in "3 large eggs". |
+| Eggs | eggs | eggs | | Hen's eggs. Give the size, as in "3 medium eggs". |
 | Cheese | Parmesan | Parmesan | parmesan cheese, Parmigiano, Parmigiano Reggiano | An Italian hard cheese for grating, made with calf rennet, so it isn't vegetarian. Packs may call it Parmigiano Reggiano. |
 | Cheese | vegetarian Italian-style hard cheese | hard cheese | vegetarian Parmesan, vegetarian hard Italian style cheese | A hard cheese for grating, like Parmesan but made with vegetarian rennet. Check that the pack says it's suitable for vegetarians. |
 | Vegetables | carrots | carrots | | Give a size, as in "2 large carrots". |
@@ -197,7 +197,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 
 | Family | What goes in it | Order within the family |
 | --- | --- | --- |
-| Cutting | Chopping boards and the baking paper that covers them, knives and scissors | A to Z |
+| Cutting | The work surface, chopping boards and the baking paper that covers them, knives and scissors | A to Z |
 | Bowls and jugs | Bowls and jugs | A to Z |
 | Plates | Plates and saucers | A to Z |
 | Blending and grinding | Blenders and their jars, grinders, and mortars and pestles | Electric first, then by hand; A to Z within each |
@@ -216,6 +216,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Cutting | chopping board | cutting board | |
 | Cutting | knife | | |
 | Cutting | scissors | kitchen shears | |
+| Cutting | work surface | worktop, counter, countertop | Where you roll out pastry, as in "Roll out the pastry on a work surface dusted with flour". |
 | Bowls and jugs | bowl | | As in "a small bowl". Use a heatproof bowl for anything hot. |
 | Bowls and jugs | colander | strainer | A bowl with holes, for draining, as in "place it in a colander on top of a plate so it can drain". |
 | Bowls and jugs | heatproof bowl | heat-proof bowl, heat-resistant bowl | |
@@ -249,7 +250,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Utensils | measuring cup | cup measure | Metric, so the 1-cup size holds 250 ml, a little more than a US measuring cup. Used to measure liquids (see the [measurement rules](Recipe_template.md#measurements)), and as a scoop. Use a metal one for anything hot, such as the sugar after blind baking. |
 | Utensils | ovenproof meat thermometer | oven-safe thermometer, oven proof thermometer, leave-in thermometer, meat probe | A thermometer you leave in the meat while it cooks, such as a probe on a cable to a display outside the oven. |
 | Utensils | pastry brush | basting brush | A small brush for painting milk on to pastry. |
-| Utensils | probe thermometer | meat thermometer, food thermometer, digital thermometer, instant-read thermometer | A digital thermometer with a metal probe you push into the food, as in "Measure the centre of the filling with a probe thermometer". |
+| Utensils | probe thermometer | meat thermometer, food thermometer, digital thermometer, instant-read thermometer | A digital thermometer with a metal probe you push into the food, as in "measure the centre of the filling with a probe thermometer". |
 | Utensils | rolling pin | | |
 | Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Utensils | tongs | kitchen tongs | For turning meat, and holding it on its edges in a pan. |
@@ -355,7 +356,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Pastry and baking | Rolling out pastry, lining a dish with it, and baking it | In the order you'd do them |
 | Heat levels | How hot the hob is | Least heat to most |
 | Heating liquids | Simmering and boiling | Least heat to most |
-| Covering | Whether the pan has a lid on | Least covered to most |
+| Covering | Whether the pan has a lid on, or the food is covered | Least covered to most |
 | Frying and toasting | Cooking in a pan with little or no liquid | Least fat to most |
 | Pan sauces | Making a sauce in the pan that meat was seared in | In the order they come up while cooking |
 | Stirring | How often to stir | Least often to most |
@@ -387,14 +388,14 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Mixing | whisk | beat | Stir briskly with a whisk, as in "whisk until smooth". For cream, use whip. |
 | Mixing | whip | whisk (for cream) | Work air into cream with a whisk until it thickens and holds its shape, as in "whip the cream until it holds soft peaks". |
 | Pastry and baking | roll out | | Roll pastry flat with a rolling pin, as in "Roll out the pastry". |
-| Pastry and baking | dust | sprinkle with flour, flour (as a verb) | Scatter a thin layer of flour over pastry, so it doesn't stick, as in "Dust the top of the pastry with flour". |
+| Pastry and baking | dust | sprinkle with flour, flour (as a verb) | Scatter a thin layer of flour over pastry or a work surface, so the pastry doesn't stick, as in "Dust the top of the pastry with flour" or "a work surface dusted with flour". |
 | Pastry and baking | line | | Cover the inside of a dish with pastry, or of a pastry case with foil, as in "Line the pie dish". |
 | Pastry and baking | crimp | | Press the edge of a pastry case into shape, as in "Crimp the edge by pressing the pastry together with fingers". |
 | Pastry and baking | pastry case | pie crust, pie shell, pastry shell | The pastry once it's lining the dish, as in "Line the cold pastry case with foil". |
 | Pastry and baking | preheat | pre-heat | Heat the oven to the temperature you need before the food goes in, as in "preheat the oven to 180°C (160°C fan)". |
 | Pastry and baking | at temperature | hot (for an oven), up to temperature | When the oven has reached the temperature it's set to, as in "Once the oven is at temperature". |
 | Pastry and baking | blind bake | blind-bake, bake blind, prebake | Bake a pastry case empty, lined with foil and filled with sugar to weigh it down, so it's crisp before the filling goes in. Never hyphenated. In the ingredient list, write "1.5 kg granulated sugar, for blind baking". |
-| Pastry and baking | paint | brush (as a verb), glaze | Spread a thin layer of milk over pastry with a pastry brush, so it browns in the oven, as in "paint the milk on to the edges of the pastry". |
+| Pastry and baking | paint | brush (as a verb), glaze | Spread a thin layer of milk over pastry with a pastry brush, so it browns in the oven, as in "Paint the milk on to the edges of the pastry". |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
 | Heat levels | low heat | minimum heat, gentle heat | The lowest setting on the hob. |
 | Heat levels | medium-low heat | medium low heat, low-medium heat | |
@@ -407,7 +408,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Heating liquids | bring to boil | bring to a boil, bring to the boil | |
 | Heating liquids | boil hard | rolling boil, boil rapidly, boil vigorously | Boil fast, with big bubbles, to reduce a sauce quickly. |
 | Heating liquids | reduce | boil down, cook down, reduce down | Boil a sauce so some of its liquid evaporates, thickening it and concentrating its flavour, as in "Reduce the sauce". |
-| Covering | uncovered | lid off, without a lid | With no lid on the pan, so the liquid reduces as it simmers, as in "cook, uncovered, over medium-low heat". |
+| Covering | uncovered | lid off, without a lid | With no lid on the pan, so the liquid reduces as it simmers, as in "cook, uncovered, over medium-low heat". For food in the freezer, with nothing wrapped round it, as in "Freeze it uncovered until firm". |
 | Covering | with the lid on | lid on, lidded | With the lid on the pan, so little liquid escapes, as in "Cook for 1½ hours at this low temperature with the lid on". |
 | Frying and toasting | roast | | Cook shallots or garlic, usually whole and in their skins, with no oil, until soft and golden, as in "Many recipes call for roasting the shallots and garlic". For spices, dried chillies, galangal and ginger, use toast. |
 | Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices, dried chillies, crispy fried shallots, galangal or ginger in a dry frying pan, with no oil, until fragrant. |
@@ -673,6 +674,7 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 | Italy | Italia | |
 | Mexico | México | |
 | Thailand | Siam | |
+| United Kingdom | UK, Britain, Great Britain | Made up of England, Scotland, Wales and Northern Ireland. Give the one a dish comes from as its **Region**, as in England. |
 | United States | USA, US, America, United States of America | |
 
 ### Regions
@@ -683,6 +685,8 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 | --- | --- | --- | --- |
 | Italy | Naples | Napoli | A city in Campania, in southern Italy. |
 | Thailand | Southern Thailand | southern Thailand, South Thailand, the south of Thailand | A capital S, because it's the name of a region. |
+| United Kingdom | England | | One of the four countries of the United Kingdom. |
+| United States | New England | | The six states in the north-east of the United States, from Connecticut to Maine. |
 | United States | Texas | TX | A state in the southern United States. |
 
 ## Tags
@@ -727,6 +731,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
 | Hairy Bikers | hairybikers.com | The Hairy Bikers, HairyBikers.com |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
+| Library of Congress | loc.gov | LOC, LoC |
 | Love the Kitchen | lovethekitchen.co.uk | Love The Kitchen, LoveTheKitchen |
 | M&S | marksandspencer.com | Marks & Spencer, Marks and Spencer |
 | Maximum Fun | maximumfun.org | MaxFun |

@@ -4,7 +4,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
-| 30 min | 2 hr 15 min | 3 hr 40 min, plus 3 hr cooling | 8 |
+| 30 min | 2 hr 15 min | 4 hr 10 min, plus 3 hr cooling | 8 |
 
 ## Before you start
 
@@ -26,9 +26,9 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 
 #### For the pastry case
 
-- 350 g all-butter shortcrust pastry (thawed if frozen)
-- 1 tsp unsalted butter
+- 320 g all-butter shortcrust pastry (thawed if frozen)
 - 1 tbsp plain flour, for dusting
+- 1 tsp unsalted butter
 - 1.5 kg granulated sugar, for blind baking
 - 1 tbsp milk
 
@@ -44,7 +44,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 - ⅛ tsp freshly ground black pepper
 - 350 ml evaporated milk
 - 1 can (425 g) pumpkin purée
-- 3 large eggs (at room temperature)
+- 3 medium eggs (at room temperature)
 
 #### To serve
 
@@ -54,7 +54,7 @@ The classic American Thanksgiving dessert: a smooth pumpkin filling, set with eg
 
 #### Step 1: Line the pie dish.
 
-Roll out the pastry and rub a very thin layer of butter on to the sides and bottom of the pie dish.
+Roll out the pastry on a work surface dusted with flour, and rub a very thin layer of butter on to the sides and bottom of the pie dish.
 
 Dust the top of the pastry with flour so it doesn't stick, roll the pastry loosely around the rolling pin, then unroll it over the pie dish. Ease it into the pie dish and press it into the corners, without stretching it.
 
@@ -68,7 +68,7 @@ Place the pastry case in the freezer for 45 minutes, until it's cold and firm bu
 
 Put the pie dish on a baking tray. Line the cold pastry case with foil, pressing it into the corners and folding it over the crimped edge. If your foil isn't wide enough, use 2 sheets, overlapping them by 10 cm.
 
-Fill the pastry case to the top with the granulated sugar, spreading it into the corners. Make a pie guard by covering the edges of the pastry with foil to stop the edges of the pastry from burning. Bake for 1 hour. While it bakes, take the eggs out of the fridge.
+Fill the pastry case to the top with the granulated sugar, spreading it into the corners. Make a pie guard by covering the edges of the pastry with foil to stop the edges of the pastry from burning. Once the oven is at temperature, bake for 1 hour. While it bakes, take the eggs out of the fridge.
 
 > **Tip:** The sugar settles into every corner and holds the pastry flat against the pie dish, and the moderate heat stops it shrinking or puffing up. That keeps the pastry case deep enough to hold all the filling.
 
@@ -78,19 +78,19 @@ When the pastry case has 15 minutes left, whisk all the dry ingredients (the bro
 
 Add the evaporated milk and whisk, then add the pumpkin and whisk until smooth. Crack the eggs into a separate bowl and whisk them, then pour them into the filling and stir gently until smooth.
 
-> **Tip:** Be careful not to overmix the eggs, as this will cause the top of the filling to crack when it cools.
+> **Tip:** Be careful not to overmix the eggs. Whisking hard after eggs have been added beats air into the filling. The air makes it puff up in the oven, then sink and crack as it cools.
 
 #### Step 4: Lift out the sugar.
 
-Take the baking tray out of the oven. Using a metal measuring cup, scoop out the majority of the sugar into a heatproof bowl. Then lift out the foil by its corners, and tip the remaining sugar into the bowl to cool. Take off the pie guard, then paint the milk on to the edges of the pastry with a pastry brush, to help them brown.
+Take the baking tray out of the oven. Using a metal measuring cup, scoop out the majority of the sugar into a heatproof bowl. Remove the pie guard, then lift out the foil by its corners, and tip the remaining sugar into the bowl to cool. Paint the milk on to the edges of the pastry with a pastry brush, to help them brown.
 
 The bottom of the pastry case should be golden brown. If it's still pale, put it back in the oven for 5 minutes more. Then turn the oven up to 200°C (180°C fan).
 
 #### Step 5: Bake the pie.
 
-Once the oven is at temperature, pour the filling into the warm pastry case. Put the baking tray back in the oven and bake for 15 minutes.
+Once the oven is at temperature, stir the filling gently. Pull out the oven shelf, put the baking tray on it, and pour the filling into the warm pastry case. Slide the shelf back in and bake for 15 minutes.
 
-Turn the oven down to 180°C (160°C fan), and make a pie guard again, so the edge of the pastry case doesn't brown too much. Bake until only the centre wobbles when you gently shake the baking tray, and the filling has puffed up slightly at the edge, about 40–60 minutes more. Measure the centre of the filling with a probe thermometer to know when it is done: it will be done when the centre reaches 80°C.
+Turn the oven down to 180°C (160°C fan), and make a pie guard again, so the edge of the pastry case doesn't brown too much. Bake until only the centre wobbles when you gently shake the baking tray, and the filling has puffed up slightly at the edge, about 40–60 minutes more. Start checking after 40 minutes: measure the centre of the filling with a probe thermometer, with the tip halfway down, and take the pie out when it reaches 80°C.
 
 > **Tip:** The centre keeps cooking after the pie comes out of the oven, and sets as it cools. If you wait until the centre is firm, the filling overcooks.
 
@@ -99,6 +99,8 @@ Turn the oven down to 180°C (160°C fan), and make a pie guard again, so the ed
 Lift the pie dish onto a wire rack and leave it to cool for 2 hours. Then refrigerate it for at least 1 hour, so the filling finishes setting.
 
 #### Step 7: Serve the pie.
+
+Take the pie out of the fridge 30 minutes before serving, so the pastry softens slightly and the spices come through.
 
 Just before serving, whip the cream in a large bowl until it holds soft peaks (when you lift out the whisk, the cream forms a peak that flops over at the tip), 3–5 minutes. Cut the pie into 8 slices, and serve each one with a spoonful of the whipped cream.
 
@@ -111,12 +113,15 @@ Just before serving, whip the cream in a large bowl until it holds soft peaks (w
 ## Storage and make-ahead
 
 - **Fridge:** Up to 2 days, covered with cling film.
-- **Freezer:** Up to 3 months, wrapped tightly in cling film. Thaw it in the fridge overnight, and eat it within 24 hours.
-- **Make ahead:** Make the pie up to 2 days ahead, then cover it with cling film in the fridge. Whip the cream just before serving.
+- **Freezer:** Up to 3 months. Freeze it uncovered until firm, then wrap it tightly in cling film. Thaw it in the fridge overnight, and eat it within 24 hours.
+- **Make ahead:** Make the pie up to 2 days ahead, then cover it with cling film in the fridge. Or make the filling the night before, so the flavours can blend. Cover and refrigerate it, and stir it gently before you pour it in Step 5. It takes a little longer to bake from cold, so go by the probe thermometer. Whip the cream just before serving.
 
 ## Origin
 
-- **Country:** United States
+- **Country:** United Kingdom
+- **Region:** England
+
+Pumpkin pie began in England, where 17th-century cooks baked layers of sliced pumpkin and apple between two crusts. English colonists took it to New England, where it was adapted into the custard pie known today, as printed in the first American cookbook, Amelia Simmons' *American Cookery* (1796).
 
 ## Tags
 
@@ -132,6 +137,7 @@ Just before serving, whip the cream in a large bowl until it holds soft peaks (w
 
 ## Sources
 
-- Preppy Kitchen: [Pumpkin Pie Recipe](https://preppykitchen.com/pumpkin-pie-2/). The filling and how to make it, the size of the pie dish, the oven shelf position, the two oven temperatures and baking times, the wobble test, cooling the pie on a wire rack, and making it up to 2 days ahead.
-- Sally's Baking: [The Great Pumpkin Pie Recipe](https://sallysbakingaddiction.com/the-great-pumpkin-pie-recipe/). The cornflour and black pepper, folding the overhang under, covering the edge with foil partway through baking, cooling the pie for 3 hours, freezing it, and Libby's pumpkin purée.
+- Library of Congress: [A Brief History of Pumpkin Pie in America](https://blogs.loc.gov/inside_adams/2017/11/a-brief-history-of-pumpkin-pie-in-america/). Where the dish comes from, for the **Origin**.
+- Preppy Kitchen: [Homemade Pumpkin Pie](https://preppykitchen.com/pumpkin-pie-2/). The filling and how to make it, why whisking hard makes the filling crack, the size of the pie dish, the oven shelf position, stirring the filling before it goes in, the two oven temperatures, baking for 15 minutes then about 40 minutes more, the wobble test, cooling the pie on a wire rack, letting the pie sit out of the fridge before serving, and making it up to 2 days ahead.
+- Sally's Baking: [The Great Pumpkin Pie Recipe](https://sallysbakingaddiction.com/the-great-pumpkin-pie-recipe/). The cornflour and black pepper, rolling out the pastry on a work surface dusted with flour, folding the overhang under, covering the edge with foil partway through baking, cooling the pie for 3 hours, making the filling the night before, freezing it, and Libby's pumpkin purée.
 - Serious Eats: [How to Blind Bake Pie Crust Without Weights](https://www.seriouseats.com/how-to-blind-bake-a-pie-crust). Blind baking the pastry case: using a metal or glass pie dish, lining it with foil folded over the edge, filling it with sugar, baking it on a baking tray at 180°C for 1 hour, and reusing the sugar.
