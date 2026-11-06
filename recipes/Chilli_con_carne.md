@@ -163,3 +163,7 @@ It grew out of Mexican stews of beef in a red chilli sauce, and became popular i
 - Serious Eats: [The Best Chili Ever](https://www.seriouseats.com/the-best-chili-recipe). Microwaving the dried chillies until pliable and toasted-smelling (in its words), adding chocolate and cider vinegar, heating the fat until it smokes and turning the heat down if it smokes heavily or the meat starts to burn, frying the onions for longer, and lifting out the bay leaves at the end.
 - Waitrose: [Lea & Perrins Worcestershire Sauce](https://www.waitrose.com/ecom/products/lea-perrins-worcestershire-sauce/034619-17411-17412). Its ingredients, including barley malt vinegar and anchovies, for the **Allergens** line.
 - Wikipedia: [Chili con carne](https://en.wikipedia.org/wiki/Chili_con_carne). Its place of origin, its Mexican roots and Texas making it the state's official dish in 1977, for the **Origin**.
+
+---
+
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

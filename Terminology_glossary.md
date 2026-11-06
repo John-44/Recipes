@@ -747,3 +747,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Waitrose | waitrose.com | Waitrose & Partners |
 | Wikipedia | wikipedia.org | Wiki |
 | YouTube | youtube.com | Youtube, YT |
+
+---
+
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
