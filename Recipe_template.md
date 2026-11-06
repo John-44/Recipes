@@ -10,7 +10,8 @@ This file sets out how every recipe in this repository is written. Follow it whe
 4. Delete any optional section you don't need, and the **Start ahead** column if nothing has to be started ahead.
 5. If the recipe uses another recipe as an ingredient, add it to that recipe's **Used in** section. That counts as editing that recipe, so add yourself to its **Editors** too, unless you're already credited there.
 6. Add every new term the recipe uses to the glossary, as described in [Terminology](#terminology).
-7. Check your work against the [checklist](#checklist).
+7. Add the recipe to the [recipe table](README.md#the-recipes) in the README, at its place A to Z by title, with an emoji for the dish and its **Course** and **Type** tags.
+8. Check your work against the [checklist](#checklist).
 
 **To edit a recipe:**
 
@@ -18,7 +19,8 @@ This file sets out how every recipe in this repository is written. Follow it whe
 2. Make your changes, following the [rules](#rules) for each section you change.
 3. Add yourself to the recipe's **Editors**, unless you're already credited there, as described in [Credits](#credits).
 4. Add every new term your changes use to the glossary, as described in [Terminology](#terminology).
-5. Check your work against the [checklist](#checklist).
+5. If you change the recipe's title, or its **Course** or **Type** tags, update its row in the [recipe table](README.md#the-recipes) in the README.
+6. Check your work against the [checklist](#checklist).
 
 For complete examples, see [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) and [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md).
 
@@ -465,6 +467,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - [ ] Each linked component recipe lists this recipe under **Used in**.
 - [ ] **Origin** has a country, and a region if you found a reliable answer.
 - [ ] Tags come from the [tag list](Terminology_glossary.md#tags), or you've added new ones to it, and each group is on its own line, in the tag list's order.
+- [ ] The [recipe table](README.md#the-recipes) in the README has a row for the recipe, with the same title and **Course** and **Type** tags.
 - [ ] The **Allergens** line lists every one of the 14 allergens the recipe contains, including in linked recipes.
 - [ ] You're credited in **Credits** on every recipe you've added or changed.
 - [ ] Everything the [Terminology glossary](Terminology_glossary.md) lists is called by its exact term or short name, and nothing is called by a name from a **Don't use** column.
