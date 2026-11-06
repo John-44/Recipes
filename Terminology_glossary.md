@@ -1,5 +1,7 @@
 # Terminology glossary
 
+![Oil painting of a man in a chef's apron standing and reading an open book in the library of an English stately home](images/Terminology_glossary.webp)
+
 This file pins the exact words the recipes in this repository use, so that every recipe calls the same thing by the same name. It lists only terms that at least one recipe uses. The exceptions are the [tag list](#tags), which holds every tag a recipe can choose from, and [step titles](#step-titles), which can stay for later recipes.
 
 Read it before you write or edit a recipe, use its terms exactly, and add any new terms when you finish. The tables aren't in plain A to Z order, so read [How the tables are ordered](#how-the-tables-are-ordered) before you add anything. The full rules are in [Terminology](Recipe_template.md#terminology) in the recipe template.
