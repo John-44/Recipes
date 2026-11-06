@@ -4,7 +4,7 @@ Version 1.0 — reference collection, 6 November 2026.
 
 Create recipe mastheads as oil paintings inspired by British Romantic landscape painting of the late 18th to mid 19th century. Place a recognisable, appetising finished dish at the centre of a believable setting that expresses its occasion, place or social character.
 
-The approved direction is a **2:1 horizontal image, without lettering, in a timeless setting**, with **clear food and more expressive surroundings**. The six paintings in this package are reference examples for future illustrations. The existing README illustration is outside this style system and must not be used as a reference.
+The approved direction is a **2:1 horizontal image, without lettering, in a timeless setting**, with **clear food and more expressive surroundings**. The six paintings in this package are reference examples for future illustrations. The original SVG README banner (`images/Readme_banner.svg`) is outside this style system and must not be used as a reference.
 
 ## The visual idea
 

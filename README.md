@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/Readme_banner.svg" alt="Six coloured lines, one for each recipe read, merging into a single ribbon that flows into a steaming bowl">
+<img src="images/Readme_banner.webp" alt="Oil painting of a man writing a recipe by candlelight, with golden streams of ideas flowing from open recipe books on the left into his new book on the right">
 
 # The Recipe Repo
 
