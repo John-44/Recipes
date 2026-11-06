@@ -29,7 +29,10 @@ Suggestions for this repository that have been considered and turned down. Read 
 
 ## Chilli con Carne
 
+- Leaving the mince in the fridge until Step 2, rather than taking it out at the start of Step 1.
+- A tip in Step 3 on why the mushrooms cook with the lid on first: the steam stops them soaking up the butter.
 - A **Taste and adjust** step.
+- A **More heat** note, such as leaving the seeds in the bird's eye chillies. The bird's eye chillies went up from 3 to 6 instead.
 
 ## Midnight Spaghetti
 

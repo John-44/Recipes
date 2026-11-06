@@ -342,7 +342,6 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Grating | finely grated | microplaned | Grated on the fine holes of a grater, as in "Finely grate the Parmesan". |
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
-| Measuring | heaped | heaping, rounded | Piled above the rim of the spoon, as in "2 heaped tsp ground coriander". Spoon measures are level unless the recipe says heaped. |
 | Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". It ends the line, after any note in brackets. |
 
 ## Cooking terms
@@ -378,6 +377,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | split | slit, cut open | Cut open lengthways, as in "split them open lengthways with scissors". For coconut milk, use crack and separate out instead. |
 | Before cooking | scrape out the seeds | deseed, remove the seeds | For dried chillies, once they're split open. |
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
+| Before cooking | squeeze | juice (as a verb) | Press the juice out of something, as in "squeeze the limes". |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
