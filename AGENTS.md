@@ -1,5 +1,7 @@
 # Agent instructions
 
+![Oil painting of a butler giving instructions to a robot, with other robots farming in the background](images/AGENTS.webp)
+
 This repository holds recipes for UK home cooks, written in Markdown. There's no code to build or test: the work is writing, editing and reviewing recipes, to the standard these files set:
 
 - [Recipe_template.md](Recipe_template.md) says how every recipe is written, from file names and sections to credits and sources, and ends with a checklist.
