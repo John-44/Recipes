@@ -1,5 +1,7 @@
 # The Romantic Table illustration style guide
 
+![Oil painting of a painter working on a half-completed canvas of people picnicking beside a lake at an English country house](images/Illustration_style_template.webp)
+
 Version 1.0 — reference collection, 6 November 2026.
 
 Create recipe mastheads as oil paintings inspired by British Romantic landscape painting of the late 18th to mid 19th century. Place a recognisable, appetising finished dish at the centre of a believable setting that expresses its occasion, place or social character.
