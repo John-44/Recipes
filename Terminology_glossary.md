@@ -76,9 +76,11 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Grains | Rice and other grains | A to Z |
 | Flours and starches | Flours, and starches that thicken liquids | A to Z |
 | Pastry | Ready-made pastry | A to Z |
+| Biscuits | Ready-made biscuits, such as digestive biscuits | A to Z |
 | Pasta and noodles | Pasta and noodles | A to Z |
 | Raising agents | Bicarbonate of soda, baking powder and yeast | A to Z |
 | Chocolate | Chocolate and cocoa powder | Darkest to lightest |
+| Ice cream | Ice cream and other frozen desserts | A to Z |
 | Garnishes | Ready-made toppings | A to Z |
 
 **Terms:**
@@ -125,6 +127,9 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | kaffir lime leaves | lime leaves | makrut lime leaves, kafir lime leaves, bai makrut | Sold fresh, frozen or dried. Say "dried" when you mean dried ones. Some packs are labelled "makrut lime leaves": use that name only to describe a label, in quotes. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
 | Herbs | thyme sprigs | thyme sprigs | fresh thyme, thyme stems | Fresh thyme, counted in sprigs, as in "6 thyme sprigs". Not dried thyme. |
+| Fruit | blackberries | blackberries | brambles | Fresh, and sold in 150 g punnets. Say "frozen blackberries" when you mean frozen ones. |
+| Fruit | Bramley apples | apples | Bramleys, Bramley's Seedling | Large, sharp, green cooking apples, which cook down into a soft purée. Bramley is a variety, so it takes a capital B. Eating apples would need their own term. |
+| Fruit | lemon | lemon | | When you squeeze it, keep out the seeds and the bitter white pith, as in "making sure no seeds or pith get into the lemon juice". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
 | Fruit | tamarind pods | tamarind pods | | Whole tamarind in their brittle brown shells: the sweet kind, for eating as a snack. Not tamarind pulp, which is sour, for cooking. |
 | Chillies | Kashmiri chillies | Kashmiri chillies | Kashmiri red chillies, Kashmiri chilies | Mild dried Indian chillies with a deep red colour. |
@@ -194,6 +199,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | pasta water | pasta water | pasta cooking water, starchy water, spaghetti water | The salted water pasta has been boiling in, cloudy with starch from the pasta. Not boiling water from the kettle. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Liquids | cold water | cold water | | Water from the cold tap, as for starting a stock, as in "6 L cold water". Not boiling water. |
+| Nuts | chopped hazelnuts | hazelnuts | hazelnut pieces | Sold ready-chopped and usually roasted, in 100 g packs. |
 | Nuts | pine nuts | pine nuts | pine kernels, pignoli, pinoli | Small, soft seeds from pine cones, sold as nuts. Packs may call them pine kernels. |
 | Pulses | red kidney beans | kidney beans | red beans | Canned and already cooked, and sold in 400 g cans, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Dried ones would need their own term. |
 | Grains | basmati rice | rice | basmati (on its own) | Long-grain rice, weighed before cooking, as in "600 g basmati rice". |
@@ -201,9 +207,11 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Flours and starches | cornflour | cornflour | cornstarch, corn starch, maize starch | A fine white starch that thickens liquids and helps them set. Not cornmeal or polenta. |
 | Flours and starches | plain flour | flour | all-purpose flour, AP flour | Wheat flour with no raising agent, as in "1 tbsp plain flour, for dusting". Self-raising flour would need its own term. |
 | Pastry | all-butter shortcrust pastry | pastry | all butter shortcrust pastry, pie dough | Ready-made shortcrust pastry made with butter rather than vegetable fat, sold chilled or frozen. |
+| Biscuits | digestive biscuits | biscuits | digestives | Semi-sweet wheatmeal biscuits. They contain wheat, so they aren't gluten-free. |
 | Pasta and noodles | dried spaghetti | spaghetti | dry spaghetti, spaghetti pasta | Weighed before cooking, as in "500 g dried spaghetti". Fresh spaghetti would need its own term. |
 | Raising agents | bicarbonate of soda | bicarbonate of soda | baking soda, bicarb, bicarb of soda, sodium bicarbonate, bread soda | Not baking powder, which also contains an acid. Labels may call it sodium bicarbonate. |
 | Chocolate | dark chocolate | chocolate | plain chocolate, bitter chocolate | Give its cocoa solids, as in "20 g dark chocolate (80% or 90% cocoa solids)". Some brands contain milk or soya, so check the label. |
+| Ice cream | vanilla ice cream | ice cream | vanilla ice-cream | Some brands are made with egg yolks, so check the label for eggs. |
 | Garnishes | crispy fried shallots | crispy fried shallots | fried shallots, crispy shallots, shallot crisps | Ready-made, for scattering over a dish. Not the same as Thai shallots. |
 
 ## Equipment
@@ -274,6 +282,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Utensils | pastry brush | basting brush | A small brush for painting milk on to pastry. |
 | Utensils | probe thermometer | meat thermometer, food thermometer, digital thermometer, instant-read thermometer | A digital thermometer with a metal probe you push into the food, as in "measure the centre of the filling with a probe thermometer". |
 | Utensils | rolling pin | | |
+| Utensils | rubber mallet | mallet (on its own) | A mallet with a rubber head, sold for DIY. Its soft, flat face crushes biscuits in freezer bags without tearing them. |
 | Utensils | spoon | | Its back is handy for pressing food into a pan, as in "with the back of a spoon". |
 | Utensils | tongs | kitchen tongs | For turning meat, and holding it on its edges in a pan. |
 | Utensils | whisk | | A hand whisk, such as a balloon whisk. An electric whisk would need its own term. |
@@ -297,6 +306,7 @@ Every recipe in this repository. When you mention one, write its title exactly, 
 
 | Title | File | Short name |
 | --- | --- | --- |
+| Apple and Blackberry Crumble | [Apple_and_blackberry_crumble.md](recipes/Apple_and_blackberry_crumble.md) | crumble |
 | Chilli con Carne | [Chilli_con_carne.md](recipes/Chilli_con_carne.md) | chilli |
 | Demi-Glace | [Demi_glace.md](recipes/Demi_glace.md) | demi-glace |
 | Midnight Spaghetti | [Midnight_spaghetti.md](recipes/Midnight_spaghetti.md) | spaghetti |
@@ -353,12 +363,14 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
 | Trimming | deveined | de-veined | The dark vein along the back removed, as in "Peel and devein the prawns". |
 | Trimming | stalks removed | stemmed, destemmed | For dried chillies and shiitake mushrooms. |
+| Trimming | cored | | With the core and seeds cut out. For apples, cut them into quarters, then cut the core out of each quarter. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
 | Peeling | peeled | shelled | For prawns too, as in "400 g peeled raw king prawns". |
 | Chopping | finely chopped | minced | Chopped into very small pieces. In the UK, "minced" means put through a mincer. |
 | Chopping | roughly chopped | coarsely chopped | |
 | Slicing | finely sliced | thinly sliced | In notes, "sliced" on its own is fine, as in "sliced bird's eye chillies". |
 | Slicing | across the grain | against the grain | At right angles to the lines of muscle running through meat, so each slice is tender. The first time, explain it in brackets, as in "Cut the steak across the grain (at right angles to the lines of muscle running through it)". |
+| Slicing | lengthways | lengthwise | Along the length of something, as in "Finely slice each quarter lengthways (from the stalk end to the base)". |
 | Cutting | cut into thick wedges | sliced into wedges | For onions, so they hold their shape as they simmer. |
 | Cutting | cut into {size} cm chunks | cubed | As in "cut into 2 cm chunks". |
 | Cutting | cut into bite-size pieces | cut into bite-sized pieces | |
@@ -379,7 +391,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | Getting ingredients ready to cook, such as soaking | In the order you'd do them |
 | Blending and grinding | Blending, grinding and pounding | Electric first, then by hand; A to Z within each |
 | Mixing | Whisking and whipping | Gentlest to most vigorous |
-| Pastry and baking | Rolling out pastry, lining a dish with it, and baking it | In the order you'd do them |
+| Pastry and baking | Rolling out pastry, lining a dish with it, filling and topping the dish, and baking it | In the order you'd do them |
 | Heat levels | How hot the hob is | Least heat to most |
 | Heating liquids | Simmering and boiling | Least heat to most |
 | Covering | Whether the pan has a lid on, or the food is covered | Least covered to most |
@@ -415,6 +427,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Blending and grinding | on the highest speed | on high, at full speed, on full power | For a high-speed blender, as in "Blend on the highest speed for 30 seconds". |
 | Blending and grinding | scrape down the sides | | While blending, as in "then stop and scrape down the sides". |
 | Blending and grinding | turn the lid anticlockwise | twist the lid, turn the lid counter-clockwise | For a Blendtec Twister jar, whose lid scrapes the sides as it turns, as in "keep turning the lid anticlockwise the whole time it's blending". |
+| Blending and grinding | crush | bash, smash | Break dry food into crumbs by hitting it, as in "hit them repeatedly with the rubber mallet until the biscuits are fine crumbs". |
 | Mixing | whisk | beat | Stir briskly with a whisk, as in "whisk until smooth". For cream, use whip. |
 | Mixing | whip | whisk (for cream) | Work air into cream with a whisk until it thickens and holds its shape, as in "whip the cream until it holds soft peaks". |
 | Pastry and baking | roll out | | Roll pastry flat with a rolling pin, as in "Roll out the pastry". |
@@ -426,6 +439,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Pastry and baking | at temperature | hot (for an oven), up to temperature | When the oven has reached the temperature it's set to, as in "Once the oven is at temperature". |
 | Pastry and baking | blind bake | blind-bake, bake blind, prebake | Bake a pastry case empty, lined with foil and filled with sugar to weigh it down, so it's crisp before the filling goes in. Never hyphenated. In the ingredient list, write "1.5 kg granulated sugar, for blind baking". |
 | Pastry and baking | paint | brush (as a verb), glaze | Spread a thin layer of milk over pastry with a pastry brush, so it browns in the oven, as in "Paint the milk on to the edges of the pastry". |
+| Pastry and baking | layer | | Build up a filling in a dish in alternating layers, as in "Place alternating layers of apples, then blackberries". |
+| Pastry and baking | sprinkle | | Scatter a dry ingredient or mix evenly over food before it's baked, as in "Sprinkle the crumble topping on top". For herbs and garnishes at the end, use scatter. For flour on pastry, use dust. |
 | Heat levels | off the heat | remove from the heat | Away from the heat altogether, as in "Take the curry off the heat". It isn't one of the five heat levels, so it never follows "over". |
 | Heat levels | low heat | minimum heat, gentle heat | The lowest setting on the hob. |
 | Heat levels | medium-low heat | medium low heat, low-medium heat | |
@@ -473,6 +488,8 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until lightly golden | until pale golden, until light golden | For garlic and pine nuts fried in oil: pale gold, well short of brown, as in "until the garlic is soft and the garlic and pine nuts are lightly golden". |
 | Doneness | until only the centre wobbles | until just set, until it jiggles | The test for a baked custard filling, such as in a pumpkin pie: when you gently shake the dish, the edge is set and only the middle still wobbles. |
 | Doneness | until smooth | until combined, until well combined | For a whisked mixture, such as a pie filling, with no lumps or streaks. For a blended paste, use until very smooth. |
+| Doneness | until the fruit is bubbling in the centre | until bubbly, bubbling in the middle | For a baked fruit filling under a topping: the juices bubble up in the middle of the dish, not just at the edges. |
+| Doneness | until the mix is homogeneous | until evenly mixed | For butter mixed into a crumble topping with your fingers: evenly mixed all through, with no lumps of butter left. |
 | Doneness | until the mushrooms have released all their liquid | | For mushrooms cooked with the lid on: their juices pool in the pan. |
 | Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
 | Doneness | until the sauce stops bubbling | | For a sauce taken off the heat before the butter goes in, as in "wait until the sauce stops bubbling". A cast iron skillet holds its heat, so this can take a while. |
@@ -516,6 +533,7 @@ The level 4 (`####`) subheadings in **Ingredients**.
 | Heading | Don't use | Notes |
 | --- | --- | --- |
 | For the chilli | Chilli, For the chilli con carne | |
+| For the crumble topping | Crumble topping, For the topping, For the crumble | |
 | For the curry | Curry, Curry ingredients | Name each part of a recipe "For the {part}". |
 | For the demi-glace | Demi-glace, For the reduction | |
 | For the filling | Filling, For the pie filling | |
@@ -562,16 +580,25 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Soak the tamarind | | |
 | Squeeze out the flesh | Squeeze the tamarind | Squeezing soaked tamarind with your fingers until the flesh comes away from the fibres. |
 | Strain the paste | Sieve the paste | Pushing a paste through a sieve, leaving the fibres behind. |
+| Squeeze the lemon | Juice the lemon | |
+| Prep the apples | Prepare the apples | Peeling, coring and slicing apples, and tossing them in lemon juice so they don't go brown. |
 | Toast and soak the chillies | | |
 | Toast the spices | | |
 | Grind the spices | | |
 | Blend the paste | Blitz the paste, Process the paste | |
 | Blend in the spices | Add the spices, Add the ground spices | Adding ground spices to a paste you've just blended, and blending again. |
+| Crush the biscuits | Bash the biscuits, Smash the biscuits | Crushing biscuits to fine crumbs in freezer bags, with a rubber mallet. |
+| Mix the dry ingredients | Combine the dry ingredients | |
+| Mix in the butter | Add the butter | Mixing very soft butter into a crumble topping with your fingers. Rubbing cold butter into flour would need its own title. |
 | Line the pie dish | Line the tin, Line the dish | Rolling out pastry, lining a pie dish with it and crimping the edge. |
 | Blind bake the pastry case | Bake blind, Blind-bake the crust, Prebake the pastry | |
 | Make the filling | Mix the filling, Prepare the filling | |
+| Toss the apples | Coat the apples | Tossing sliced apples with sugar, cornflour and spices. |
+| Layer the fruit | Assemble the fruit | Building up a fruit filling in the dish in alternating layers. |
+| Add the crumble topping | Add the topping, Top the crumble | |
 | Lift out the sugar | Remove the weights, Remove the pie weights | Lifting the foil, and the sugar that weighed down the pastry, out of the pastry case after blind baking. |
 | Bake the pie | Cook the pie | |
+| Bake the crumble | Cook the crumble | |
 | Cook the steak in the oven | Roast the steak, Bake the steak | The low-oven stage of a reverse sear. |
 | Sear the steak | Brown the steak, Seal the steak | |
 | Sear the mince | Brown the mince, Seal the mince | Searing beef mince in batches, each pressed into a flat layer so it browns rather than stews. |
@@ -754,15 +781,15 @@ Each tag has an emoji, which goes before it in a recipe, as in `- **Type:** 🍛
 
 - **Course:** Breakfasts, then a meal's courses in the order you'd eat them, then Snacks and Drinks.
 - **Type:** A to Z.
-- **Main ingredient:** meat from red to white, then Fish, Seafood, other proteins (A to Z), Vegetables, grains, then pasta and noodles (A to Z), as in the [ingredient families](#ingredients).
+- **Main ingredient:** meat from red to white, then Fish, Seafood, other proteins (A to Z), Vegetables, Fruit, grains, then pasta and noodles (A to Z), as in the [ingredient families](#ingredients).
 - **Diet:** free-from tags first (A to Z), then Vegetarian and Vegan, from least strict to most.
 - **Allergens:** A to Z.
 
 | Group | Tags |
 | --- | --- |
 | Course | 🥐 Breakfasts, 🥟 Starters, 🍽️ Mains, 🥔 Sides, 🍨 Desserts, 🍿 Snacks, 🥤 Drinks |
-| Type | 🍞 Breads, 🍰 Cakes, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
-| Main ingredient | 🐄 Beef, 🐑 Lamb, 🐖 Pork, 🐔 Chicken, 🐟 Fish, 🦐 Seafood, 🥚 Eggs, 🫘 Pulses, 🫛 Tofu, 🥦 Vegetables, 🍚 Rice, 🍜 Noodles, 🍝 Pasta |
+| Type | 🍞 Breads, 🍰 Cakes, 🍮 Crumbles, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
+| Main ingredient | 🐄 Beef, 🐑 Lamb, 🐖 Pork, 🐔 Chicken, 🐟 Fish, 🦐 Seafood, 🥚 Eggs, 🫘 Pulses, 🫛 Tofu, 🥦 Vegetables, 🍎 Fruit, 🍚 Rice, 🍜 Noodles, 🍝 Pasta |
 | Diet | 🥥 Dairy-free, 🌽 Gluten-free, 🫑 Vegetarian, 🌱 Vegan |
 | Allergens | 🥬 Celery, 🌾 Cereals containing gluten, 🦀 Crustaceans, 🥚 Eggs, 🐟 Fish, 🪻 Lupin, 🥛 Milk, 🦪 Molluscs, 🌭 Mustard, 🥜 Peanuts, 🍔 Sesame, 🫛 Soya, 🍷 Sulphites, 🌰 Tree nuts |
 
@@ -779,19 +806,24 @@ The website names at the start of each line in **Sources**, before the colon.
 | Website | Address | Don't use |
 | --- | --- | --- |
 | America's Test Kitchen | americastestkitchen.com | Americas Test Kitchen, ATK |
+| Ana's Baking Chronicles | anasbakingchronicles.com | Anas Baking Chronicles |
 | BBC Food | bbc.co.uk/food | BBC (on its own) |
+| Bidfood | bidfood.co.uk | Bidfood UK |
 | Biona Organic | biona.co.uk | Biona (on its own) |
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
 | Costco UK | costco.co.uk | Costco (on its own) |
+| Delia Smith Recipes | deliasmithcooks.co.uk | Delia Smith (on its own), Delia Smith Cooks |
 | Don't Go Bacon My Heart | dontgobaconmyheart.co.uk | Dont Go Bacon My Heart |
 | Good Food | bbcgoodfood.com | BBC Good Food |
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
+| Great British Chefs | greatbritishchefs.com | GBC |
 | Hairy Bikers | hairybikers.com | The Hairy Bikers, HairyBikers.com |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | Library of Congress | loc.gov | LOC, LoC |
 | Love the Kitchen | lovethekitchen.co.uk | Love The Kitchen, LoveTheKitchen |
 | M&S | marksandspencer.com | Marks & Spencer, Marks and Spencer |
 | Maximum Fun | maximumfun.org | MaxFun |
+| McVitie's | mcvities.com | McVities, McVitie |
 | National Center for Home Food Preservation | nchfp.uga.edu | NCHFP, National Centre for Home Food Preservation |
 | Nicky's Kitchen Sanctuary | kitchensanctuary.com | Kitchen Sanctuary (on its own), Nickys Kitchen Sanctuary |
 | OutOfAir | outofair.com | Out of Air, Outofair |
@@ -801,8 +833,10 @@ The website names at the start of each line in **Sources**, before the colon.
 | Rosa's Thai | rosasthai.com | Rosas Thai, Rosa's (on its own) |
 | Sally's Baking | sallysbakingaddiction.com | Sally's Baking Addiction, Sallys Baking |
 | Serious Eats | seriouseats.com | SeriousEats |
+| Souldeliciouz Kitchen | souldeliciouz.com | SOULDELICIOUZ KITCHEN, Soul Deliciouz |
 | Sous Chef | souschef.co.uk | SousChef, Souschef |
 | Swasthi's Recipes | indianhealthyrecipes.com | Indian Healthy Recipes, Swasthis Recipes |
+| The Floured Table | theflouredtable.com | Floured Table (on its own) |
 | The Takeout | thetakeout.com | Takeout (on its own), TheTakeout |
 | TODAY | today.com | Today, TODAY.com |
 | Waitrose | waitrose.com | Waitrose & Partners |
