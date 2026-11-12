@@ -181,7 +181,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | pasta water | pasta water | pasta cooking water, starchy water, spaghetti water | The salted water pasta has been boiling in, cloudy with starch from the pasta. Not boiling water from the kettle. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Nuts | pine nuts | pine nuts | pine kernels, pignoli, pinoli | Small, soft seeds from pine cones, sold as nuts. Packs may call them pine kernels. |
-| Pulses | red kidney beans | kidney beans | red beans | Canned and already cooked, and sold in 400 g cans, as in "2 cans (400 g each) red kidney beans, drained and rinsed". Dried ones would need their own term. |
+| Pulses | red kidney beans | kidney beans | red beans | Canned and already cooked, and sold in 400 g cans, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Dried ones would need their own term. |
 | Grains | basmati rice | rice | basmati (on its own) | Long-grain rice, weighed before cooking, as in "600 g basmati rice". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
 | Flours and starches | cornflour | cornflour | cornstarch, corn starch, maize starch | A fine white starch that thickens liquids and helps them set. Not cornmeal or polenta. |
@@ -324,7 +324,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
-| Cleaning | drained and rinsed | rinsed and drained | For canned beans: tipped into a colander, then rinsed under the cold tap, as in "2 cans (400 g each) red kidney beans, drained and rinsed". Not washed, which ends with patting dry. |
+| Cleaning | drained and rinsed | rinsed and drained | For canned beans: tipped into a colander, then rinsed under the cold tap, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Not washed, which ends with patting dry. |
 | Cleaning | washed | | Washed in cold water, then patted dry, as for coriander leaves and stalks. Not drained and rinsed, which is for canned beans. |
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
 | Trimming | deveined | de-veined | The dark vein along the back removed, as in "Peel and devein the prawns". |
