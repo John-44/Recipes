@@ -119,6 +119,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | kaffir lime leaves | lime leaves | makrut lime leaves, kafir lime leaves, bai makrut | Sold fresh, frozen or dried. Say "dried" when you mean dried ones. Some packs are labelled "makrut lime leaves": use that name only to describe a label, in quotes. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
+| Fruit | tamarind pods | tamarind pods | | Whole tamarind in their brittle brown shells: the sweet kind, for eating as a snack. Not tamarind pulp, which is sour, for cooking. |
 | Chillies | Kashmiri chillies | Kashmiri chillies | Kashmiri red chillies, Kashmiri chilies | Mild dried Indian chillies with a deep red colour. |
 | Chillies | guajillo chillies | guajillo chillies | guajillo peppers, guajillo chiles | Fairly mild dried Mexican chillies. Outside Mexican recipes, you can introduce them as "Mexican guajillo chillies". |
 | Chillies | dried Thai spur chillies | chillies | dried spur chilies, dried long chillies, dried big chillies | Large dried Thai chillies with a mild to moderate heat, prized for the colour they give curry pastes. In the ingredient list, follow the term with its Thai name in brackets, as in "dried Thai spur chillies (*prik chee fah haeng*)". If the recipe also uses fresh chillies, shorten to "dried chillies" instead. |
@@ -159,7 +160,8 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | Worcestershire sauce | Worcestershire sauce | Worcester sauce, Worcestershire (on its own) | A tangy, savoury sauce made with vinegar, molasses, tamarind and anchovies. UK brands usually contain barley malt vinegar, so it isn't gluten-free, and the anchovies mean it isn't vegetarian. |
 | Seasonings | apple cider vinegar | cider vinegar | ACV | Vinegar made from apples. Packs may call it cider vinegar. |
 | Seasonings | balsamic vinegar | balsamic vinegar | balsamic (on its own), aceto balsamico | Sour and slightly sweet. Not balsamic glaze, which is thicker and sweeter. |
-| Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind. Tamarind concentrate is a thicker, stronger product. |
+| Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind, homemade or store-bought. Tamarind concentrate is a thicker, stronger product. This repository's recipe is Tamarind Paste: link it in the ingredient list, as `[Tamarind Paste](Tamarind_paste.md)`. |
+| Seasonings | tamarind pulp | tamarind | tamarind block, tamarind slab, wet tamarind | Compacted tamarind fruit pulp, sold in brown blocks, usually seedless but full of fibres. Packs may call it wet tamarind. Buy the sour kind for cooking, from Thailand. Not tamarind pods, which are sweet, or tamarind paste, which is made from it. |
 | Seasonings | granulated sugar | sugar | white sugar, table sugar | Caster sugar is finer, and would need its own term. |
 | Seasonings | light brown soft sugar | brown sugar | light soft brown sugar, soft light brown sugar | Moist, fine brown sugar, sold under this name in UK supermarkets. Dark brown soft sugar and light muscovado sugar would need their own terms. |
 | Seasonings | palm sugar | palm sugar | | Usually sold in hard blocks, so it's measured after grating, as in "1 tbsp grated palm sugar". |
@@ -222,6 +224,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Cutting | work surface | worktop, counter, countertop | Where you roll out pastry, as in "Roll out the pastry on a work surface dusted with flour". |
 | Bowls and jugs | bowl | | As in "a small bowl". Use a heatproof bowl for anything hot. |
 | Bowls and jugs | colander | strainer | A bowl with holes, for draining, as in "place it in a colander on top of a plate so it can drain". |
+| Bowls and jugs | fine-mesh sieve | fine mesh sieve, fine strainer | A sieve with a fine wire mesh, for straining out fibres, as in "Strain the tamarind through the fine-mesh sieve". Thick mixtures are slow to push through it. |
 | Bowls and jugs | heatproof bowl | heat-proof bowl, heat-resistant bowl | |
 | Bowls and jugs | heatproof jug | heat-proof jug, heat-resistant jug | For scooping hot liquid, such as pasta water, out of a pan. |
 | Bowls and jugs | jug | pitcher, beaker | For a stick blender, ask for "a tall, narrow jug". |
@@ -260,7 +263,9 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Utensils | whisk | | A hand whisk, such as a balloon whisk. An electric whisk would need its own term. |
 | Storage | freezer | deep freeze, deep freezer | |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
+| Storage | mason jar | canning jar, preserving jar | A glass jar with a screw-on lid that seals, for keeping preserves such as tamarind paste. Boil it for 10 minutes to sterilise it before filling it with hot food. |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
+| Storage | ice cube tray | ice tray | For freezing small portions, such as tamarind paste, so you can take out a little at a time. Move the frozen cubes to a freezer bag. |
 | Storage | freezer bag | ziplock bag, zip-lock bag, sandwich bag | |
 | Storage | cling film | clingfilm, plastic wrap, food wrap | |
 | Protective kit | gloves | | Worn when handling fresh turmeric, which stains. |
@@ -279,6 +284,7 @@ Every recipe in this repository. When you mention one, write its title exactly, 
 | Midnight Spaghetti | [Midnight_spaghetti.md](recipes/Midnight_spaghetti.md) | spaghetti |
 | Pumpkin Pie | [Pumpkin_pie.md](recipes/Pumpkin_pie.md) | pie |
 | Reverse Seared Ribeye with Pan Sauce | [Reverse_seared_ribeye_with_pan_sauce.md](recipes/Reverse_seared_ribeye_with_pan_sauce.md) | steak |
+| Tamarind Paste | [Tamarind_paste.md](recipes/Tamarind_paste.md) | paste |
 | Thai Yellow Curry Paste | [Thai_yellow_curry_paste.md](recipes/Thai_yellow_curry_paste.md) | paste |
 | Thai Yellow Prawn Curry | [Thai_yellow_prawn_curry.md](recipes/Thai_yellow_prawn_curry.md) | curry |
 
@@ -377,9 +383,11 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | split | slit, cut open | Cut open lengthways, as in "split them open lengthways with scissors". For coconut milk, use crack and separate out instead. |
 | Before cooking | scrape out the seeds | deseed, remove the seeds | For dried chillies, once they're split open. |
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
+| Before cooking | rip | pull apart | Pull apart with your fingers, as in "Rip the tamarind into the smallest chunks you can". |
 | Before cooking | squeeze | juice (as a verb) | Press the juice out of something, as in "squeeze the limes". |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
+| Before cooking | strain | sieve (as a verb), pass, filter | Push a mixture through a sieve, keeping what goes through and leaving the fibres behind, as in "Strain the tamarind through the fine-mesh sieve". |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
 | Before cooking | pat dry | blot, dab dry | Press kitchen roll onto food to soak up the water on its surface, as in "Pat the prawns dry with kitchen roll". |
 | Before cooking | season | | Sprinkle food all over with salt and pepper before cooking, as in "season it all over (including the edges) to taste, with the salt and 1 tsp of the pepper". |
@@ -447,6 +455,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | soft, squidgy and slightly translucent | | For fried onions: soft enough to squash, and starting to turn see-through, as in "until the onions are soft, squidgy and slightly translucent". |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
+| Doneness | cool enough to touch | cool enough to handle | For soaking water that started out boiling, as in "Soak until the water is cool enough to touch, at least 20 minutes". |
 | Doneness | until crisp | until crispy | For dried chillies left to cool after they've been warmed in a microwave: they snap rather than bend, as in "Leave them to cool until crisp, about 1 minute". |
 | Doneness | until soft | until softened | |
 | Doneness | until very smooth | until puréed | For a blended paste. To check, rub a little between your fingers: it shouldn't feel gritty. |
@@ -461,6 +470,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Finishing | drizzle | trickle | Pour in a thin stream over the top, as in "drizzle the rest of the coconut cream on top in a spiral". |
 | Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the crispy fried shallots". |
 | Finishing | cut into {number} slices | cut into {number} wedges, cut into {number} pieces | For serving a pie, as in "Cut the pie into 8 slices". |
+| Storing and reheating | sterilise | sterilize, sanitise | Kill the germs on jars before filling them, by boiling them for 10 minutes, as in "boil for 10 minutes to sterilise them". |
 | Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when to give a vacuum-packed time. |
 | Storing and reheating | refrigerate | chill | |
 | Storing and reheating | thaw | defrost | As in "thaw them in the fridge overnight". |
@@ -522,6 +532,10 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Prep the ingredients | Prepare the ingredients, Mise en place | Getting everything ready before the cooking starts, such as mixing a spice blend, soaking dried chillies and chopping vegetables. |
 | Prep the prawns | Prepare the prawns, Clean the prawns | Getting prawns ready to cook, such as peeling and deveining them and tossing them with salt and bicarbonate of soda. |
 | Prep the aromatics | Prepare the aromatics, Chop the aromatics | Peeling and chopping aromatics, such as shallots and garlic, and washing and chopping herbs, often while something else cooks. |
+| Rip the tamarind into chunks | Break up the tamarind, Tear the tamarind | |
+| Soak the tamarind | | |
+| Squeeze out the flesh | Squeeze the tamarind | Squeezing soaked tamarind with your fingers until the flesh comes away from the fibres. |
+| Strain the paste | Sieve the paste | Pushing a paste through a sieve, leaving the fibres behind. |
 | Toast and soak the chillies | | |
 | Toast the spices | | |
 | Grind the spices | | |
@@ -740,6 +754,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Love the Kitchen | lovethekitchen.co.uk | Love The Kitchen, LoveTheKitchen |
 | M&S | marksandspencer.com | Marks & Spencer, Marks and Spencer |
 | Maximum Fun | maximumfun.org | MaxFun |
+| National Center for Home Food Preservation | nchfp.uga.edu | NCHFP, National Centre for Home Food Preservation |
 | Nicky's Kitchen Sanctuary | kitchensanctuary.com | Kitchen Sanctuary (on its own), Nickys Kitchen Sanctuary |
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | Preppy Kitchen | preppykitchen.com | PreppyKitchen |
@@ -747,6 +762,8 @@ The website names at the start of each line in **Sources**, before the colon.
 | Rosa's Thai | rosasthai.com | Rosas Thai, Rosa's (on its own) |
 | Sally's Baking | sallysbakingaddiction.com | Sally's Baking Addiction, Sallys Baking |
 | Serious Eats | seriouseats.com | SeriousEats |
+| Sous Chef | souschef.co.uk | SousChef, Souschef |
+| Swasthi's Recipes | indianhealthyrecipes.com | Indian Healthy Recipes, Swasthis Recipes |
 | The Takeout | thetakeout.com | Takeout (on its own), TheTakeout |
 | TODAY | today.com | Today, TODAY.com |
 | Waitrose | waitrose.com | Waitrose & Partners |
