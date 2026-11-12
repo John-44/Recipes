@@ -332,6 +332,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
   - Optional actions, saying what they depend on: "If you're using head-on prawns, fry the heads…"
   - Conditional actions: "If the oil hasn't separated out after 12 minutes, stir in the coconut oil."
   - Anything the cook does while something else cooks or soaks, including preparing ingredients: "While it simmers, cook the jasmine rice." or "While the chillies soak, toast the coriander seeds…"
+- If the cook can leave out a whole step, put `(optional)` after its title: "Fry the mushrooms (optional)." Start the step by saying what to do instead: "If you're leaving out the mushrooms, take the pot off the heat and carry on from Step 4." If a later step adds what the optional step cooked, put `(optional)` after it in that step too: "Then add the kidney beans and the mushrooms (optional)…"
 - A short warning stays in its step: "Stop before they blacken." Put why something matters, or what can go wrong, in a [tip](#tips) under the step.
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
