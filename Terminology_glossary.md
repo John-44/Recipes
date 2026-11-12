@@ -507,7 +507,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (at room temperature) | (room temperature), (room temp) | For eggs and other ingredients from the fridge that should warm up before you use them. Say in a step when to take them out, as in "While it bakes, take the eggs out of the fridge". |
 | (not fresh) | | For a ground spice that's easy to confuse with its fresh form, as in "¾ tsp ground ginger (not fresh)". |
 | (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 2)". |
-| (optional) | (if you like), (if using) | For something the cook can leave out. In the directions, it also goes after the title of a step the cook can leave out, and after what that step cooked when a later step adds it, as in "add the kidney beans and the mushrooms (optional)". |
+| (optional) | (if you like), (if using) | For something the cook can leave out. In the directions, it also goes after the title of a step the cook can leave out, and after what that step cooked when a later step adds it, as in "add the kidney beans and the mushrooms (optional)". An ingredient that's only used with an optional one doesn't get it: say what it's for after a comma instead, as in "30 g unsalted butter, for the mushrooms". |
 | (thawed if frozen) | (defrosted if frozen) | |
 | (used in Steps {number} and {number}) | (divided), (split), (half now, half later) | For an ingredient added in more than one step, as in "2 tsp tamarind paste (used in Steps 5 and 7)". For three steps, write "(used in Steps 2, 4 and 5)". |
 
