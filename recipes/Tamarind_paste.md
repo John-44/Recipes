@@ -4,7 +4,7 @@ A sour, fruity paste made by soaking a block of tamarind pulp in boiling water, 
 
 | Prep time | Cook time | Total time | Makes |
 | --- | --- | --- | --- |
-| 25 min | 25 min | 1 hr 10 min | About 350 ml |
+| 25 min | 25 min | 1 hr 10 min | About 400 ml |
 
 ## 📌 Before you start
 
@@ -20,7 +20,7 @@ A sour, fruity paste made by soaking a block of tamarind pulp in boiling water, 
 ## 🥕 Ingredients
 
 - 200 g tamarind pulp
-- 1¾ metric cups boiling water
+- 2 metric cups boiling water
 
 ## 🍳 Directions
 
@@ -30,7 +30,7 @@ Rip the tamarind into the smallest chunks you can with your fingers, and put the
 
 #### Step 2: Soak the tamarind.
 
-Measure the boiling water in a metal measuring cup and pour it over the tamarind to cover it. Soak until the water is cool enough to touch, at least 20 minutes.
+Measure the boiling water in a measuring cup and pour it over the tamarind to cover it. Soak until the water is cool enough to touch, at least 20 minutes.
 
 > **Tip:** The longer the tamarind soaks, the easier it is to squeeze the flesh off the fibres.
 
@@ -54,7 +54,7 @@ Use the paste straight away, or store it:
 
 - Wash the mason jars and their lids in hot, soapy water, and rinse them. Stand the jars upright on a folded cloth in another pot, and cover them by 3 cm with water from the hot tap. Bring to boil over high heat, then boil for 10 minutes to sterilise them.
 - As soon as the water boils, bring the paste to boil over medium-high heat, stirring all the time so it doesn't spit. Boil it for 5 minutes, still stirring all the time.
-- Lift the jars out of the water with tongs and tip out the water. Pour in the boiling paste, leaving 2 cm space at the top so the jars don't crack if you freeze them, and screw the lids on tightly straight away. Leave to cool, then refrigerate or freeze within 1–2 hours.
+- Lift the jars out of the water with tongs and tip out the water. Pour in the boiling paste, and screw the lids on tightly straight away. Leave to cool, then refrigerate or freeze within 1–2 hours.
 
 > **Tip:** As the jars cool, the lids are sucked in and seal, as with jam. The paste isn't properly canned, though, so it still needs the fridge or freezer.
 
@@ -65,7 +65,7 @@ Use the paste straight away, or store it:
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 1 month in the jars.
-- ❄️ **Freezer:** Up to 3 months, or up to 1 year if vacuum packed. Freeze it in the jars, or in an ice cube tray and then a freezer bag, so you can take out a little at a time. Add the cubes to a dish straight from frozen, or thaw a jar in the fridge overnight and use it within 24 hours.
+- ❄️ **Freezer:** Up to 3 months, or up to 1 year if vacuum packed. Freeze it in an ice cube tray and then a freezer bag, so you can take out a little at a time. Add the cubes to a dish straight from frozen.
 
 ## 🔗 Used in
 
@@ -90,7 +90,6 @@ Tamarind trees are native to tropical Africa, and tamarind is used across Southe
 ## 📚 Sources
 
 - Hot Thai Kitchen: [How to Make Tamarind Paste for Thai Cooking](https://hot-thai-kitchen.com/making-tamarind-paste/). The method, the ratio of pulp to water, a longer soak making the flesh easier to squeeze off, the smoothie-like consistency and adding water if it's too thick, boiling the paste for 5 minutes while stirring all the time, filling small jars while hot and keeping them in the fridge or freezer, freezing it in an ice cube tray, buying a block from Thailand rather than whole pods, and that homemade has more flavour than store-bought.
-- National Center for Home Food Preservation: [Headspace to Allow](https://nchfp.uga.edu/how/freeze/freeze-general-information/headspace-to-allow/). Leaving 2 cm space at the top of the jars, for freezing.
 - National Center for Home Food Preservation: [Sterilization of Empty Jars](https://nchfp.uga.edu/how/can/general-information/sterilization-of-empty-jars/). Covering the jars by 3 cm with water from the hot tap, and boiling them for 10 minutes to sterilise them.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed, from its entry for sauces.
 - Sous Chef: [A Guide To Tamarind Paste And Tamarind Water](https://www.souschef.co.uk/blogs/the-bureau-of-taste/what-is-tamarind-water). Scraping the paste off the underside of the sieve, and where tamarind comes from and is used, for the **Origin**.

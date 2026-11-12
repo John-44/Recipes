@@ -77,13 +77,6 @@ Suggestions for this repository that have been considered and turned down. Read 
 - Naming example wines, such as Côtes du Rhône, Merlot or Grenache, in the **Red wine** note.
 - Rewording the **Origin** to say several cooks seem to have developed the reverse sear independently, J. Kenji López-Alt among them, instead of "test cooks like J. Kenji López-Alt".
 
-## Tamarind Paste
-
-- An ordinary sieve instead of the fine-mesh sieve, as Hot Thai Kitchen advises, because the thick paste is slow to push through a fine one.
-- Wearing gloves to squeeze the tamarind.
-- Rinsing the fibres left in the sieve with ½ metric cup water, as Hot Thai Kitchen does.
-- Canning the jars so they keep in the cupboard, which Hot Thai Kitchen suggests but hasn't tried. They go in the fridge or freezer instead.
-
 ## Thai Yellow Curry Paste
 
 - Flagging the 35 min total time as relying on preparation done while the chillies soak.
