@@ -1,5 +1,7 @@
 # 🫙 Tamarind Paste
 
+![Oil painting of a cook straining tamarind pulp through a fine-mesh sieve into a pot in a Thai kitchen](../images/Tamarind_paste.webp)
+
 A sour, fruity paste made by soaking a block of tamarind pulp in boiling water, squeezing the flesh off its fibres and straining it. Thai cooks use it to add sourness to curries, stir-fries and salads. It has more flavour than store-bought tamarind paste, which is often weak and varies from tub to tub.
 
 | Prep time | Cook time | Total time | Makes |
