@@ -44,6 +44,7 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 | | Recipe | Course | Type |
 | :-: | --- | --- | --- |
 | 🌶️ | [Chilli con Carne](recipes/Chilli_con_carne.md) | Mains | Stews |
+| 🫗 | [Demi-Glace](recipes/Demi_glace.md) | | Sauces |
 | 🍝 | [Midnight Spaghetti](recipes/Midnight_spaghetti.md) | Mains | Pasta dishes |
 | 🥧 | [Pumpkin Pie](recipes/Pumpkin_pie.md) | Desserts | Pies |
 | 🥩 | [Reverse Seared Ribeye with Pan Sauce](recipes/Reverse_seared_ribeye_with_pan_sauce.md) | Mains | Steaks |

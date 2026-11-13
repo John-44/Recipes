@@ -141,7 +141,7 @@ Keep the sections in this order.
 - Use plain English and short sentences.
 - Write directions as instructions: "Fry the onion", not "The onion should be fried".
 - Be specific. Give amounts, times, heat levels and sizes. Avoid vague words like "some", "a little" or "a while".
-- Explain an unusual technique in a few words the first time it appears, e.g. "Crack the coconut milk (simmer the thick part from the top of the can until the oil separates out)."
+- Explain an unusual technique in a few words in the step where it's first used, not in the description, e.g. "Crack the coconut milk (simmer the thick part from the top of the can until the oil separates out)."
 - Use British English spelling and UK ingredient names: coriander, spring onions, aubergine, courgette, red pepper, prawns, chillies, plain flour, double cream.
 - Write numbers as digits: "2 minutes", not "two minutes".
 - Call each thing by the same name every time, in this recipe and every other. Use the terms in the [Terminology glossary](Terminology_glossary.md), as described in [Terminology](#terminology).

@@ -64,6 +64,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 ## Reverse Seared Ribeye with Pan Sauce
 
 - Naming the vegetables the description says the sauce can go over, or dropping "the", and adding "is" to "then finished with butter".
+- Trimming the description's explanation of reverse searing, under the rule that techniques are explained in the steps. "Reverse seared" names the dish, and no step uses the term.
 - Salting the steak the night before and leaving it uncovered on the wire rack in the fridge, as an option in **Before you start**.
 - A **Before you start** warning that the cast iron skillet's handle gets as hot as the pan, and turning on the extractor fan before heating the ghee in Step 3.
 - Mixing the mustard powder with cold water in Step 2, so it has more heat and no lumps.

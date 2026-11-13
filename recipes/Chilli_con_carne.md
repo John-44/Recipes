@@ -8,6 +8,10 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 | --- | --- | --- | --- |
 | 35 min | 3 hr 25 min | 4 hr | 8 |
 
+## 📌 Before you start
+
+- Make the [Demi-Glace](Demi_glace.md) first (7 hours, plus 30 hours simmering the stock), or use store-bought demi-glace (see **Demi-glace**).
+
 ## 🔪 Equipment
 
 - Microwave
@@ -48,7 +52,7 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 - 3 cans (400 g each) finely chopped tomatoes
 - 4 bay leaves
 - 3 tbsp Worcestershire sauce
-- 2 tbsp thick demi-glace (or concentrated beef stock, see Notes)
+- 2 tbsp [Demi-Glace](Demi_glace.md) (or store-bought, see Notes)
 - 20 g dark chocolate (80% or 90% cocoa solids)
 - 2 cinnamon sticks
 - 1 tbsp apple cider vinegar
@@ -124,7 +128,7 @@ Divide the rice between 8 bowls, spoon the chilli over the top, and add a spoonf
 ## 📝 Notes and substitutions
 
 - **Red wine:** Use an inexpensive, medium-bodied red. Avoid oaky, sweet or very tannic (mouth-drying) wines, because reducing the wine concentrates those flavours.
-- **Demi-glace:** A thick, rich sauce base made by reducing beef or veal stock. If you can't find it, use the same amount of concentrated beef stock, such as [M&S Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097).
+- **Demi-glace:** Instead of homemade, use the same amount of thick store-bought demi-glace. If you can't find it, use the same amount of concentrated beef stock, such as [M&S Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097).
 - **More heat:** If you like it very hot, use 7 bird's eye chillies instead of 5.
 
 ## 🫙 Storage and make-ahead
@@ -146,7 +150,7 @@ It grew out of Mexican stews of beef in a red chilli sauce, and became popular i
 - **Course:** 🍽️ Mains
 - **Type:** 🍲 Stews
 - **Main ingredient:** 🐄 Beef
-- **Allergens:** 🌾 Cereals containing gluten, 🐟 Fish, 🥛 Milk, 🍷 Sulphites. Check the labels on the demi-glace (or concentrated beef stock), the curry powder and the dark chocolate, which can contain celery, mustard or soya.
+- **Allergens:** 🥬 Celery, 🌾 Cereals containing gluten, 🐟 Fish, 🥛 Milk, 🫛 Soya, 🍷 Sulphites. Check the label on the curry powder, which can contain mustard.
 
 ## ✍️ Credits
 
@@ -160,7 +164,7 @@ It grew out of Mexican stews of beef in a red chilli sauce, and became popular i
 - Good Food: [Chilli con carne recipe](https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe). How the onions should look when they're ready (in its words), the dried marjoram, stirring as it simmers so it doesn't catch on the bottom of the pan, and using only a little dark chocolate, so it adds depth without being tasted.
 - Hairy Bikers: [Chilli con carne](https://www.hairybikers.com/recipes/view/chilli-con-carne). Using lean beef mince with 10% fat or less.
 - Love the Kitchen: [Chilli con carne with Shiitake mushrooms](https://lovethekitchen.co.uk/chilli-con-carne-with-shiitake-mushrooms/). Adding shiitake mushrooms, carrots and cinnamon sticks; the spice blend of sweet smoked paprika, ground ginger, ground coriander, ground cumin, dried oregano, dried thyme and smoked sea salt flakes, mixed before you start; the finely chopped tomatoes, lime juice, and coriander leaves and stalks.
-- M&S: [Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097). The swap for demi-glace, and its ingredients for the **Allergens** line.
+- M&S: [Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097). The swap for demi-glace.
 - Nicky's Kitchen Sanctuary: [Chilli Con Carne](https://www.kitchensanctuary.com/chilli-con-carne/). Using 80% or 90% dark chocolate and ground ginger, simmering the red wine before the rest goes in, simmering for an hour before adding the kidney beans, and stirring in the coriander leaves just before serving.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the chilli keeps in the freezer when vacuum packed, from its entry for stews.
 - RecipeTin Eats: [Chilli Con Carne](https://www.recipetineats.com/chilli-con-carne/). Slow cooking it for 1½–2 hours with the lid on, over low heat.
