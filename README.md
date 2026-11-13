@@ -47,6 +47,7 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 | 🍝 | [Midnight Spaghetti](recipes/Midnight_spaghetti.md) | Mains | Pasta dishes |
 | 🥧 | [Pumpkin Pie](recipes/Pumpkin_pie.md) | Desserts | Pies |
 | 🥩 | [Reverse Seared Ribeye with Pan Sauce](recipes/Reverse_seared_ribeye_with_pan_sauce.md) | Mains | Steaks |
+| 🫙 | [Tamarind Paste](recipes/Tamarind_paste.md) | | Pastes |
 | 🌿 | [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) | | Pastes |
 | 🍤 | [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md) | Mains | Curries |
 
