@@ -1,5 +1,7 @@
 # 🍏 Apple and Blackberry Crumble
 
+![Oil painting of apple and blackberry crumble in a pie dish, with a bowlful topped with vanilla ice cream, in a wartime kitchen with taped windows and a vegetable garden outside](../images/Apple_and_blackberry_crumble.webp)
+
 A crumble of sharp Bramley apples and blackberries under a crunchy topping of crushed digestive biscuits, chopped hazelnuts and ground cinnamon. The apples are finely sliced and layered with the blackberries, and each layer of apples is sprinkled with light brown soft sugar, cornflour and more ground cinnamon. As it bakes, the apples cook down into a soft purée and the cornflour thickens the blackberry juices. Serve it hot, with vanilla ice cream.
 
 | Start ahead | Prep time | Cook time | Total time | Servings |
