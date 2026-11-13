@@ -29,13 +29,13 @@ The aggregated recipes are shaped and scoped according to the following principl
 | | Principle | What it means |
 | :-: | --- | --- |
 | 🎯 | **Aim high** | Each recipe should be the best, elevated version, while remaining practical to cook. |
-| 🔬 | **Objective purpose** | Every step and instruction should contribute to the dish for a quantifiable reason. |
-| ⚡ | **Embrace technology** | Labour-intensive tools and techniques like the mortar and pestle are out. High-speed blenders are in. |
+| 🔬 | **Objective** | Every step and instruction should contribute to the dish for a quantifiable reason. |
+| ⚡ | **Embrace tech** | Old labor-intensive tools are out. Things like high-speed blenders are in. |
 | 🌡️ | **Pragmatic** | Utilise the easiest methods to achieve consistent results, e.g. use thermometers. |
-| 🥫 | **Use the best ingredients** | Counterintuitively, this sometimes means using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md). |
+| 🥫 | **Best ingredients** | Always use the best ingredients. Counterintuitively, this can mean using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md). |
 | 🧂 | **No superstitions** | For example, use MSG when it makes sense. |
 | ✂️ | **Succinct** | No long, waffling text or stories. Each recipe should contain only pertinent information, and be short and to the point. |
-| ⚖️ | **Precise** | Every quantity, timing and temperature should be given exactly, leaving nothing to guesswork. |
+| ⚖️ | **Precise** | Every quantity, timing and temp should be exact, leaving nothing to guesswork. |
 
 ## Recipes
 
@@ -55,7 +55,7 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 
 ## How the recipes are written
 
-- 📋 **[Recipe_template.md](Recipe_template.md)** defines the consistent Markdown format all the recipes are in, from file names and sections to credits and sources.
+- 📋 **[Recipe_template.md](Recipe_template.md)** defines the consistent Markdown format all the recipes are in.
 - 📖 **[Terminology_glossary.md](Terminology_glossary.md)** enforces terminology consistency, so every recipe calls things by the same name.
 - 🎨 **[Illustration_style_template.md](Illustration_style_template.md)** defines the style of the masthead images, so they look like one collection.
 - 🚫 **[Declined_suggestions.md](Declined_suggestions.md)** lists suggestions that have already been considered and turned down.
