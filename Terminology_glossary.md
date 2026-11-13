@@ -339,7 +339,7 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 
 | Cuisine | English name | Original name | Don't use | Notes |
 | --- | --- | --- | --- | --- |
-| Austrian | Viennese goulash | *Wiener Saftgulasch* | Saftgulasch (on its own), Wiener Gulasch | Beef slow cooked with as much onion as beef, in a thick paprika gravy. This repository's recipe is Viennese Beef Goulash. |
+| Austrian | Viennese goulash | *Wiener Saftgulasch* | Saftgulasch (on its own), Wiener Gulasch | Beef slow cooked with as much onion as beef, in a thick paprika sauce. This repository's recipe is Viennese Beef Goulash. |
 | German | | *Spätzle* | spaetzle, Spaetzle | Small, soft egg noodles, served as a side, as with Viennese goulash. |
 | Italian | | *spaghetti aglio, olio e peperoncino* | spaghetti aglio e olio, aglio e olio, aglio olio | Spaghetti with garlic, olive oil and chilli. |
 | Tex-Mex | chilli con carne | | chili con carne, chile con carne | Spelled "chilli" in British English. Once it's clear which dish you mean, "chilli" is enough. |
@@ -507,6 +507,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until lightly golden | until pale golden, until light golden | For garlic and pine nuts fried in oil: pale gold, well short of brown, as in "until the garlic is soft and the garlic and pine nuts are lightly golden". |
 | Doneness | until only the centre wobbles | until just set, until it jiggles | The test for a baked custard filling, such as in a pumpkin pie: when you gently shake the dish, the edge is set and only the middle still wobbles. |
 | Doneness | until smooth | until combined, until well combined | For a whisked mixture, such as a pie filling, with no lumps or streaks. For a blended paste, use until very smooth. |
+| Doneness | until the fat stops smoking | until the smoke dies down, until it's no longer smoking | For hot fat left to cool a little after searing, before something that burns easily goes in, such as tomato purée, as in "wait until the fat stops smoking". |
 | Doneness | until the fruit is bubbling in the centre | until bubbly, bubbling in the middle | For a baked fruit filling under a topping: the juices bubble up in the middle of the dish, not just at the edges. |
 | Doneness | until the mix is homogeneous | until evenly mixed | For butter mixed into a crumble topping with your fingers: evenly mixed all through, with no lumps of butter left. |
 | Doneness | until the mushrooms have released all their liquid | | For mushrooms cooked with the lid on: their juices pool in the pan. |
@@ -660,11 +661,11 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Taste and adjust | Season to taste, Adjust the seasoning, Check the seasoning | |
 | Toast the crispy fried shallots | | |
 | Cook the prawns | | |
-| Dust the goulash | Thicken the goulash, Flour the goulash | Dusting the layer of fat on top of a stew with flour near the end of cooking, then stirring it in, to thicken the gravy. |
+| Dust the goulash | Thicken the goulash, Flour the goulash | Dusting the layer of fat on top of a stew with flour near the end of cooking, then stirring it in, to thicken the sauce. |
 | Finish the chilli | Final touches | Lifting out the whole spices, then stirring in fresh herbs and lime juice off the heat. |
 | Finish the spaghetti | Toss the spaghetti, Finish the pasta | Stirring drained spaghetti and pasta water into its sauce until the sauce is a crema. |
 | Cool the pie | Chill the pie, Let the pie cool | Leaving a baked pie to cool, then refrigerating it until it sets. |
-| Refrigerate the goulash | Chill the goulash, Rest the goulash | Leaving a cooked stew to cool in the switched-off oven, then dividing it between containers, flash cooling them in ice water and refrigerating it overnight before it's reheated. |
+| Refrigerate the goulash | Chill the goulash, Rest the goulash | Dividing a cooked stew between containers, flash cooling them in ice water and refrigerating it overnight before it's reheated. |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
 | Use or store | Store the paste | The last step of a component recipe. |
 
