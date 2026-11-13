@@ -54,9 +54,9 @@ Use the paste straight away, or store it:
 
 - Wash the mason jars and their lids in hot, soapy water, and rinse them. Stand the jars upright on a folded cloth in another pot, and cover them by 3 cm with water from the hot tap. Bring to boil over high heat, then boil for 10 minutes to sterilise them.
 - As soon as the water boils, bring the paste to boil over medium-high heat, stirring all the time so it doesn't spit. Boil it for 5 minutes, still stirring all the time.
-- Lift the jars out of the water with tongs and tip out the water. Pour in the boiling paste, and screw the lids on tightly straight away. Leave to cool, then refrigerate or freeze within 1–2 hours.
+- Lift the jars out of the water with tongs and tip out the water. Pour in the boiling paste, and screw the lids on tightly straight away. Leave to cool, then refrigerate within 1–2 hours.
 
-> **Tip:** As the jars cool, the lids are sucked in and seal, as with jam. The paste isn't properly canned, though, so it still needs the fridge or freezer.
+> **Tip:** As the jars cool, the lids are sucked in and seal, as with jam. The paste isn't properly canned, though, so it still needs the fridge.
 
 ## 📝 Notes and substitutions
 
@@ -89,7 +89,7 @@ Tamarind trees are native to tropical Africa, and tamarind is used across Southe
 
 ## 📚 Sources
 
-- Hot Thai Kitchen: [How to Make Tamarind Paste for Thai Cooking](https://hot-thai-kitchen.com/making-tamarind-paste/). The method, the ratio of pulp to water, a longer soak making the flesh easier to squeeze off, the smoothie-like consistency and adding water if it's too thick, boiling the paste for 5 minutes while stirring all the time, filling small jars while hot and keeping them in the fridge or freezer, freezing it in an ice cube tray, buying a block from Thailand rather than whole pods, and that homemade has more flavour than store-bought.
+- Hot Thai Kitchen: [How to Make Tamarind Paste for Thai Cooking](https://hot-thai-kitchen.com/making-tamarind-paste/). The method, the ratio of pulp to water, a longer soak making the flesh easier to squeeze off, the smoothie-like consistency and adding water if it's too thick, boiling the paste for 5 minutes while stirring all the time, filling small jars while hot and keeping them in the fridge, freezing it in an ice cube tray, buying a block from Thailand rather than whole pods, and that homemade has more flavour than store-bought.
 - National Center for Home Food Preservation: [Sterilization of Empty Jars](https://nchfp.uga.edu/how/can/general-information/sterilization-of-empty-jars/). Covering the jars by 3 cm with water from the hot tap, and boiling them for 10 minutes to sterilise them.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the paste keeps in the freezer when vacuum packed, from its entry for sauces.
 - Sous Chef: [A Guide To Tamarind Paste And Tamarind Water](https://www.souschef.co.uk/blogs/the-bureau-of-taste/what-is-tamarind-water). Scraping the paste off the underside of the sieve, and where tamarind comes from and is used, for the **Origin**.
