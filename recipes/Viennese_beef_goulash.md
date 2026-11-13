@@ -93,13 +93,13 @@ Still over low heat, add the dried marjoram and pepper, and bloom them (fry them
 
 > **Tip:** Many of the flavours in dried herbs and spices dissolve only in fat. Frying them in it draws those flavours out and spreads them through the whole goulash.
 
-#### Step 7: Toast the paprika.
+#### Step 7: Bloom the paprika.
 
 Take the Dutch oven off the heat and leave it to cool for 1 minute. Still off the heat, add the paprika and stir vigorously for 60 seconds.
 
 Then immediately pour in the rest of the wine (½ metric cup) to deglaze the Dutch oven, so the paprika doesn't burn and turn bitter. Stir, scraping the bottom, until no paprika is stuck to it.
 
-> **Tip:** It's very easy to burn the paprika, so care must be taken to ensure the Dutch oven is not too hot. But if it's too cold, the paprika won't toast, so getting the temperature right is a fine line.
+> **Tip:** It's very easy to burn the paprika, so care must be taken to ensure the Dutch oven is not too hot. But if it's too cold, the paprika won't bloom, so getting the temperature right is a fine line.
 
 #### Step 8: Dissolve the seasonings.
 
@@ -140,7 +140,7 @@ Spoon it into bowls to serve.
 ## 📝 Notes and substitutions
 
 - **Thor's hammer beef shin:** If you can't find one, use 4 kg bone-in beef short ribs instead, which give about 2 kg of meat and 2 kg of bones. Roast the bones in Step 2, and add them in Step 10, as for the shin bone.
-- **Yellow onions:** Use yellow onions, not brown or cooking onions.
+- **Yellow onions:** Use yellow onions, not ordinary onions, which are often sold as "brown onions" or "cooking onions".
 - **Red wine:** Use an inexpensive, medium-bodied red. Avoid oaky, sweet or very tannic (mouth-drying) wines, because reducing the wine concentrates those flavours.
 - **Caraway seeds:** This recipe explicitly excludes caraway seeds, though most Viennese recipes add them.
 - **Hungarian sweet paprika:** It's important to use Hungarian sweet paprika. Don't use smoked paprika. Packs may call it noble sweet.

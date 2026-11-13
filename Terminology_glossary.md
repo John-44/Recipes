@@ -635,7 +635,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Make the pinçage | Pincé the tomato purée | Frying tomato purée until it catches, then deglazing it with wine, several times over. |
 | Caramelise the onions | Caramelize the onions, Brown the onions | Frying a large amount of sliced onions in fat, first over high heat, then slowly over medium-low heat, until soft and golden, but not brown. |
 | Bloom the spices | Fry the spices, Temper the spices | Frying dried herbs or ground spices briefly in fat, so their flavour passes into it. |
-| Toast the paprika | Fry the paprika | Stirring paprika into hot fried onions off the heat, then deglazing straight away, so it toasts without burning. |
+| Bloom the paprika | Toast the paprika, Fry the paprika | Stirring paprika into hot fried onions off the heat, so it blooms without burning, then deglazing straight away. |
 | Dissolve the seasonings | Season the stock | Stirring salt and MSG into stock until they dissolve, so they spread evenly through a stew. |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Fry the sauce | Make the sauce, Cook the sauce | Frying garlic and chilli flakes in oil, then stirring in pasta water. |
