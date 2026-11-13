@@ -205,6 +205,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | pasta water | pasta water | pasta cooking water, starchy water, spaghetti water | The salted water pasta has been boiling in, cloudy with starch from the pasta. Not boiling water from the kettle. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Liquids | cold water | cold water | | Water from the cold tap, as for starting a stock, as in "6 L cold water". Not boiling water. |
+| Liquids | ice water | ice water | iced water | Cold water with plenty of ice in it, for cooling food fast, as in "placing the containers in ice water". |
 | Nuts | chopped hazelnuts | hazelnuts | hazelnut pieces | Sold ready-chopped and usually roasted, in 100 g packs. |
 | Nuts | pine nuts | pine nuts | pine kernels, pignoli, pinoli | Small, soft seeds from pine cones, sold as nuts. Packs may call them pine kernels. |
 | Pulses | red kidney beans | kidney beans | red beans | Canned and already cooked, and sold in 400 g cans, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Dried ones would need their own term. |
@@ -276,6 +277,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Oven and bakeware | oven shelf | oven rack | One of the shelves inside the oven, as in "put an oven shelf in the lower third of the oven". Not a wire rack. |
 | Oven and bakeware | pie dish | pie plate, pie pan, pie tin | Give its size and depth, as in "a 23 cm metal or glass pie dish, at least 4 cm deep". |
 | Oven and bakeware | pie guard | pie shield, pie crust shield, crust shield | Foil covering the edge of a pastry case, so it doesn't burn, as in "Make a pie guard by covering the edges of the pastry with foil". |
+| Oven and bakeware | roasting dish | | A deep ovenproof dish for roasting, in metal, enamelled steel or ceramic, as in "Put the bone in a roasting dish". A roasting tin is the metal kind. |
 | Oven and bakeware | roasting tin | roasting pan, roasting tray, roaster | A deep, sturdy metal tin for roasting meat and bones, as in "2 large roasting tins". Not a baking tray, which is shallower. |
 | Oven and bakeware | wire rack | cooling rack, cake rack | For cooling baked food, so air can reach its underside. Set in a baking tray, it also lets the oven's heat reach the underside of food as it cooks. |
 | Appliances | microwave | microwave oven | Use it on high power, as in "microwave on high power 15 seconds at a time". |
@@ -285,7 +287,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "Pat the prawns dry with kitchen roll". |
 | Utensils | kitchen string | butcher's string, butcher's twine, cooking twine | Plain cotton string that's safe to cook with, for tying herbs into a bundle. |
 | Utensils | ladle | soup ladle | A deep, long-handled spoon, for skimming and for scooping liquids, as in "Ladle the stock through the chinois". |
-| Utensils | measuring cup | cup measure | Metric, so the 1-cup size holds 250 ml, a little more than a US measuring cup. Used to measure liquids (see the [measurement rules](Recipe_template.md#measurements)), and as a scoop. Use a metal one for anything hot, such as the sugar after blind baking. |
+| Utensils | measuring cup | cup measure | Metric, so the 1-cup size holds 250 ml, a little more than a US measuring cup. Used to measure liquids and some dry spices (see the [measurement rules](Recipe_template.md#measurements)), and as a scoop. Use a metal one for anything hot, such as the sugar after blind baking. |
 | Utensils | ovenproof meat thermometer | oven-safe thermometer, oven proof thermometer, leave-in thermometer, meat probe | A thermometer you leave in the meat while it cooks, such as a probe on a cable to a display outside the oven. |
 | Utensils | pastry brush | basting brush | A small brush for painting milk on to pastry. |
 | Utensils | probe thermometer | meat thermometer, food thermometer, digital thermometer, instant-read thermometer | A digital thermometer with a metal probe you push into the food, as in "measure the centre of the filling with a probe thermometer". |
@@ -476,6 +478,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Frying and toasting | crack | break, split | Simmer the thick part from the top of a can of coconut milk until the oil separates out, so you can fry curry paste in it, as in "Crack the coconut milk". Coconut milk with emulsifiers or stabilisers may not crack. |
 | Frying and toasting | reverse sear | reverse-sear | Cook meat slowly in a low oven, then sear it in a very hot pan, as in "Reverse Seared Ribeye with Pan Sauce". Never hyphenated. |
 | Frying and toasting | sear | seal, pan-sear | Fry over high heat until a deep brown crust forms, as in "Sear the steak". |
+| Frying and toasting | Maillard reaction | maillard reaction, Maillard browning | The browning of meat and other food in high, dry heat, which creates much of its savoury flavour, as in "no tasty Maillard reaction". It's named after a chemist, so it takes a capital M. |
 | Frying and toasting | fry | sauté, cook out | As in "Stir in the curry paste and fry it in the oil". |
 | Frying and toasting | pinçage | pincage, pincé | Fry tomato purée until it catches on the bottom of the pan, then deglaze it with wine, several times over, until it smells toasty, not tomatoey. The first time, explain it in brackets, as in "Make a pinçage (brown the tomato purée, then deglaze it with wine, several times over)". |
 | Pan sauces | fond | fonds | The browned bits stuck to the bottom of a pan after searing or frying meat. The first time, write "the fond (the browned bits stuck to the bottom of the pan)". |
@@ -521,6 +524,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Steak doneness | medium | | Pale pink in the middle. For the heat level, write medium heat. |
 | Texture problems | grainy | mealy | What potatoes go when frozen. |
 | Texture problems | rubbery | chewy | What prawns go when overcooked or frozen. |
+| Cooling | flash cool | crash cool, rapid cool | Cool hot food fast by standing its containers in ice water, as in "flash cool by placing the containers in ice water". |
 | Cooling | leave to cool | let cool, allow to cool | |
 | Finishing | warm | heat (for plates), warm up | Heat plates so the food on them stays hot, as in "put 4 plates in the oven at 70°C (50°C fan) to warm". To heat food again, use reheat. |
 | Finishing | rest | let rest | Leave cooked meat to stand before cutting it, as in "Put the steak back on the wire rack to rest". |
@@ -660,7 +664,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Finish the chilli | Final touches | Lifting out the whole spices, then stirring in fresh herbs and lime juice off the heat. |
 | Finish the spaghetti | Toss the spaghetti, Finish the pasta | Stirring drained spaghetti and pasta water into its sauce until the sauce is a crema. |
 | Cool the pie | Chill the pie, Let the pie cool | Leaving a baked pie to cool, then refrigerating it until it sets. |
-| Refrigerate the goulash | Chill the goulash, Rest the goulash | Dividing a cooked stew between containers so it cools quickly, then refrigerating it overnight before it's reheated. |
+| Refrigerate the goulash | Chill the goulash, Rest the goulash | Leaving a cooked stew to cool in the switched-off oven, then dividing it between containers, flash cooling them in ice water and refrigerating it overnight before it's reheated. |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
 | Use or store | Store the paste | The last step of a component recipe. |
 
