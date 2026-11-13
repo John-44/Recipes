@@ -47,6 +47,7 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 | :-: | --- | --- | --- |
 | 🍏 | [Apple and Blackberry Crumble](recipes/Apple_and_blackberry_crumble.md) | Desserts | Crumbles |
 | 🌶️ | [Chilli con Carne](recipes/Chilli_con_carne.md) | Mains | Stews |
+| 🍖 | [Coca-Cola Ham](recipes/Coca_cola_ham.md) | Mains | Roasts |
 | 🫗 | [Demi-Glace](recipes/Demi_glace.md) | | Sauces |
 | 🍝 | [Midnight Spaghetti](recipes/Midnight_spaghetti.md) | Mains | Pasta dishes |
 | 🥧 | [Pumpkin Pie](recipes/Pumpkin_pie.md) | Desserts | Pies |

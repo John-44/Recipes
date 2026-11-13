@@ -70,7 +70,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Curry pastes | Curry pastes, homemade and store-bought | A to Z, with each recipe followed by its store-bought version |
 | Seasonings | Salt, sauces, seasoning pastes and sugars | Salty, then sour, then sweet; A to Z within each |
 | Oils and fats | Cooking oils and other fats | A to Z |
-| Liquids | Milks, stocks, wine and water | Richest to thinnest |
+| Liquids | Milks, stocks, wine, soft drinks and water | Richest to thinnest |
 | Nuts | Nuts, such as pine nuts | A to Z |
 | Pulses | Beans, lentils and chickpeas | A to Z |
 | Grains | Rice and other grains | A to Z |
@@ -92,6 +92,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Meat | bone-in beef short ribs | short ribs | beef short rib, short rib, Jacob's ladder | Beef ribs with their meat still on the bone. Butchers may call them Jacob's ladder. About 4 kg gives about 2 kg of meat and 2 kg of bones. |
 | Meat | ribeye steak | steak | rib-eye steak, rib eye steak | A boneless steak cut from the rib, marbled with fat. Give its thickness, as in "1 ribeye steak, 3.5 cm thick (about 400 g)". |
 | Meat | Thor's hammer beef shin | beef | Thor's hammer shank, beef shank, shin of beef | A whole beef shin on the bone, with the bone cleaned at one end so it looks like a hammer. About 3 kg gives about 2 kg of meat and 1 kg of bone. Butchers can saw it into pieces, so the bone fits in a pot. |
+| Meat | mild-cure gammon joint | gammon | mild cure gammon joint, raw ham, uncooked ham | A joint of raw pork leg, cured with less salt than traditional gammon, so it doesn't need soaking. Give its weight, as in "1 mild-cure gammon joint (about 4 kg)". Once it's cooked, call it ham, as in "Lift the ham into the roasting tin". |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Meat | chicken carcasses | carcasses | chicken frames, chicken bones | Raw: what's left of a chicken once the breasts, legs and wings are cut off. Butchers sell them cheaply. |
 | Meat | meat trim | meat trim | meat trimmings, meat scraps, offcuts | Raw offcuts of any meat, such as the edges trimmed off steaks and joints. |
@@ -145,11 +146,13 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Dried herbs | dried marjoram | dried marjoram | marjoram (on its own) | Keep "dried", because fresh marjoram is a different ingredient. |
 | Dried herbs | dried oregano | dried oregano | oregano (on its own) | Keep "dried", because fresh oregano is a different ingredient. |
 | Dried herbs | dried thyme | dried thyme | thyme (on its own) | Keep "dried", because fresh thyme is a different ingredient. |
-| Spices | ground black pepper | pepper | black pepper powder | Grind it fresh when you can, as in "freshly ground black pepper". |
+| Spices | black peppercorns | peppercorns | whole black pepper, black pepper (on its own) | Ground, they're ground black pepper. |
+| Spices | ground black pepper | pepper | black pepper powder | Grind it fresh when you can, as in "freshly ground black pepper". Whole, they're black peppercorns. |
 | Spices | caraway seeds | caraway seeds | caraway seed, whole caraway, kümmel | Ground, they're ground caraway. Not cumin seeds, which look similar but taste different. |
 | Spices | cinnamon sticks | cinnamon sticks | cinnamon quills, cinnamon bark | Ground, they're ground cinnamon. Lift them out before serving. |
 | Spices | ground cinnamon | ground cinnamon | cinnamon powder | Whole, it's sold as cinnamon sticks. |
-| Spices | ground cloves | ground cloves | clove powder | Whole cloves would need their own term. |
+| Spices | whole cloves | cloves | clove buds | Dried flower buds, used whole, as in "Stud every point where the score lines cross with a clove". Ground, they're ground cloves. Not garlic cloves. |
+| Spices | ground cloves | ground cloves | clove powder | Whole, they're whole cloves. |
 | Spices | coriander seeds | coriander seeds | whole coriander, coriander seed | Ground, they're ground coriander. |
 | Spices | ground coriander | ground coriander | coriander powder | Whole, they're coriander seeds. |
 | Spices | cumin seeds | cumin seeds | whole cumin, cumin seed, jeera | Ground, they're ground cumin. |
@@ -181,6 +184,8 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | sherry vinegar | sherry vinegar | Jerez vinegar, vinagre de Jerez | Vinegar made from sherry, with a mellow, nutty flavour. |
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind, homemade or store-bought. Tamarind concentrate is a thicker, stronger product. This repository's recipe is Tamarind Paste: link it in the ingredient list, as `[Tamarind Paste](Tamarind_paste.md)`. |
 | Seasonings | tamarind pulp | tamarind | tamarind block, tamarind slab, wet tamarind | Compacted tamarind fruit pulp, sold in brown blocks, usually seedless but full of fibres. Packs may call it wet tamarind. Buy the sour kind for cooking, from Thailand. Not tamarind pods, which are sweet, or tamarind paste, which is made from it. |
+| Seasonings | black treacle | treacle | | A thick, dark, bittersweet syrup made from sugar cane, sold in tins. Not golden syrup, which is pale and mild. Molasses is similar, but would need its own term. |
+| Seasonings | demerara sugar | sugar | demerara (on its own), raw cane sugar | Golden-brown cane sugar with large, crunchy crystals. Not light brown soft sugar, which is fine and moist. |
 | Seasonings | granulated sugar | sugar | white sugar, table sugar | Caster sugar is finer, and would need its own term. |
 | Seasonings | honey | honey | | Runny or set honey both work. |
 | Seasonings | light brown soft sugar | brown sugar | light soft brown sugar, soft light brown sugar | Moist, fine brown sugar, sold under this name in UK supermarkets. Dark brown soft sugar and light muscovado sugar would need their own terms. |
@@ -201,6 +206,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | milk | milk | | Whole or semi-skimmed cow's milk, as in "1 tbsp milk". Not evaporated milk, which has some of its water removed. |
 | Liquids | beef stock | stock | beef broth, beef bouillon | Store-bought, ready-to-use beef stock, sold in cartons and pots. Not concentrated beef stock, stock cubes or demi-glace. |
 | Liquids | low-salt chicken stock | stock | low-sodium chicken stock, chicken broth, bouillon | Not standard chicken stock, which is saltier. Write "low-salt chicken stock or water" when water works too. |
+| Liquids | Coca-Cola Original Taste | Coca-Cola | Coke, Coca Cola, regular Coca-Cola | The full-sugar Coca-Cola sold in the UK, as in "5 L Coca-Cola Original Taste". Not Diet Coke or Coca-Cola Zero Sugar, which use sweeteners instead of sugar. Other colas would need their own terms. |
 | Liquids | red wine | wine | | A dry red, the kind you'd drink. |
 | Liquids | pasta water | pasta water | pasta cooking water, starchy water, spaghetti water | The salted water pasta has been boiling in, cloudy with starch from the pasta. Not boiling water from the kettle. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
@@ -318,6 +324,7 @@ Every recipe in this repository. When you mention one, write its title exactly, 
 | --- | --- | --- |
 | Apple and Blackberry Crumble | [Apple_and_blackberry_crumble.md](recipes/Apple_and_blackberry_crumble.md) | crumble |
 | Chilli con Carne | [Chilli_con_carne.md](recipes/Chilli_con_carne.md) | chilli |
+| Coca-Cola Ham | [Coca_cola_ham.md](recipes/Coca_cola_ham.md) | ham |
 | Demi-Glace | [Demi_glace.md](recipes/Demi_glace.md) | demi-glace |
 | Midnight Spaghetti | [Midnight_spaghetti.md](recipes/Midnight_spaghetti.md) | spaghetti |
 | Pumpkin Pie | [Pumpkin_pie.md](recipes/Pumpkin_pie.md) | pie |
@@ -415,6 +422,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Pan sauces | Making a sauce in the pan that meat was seared in | In the order they come up while cooking |
 | Stirring | How often to stir | Least often to most |
 | Skimming | Lifting foam and fat off a liquid | A to Z |
+| Joints | How a joint of meat lies in the pan, and skinning, scoring, glazing and basting it | In the order you'd do them |
 | Doneness | How to tell when something is ready | By the sense you check with: smell, then sight, then touch; A to Z within each |
 | Steak doneness | How well cooked a steak is in the middle | Least cooked to most |
 | Texture problems | What goes wrong when food is overcooked or frozen | A to Z |
@@ -488,6 +496,12 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Stirring | stirring often | stirring frequently, stirring regularly | |
 | Stirring | stirring all the time | stirring constantly, stirring continuously | |
 | Skimming | skim | degrease | Lift foam or fat off the surface of a liquid with a ladle, as in "skimming off the foam every 10–15 minutes". |
+| Joints | skin side down | skin-side down, skin down | With the skin facing down, as in "Put the gammon in the pot, skin side down". Turned the other way up, it's skin side up. |
+| Joints | cut off the skin | remove the skin, cut away the skin, skin (as a verb) | For a cooked ham: slice the skin away with a sharp knife, as in "Use a sharp knife to cut off the skin, leaving a layer of fat". |
+| Joints | score | slash | Cut lines into fat or skin, without cutting into the meat, as in "Score the fat with the knife in two directions". |
+| Joints | massage | rub in | Work a glaze or paste into food with your hands, as in "massage half the glaze into the scored fat". |
+| Joints | stud | | Push whole cloves into meat or fat, as in "Stud every point where the score lines cross with a clove". |
+| Joints | baste | | Spoon the glaze or juices from the tin back over meat as it roasts. The first time, explain it in brackets, as in "basting it halfway through (spooning the glaze and juices from the roasting tin back over the ham)". |
 | Doneness | the raw {ingredient} smell has gone | no longer smells raw | For frying curry paste, as in "the raw shallot and garlic smell has gone". |
 | Doneness | until fragrant | until aromatic | |
 | Doneness | until it smells toasty, not tomatoey | | For a pinçage: the tomato purée has lost its raw, sharp smell. |
@@ -509,6 +523,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until smooth | until combined, until well combined | For a whisked mixture, such as a pie filling, with no lumps or streaks. For a blended paste, use until very smooth. |
 | Doneness | until the fat stops smoking | until the smoke dies down, until it's no longer smoking | For hot fat left to cool a little after searing, before something that burns easily goes in, such as tomato purée, as in "wait until the fat stops smoking". |
 | Doneness | until the fruit is bubbling in the centre | until bubbly, bubbling in the middle | For a baked fruit filling under a topping: the juices bubble up in the middle of the dish, not just at the edges. |
+| Doneness | until the glaze is sticky and bubbling | until caramelised, until burnished | For a sugary glaze roasted on meat: thick and tacky, and bubbling all over. |
 | Doneness | until the mix is homogeneous | until evenly mixed | For butter mixed into a crumble topping with your fingers: evenly mixed all through, with no lumps of butter left. |
 | Doneness | until the mushrooms have released all their liquid | | For mushrooms cooked with the lid on: their juices pool in the pan. |
 | Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
@@ -529,6 +544,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Cooling | leave to cool | let cool, allow to cool | |
 | Finishing | warm | heat (for plates), warm up | Heat plates so the food on them stays hot, as in "put 4 plates in the oven at 70°C (50°C fan) to warm". To heat food again, use reheat. |
 | Finishing | rest | let rest | Leave cooked meat to stand before cutting it, as in "Put the steak back on the wire rack to rest". |
+| Finishing | carve | | Cut a cooked joint of meat into slices to serve, as in "carve it into slices about 5 mm thick". |
 | Finishing | infuse | steep, brew | Leave herbs in a hot liquid, off the heat, so their flavour passes into it, as in "leave it to infuse off the heat for 15 minutes". |
 | Finishing | {amount} at a time | a little at a time, bit by bit, in {amount} increments | For adding something in small steps, such as seasoning in **Taste and adjust**, as in "Adjust it ½ tsp at a time", or water to a paste that won't blend, as in "add water 1 tsp at a time". |
 | Finishing | drizzle | trickle | Pour in a thin stream over the top, as in "drizzle the rest of the coconut cream on top in a spiral". |
@@ -559,6 +575,8 @@ The level 4 (`####`) subheadings in **Ingredients**.
 | For the curry | Curry, Curry ingredients | Name each part of a recipe "For the {part}". |
 | For the demi-glace | Demi-glace, For the reduction | |
 | For the filling | Filling, For the pie filling | |
+| For the glaze | Glaze, For the topping | |
+| For the ham | Ham, For the gammon | |
 | For the pastry case | For the pastry, For the crust, Pastry | |
 | For the sauce | Sauce, For the pasta sauce | |
 | For the spaghetti | Spaghetti, For the pasta | |
@@ -648,6 +666,12 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Add the stew ingredients | Add the rest of the ingredients | Pouring in wine to deglaze the pan, then adding everything that simmers with it. |
 | Slow cook the chilli | Simmer the chilli, Cook the chilli | The long, gentle simmer that makes chilli con carne tender and thick. |
 | Slow cook the goulash | Braise the goulash, Cook the goulash | The long, gentle cook in a low oven, with the lid on, that makes Viennese goulash tender and thick. |
+| Fill the pot | Fill the pan, Cover the gammon | Putting a joint of meat in the pot, covering it with liquid, and adding the vegetables and spices it simmers with. |
+| Simmer the gammon | Boil the gammon, Boil the ham, Poach the gammon | The long simmer, with the lid on, that cooks a gammon joint until it's tender. |
+| Skin and score the ham | Remove the skin, Score the ham | Cutting the skin off a cooked ham, leaving a layer of fat, then scoring the fat in a diamond pattern. |
+| Massage in the glaze | Glaze the ham, Rub in the glaze | Mixing a glaze and massaging it into the scored fat of a ham. |
+| Stud the ham with cloves | Add the cloves, Clove the ham | Pushing a whole clove into every point where the score lines cross. |
+| Roast the ham | Bake the ham, Cook the ham | Roasting a glazed ham, basting it halfway through, until the glaze is sticky and bubbling. |
 | Simmer the beef bones | Boil the bones | Simmering unroasted beef bones on their own, to draw out their gelatine before the rest of a stock goes in. |
 | Simmer the stock | Cook the stock, Boil the stock | |
 | Strain the stock | Sieve the stock | |
@@ -738,6 +762,7 @@ Brands named in **Equipment** and **Notes and substitutions**. Write each one as
 | Biona Organic | Biona (on its own) | A UK brand of organic food. Its coconut milk has no emulsifiers or stabilisers. |
 | Blendtec | BlendTec, Blend-Tec | A US brand of high-speed blenders. Write its small jar for thick mixtures, which has a lid you turn to scrape the sides, as "Twister jar". |
 | Chaokoh | Chao Koh, ChaoKoh | A Thai brand. Its coconut milk contains an emulsifier. |
+| Coca-Cola | Coca Cola, Coke (on its own) | A US brand of cola. Its full-sugar cola is sold in the UK as Coca-Cola Original Taste, and its sugar-free ones include Diet Coke and Coca-Cola Zero Sugar. |
 | Colman's | Colmans, Colman | A UK brand of English mustard. Its mustard powder comes in small yellow tins. |
 | La Molisana | Molisana (on its own), LaMolisana | An Italian brand of dried pasta. |
 | Libby's | Libbys, Libby | A US brand of canned pumpkin purée. |
@@ -767,6 +792,7 @@ Words from the labels on food packs, for saying what to look for, or avoid, when
 | Contents | cocoa solids | cocoa content, cacao | How much of a chocolate's weight comes from cocoa, as in "20 g dark chocolate (80% or 90% cocoa solids)". |
 | Additives | emulsifiers | emulsifying agents | Additives that keep fat and water mixed, such as E435 (polysorbate 60). Coconut milk that contains them may not separate in the can. |
 | Additives | stabilisers | stabilizers, thickeners | Additives that thicken food and keep it mixed, or help it hold on to water. Coconut milk that contains them may not separate in the can, and prawns that contain them don't need bicarbonate of soda. Labels sometimes call them thickeners. |
+| Additives | sweeteners | artificial sweeteners, sugar substitutes | Additives that taste sweet in place of sugar, such as aspartame. Some turn bitter when cooked, so drinks made with them, such as Diet Coke, don't suit cooking. |
 | Additives | carboxymethylcellulose | carboxymethyl cellulose, cellulose gum, CMC | A stabiliser. Labels may call it cellulose gum or E466. |
 | Additives | guar gum | guar | A stabiliser. Labels may call it E412. |
 | Taste | medium-bodied | medium bodied, mid-bodied | Neither light nor heavy in the mouth, as in "an inexpensive, medium-bodied red". |
@@ -803,6 +829,7 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 | Thailand | Southern Thailand | southern Thailand, South Thailand, the south of Thailand | A capital S, because it's the name of a region. |
 | United Kingdom | England | | One of the four countries of the United Kingdom. |
 | United States | New England | | The six states in the north-east of the United States, from Connecticut to Maine. |
+| United States | Southern United States | the American South, the South, the southern US | The southern states of the United States, such as Georgia and Alabama. |
 | United States | Texas | TX | A state in the southern United States. |
 
 ## Tags
@@ -822,7 +849,7 @@ Each tag has an emoji, which goes before it in a recipe, as in `- **Type:** 🍛
 | Group | Tags |
 | --- | --- |
 | Course | 🥐 Breakfasts, 🥟 Starters, 🍽️ Mains, 🥔 Sides, 🍨 Desserts, 🍿 Snacks, 🥤 Drinks |
-| Type | 🍞 Breads, 🍰 Cakes, 🍮 Crumbles, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
+| Type | 🍞 Breads, 🍰 Cakes, 🍮 Crumbles, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🍖 Roasts, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
 | Main ingredient | 🐄 Beef, 🐑 Lamb, 🐖 Pork, 🐔 Chicken, 🐟 Fish, 🦐 Seafood, 🥚 Eggs, 🫘 Pulses, 🫛 Tofu, 🥦 Vegetables, 🍎 Fruit, 🍚 Rice, 🍜 Noodles, 🍝 Pasta |
 | Diet | 🥥 Dairy-free, 🌽 Gluten-free, 🫑 Vegetarian, 🌱 Vegan |
 | Allergens | 🥬 Celery, 🌾 Cereals containing gluten, 🦀 Crustaceans, 🥚 Eggs, 🐟 Fish, 🪻 Lupin, 🥛 Milk, 🦪 Molluscs, 🌭 Mustard, 🥜 Peanuts, 🍔 Sesame, 🫛 Soya, 🍷 Sulphites, 🌰 Tree nuts |
@@ -846,9 +873,12 @@ The website names at the start of each line in **Sources**, before the colon.
 | Biona Organic | biona.co.uk | Biona (on its own) |
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
 | Chefkoch | chefkoch.de | Chef Koch, ChefKoch |
+| ckbk | ckbk.com | CKBK, Ckbk |
+| Coca-Cola GB | coca-cola.com/gb | Coca-Cola (on its own), Coca-Cola UK |
 | Costco UK | costco.co.uk | Costco (on its own) |
 | Delia Smith Recipes | deliasmithcooks.co.uk | Delia Smith (on its own), Delia Smith Cooks |
 | Don't Go Bacon My Heart | dontgobaconmyheart.co.uk | Dont Go Bacon My Heart |
+| Food Standards Agency | food.gov.uk | FSA |
 | Good Food | bbcgoodfood.com | BBC Good Food |
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
 | Great British Chefs | greatbritishchefs.com | GBC |
@@ -862,6 +892,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | McVitie's | mcvities.com | McVities, McVitie |
 | National Center for Home Food Preservation | nchfp.uga.edu | NCHFP, National Centre for Home Food Preservation |
 | Nicky's Kitchen Sanctuary | kitchensanctuary.com | Kitchen Sanctuary (on its own), Nickys Kitchen Sanctuary |
+| Nigella Lawson | nigella.com | Nigella (on its own), Nigella's Recipes, Nigella.com |
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | Preppy Kitchen | preppykitchen.com | PreppyKitchen |
 | Radio Niederösterreich | noe.orf.at | Radio NÖ, ORF (on its own) |
@@ -874,6 +905,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Souldeliciouz Kitchen | souldeliciouz.com | SOULDELICIOUZ KITCHEN, Soul Deliciouz |
 | Sous Chef | souschef.co.uk | SousChef, Souschef |
 | Swasthi's Recipes | indianhealthyrecipes.com | Indian Healthy Recipes, Swasthis Recipes |
+| Tesco | tesco.com | Tescos, Tesco.com |
 | The Floured Table | theflouredtable.com | Floured Table (on its own) |
 | The Takeout | thetakeout.com | Takeout (on its own), TheTakeout |
 | TODAY | today.com | Today, TODAY.com |
