@@ -183,7 +183,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | pasta water | pasta water | pasta cooking water, starchy water, spaghetti water | The salted water pasta has been boiling in, cloudy with starch from the pasta. Not boiling water from the kettle. |
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Nuts | pine nuts | pine nuts | pine kernels, pignoli, pinoli | Small, soft seeds from pine cones, sold as nuts. Packs may call them pine kernels. |
-| Pulses | red kidney beans | kidney beans | red beans | Canned and already cooked, and sold in 400 g cans, as in "2 cans (400 g each) red kidney beans, drained and rinsed". Dried ones would need their own term. |
+| Pulses | red kidney beans | kidney beans | red beans | Canned and already cooked, and sold in 400 g cans, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Dried ones would need their own term. |
 | Grains | basmati rice | rice | basmati (on its own) | Long-grain rice, weighed before cooking, as in "600 g basmati rice". |
 | Grains | jasmine rice | rice | Thai fragrant rice, Thai jasmine rice, fragrant rice | |
 | Flours and starches | cornflour | cornflour | cornstarch, corn starch, maize starch | A fine white starch that thickens liquids and helps them set. Not cornmeal or polenta. |
@@ -330,7 +330,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
-| Cleaning | drained and rinsed | rinsed and drained | For canned beans: tipped into a colander, then rinsed under the cold tap, as in "2 cans (400 g each) red kidney beans, drained and rinsed". Not washed, which ends with patting dry. |
+| Cleaning | drained and rinsed | rinsed and drained | For canned beans: tipped into a colander, then rinsed under the cold tap, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Not washed, which ends with patting dry. |
 | Cleaning | washed | | Washed in cold water, then patted dry, as for coriander leaves and stalks. Not drained and rinsed, which is for canned beans. |
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
 | Trimming | deveined | de-veined | The dark vein along the back removed, as in "Peel and devein the prawns". |
@@ -517,13 +517,13 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (at room temperature) | (room temperature), (room temp) | For eggs and other ingredients from the fridge that should warm up before you use them. Say in a step when to take them out, as in "While it bakes, take the eggs out of the fridge". |
 | (not fresh) | | For a ground spice that's easy to confuse with its fresh form, as in "¾ tsp ground ginger (not fresh)". |
 | (only if needed, see Step {number}) | (optional), (just in case), (if needed) | For a fallback the cook only needs if something goes wrong, so they still have it to hand, as in "1 tbsp coconut oil (only if needed, see Step 2)". |
-| (optional) | (if you like), (if using) | For something the cook can leave out. |
+| (optional) | (if you like), (if using) | For something the cook can leave out. In the directions, it also goes after the title of a step the cook can leave out, and after what that step cooked when a later step adds it, as in "add the kidney beans and the mushrooms (optional)". An ingredient that's only used with an optional one doesn't get it: say what it's for after a comma instead, as in "30 g unsalted butter, for the mushrooms". |
 | (thawed if frozen) | (defrosted if frozen) | |
 | (used in Steps {number} and {number}) | (divided), (split), (half now, half later) | For an ingredient added in more than one step, as in "2 tsp tamarind paste (used in Steps 5 and 7)". For three steps, write "(used in Steps 2, 4 and 5)". |
 
 ### Step titles
 
-The level 4 (`####`) step headings in **Directions**. Reuse a title when a step does the same job.
+The level 4 (`####`) step headings in **Directions**. Reuse a title when a step does the same job. A step the cook can leave out keeps its title, with "(optional)" after it, as in "Fry the mushrooms (optional)."
 
 **Order:** the order they'd usually happen in a recipe: getting ready, cooking, then finishing.
 

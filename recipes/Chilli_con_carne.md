@@ -33,14 +33,14 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 
 #### For the chilli
 
-- 6 dried bird's eye chillies
+- 5 dried bird's eye chillies
 - 4 medium onions, finely chopped
 - 2 large carrots, peeled and finely sliced
 - 12 garlic cloves, peeled and finely chopped (about 1 bulb)
-- 300 g shiitake mushrooms, stalks removed, cut into bite-size pieces and washed
-- 2 tbsp ghee
+- 300 g shiitake mushrooms, stalks removed, cut into bite-size pieces and washed (optional)
+- 4 tbsp ghee
 - 1 kg lean beef mince (10% fat is ideal, or use 5% fat)
-- 30 g unsalted butter
+- 30 g unsalted butter, for the mushrooms
 - 1 tsp fine sea salt
 - 4 tbsp olive oil (used in Steps 4 and 5)
 - 100 g tomato purée (about 6 tbsp)
@@ -52,7 +52,7 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 - 20 g dark chocolate (80% or 90% cocoa solids)
 - 2 cinnamon sticks
 - 1 tbsp apple cider vinegar
-- 2 cans (400 g each) red kidney beans, drained and rinsed
+- 4 cans (400 g each) red kidney beans, drained and rinsed
 - 100 g coriander leaves and stalks, washed and roughly chopped
 - 2 limes
 
@@ -69,19 +69,21 @@ A rich, smoky chilli con carne of seared beef mince and red kidney beans, slow c
 - Mix the dry spices to create the spice blend, and set aside.
 - Split the bird's eye chillies open lengthways with scissors and scrape out the seeds. Place them on a plate and microwave on high power 15 seconds at a time until they're pliable and toasted-smelling, about 30 seconds total. Leave them to cool until crisp, about 1 minute, then finely chop them.
 - Finely chop the onions and place in a bowl. Peel and finely slice the carrots, and add them to the bowl. Peel and finely chop the garlic.
-- Remove the stalks from the mushrooms, then halve the caps, or quarter any wider than 4 cm. Wash them in cold water and pat them dry with kitchen roll.
+- If you're using the mushrooms, remove their stalks, then halve the caps, or quarter any wider than 4 cm. Wash them in cold water and pat them dry with kitchen roll.
 
 #### Step 2: Sear the mince.
 
-Put ½ tbsp of the ghee in the pot, and heat it over high heat until it starts to smoke.
+Put 1 tbsp of the ghee in the pot, and heat it over high heat until it starts to smoke.
 
-Sear the mince in 4 batches of about 250 g, by pressing each batch down gently into a flat layer in the pot. Leave it undisturbed until deep brown underneath, 2–4 minutes. Then flip it so the other side browns, about 2 minutes, then break the meat apart and place it in a colander on top of a plate so it can drain. Before each of the next 3 batches, add another ½ tbsp of the ghee and heat it until it starts to smoke.
+Sear the mince in 4 batches of about 250 g, by pressing each batch down gently into a flat layer in the pot. Leave it undisturbed until deep brown underneath, 2–4 minutes. Then flip it so the other side browns, about 2 minutes, then break the meat apart and place it in a colander on top of a plate so it can drain. Before each of the next 3 batches, add another 1 tbsp of the ghee and heat it until it starts to smoke.
 
 If the fat smokes heavily or the fond (the browned bits stuck to the bottom of the pan) starts to blacken, turn the heat down to medium-high.
 
-#### Step 3: Fry the mushrooms.
+#### Step 3: Fry the mushrooms (optional).
 
-After all the mince has been removed from the pot, turn the heat down to medium and wait 1 minute, so the butter doesn't burn in the hot pot. Add half the butter, then add the mushrooms and the salt. Cover with the lid and let them cook for 8–10 minutes, stirring occasionally, until the mushrooms have released all their liquid.
+If you're leaving out the mushrooms, take the pot off the heat and carry on from Step 4.
+
+Otherwise, after all the mince has been removed from the pot, turn the heat down to medium and wait 1 minute, so the butter doesn't burn in the hot pot. Add half the butter, then add the mushrooms and the salt. Cover with the lid and let them cook for 8–10 minutes, stirring occasionally, until the mushrooms have released all their liquid.
 
 Then remove the lid, add the rest of the butter and cook, stirring occasionally, until the mushrooms are deep golden brown and tender, about 15 minutes. While the mushrooms brown, start Step 4, and keep stirring the mushrooms occasionally.
 
@@ -95,7 +97,7 @@ Take the mini frying pan off the heat, pour in ½ metric cup of the wine, and st
 
 #### Step 5: Fry the aromatics and carrots.
 
-Add the rest of the olive oil (2 tbsp) to the pot over medium heat, then add the onions and carrots. Fry, stirring often, for 8–10 minutes, or until the onions are soft, squidgy and slightly translucent.
+Add the rest of the olive oil (2 tbsp) to the pot over medium heat, then add the onions and carrots, and the salt if you left out the mushrooms. Fry, stirring often, for 8–10 minutes, or until the onions are soft, squidgy and slightly translucent.
 
 Drop the heat to medium-low, then add the garlic and spice blend and stir for 3 minutes, taking care not to burn the garlic or spices.
 
@@ -109,7 +111,7 @@ Add the tomatoes, bay leaves, Worcestershire sauce, demi-glace (or concentrated 
 
 Bring to a simmer, then turn the heat down to low. Cook for 1½ hours at this low temperature with the lid on, stirring occasionally so it doesn't catch on the bottom of the pot.
 
-Then add the kidney beans and the mushrooms, remove the lid, and turn the heat up to medium-low so it simmers. Cook, stirring often, until it becomes thicker, about 30 minutes. While it simmers, cook the rice, wash and roughly chop the coriander leaves and stalks, and squeeze the limes.
+Then add the kidney beans and the mushrooms (optional), remove the lid, and turn the heat up to medium-low so it simmers. Cook, stirring often, until it becomes thicker, about 30 minutes. While it simmers, cook the rice, wash and roughly chop the coriander leaves and stalks, and squeeze the limes.
 
 #### Step 8: Finish the chilli.
 
@@ -123,6 +125,7 @@ Divide the rice between 8 bowls, spoon the chilli over the top, and add a spoonf
 
 - **Red wine:** Use an inexpensive, medium-bodied red. Avoid oaky, sweet or very tannic (mouth-drying) wines, because reducing the wine concentrates those flavours.
 - **Demi-glace:** A thick, rich sauce base made by reducing beef or veal stock. If you can't find it, use the same amount of concentrated beef stock, such as [M&S Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097).
+- **More heat:** If you like it very hot, use 7 bird's eye chillies instead of 5.
 
 ## 🫙 Storage and make-ahead
 

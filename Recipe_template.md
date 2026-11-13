@@ -274,6 +274,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - The amount is measured before the preparation after the comma: `12 g galangal, peeled and finely chopped` means weigh it, then peel and chop it. If you mean the amount after preparing, put the state before the name: `400 g peeled raw king prawns`, `1 tbsp grated palm sugar`.
 - Use brackets for short notes only, such as `(optional)` or a quick swap. Put longer advice in **Notes and substitutions**, or in a [tip](#tips) if it's about technique.
 - Use `(optional)` for something the cook can leave out. For a fallback they only need if something goes wrong, use `(only if needed, see Step {number})` instead, so they still have it to hand.
+- If an ingredient is only used with an optional one, say what it's for after a comma, rather than marking it `(optional)` too: `30 g unsalted butter, for the mushrooms`. That way the cook leaves out both or neither.
 - If you add an ingredient in more than one step, such as half in Step 5 and the rest in Step 7, say which steps: `2 tsp tamarind paste (used in Steps 5 and 7)`. Otherwise a cook who has measured everything out may add it all at once.
 - If the **Taste and adjust** step might add more of an ingredient, end its line with `plus extra to taste`, after any note in brackets: `1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste`.
 - Don't list water you only use for soaking, boiling or thinning, as in "Cover with boiling water and soak until soft". That includes soaking water you keep for a later step, as in "Drain, keeping 3 tbsp of the soaking water". Do list water when it's a measured part of the dish, such as `2 metric cups water` for a soup.
@@ -332,6 +333,7 @@ Toss the prawns in a bowl with the salt and bicarbonate of soda, but leave out t
   - Optional actions, saying what they depend on: "If you're using head-on prawns, fry the heads…"
   - Conditional actions: "If the oil hasn't separated out after 12 minutes, stir in the coconut oil."
   - Anything the cook does while something else cooks or soaks, including preparing ingredients: "While it simmers, cook the jasmine rice." or "While the chillies soak, toast the coriander seeds…"
+- If the cook can leave out a whole step, put `(optional)` after its title: "Fry the mushrooms (optional)." Start the step by saying what to do instead: "If you're leaving out the mushrooms, take the pot off the heat and carry on from Step 4." If a later step adds what the optional step cooked, put `(optional)` after it in that step too: "Then add the kidney beans and the mushrooms (optional)…"
 - A short warning stays in its step: "Stop before they blacken." Put why something matters, or what can go wrong, in a [tip](#tips) under the step.
 - Write "minutes" and "hours" in full here, and in **Before you start**. Only the summary box uses `min` and `hr`.
 - Give oven temperatures in °C with the fan temperature in brackets: `200°C (180°C fan)`.
