@@ -30,7 +30,7 @@ The aggregated recipes are shaped and scoped according to the following principl
 | :-: | --- | --- |
 | 🎯 | **Aim high** | Each recipe should be the best, elevated version, while remaining practical to cook. |
 | 🔬 | **Objective&nbsp;purpose** | Every step and instruction should contribute to the dish for a quantifiable reason. |
-| ⚡ | **Embrace&nbsp;tech** | Old labor-intensive tools are out. Things like high-speed blenders are in. |
+| ⚡ | **Embrace&nbsp;tech** | Old labor-intensive tools like pestle and mortar are out. Things like high-speed blenders are in. |
 | 🌡️ | **Pragmatic** | Utilise the easiest methods to achieve consistent results, e.g. use thermometers. |
 | 🥫 | **Best&nbsp;ingredients** | Always use the best ingredients for the specific recipe.[^1] |
 | 🧂 | **No&nbsp;superstitions** | For example, use MSG when it makes sense. |
