@@ -285,7 +285,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 | Measure | Use it for | Example |
 | --- | --- | --- |
 | g, kg | Solid ingredients, and pastes over 4 tbsp: meat, fish, vegetables, herbs and leaves, flour, sugar, rice, noodles, curry paste | `500 g raw king prawns` |
-| metric cups | Liquids over 4 tbsp and under 1 L, when the amount fits a metric cup measure | `1 metric cup chicken stock` |
+| metric cups | Liquids over 4 tbsp and under 1 L, when the amount fits a metric cup measure, and dry spices over 4 tbsp, when the amount is exactly ¼, ½ or 1 metric cup | `1 metric cup chicken stock` |
 | ml, L | Other liquids over 4 tbsp | `350 ml evaporated milk` |
 | tsp, tbsp | Small amounts of anything, up to 4 tbsp: spices, salt, sauces, oil, pastes | `2 tbsp fish sauce` |
 | cans | Ingredients sold in cans, when you use the whole can | `1 can (400 g) chopped tomatoes` |
@@ -299,7 +299,7 @@ Write each ingredient on its own line, in the order you use it, following this p
 - If you only use part of a can or carton, give the amount in g, ml or metric cups instead: `200 ml full-fat coconut milk`.
 - A liquid fits a metric cup measure when it's a whole number of metric cups, or ends in ¼, ⅓, ½, ⅔ or ¾ of one: 125 ml is `½ metric cup`, 250 ml is `1 metric cup` and 375 ml is `1½ metric cups`. Give any other amount in ml, as in `200 ml extra virgin olive oil`. Can and carton sizes stay as printed on the pack, as in `1 small carton (250 ml) coconut cream`.
 - Write "metric cup" in full, never just "cup". A US cup is smaller, about 240 ml, so convert a US recipe's cups to ml before you decide whether an amount fits.
-- Only use metric cups for liquids. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
+- Only use metric cups for liquids, and for dry spices over 4 tbsp when the amount is exactly ¼, ½ or 1 metric cup, as in `1 metric cup Hungarian sweet paprika`. Weigh any other amount of dry spices over 4 tbsp in grams. Weigh herbs and leaves in grams, as in `10 g Thai basil leaves`. You can also give a rough guide in brackets, as in `10 g Thai basil leaves (about a handful)`.
 - Round to amounts that are easy to measure: `250 g`, not `247 g`. Switch to kg and L from 1,000: `1.2 kg`, `1.5 L`.
 - Use ½, ⅓, ⅔, ¼, ¾ and ⅛ with spoons, cans and counts (`1½ tsp`), and all but ⅛ with metric cups. Don't use fractions with g or ml.
 - Give a size for counted items when it matters (`1 large onion`), and a rough weight when it matters a lot (`1 large potato (about 300 g)`).
