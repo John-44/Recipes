@@ -80,7 +80,7 @@ While they roast, cut the onions for the stock into thick wedges, and the carrot
 
 When the bones have simmered for 24 hours, lift the carcasses into the pot with tongs, leaving their fat behind. Pour the fat out of the roasting tins, then ladle ½ metric cup of the stock into each tin and scrape up the fond (the browned bits stuck to the bottom of the tin). Pour it into the pot.
 
-Add the onions, carrots, celery and mushrooms, and add boiling water if needed so everything is just covered. Bring back to a simmer over medium-high heat, then turn the heat down to low and simmer gently, with the lid ajar, for 6 hours, skimming off any foam and fat every hour or so.
+Add the onions, carrots and celery, and the mushrooms if you're using them, then add boiling water if needed so everything is just covered. Bring back to a simmer over medium-high heat, then turn the heat down to low and simmer gently, with the lid ajar, for 6 hours, skimming off any foam and fat every hour or so.
 
 While it simmers, finely slice the onions and celery for the demi-glace, and peel and finely slice the carrots.
 
