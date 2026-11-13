@@ -29,13 +29,15 @@ The aggregated recipes are shaped and scoped according to the following principl
 | | Principle | What it means |
 | :-: | --- | --- |
 | 🎯 | **Aim high** | Each recipe should be the best, elevated version, while remaining practical to cook. |
-| 🔬 | **Objective** | Every step and instruction should contribute to the dish for a quantifiable reason. |
-| ⚡ | **Embrace tech** | Old labor-intensive tools are out. Things like high-speed blenders are in. |
+| 🔬 | **Objective&nbsp;purpose** | Every step and instruction should contribute to the dish for a quantifiable reason. |
+| ⚡ | **Embrace&nbsp;tech** | Old labour-intensive tools like a mortar and pestle are out. Things like high-speed blenders are in. |
 | 🌡️ | **Pragmatic** | Utilise the easiest methods to achieve consistent results, e.g. use thermometers. |
-| 🥫 | **Best ingredients** | Always use the best ingredients. Counterintuitively, this can mean using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md). |
-| 🧂 | **No superstitions** | For example, use MSG when it makes sense. |
-| ✂️ | **Succinct** | No long, waffling text or stories. Each recipe should contain only pertinent information, and be short and to the point. |
+| 🥫 | **Best&nbsp;ingredients** | Always use the best ingredients for the specific recipe.[^1] |
+| 🧂 | **No&nbsp;superstitions** | For example, use MSG when it makes sense. |
+| ✂️ | **Succinct** | Each recipe should contain only pertinent information, and be short and to the point. No waffling. |
 | ⚖️ | **Precise** | Every quantity, timing and temp should be exact, leaving nothing to guesswork. |
+
+[^1]: Counterintuitively, this can sometimes mean using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md).
 
 ## Recipes
 
