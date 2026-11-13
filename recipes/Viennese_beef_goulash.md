@@ -133,7 +133,7 @@ Adjust it 1 tsp at a time: more smoked sea salt flakes if it needs salt, or more
 
 #### Step 13: Refrigerate the goulash.
 
-Turn the oven off and leave the goulash in it to cool in the still hot oven for 1½ hours.
+Turn the oven off and leave the goulash to cool in the still hot oven for 1½ hours.
 
 Then lift out the bay leaves and the pieces of bone. Divide the goulash between airtight containers, and flash cool by placing the containers in ice water until cold, about 30 minutes. After flash cooling, place the containers in the fridge. Leave it in the fridge overnight, or ideally for 2 days.
 
