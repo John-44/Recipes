@@ -8,6 +8,10 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 | --- | --- | --- | --- |
 | 15 min | 55 min | 1 hr 5 min | 1 |
 
+## 📌 Before you start
+
+- Make the [Demi-Glace](Demi_glace.md) first (7 hours, plus 30 hours simmering the stock), or use store-bought demi-glace (see **Demi-glace**).
+
 ## 🔪 Equipment
 
 - Ovenproof meat thermometer
@@ -27,7 +31,7 @@ A thick ribeye steak, reverse seared: cooked slowly in a low oven until it's eve
 - 2 tbsp ghee
 - 1 metric cup red wine
 - 2 tsp English mustard powder
-- 2 tsp thick demi-glace (or concentrated beef stock, see Notes)
+- 2 tsp [Demi-Glace](Demi_glace.md) (or store-bought, see Notes)
 - 1 tbsp balsamic vinegar
 - 2 tsp cold unsalted butter
 
@@ -87,7 +91,7 @@ Cut the steak across the grain (at right angles to the lines of muscle running t
 
 - **Red wine:** Use an inexpensive, medium-bodied red. Avoid oaky, sweet or very tannic (mouth-drying) wines, because reducing the wine concentrates those flavours.
 - **English mustard powder:** This recipe uses Colman's Mustard, sold in small yellow tins.
-- **Demi-glace:** A thick, rich sauce base made by reducing beef or veal stock. If you can't find it, use the same amount of concentrated beef stock, such as [M&S Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097).
+- **Demi-glace:** Instead of homemade, use the same amount of thick store-bought demi-glace. If you can't find it, use the same amount of concentrated beef stock, such as [M&S Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097).
 - **Non-stick frying pan:** Don't use one. It shouldn't be heated this hot, and less fond sticks to it for the sauce.
 
 ## 🫙 Storage and make-ahead
@@ -106,7 +110,7 @@ The reverse sear technique was independently developed around 2006 by test cooks
 - **Course:** 🍽️ Mains
 - **Type:** 🥩 Steaks
 - **Main ingredient:** 🐄 Beef
-- **Allergens:** 🥛 Milk, 🌭 Mustard, 🍷 Sulphites. Check the label on the demi-glace (or concentrated beef stock), which can contain celery or gluten.
+- **Allergens:** 🥬 Celery, 🌾 Cereals containing gluten, 🥛 Milk, 🌭 Mustard, 🫛 Soya, 🍷 Sulphites
 
 ## ✍️ Credits
 
@@ -118,7 +122,7 @@ The reverse sear technique was independently developed around 2006 by test cooks
 - America's Test Kitchen: [Always Finish Pan Sauces with Butter Off Heat](https://www.americastestkitchen.com/how_tos/6685-always-finish-pan-sauces-with-butter-off-heat). Stirring in the butter off the heat, so its fat doesn't float on top.
 - America's Test Kitchen: [The Best Wine for Cooking (Is Not What You Think)](https://www.americastestkitchen.com/articles/1271-the-best-wine-for-cooking-is-not-what-you-think). Choosing a medium-bodied red wine for cooking.
 - America's Test Kitchen: [The Problem with Thick-Cut Steaks](https://www.americastestkitchen.com/articles/39-the-problem-with-thick-cut-steaks). J. Kenji López-Alt's 2007 Cook's Illustrated method of warming thick steaks in a low oven before searing them, for the **Origin**.
-- M&S: [Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097). The swap for demi-glace, and its ingredients for the **Allergens** line.
+- M&S: [Concentrated Beef Stock](https://www.marksandspencer.com/food/concentrated-beef-stock/p/fdp20002097). The swap for demi-glace.
 - Maximum Fun: [TRANSCRIPT Judge John Hodgman Ep. 465: Licorice Adjacent Flavor](https://maximumfun.org/transcripts/judge-john-hodgman/transcript-judge-john-hodgman-ep-465-licorice-adjacent-flavor). J. Kenji López-Alt on developing the method for Cook's Illustrated so home cooks could get sous-vide results without a costly machine, and on others using similar methods before him.
 - Serious Eats: [Reverse-Seared Steak](https://www.seriouseats.com/reverse-seared-steak-recipe). Cooking the steak on a wire rack set in a baking tray, taking it out of the oven at 46°C or 40°C, searing its edges with tongs, and J. Kenji López-Alt's account of developing the method in 2006.
 
