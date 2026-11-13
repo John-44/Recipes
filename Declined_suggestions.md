@@ -110,6 +110,16 @@ Suggestions for this repository that have been considered and turned down. Read 
 - Moving the crispy fried shallots out of the pan once they're toasted.
 - In **Storage and make-ahead**: counting the fridge's 2 days from when the make-ahead base was made, saying to cool it within 1–2 hours, making the prawns steaming hot when reheating, or a limit on how long fresh or thawed prawns keep before cooking.
 
+## Viennese Beef Goulash
+
+- Saying in the description that in Vienna it's served with boiled potatoes or a crusty Kaiser roll (*Kaisersemmel*), rather than calling *Spätzle* the more traditional side.
+- A rough weight for the Hungarian sweet paprika, as in "1 metric cup Hungarian sweet paprika (about 110 g)".
+- Flash cooling the goulash as soon as it comes out of the oven, and stirring it in uncovered containers as it cools. It cools in the switched-off oven for 1½ hours, where it stays hot, then flash cools for 30 minutes, so it's out of the fridge for 2 hours in all.
+- Saying where to buy yellow onions in the **Yellow onions** note.
+- Saying in the **Caraway seeds** note how much to add, and when.
+- A **Boneless beef shin instead** note, as an easier swap for the Thor's hammer beef shin than the short ribs.
+- Counting the time it rests in the fridge before serving towards the 2 days in the **Fridge** entry, and freezing any that won't be eaten by then.
+
 ---
 
 © 2026 [John-44](https://github.com/John-44). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

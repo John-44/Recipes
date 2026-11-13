@@ -1,16 +1,16 @@
 # 🍲 Viennese Beef Goulash
 
-A rich, deep red goulash of beef shin, slow cooked with as much onion as beef until the onions melt into a thick, smooth gravy. Known in Vienna as *Wiener Saftgulasch*, it's flavoured with plenty of Hungarian sweet paprika, dried marjoram, garlic and a little lemon zest, with the roasted shin bone and tomato purée browned with red wine for extra depth. Like most stews, it tastes even better the next day. Serve with mashed or boiled and buttered potatoes, or *Spätzle* for a more traditional experience.
+A rich, deep red goulash of beef shin, slow cooked with as much onion as beef until the onions melt into a thick, smooth sauce. Known in Vienna as *Wiener Saftgulasch*, it's flavoured with plenty of Hungarian sweet paprika, dried marjoram, garlic and a little lemon zest, with the roasted shin bone and tomato purée browned with red wine for extra depth. Like most stews, it tastes even better the next day. Serve with mashed or boiled and buttered potatoes, or *Spätzle* for a more traditional experience.
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
-| 45 min | 6 hr 30 min | 7 hr 45 min, plus 2 hr cooling and overnight in the fridge | 10 |
+| 45 min | 6 hr 45 min | 9 hr 30 min, plus overnight in the fridge | 10 |
 
 ## 📌 Before you start
 
 - Ask a butcher for a Thor's hammer beef shin, and ask them to saw it into 2 or 3 pieces, so the bone fits in the Dutch oven (see **Thor's hammer beef shin**).
-- Make or buy about 3 kg of ice for the ice water in Step 12.
-- At least 1 day, or ideally 2 days, before you serve it, make the goulash up to the end of Step 12, so it can rest in the fridge.
+- Make or buy about 4 kg of ice for the ice water in Step 13.
+- At least 1 day, or ideally 2 days, before you serve it, make the goulash up to the end of Step 13, so it can rest in the fridge.
 
 ## 🔪 Equipment
 
@@ -28,12 +28,12 @@ A rich, deep red goulash of beef shin, slow cooked with as much onion as beef un
 - 110 g ghee (about 8 tbsp) (used in Steps 3 and 5)
 - 2 tbsp tomato purée
 - 1½ metric cups red wine (used in Steps 4 and 7)
-- 1 tbsp apple cider vinegar
+- 1 tbsp apple cider vinegar, plus extra to taste
 - 2 tbsp dried marjoram
 - 2 tsp freshly ground black pepper
 - 1 metric cup Hungarian sweet paprika
 - 450 ml beef stock
-- 2 tsp smoked sea salt flakes
+- 2 tsp smoked sea salt flakes, plus extra to taste
 - 1½ tsp MSG
 - 4 bay leaves
 - 1 lemon, for its zest
@@ -70,7 +70,7 @@ If the fat smokes heavily or the fond (the browned bits stuck to the bottom of t
 
 Make a pinçage (brown the tomato purée, then deglaze it with wine, several times over) in the fat left in the Dutch oven:
 
-- Turn the heat down to medium-low and wait 1 minute, so the tomato purée doesn't burn in the hot Dutch oven. Add the tomato purée, and fry, stirring all the time, until it turns from bright red to a darker brick or rust colour and starts to catch on the bottom of the Dutch oven, 2–5 minutes. Stop before it blackens.
+- Turn the heat down to medium-low and wait until the fat stops smoking, 1–2 minutes, so the tomato purée doesn't burn in the hot Dutch oven. Add the tomato purée, and fry, stirring all the time, until it turns from bright red to a darker brick or rust colour and starts to catch on the bottom of the Dutch oven, 2–5 minutes. Stop before it blackens.
 - Pour in ¼ metric cup of the wine, scraping up the fond. Cook, stirring all the time, until the wine has evaporated and the tomato purée starts to catch on the bottom of the Dutch oven again, 2–4 minutes.
 - Repeat 2 more times, ¼ metric cup of the wine at a time, until it smells toasty, not tomatoey.
 - Pour in another ¼ metric cup of the wine, and stir, scraping the bottom of the Dutch oven, until nothing is stuck to it. Pour the pinçage into a bowl and set it aside for Step 9.
@@ -83,7 +83,7 @@ Put the rest of the ghee (about 4 tbsp) in the Dutch oven over high heat. Once i
 
 Turn the heat down to medium-low and cook, stirring often, until the onions are soft and golden, but not brown, about 25 minutes more. If the bottom of the Dutch oven gets too dry, or a dark crust starts to form on it too fast, add 2 tbsp water and scrape up the browned bits.
 
-Turn the heat down to low, and pour in the cider vinegar to deglaze the onions.
+Turn the heat down to low, and pour in the cider vinegar to deglaze the Dutch oven.
 
 > **Tip:** Well-fried onions are what makes the sauce thick and smooth. If they burn, the whole goulash turns bitter.
 
@@ -109,13 +109,13 @@ Stir the smoked sea salt flakes and MSG into the stock in a jug until they disso
 
 Put the Dutch oven back over medium-low heat. Add the pinçage, the stock and the bay leaves, then crush the garlic into the Dutch oven with the garlic crusher. Grate in the zest of the lemon, just the yellow part, not the bitter white pith.
 
-Cook, stirring all the time, until most of the liquid has evaporated, about 15 minutes.
+Cook, stirring all the time, until most of the liquid has evaporated, about 30 minutes.
 
 #### Step 10: Slow cook the goulash.
 
-Stir in the beef, with any juices from the bowl, and push the roasted pieces of bone down into it. Put the lid on, and cook in the oven at 140°C (120°C fan) for 2 hours.
+Stir in the beef, with any juices from the bowl, and push the roasted pieces of bone down into it. Put the lid on, and cook in the oven at 140°C (120°C fan) for 2 hours, stirring every 30 minutes so it doesn't catch on the bottom of the Dutch oven.
 
-Turn the oven down to 110°C (90°C fan), and cook for another 2 hours, stirring every 15 minutes so it doesn't catch on the bottom of the Dutch oven, until the beef is tender enough to break apart with a spoon. If the beef isn't tender yet but the sauce is already thick enough to coat the back of a spoon (when you draw a finger through it, the line stays clear), stir in water, ¼ metric cup at a time.
+Turn the oven down to 110°C (90°C fan), and cook for another 2 hours, still stirring every 30 minutes, until the beef is tender enough to break apart with a spoon. If the beef isn't tender yet but the sauce is already thick enough to coat the back of a spoon (when you draw a finger through it, the line stays clear), stir in water, ¼ metric cup at a time.
 
 #### Step 11: Dust the goulash.
 
@@ -123,17 +123,23 @@ Skip this step if there's no layer of fat on the surface.
 
 Otherwise, take the Dutch oven out of the oven and dust the layer of fat with the flour. Carefully stir the goulash, then put the lid back on and cook it in the oven for another 15 minutes.
 
-> **Tip:** The flour soaks up the fat before it meets the gravy, so it thickens the goulash without forming lumps.
+> **Tip:** The flour soaks up the fat before it meets the sauce, so it thickens the goulash without forming lumps.
 
-#### Step 12: Refrigerate the goulash.
+#### Step 12: Taste and adjust.
 
-Turn the oven off and leave the goulash in it to cool for 2 hours.
+Take the Dutch oven out of the oven and taste the goulash. It's eaten with something plain, such as potatoes, so it should be well seasoned: rich, beefy and savoury, with the sweetness of the onions balanced by a gentle tang, but not vinegary.
+
+Adjust it 1 tsp at a time: more smoked sea salt flakes if it needs salt, or more cider vinegar if it tastes too sweet or flat. Then put the lid back on and return it to the oven.
+
+#### Step 13: Refrigerate the goulash.
+
+Turn the oven off and leave the goulash to cool in the still hot oven for 1½ hours.
 
 Then lift out the bay leaves and the pieces of bone. Divide the goulash between airtight containers, and flash cool by placing the containers in ice water until cold, about 30 minutes. After flash cooling, place the containers in the fridge. Leave it in the fridge overnight, or ideally for 2 days.
 
-> **Tip:** The sitting time thickens the gravy, tenderises the beef and enhances the flavours even further.
+> **Tip:** The sitting time thickens the sauce, tenderises the beef and enhances the flavours even further.
 
-#### Step 13: Serve the goulash.
+#### Step 14: Serve the goulash.
 
 Reheat as much of the goulash as you'll eat in the Dutch oven or a saucepan over medium-low heat, with the lid on, stirring often, until steaming hot all the way through, about 30 minutes for the whole batch. If it's too thick, stir in water, 2 tbsp at a time.
 
@@ -174,13 +180,13 @@ Goulash comes from Hungary, but found its way into Viennese cooking in the early
 ## 📚 Sources
 
 - America's Test Kitchen: [The Best Wine for Cooking (Is Not What You Think)](https://www.americastestkitchen.com/articles/1271-the-best-wine-for-cooking-is-not-what-you-think). Choosing an inexpensive, medium-bodied red, and avoiding oaky, sweet or very tannic wines, whose flavours cooking concentrates.
-- Chefkoch: [Rindergulasch](https://www.chefkoch.de/rezepte/2275401363075693/Rindergulasch.html). Cooking the beef with red wine and beef stock, with its amounts as a starting point, and making it the night before so the flavours deepen.
-- Little Vienna: [Authentic Austrian Beef Goulash](https://www.lilvienna.com/authentic-austrian-beef-goulash/). Searing the beef in batches without crowding the Dutch oven, trimming off only thick outside fat, slicing the onions into thin half-moons so they cook evenly, cooking them over high heat for 10 minutes and then over medium-low heat, frying the dried marjoram before the paprika, reducing the onions with liquid for about 15 minutes before the beef goes in, short ribs as a swap, and making it 1 or 2 days ahead so the gravy thickens, the beef gets more tender and the flavours deepen.
+- Chefkoch: [Rindergulasch](https://www.chefkoch.de/rezepte/2275401363075693/Rindergulasch.html). Cooking the beef with red wine and beef stock, and making it the night before so the flavours deepen.
+- Little Vienna: [Authentic Austrian Beef Goulash](https://www.lilvienna.com/authentic-austrian-beef-goulash/). Searing the beef in batches without crowding the Dutch oven, trimming off only thick outside fat, slicing the onions into thin half-moons so they cook evenly, cooking them over high heat for 10 minutes and then over medium-low heat, frying the dried marjoram before the paprika, reducing the onions with liquid until most of it has evaporated before the beef goes in, seasoning it to taste with salt at the end, short ribs as a swap, and making it 1 or 2 days ahead so the sauce thickens, the beef gets more tender and the flavours deepen.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the goulash keeps in the freezer when vacuum packed, from its entry for stews.
 - Radio Niederösterreich: [So wird das Gulasch perfekt](https://noe.orf.at/v2/radio/stories/2733747/). Taking the onions off the heat to stir in the paprika and deglazing straight away, because the sugar in paprika burns and turns bitter, that burnt onions make goulash bitter, and dusting the layer of fat on top with flour near the end (in its words, translated from German).
 - Reddit: [Goulash Advice](https://www.reddit.com/r/Austria/comments/gf9dxg/goulash_advice/). Using beef shin and trimming off little of its fat, cutting it into 4 cm chunks and searing them in batches so they don't stew, the amount of dried marjoram, the spoon test for the beef, and adding water if the beef isn't tender but the sauce is thick enough, from vsbcs's comment; the cider vinegar, dusting with flour so there are no lumps, the lemon zest, and Hungarian sweet paprika labelled "noble sweet", from Dankeros_Love's comments; and using only a little tomato purée, from lerllerl's comments.
 - Serious Eats: [Bloom Ground Spices in Oil for Better Flavor](https://www.seriouseats.com/blooming-frying-ground-spices-in-oil). Blooming the dried spices in the fat for 30 seconds, and why it works.
-- Serious Eats: [Viennese Beef Goulash (Saftgulasch)](https://www.seriouseats.com/viennese-beef-goulash-saftgulasch-11903473). Using equal weights of onions and beef, ghee for searing, and Hungarian sweet paprika with dried marjoram, garlic, tomato purée and cider vinegar.
+- Serious Eats: [Viennese Beef Goulash (Saftgulasch)](https://www.seriouseats.com/viennese-beef-goulash-saftgulasch-11903473). Using equal weights of onions and beef, ghee for searing, and Hungarian sweet paprika with dried marjoram, garlic, tomato purée and cider vinegar, adding more cider vinegar to taste at the end.
 - Serviert.at: [Goulash with Sauce](https://www.serviert.at/englisch/rind/anl/gulasch.htm). Frying the onions until golden, not brown, and using as much onion as beef.
 - Tom Cannavan's wine-pages.com: [Viennese Szegediner Gulasch](https://wine-pages.com/community/threads/viennese-szegediner-gulasch.15471/). Taking the Dutch oven off the heat before adding the paprika, and cooking the goulash in the oven at 140°C.
 - Vienna Tourist Board: [Wiener Saftgulasch](https://www.wien.info/de/essen-trinken/wiener-kueche/rezepte/fleisch-fisch/wiener-saftgulasch-365710). Adding grated lemon zest with the garlic, from the recipe in Das Neue Sacher-Kochbuch; and goulash reaching Viennese cooking from Hungary in the early 19th century, with *Wiener Saftgulasch* the best loved version in Vienna, for the **Origin**.
