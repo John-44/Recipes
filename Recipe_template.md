@@ -33,7 +33,7 @@ Keep the sections in this order.
 | Section | Required? | What goes in it |
 | --- | --- | --- |
 | Title | Yes | The name of the dish |
-| Photo | Optional | A photo of the finished dish |
+| Photo | Optional | A photo or illustration of the finished dish, or an ingredient being made |
 | Description | Yes | What the dish is, in 100 words or fewer |
 | Summary box | Yes | How far ahead to start (if needed), prep time, cook time, total time and servings |
 | Before you start | Optional | Anything the cook must do or know before Step 1 |
@@ -53,7 +53,7 @@ Keep the sections in this order.
 ```markdown
 # {Dish emoji} {Recipe Title}
 
-![{What the finished dish looks like}](../images/{Recipe_title}.webp)
+![{What the finished dish looks like, or how the ingredient is being made}](../images/{Recipe_title}.webp)
 
 {What the dish is, what it tastes like and, if it helps, how to serve it. 100 words max.}
 
@@ -206,10 +206,10 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 ### Photos
 
-- A photo of the finished dish goes straight under the title. It's optional, but it shows the cook what they're aiming for.
+- A photo or illustration goes straight under the title. It's optional. Show the finished dish for recipes eaten on their own; for ingredient or component recipes, show the ingredient being made, never presented for eating on its own. For illustrations, follow these image rules and the [illustration style guide](Illustration_style_template.md).
 - A step can have a photo too, under the step and above any tip, when a first-timer can't picture what to look for, such as cracked coconut milk. Most steps won't need one.
 - Only use photos you took yourself, or have permission to use. Never copy one from a website.
-- Put photos in the top-level `images/` folder. Name the finished-dish photo after the recipe's file, and a step photo after the recipe's file plus what it shows: `Thai_yellow_prawn_curry.webp`, `Thai_yellow_prawn_curry_cracked_coconut_milk.webp`.
+- Put photos in the top-level `images/` folder. Name the masthead image after the recipe's file, and a step photo after the recipe's file plus what it shows: `Thai_yellow_prawn_curry.webp`, `Thai_yellow_prawn_curry_cracked_coconut_milk.webp`.
 - Resize each photo to about 1,800 pixels wide, and save it as a WebP of 400 KB or less.
 - Describe what the photo shows in its alt text: `![Thai yellow prawn curry in a bowl, with jasmine rice](../images/Thai_yellow_prawn_curry.webp)`.
 - If you rename or delete a recipe, rename or delete its photos too, and update their links.
