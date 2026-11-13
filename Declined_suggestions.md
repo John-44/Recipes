@@ -100,7 +100,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 - Cherry tomatoes.
 - Leaving out the kaffir lime leaves. They stay, even though Hot Thai Kitchen says *gaeng garee* doesn't use them.
 - "Makrut" instead of "kaffir".
-- Tamarind water made from a block, or advice to avoid Indian tamarind concentrate.
+- Advice to avoid Indian tamarind concentrate.
 - A gram weight for the palm sugar.
 - *Ajat* (cucumber relish) or roti as sides.
 - Homemade crispy fried shallots.

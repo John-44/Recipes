@@ -17,7 +17,7 @@ A deep, glossy, intensely savoury sauce base, in the modern restaurant style. Un
 - Ladle
 - 2 large roasting tins
 - Tongs
-- Chinois (or a fine sieve)
+- Chinois (or a fine-mesh sieve)
 - Heatproof bowl holding at least 6 L (or a second pot)
 - Measuring cup
 - Kitchen string

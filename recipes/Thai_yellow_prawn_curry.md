@@ -11,6 +11,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 ## 📌 Before you start
 
 - Make the [Thai Yellow Curry Paste](Thai_yellow_curry_paste.md) first (35 minutes), or use store-bought paste.
+- Make the [Tamarind Paste](Tamarind_paste.md) first (1 hour 10 minutes), or use store-bought tamarind paste.
 - If your raw king prawns are frozen, thaw them in the fridge overnight, then drain them well.
 - Buy full-fat coconut milk, ideally with no emulsifiers or stabilisers, or the oil may not separate out in Step 2 (see **Coconut milk**).
 - The night before, place can of coconut milk in the refrigerator, so the fat rises to the top and is easy to spoon off in Step 2.
@@ -34,7 +35,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 300 g Charlotte or other waxy potatoes, peeled and cut into 2 cm chunks
 - 1 small onion, cut into thick wedges
 - 4 kaffir lime leaves, crumpled
-- 2 tsp tamarind paste (used in Steps 5 and 7), plus extra to taste
+- 2 tsp [Tamarind Paste](Tamarind_paste.md) (or store-bought, see Notes) (used in Steps 5 and 7), plus extra to taste
 - 1½ tbsp fish sauce, plus extra to taste
 - 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
 - ¼ tsp MSG
