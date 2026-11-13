@@ -89,7 +89,9 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | --- | --- | --- | --- | --- |
 | Meat | beef bones | bones | soup bones, stock bones, cow bones | Raw, unroasted bones for making stock. Joint bones, such as knuckles, are full of cartilage, which gives the most gelatine. |
 | Meat | beef mince | mince | minced beef, ground beef | Sold by how much fat it contains. Lean mince has 10% fat or less. Give the fat content in brackets, as in "1 kg lean beef mince (10% fat is ideal, or use 5% fat)". |
+| Meat | bone-in beef short ribs | short ribs | beef short rib, short rib, Jacob's ladder | Beef ribs with their meat still on the bone. Butchers may call them Jacob's ladder. About 4 kg gives about 2 kg of meat and 2 kg of bones. |
 | Meat | ribeye steak | steak | rib-eye steak, rib eye steak | A boneless steak cut from the rib, marbled with fat. Give its thickness, as in "1 ribeye steak, 3.5 cm thick (about 400 g)". |
+| Meat | Thor's hammer beef shin | beef | Thor's hammer shank, beef shank, shin of beef | A whole beef shin on the bone, with the bone cleaned at one end so it looks like a hammer. About 3 kg gives about 2 kg of meat and 1 kg of bone. Butchers can saw it into pieces, so the bone fits in a pot. |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Meat | chicken carcasses | carcasses | chicken frames, chicken bones | Raw: what's left of a chicken once the breasts, legs and wings are cut off. Butchers sell them cheaply. |
 | Meat | meat trim | meat trim | meat trimmings, meat scraps, offcuts | Raw offcuts of any meat, such as the edges trimmed off steaks and joints. |
@@ -112,7 +114,8 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Aromatics | shallots | shallots | round shallots, French shallots, eschalots | The small, round shallots sold in UK supermarkets. Not Thai shallots, which are smaller, or a banana shallot, which is larger. |
 | Aromatics | smoked garlic bulbs | garlic | bulbs of smoked garlic, smoked garlic heads | Whole bulbs of garlic that have been smoked, which gives the cloves a smoky flavour. Count in bulbs, as in "1 large or 2 small smoked garlic bulbs". For a swap, write "ordinary garlic", meaning garlic cloves. |
 | Aromatics | banana shallot | shallot | echalion, echalion shallot, torpedo shallot | A long shallot, about twice the size of a round one, so 1 can replace 2 shallots. |
-| Aromatics | onion | onion | brown onion, yellow onion | An ordinary onion. Red onions and spring onions would need their own terms. |
+| Aromatics | onion | onion | brown onion | An ordinary onion. Not yellow onions, which have their own term. Red onions and spring onions would need their own terms. |
+| Aromatics | yellow onions | onions | | Onions sold as yellow onions. Not ordinary onions, which are often sold as brown onions or cooking onions. |
 | Roots | fresh turmeric | fresh turmeric | turmeric root, raw turmeric | Keep "fresh" whenever you mean this ingredient, because "turmeric" on its own usually means ground. When you mean the spice in general, "turmeric" is fine, as in "warm with turmeric". |
 | Roots | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
 | Roots | ginger | ginger | root ginger, fresh ginger, ginger root | Means fresh root ginger. Ground ginger would be a separate term. |
@@ -129,7 +132,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | thyme sprigs | thyme sprigs | fresh thyme, thyme stems | Fresh thyme, counted in sprigs, as in "6 thyme sprigs". Not dried thyme. |
 | Fruit | blackberries | blackberries | brambles | Fresh, and sold in 150 g punnets. Say "frozen blackberries" when you mean frozen ones. |
 | Fruit | Bramley apples | apples | Bramleys, Bramley's Seedling | Large, sharp, green cooking apples, which cook down into a soft purée. Bramley is a variety, so it takes a capital B. Eating apples would need their own term. |
-| Fruit | lemon | lemon | | When you squeeze it, keep out the seeds and the bitter white pith, as in "making sure no seeds or pith get into the lemon juice". |
+| Fruit | lemon | lemon | | When you squeeze it, keep out the seeds and the bitter white pith, as in "making sure no seeds or pith get into the lemon juice". For its finely grated peel, write "the zest of the lemon", taking just the yellow part. |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
 | Fruit | tamarind pods | tamarind pods | | Whole tamarind in their brittle brown shells: the sweet kind, for eating as a snack. Not tamarind pulp, which is sour, for cooking. |
 | Chillies | Kashmiri chillies | Kashmiri chillies | Kashmiri red chillies, Kashmiri chilies | Mild dried Indian chillies with a deep red colour. |
@@ -143,6 +146,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Dried herbs | dried oregano | dried oregano | oregano (on its own) | Keep "dried", because fresh oregano is a different ingredient. |
 | Dried herbs | dried thyme | dried thyme | thyme (on its own) | Keep "dried", because fresh thyme is a different ingredient. |
 | Spices | ground black pepper | pepper | black pepper powder | Grind it fresh when you can, as in "freshly ground black pepper". |
+| Spices | caraway seeds | caraway seeds | caraway seed, whole caraway, kümmel | Ground, they're ground caraway. Not cumin seeds, which look similar but taste different. |
 | Spices | cinnamon sticks | cinnamon sticks | cinnamon quills, cinnamon bark | Ground, they're ground cinnamon. Lift them out before serving. |
 | Spices | ground cinnamon | ground cinnamon | cinnamon powder | Whole, it's sold as cinnamon sticks. |
 | Spices | ground cloves | ground cloves | clove powder | Whole cloves would need their own term. |
@@ -153,6 +157,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | ground ginger | ground ginger | ginger powder | Keep "ground" whenever you mean this ingredient. Fresh, it's ginger. |
 | Spices | English mustard powder | mustard powder | dry mustard, ground mustard, mustard flour | Ground mustard seeds, sold in tins. Not ready-made English mustard, which is a paste. |
 | Spices | ground nutmeg | ground nutmeg | nutmeg powder | Freshly ground from a whole nutmeg, it's stronger than ready-ground, so you need less. Say when a recipe needs it ground fresh, as in "¾ tsp freshly ground nutmeg". |
+| Spices | Hungarian sweet paprika | paprika | sweet paprika (on its own), Hungarian paprika (on its own), noble sweet paprika | Mild, bright red paprika from Hungary, made from peppers that aren't smoked. Packs may call it noble sweet. Not sweet smoked paprika. |
 | Spices | sweet smoked paprika | smoked paprika | smoked sweet paprika, pimentón dulce | Mild paprika made from smoked peppers. Packs may call it pimentón dulce. Hot and bittersweet smoked paprika would need their own terms. |
 | Spices | ground turmeric | ground turmeric | turmeric powder | Keep "ground" whenever you mean this ingredient. Fresh, it's fresh turmeric. |
 | Spices | white peppercorns | white peppercorns | whole white pepper | Ground, it's ground white pepper. |
@@ -194,6 +199,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | full-fat coconut milk | coconut milk | full fat coconut milk | The canned kind, not the coconut drinks sold in cartons. Reduced-fat (light) coconut milk won't crack. Coconut cream and creamed coconut are different products. Its thick top layer is "the thick part from the top of the can". |
 | Liquids | evaporated milk | evaporated milk | evap, unsweetened condensed milk | Unsweetened canned milk, with some of its water removed. Not condensed milk, which is sweetened. UK cans usually hold 410 g. |
 | Liquids | milk | milk | | Whole or semi-skimmed cow's milk, as in "1 tbsp milk". Not evaporated milk, which has some of its water removed. |
+| Liquids | beef stock | stock | beef broth, beef bouillon | Store-bought, ready-to-use beef stock, sold in cartons and pots. Not concentrated beef stock, stock cubes or demi-glace. |
 | Liquids | low-salt chicken stock | stock | low-sodium chicken stock, chicken broth, bouillon | Not standard chicken stock, which is saltier. Write "low-salt chicken stock or water" when water works too. |
 | Liquids | red wine | wine | | A dry red, the kind you'd drink. |
 | Liquids | pasta water | pasta water | pasta cooking water, starchy water, spaghetti water | The salted water pasta has been boiling in, cloudy with starch from the pasta. Not boiling water from the kettle. |
@@ -261,6 +267,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Hob and pans | non-stick frying pan | nonstick frying pan, non stick frying pan | Not for searing: it shouldn't be heated that hot. |
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | | Not a pot, which is larger and deeper. |
+| Hob and pans | Dutch oven | cast iron casserole, French oven, cocotte | A heavy pot with a lid, usually enamelled cast iron, that can go on the hob and in the oven. Say how much it holds, as in "Dutch oven holding at least 6 L". Not a pot, which may not be ovenproof. |
 | Hob and pans | pot | stockpot, stock pot, pasta pot | A large, deep pan with two handles, for boiling pasta or simmering a stew, as in "Put 3 L water in the large pot". Not a saucepan, which is smaller, with one long handle. |
 | Hob and pans | pasta strainer insert | pasta insert, pasta basket, strainer basket | A perforated basket that sits inside a large pot, so you can lift pasta out of the water to drain it. |
 | Oven and bakeware | oven | | |
@@ -274,6 +281,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Appliances | microwave | microwave oven | Use it on high power, as in "microwave on high power 15 seconds at a time". |
 | Appliances | sous-vide machine | sous vide machine, immersion circulator | Cooks food sealed in a bag, in a water bath held at an exact temperature. |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
+| Utensils | garlic crusher | garlic press | Squeezes peeled garlic cloves through small holes, crushing them, as in "crush the garlic into the Dutch oven with the garlic crusher". |
 | Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "Pat the prawns dry with kitchen roll". |
 | Utensils | kitchen string | butcher's string, butcher's twine, cooking twine | Plain cotton string that's safe to cook with, for tying herbs into a bundle. |
 | Utensils | ladle | soup ladle | A deep, long-handled spoon, for skimming and for scooping liquids, as in "Ladle the stock through the chinois". |
@@ -315,6 +323,7 @@ Every recipe in this repository. When you mention one, write its title exactly, 
 | Tamarind Paste | [Tamarind_paste.md](recipes/Tamarind_paste.md) | paste |
 | Thai Yellow Curry Paste | [Thai_yellow_curry_paste.md](recipes/Thai_yellow_curry_paste.md) | paste |
 | Thai Yellow Prawn Curry | [Thai_yellow_prawn_curry.md](recipes/Thai_yellow_prawn_curry.md) | curry |
+| Viennese Beef Goulash | [Viennese_beef_goulash.md](recipes/Viennese_beef_goulash.md) | goulash |
 
 ### Dishes
 
@@ -328,6 +337,8 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 
 | Cuisine | English name | Original name | Don't use | Notes |
 | --- | --- | --- | --- | --- |
+| Austrian | Viennese goulash | *Wiener Saftgulasch* | Saftgulasch (on its own), Wiener Gulasch | Beef slow cooked with as much onion as beef, in a thick paprika gravy. This repository's recipe is Viennese Beef Goulash. |
+| German | | *Spätzle* | spaetzle, Spaetzle | Small, soft egg noodles, served as a side, as with Viennese goulash. |
 | Italian | | *spaghetti aglio, olio e peperoncino* | spaghetti aglio e olio, aglio e olio, aglio olio | Spaghetti with garlic, olive oil and chilli. |
 | Tex-Mex | chilli con carne | | chili con carne, chile con carne | Spelled "chilli" in British English. Once it's clear which dish you mean, "chilli" is enough. |
 | Thai | Thai yellow curry | *gaeng garee* | gaeng karee, gaeng kari, kaeng kari, kaeng karee | Once it's clear the curry is Thai, "yellow curry" is enough. |
@@ -365,10 +376,12 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Trimming | stalks removed | stemmed, destemmed | For dried chillies and shiitake mushrooms. |
 | Trimming | cored | | With the core and seeds cut out. For apples, cut them into quarters, then cut the core out of each quarter. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
+| Trimming | meat cut off the bone | boned, deboned | For meat bought on the bone, as in "1 Thor's hammer beef shin (about 3 kg), meat cut off the bone". |
 | Peeling | peeled | shelled | For prawns too, as in "400 g peeled raw king prawns". |
 | Chopping | finely chopped | minced | Chopped into very small pieces. In the UK, "minced" means put through a mincer. |
 | Chopping | roughly chopped | coarsely chopped | |
 | Slicing | finely sliced | thinly sliced | In notes, "sliced" on its own is fine, as in "sliced bird's eye chillies". |
+| Slicing | finely sliced into half-moons | thinly sliced into half-moons, half-moon slices | For onions: cut in half lengthways, then finely sliced across, so each slice is a half ring and they all cook evenly. |
 | Slicing | across the grain | against the grain | At right angles to the lines of muscle running through meat, so each slice is tender. The first time, explain it in brackets, as in "Cut the steak across the grain (at right angles to the lines of muscle running through it)". |
 | Slicing | lengthways | lengthwise | Along the length of something, as in "Finely slice each quarter lengthways (from the stalk end to the base)". |
 | Cutting | cut into thick wedges | sliced into wedges | For onions, so they hold their shape as they simmer. |
@@ -378,6 +391,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Grating | finely grated | microplaned | Grated on the fine holes of a grater, as in "Finely grate the Parmesan". |
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
+| Bruising | crushed | pressed | For garlic: pushed through a garlic crusher, as in "crush the garlic into the Dutch oven with the garlic crusher". For biscuits, crush means hitting them into crumbs. |
 | Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". It ends the line, after any note in brackets. |
 
 ## Cooking terms
@@ -431,7 +445,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Mixing | whisk | beat | Stir briskly with a whisk, as in "whisk until smooth". For cream, use whip. |
 | Mixing | whip | whisk (for cream) | Work air into cream with a whisk until it thickens and holds its shape, as in "whip the cream until it holds soft peaks". |
 | Pastry and baking | roll out | | Roll pastry flat with a rolling pin, as in "Roll out the pastry". |
-| Pastry and baking | dust | sprinkle with flour, flour (as a verb) | Scatter a thin layer of flour over pastry or a work surface, so the pastry doesn't stick, as in "Dust the top of the pastry with flour" or "a work surface dusted with flour". |
+| Pastry and baking | dust | sprinkle with flour, flour (as a verb) | Scatter a thin layer of flour over pastry or a work surface, so the pastry doesn't stick, as in "Dust the top of the pastry with flour" or "a work surface dusted with flour". Also scatter flour over the layer of fat on top of a stew, then stir it in to thicken it, as in "dust the layer of fat with the flour". |
 | Pastry and baking | line | | Cover the inside of a dish with pastry, or of a pastry case with foil, as in "Line the pie dish". |
 | Pastry and baking | crimp | | Press the edge of a pastry case into shape, as in "Crimp the edge by pressing the pastry together with fingers". |
 | Pastry and baking | pastry case | pie crust, pie shell, pastry shell | The pastry once it's lining the dish, as in "Line the cold pastry case with foil". |
@@ -458,6 +472,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Covering | with the lid on | lid on, lidded | With the lid on the pan, so little liquid escapes, as in "Cook for 1½ hours at this low temperature with the lid on". |
 | Frying and toasting | roast | | Cook shallots or garlic, usually whole and in their skins, with no oil, until soft and golden, as in "Many recipes call for roasting the shallots and garlic". Also cook meat or bones in a hot oven until deep brown, as in "Roast the chicken carcasses". For spices, dried chillies, galangal and ginger, use toast. |
 | Frying and toasting | toast | dry-roast, dry-fry | Cook whole spices, dried chillies, crispy fried shallots, galangal or ginger in a dry frying pan, with no oil, until fragrant. |
+| Frying and toasting | bloom | | Fry dried herbs or ground spices briefly in hot fat, so their flavour passes into it. The first time, explain it in brackets, as in "bloom them (fry them briefly in the fat, so their flavour passes into it)". |
 | Frying and toasting | crack | break, split | Simmer the thick part from the top of a can of coconut milk until the oil separates out, so you can fry curry paste in it, as in "Crack the coconut milk". Coconut milk with emulsifiers or stabilisers may not crack. |
 | Frying and toasting | reverse sear | reverse-sear | Cook meat slowly in a low oven, then sear it in a very hot pan, as in "Reverse Seared Ribeye with Pan Sauce". Never hyphenated. |
 | Frying and toasting | sear | seal, pan-sear | Fry over high heat until a deep brown crust forms, as in "Sear the steak". |
@@ -478,6 +493,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | crema | cremina, cream (for a sauce) | A creamy sauce of oil and starchy pasta water that coats pasta, with no pools of oil or water. The first time, explain it in brackets, as in "making a crema (a creamy sauce that coats the spaghetti, with no pools of oil or water)". |
 | Doneness | glossy | shiny | How a sauce looks once butter has melted into it, as in "until the sauce is glossy". |
 | Doneness | golden brown | golden-brown | The colour of fully baked pastry, as in "The bottom of the pastry case should be golden brown". |
+| Doneness | golden, but not brown | | For onions fried slowly: an even golden colour, well short of brown, as in "until the onions are soft and golden, but not brown". |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's thick and the oil separates out", and again when you fry curry paste in it. |
 | Doneness | until deep brown | until well browned, until dark brown | For searing meat or vegetables, and roasting meat or bones. |
 | Doneness | until it becomes thicker | | For a stew simmering uncovered, as in "Cook, stirring often, until it becomes thicker, about 30 minutes". |
@@ -499,6 +515,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | cool enough to touch | cool enough to handle | For soaking water that started out boiling, as in "Soak until the water is cool enough to touch, at least 20 minutes". |
 | Doneness | until crisp | until crispy | For dried chillies left to cool after they've been warmed in a microwave: they snap rather than bend, as in "Leave them to cool until crisp, about 1 minute". |
 | Doneness | until soft | until softened | |
+| Doneness | tender enough to break apart with a spoon | falling apart | The test for slow-cooked beef, as in "until the beef is tender enough to break apart with a spoon". |
 | Doneness | until very smooth | until puréed | For a blended paste. To check, rub a little between your fingers: it shouldn't feel gritty. |
 | Steak doneness | medium-rare | medium rare | Pink in the middle. |
 | Steak doneness | medium | | Pale pink in the middle. For the heat level, write medium heat. |
@@ -602,8 +619,10 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Cook the steak in the oven | Roast the steak, Bake the steak | The low-oven stage of a reverse sear. |
 | Sear the steak | Brown the steak, Seal the steak | |
 | Sear the mince | Brown the mince, Seal the mince | Searing beef mince in batches, each pressed into a flat layer so it browns rather than stews. |
+| Sear the beef | Brown the beef, Seal the beef | Searing chunks of beef in batches, so they brown rather than stew. |
 | Roast the chicken carcasses | Brown the chicken carcasses, Roast the bones | Roasting raw chicken carcasses in a hot oven until deep brown, for a stock. |
 | Roast the meat trim | Brown the meat trim | Roasting meat trim in a hot oven until deep brown, to add to a sauce. |
+| Roast the bone | Brown the bone | Roasting the bone from a Thor's hammer beef shin in a hot oven until deep brown, to add to a stew. |
 | Boil the spaghetti | Cook the spaghetti, Cook the pasta | |
 | Crack the coconut milk | Break the coconut milk, Split the coconut milk | |
 | Fry the prawn heads | | Frying the heads of head-on prawns in oil, to draw out their head fat. |
@@ -614,11 +633,16 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Sear the vegetables | Brown the vegetables, Sauté the vegetables | Searing finely sliced vegetables in oil until deep brown at the edges. |
 | Fry the tomato purée | Sauté the tomato purée, Cook out the tomato purée | Frying tomato purée in oil until it darkens and smells sweet. |
 | Make the pinçage | Pincé the tomato purée | Frying tomato purée until it catches, then deglazing it with wine, several times over. |
+| Caramelise the onions | Caramelize the onions, Brown the onions | Frying a large amount of sliced onions in fat, first over high heat, then slowly over medium-low heat, until soft and golden, but not brown. |
+| Bloom the spices | Fry the spices, Temper the spices | Frying dried herbs or ground spices briefly in fat, so their flavour passes into it. |
+| Toast the paprika | Fry the paprika | Stirring paprika into hot fried onions off the heat, then deglazing straight away, so it toasts without burning. |
+| Dissolve the seasonings | Season the stock | Stirring salt and MSG into stock until they dissolve, so they spread evenly through a stew. |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Fry the sauce | Make the sauce, Cook the sauce | Frying garlic and chilli flakes in oil, then stirring in pasta water. |
 | Add the wine and flavourings | Add the remaining ingredients | |
 | Add the stew ingredients | Add the rest of the ingredients | Pouring in wine to deglaze the pan, then adding everything that simmers with it. |
 | Slow cook the chilli | Simmer the chilli, Cook the chilli | The long, gentle simmer that makes chilli con carne tender and thick. |
+| Slow cook the goulash | Braise the goulash, Cook the goulash | The long, gentle cook in a low oven, with the lid on, that makes Viennese goulash tender and thick. |
 | Simmer the beef bones | Boil the bones | Simmering unroasted beef bones on their own, to draw out their gelatine before the rest of a stock goes in. |
 | Simmer the stock | Cook the stock, Boil the stock | |
 | Strain the stock | Sieve the stock | |
@@ -632,9 +656,11 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Taste and adjust | Season to taste, Adjust the seasoning, Check the seasoning | |
 | Toast the crispy fried shallots | | |
 | Cook the prawns | | |
+| Dust the goulash | Thicken the goulash, Flour the goulash | Dusting the layer of fat on top of a stew with flour near the end of cooking, then stirring it in, to thicken the gravy. |
 | Finish the chilli | Final touches | Lifting out the whole spices, then stirring in fresh herbs and lime juice off the heat. |
 | Finish the spaghetti | Toss the spaghetti, Finish the pasta | Stirring drained spaghetti and pasta water into its sauce until the sauce is a crema. |
 | Cool the pie | Chill the pie, Let the pie cool | Leaving a baked pie to cool, then refrigerating it until it sets. |
+| Refrigerate the goulash | Chill the goulash, Rest the goulash | Dividing a cooked stew between containers so it cools quickly, then refrigerating it overnight before it's reheated. |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
 | Use or store | Store the paste | The last step of a component recipe. |
 
@@ -752,7 +778,9 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 
 | Country | Flag | Don't use | Notes |
 | --- | --- | --- | --- |
+| Austria | 🇦🇹 | Österreich | |
 | France | 🇫🇷 | | |
+| Hungary | 🇭🇺 | Magyarország | |
 | Italy | 🇮🇹 | Italia | |
 | Mexico | 🇲🇽 | México | |
 | Thailand | 🇹🇭 | Siam | |
@@ -765,6 +793,7 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 
 | Country | Region | Don't use | Notes |
 | --- | --- | --- | --- |
+| Austria | Vienna | Wien | The capital of Austria. |
 | Italy | Naples | Napoli | A city in Campania, in southern Italy. |
 | Thailand | Southern Thailand | southern Thailand, South Thailand, the south of Thailand | A capital S, because it's the name of a region. |
 | United Kingdom | England | | One of the four countries of the United Kingdom. |
@@ -811,6 +840,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Bidfood | bidfood.co.uk | Bidfood UK |
 | Biona Organic | biona.co.uk | Biona (on its own) |
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
+| Chefkoch | chefkoch.de | Chef Koch, ChefKoch |
 | Costco UK | costco.co.uk | Costco (on its own) |
 | Delia Smith Recipes | deliasmithcooks.co.uk | Delia Smith (on its own), Delia Smith Cooks |
 | Don't Go Bacon My Heart | dontgobaconmyheart.co.uk | Dont Go Bacon My Heart |
@@ -820,6 +850,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Hairy Bikers | hairybikers.com | The Hairy Bikers, HairyBikers.com |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | Library of Congress | loc.gov | LOC, LoC |
+| Little Vienna | lilvienna.com | Lil Vienna, Li'l Vienna |
 | Love the Kitchen | lovethekitchen.co.uk | Love The Kitchen, LoveTheKitchen |
 | M&S | marksandspencer.com | Marks & Spencer, Marks and Spencer |
 | Maximum Fun | maximumfun.org | MaxFun |
@@ -828,17 +859,21 @@ The website names at the start of each line in **Sources**, before the colon.
 | Nicky's Kitchen Sanctuary | kitchensanctuary.com | Kitchen Sanctuary (on its own), Nickys Kitchen Sanctuary |
 | OutOfAir | outofair.com | Out of Air, Outofair |
 | Preppy Kitchen | preppykitchen.com | PreppyKitchen |
+| Radio Niederösterreich | noe.orf.at | Radio NÖ, ORF (on its own) |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |
 | Reddit | reddit.com | reddit, Reddit.com |
 | Rosa's Thai | rosasthai.com | Rosas Thai, Rosa's (on its own) |
 | Sally's Baking | sallysbakingaddiction.com | Sally's Baking Addiction, Sallys Baking |
 | Serious Eats | seriouseats.com | SeriousEats |
+| serviert.at | serviert.at | Serviert (on its own) |
 | Souldeliciouz Kitchen | souldeliciouz.com | SOULDELICIOUZ KITCHEN, Soul Deliciouz |
 | Sous Chef | souschef.co.uk | SousChef, Souschef |
 | Swasthi's Recipes | indianhealthyrecipes.com | Indian Healthy Recipes, Swasthis Recipes |
 | The Floured Table | theflouredtable.com | Floured Table (on its own) |
 | The Takeout | thetakeout.com | Takeout (on its own), TheTakeout |
 | TODAY | today.com | Today, TODAY.com |
+| Tom Cannavan's wine-pages.com | wine-pages.com | wine-pages (on its own), Wine Pages |
+| Vienna Tourist Board | wien.info | WienTourismus, Wien Tourismus |
 | Waitrose | waitrose.com | Waitrose & Partners |
 | Wikipedia | wikipedia.org | Wiki |
 | YouTube | youtube.com | Youtube, YT |
