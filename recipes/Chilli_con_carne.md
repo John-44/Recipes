@@ -93,11 +93,16 @@ Then remove the lid, add the rest of the butter and cook, stirring occasionally,
 
 Remove the mushrooms from the pot and place them in a bowl. Cover the bowl and refrigerate the mushrooms until Step 7.
 
-#### Step 4: Fry the tomato purée.
+#### Step 4: Make the pinçage.
 
-In a mini frying pan, heat 2 tbsp of the olive oil over medium-low heat. Add the tomato purée, and fry, stirring all the time, until it turns from bright red to a darker brick or rust colour, smells sweet rather than sharp, and starts to catch on the bottom of the pan, 2–5 minutes. Stop before it blackens.
+Make a pinçage (brown the tomato purée, then deglaze it with wine, several times over) in a mini frying pan:
 
-Take the mini frying pan off the heat, pour in ½ metric cup of the wine, and stir, scraping the bottom of the pan, until nothing is stuck to it. Set it aside for Step 6.
+- Heat 2 tbsp of the olive oil in the mini frying pan over medium-low heat. Add the tomato purée, and fry, stirring all the time, until it turns from bright red to a darker brick or rust colour and starts to catch on the bottom of the pan, 2–5 minutes. Stop before it blackens.
+- Pour in ¼ metric cup of the wine, scraping the bottom of the pan. Cook, stirring all the time, until the wine has evaporated and the tomato purée starts to catch on the bottom of the pan again, 2–4 minutes.
+- Repeat 2 more times, ¼ metric cup of the wine at a time, until it smells toasty, not tomatoey.
+- Take the mini frying pan off the heat, pour in another ¼ metric cup of the wine, and stir, scraping the bottom of the pan, until nothing is stuck to it. Set it aside for Step 6.
+
+> **Tip:** Browning the tomato purée in rounds takes away its raw, sharp taste. Deglazing each time it catches stops it burning, which would make the chilli bitter.
 
 #### Step 5: Fry the aromatics and carrots.
 
@@ -107,9 +112,9 @@ Drop the heat to medium-low, then add the garlic and spice blend and stir for 3 
 
 #### Step 6: Add the stew ingredients.
 
-Turn the heat up to high and pour in the rest of the wine (1½ metric cups) to deglaze the pot. Boil it for 2 minutes, scraping the bottom to lift the fond.
+Turn the heat up to high and pour in the rest of the wine (1 metric cup) to deglaze the pot. Boil it for 2 minutes, scraping the bottom to lift the fond.
 
-Add the tomatoes, bay leaves, Worcestershire sauce, demi-glace (or concentrated beef stock), dark chocolate, cinnamon sticks, apple cider vinegar and bird's eye chillies. Then add the tomato purée and wine from Step 4, and the mince you seared in Step 2, with any juices from the plate. Stir well.
+Add the tomatoes, bay leaves, Worcestershire sauce, demi-glace (or concentrated beef stock), dark chocolate, cinnamon sticks, apple cider vinegar and bird's eye chillies. Then add the pinçage from Step 4, and the mince you seared in Step 2, with any juices from the plate. Stir well.
 
 #### Step 7: Slow cook the chilli.
 
