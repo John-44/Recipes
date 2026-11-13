@@ -29,7 +29,7 @@ The aggregated recipes are shaped and scoped according to the following principl
 | | Principle | What it means |
 | :-: | --- | --- |
 | 🎯 | **Aim high** | Each recipe should be the best, elevated version, while remaining practical to cook. |
-| 🔬 | **Objective purpose** | Every step and instruction should contribute to the dish for a quantifiable reason. |
+| 🔬 | **Objective** | Every step and instruction should contribute to the dish for a quantifiable reason. |
 | ⚡ | **Embrace tech** | Old labor-intensive tools are out. Things like high-speed blenders are in. |
 | 🌡️ | **Pragmatic** | Utilise the easiest methods to achieve consistent results, e.g. use thermometers. |
 | 🥫 | **Best ingredients** | Always use the best ingredients. Counterintuitively, this can mean using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md). |
