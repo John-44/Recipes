@@ -24,15 +24,15 @@ A crumble of sharp Bramley apples and blackberries under a crunchy topping of cr
 
 - 250 g digestive biscuits (about 17)
 - 1 tsp ground cinnamon
-- 100 g chopped hazelnuts
-- 100 g unsalted butter (at room temperature)
+- 50 g chopped hazelnuts
+- 75 g unsalted butter (at room temperature)
 
 #### For the filling
 
-- 1 lemon
+- 2 lemons
 - 1.2 kg Bramley apples, peeled, cored and finely sliced lengthways (about 4 large)
-- 150 g light brown soft sugar (used in Steps 6 and 7)
-- 2½ tbsp cornflour (used in Steps 6 and 7)
+- 125 g light brown soft sugar (used in Steps 6 and 7)
+- 4 tbsp cornflour (used in Steps 6 and 7)
 - 1 tsp ground cinnamon (used in Steps 6 and 7)
 - 450 g blackberries
 
@@ -60,9 +60,9 @@ Put an oven shelf in the middle of the oven, and preheat the oven to 180°C (160
 
 **For the filling**
 
-#### Step 4: Squeeze the lemon.
+#### Step 4: Squeeze the lemons.
 
-Squeeze the lemon into a large bowl, making sure no seeds or pith get into the lemon juice.
+Squeeze the lemons into a large bowl, making sure no seeds or pith get into the lemon juice.
 
 #### Step 5: Prep the apples.
 
@@ -70,11 +70,11 @@ Peel the apples, cut them into quarters and cut out the cores. Finely slice each
 
 #### Step 6: Toss the apples.
 
-In a small bowl, mix 100 g of the brown sugar, 1 tbsp of the cornflour and ½ tsp of the ground cinnamon. Add it to the apples, and toss until all the apples are coated.
+In a small bowl, mix 75 g of the brown sugar, 2 tbsp of the cornflour and ½ tsp of the ground cinnamon. Add it to the apples, and toss until all the apples are coated.
 
 #### Step 7: Layer the fruit.
 
-Put the pie dish on a baking tray. In the small bowl, mix the rest of the brown sugar (50 g), cornflour (1½ tbsp) and ground cinnamon (½ tsp), to make the sugar mix.
+Put the pie dish on a baking tray. In the small bowl, mix the rest of the brown sugar (50 g), cornflour (2 tbsp) and ground cinnamon (½ tsp), to make the sugar mix.
 
 Place alternating layers of apples, then blackberries, then apples, and so on, in the pie dish, starting and finishing with apples. After placing each layer of apples, sprinkle an even share of the sugar mix on top of it before placing the blackberries. Aim for at least 3 apple and 2 blackberry layers.
 
@@ -132,9 +132,9 @@ Crumble became popular in Britain during the Second World War, when rationing ma
 - Delia Smith Recipes: [Delia Smith Blackberry and Apple Crumble Recipe](https://deliasmithcooks.co.uk/delia-smith-blackberry-and-apple-crumble-recipe/). An unofficial fan site, not connected with Delia Smith. Peeling, coring and finely slicing the apples, tossing the fruit with lemon juice, sugar, cornflour and ground cinnamon, not pressing the topping down, laying foil over it if it browns too fast, leaving the crumble to cool before serving, frozen blackberries with extra cornflour, and reheating it in the oven.
 - Good Food: [Apple & blackberry crumble](https://www.bbcgoodfood.com/recipes/apple-blackberry-crumble). Serving it with vanilla ice cream, and spicing the apples and blackberries with ground cinnamon.
 - Great British Chefs: [The forbidden fruit: are we eating and cooking the wrong apples?](https://www.greatbritishchefs.com/features/british-apple-varieties). How sharp Bramley apples are, and how they collapse as they cook, for the description.
-- McVitie's: [Digestives Apple & Rhubarb Crumble](https://mcvities.com/en-gb/digestives-apple-rhubarb-crumble#/product/4196d357-6eef-4823-8e2b-59c2ac117543/225g). A topping of crushed digestive biscuits mixed with butter, and how much butter to use, tossing the fruit with sugar and cornflour, and baking it until golden on top and bubbling.
+- McVitie's: [Digestives Apple & Rhubarb Crumble](https://mcvities.com/en-gb/digestives-apple-rhubarb-crumble#/product/4196d357-6eef-4823-8e2b-59c2ac117543/225g). A topping of crushed digestive biscuits mixed with butter, tossing the fruit with sugar and cornflour, and baking it until golden on top and bubbling.
 - Souldeliciouz Kitchen: [How to make Apple Crumble with Digestive Biscuits](https://souldeliciouz.com/how-to-make-apple-crumble-with-digestive-biscuits/). Using Bramley apples, mixing butter at room temperature into the crushed digestive biscuits, and adding ground cinnamon.
-- The Floured Table: [Apple Blackberry Crumble](https://www.theflouredtable.com/blackberry-and-apple-crumble/). Baking at 180°C for 45–55 minutes, until the juices bubble in the centre and the topping is golden brown, putting a baking tray under the dish to catch drips, how much cornflour to use, that frozen blackberries take longer, and making the topping up to 1 week ahead.
+- The Floured Table: [Apple Blackberry Crumble](https://www.theflouredtable.com/blackberry-and-apple-crumble/). Baking at 180°C for 45–55 minutes, until the juices bubble in the centre and the topping is golden brown, putting a baking tray under the dish to catch drips, that frozen blackberries take longer, and making the topping up to 1 week ahead.
 - Wikipedia: [Crumble](https://en.wikipedia.org/wiki/Crumble). Its place of origin, its earliest recipes and its popularity in Britain during the Second World War, for the **Origin**.
 
 ---

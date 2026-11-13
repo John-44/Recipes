@@ -580,7 +580,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Soak the tamarind | | |
 | Squeeze out the flesh | Squeeze the tamarind | Squeezing soaked tamarind with your fingers until the flesh comes away from the fibres. |
 | Strain the paste | Sieve the paste | Pushing a paste through a sieve, leaving the fibres behind. |
-| Squeeze the lemon | Juice the lemon | |
+| Squeeze the lemons | Juice the lemons | |
 | Prep the apples | Prepare the apples | Peeling, coring and slicing apples, and tossing them in lemon juice so they don't go brown. |
 | Toast and soak the chillies | | |
 | Toast the spices | | |
