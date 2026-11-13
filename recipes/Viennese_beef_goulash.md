@@ -4,7 +4,7 @@ A rich, deep red goulash of beef shin, slow cooked with as much onion as beef un
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
-| 45 min | 6 hr 30 min | 7 hr 15 min, plus 2 hr cooling and overnight in the fridge | 10 |
+| 45 min | 6 hr 30 min | 7 hr 45 min, plus 2 hr cooling and overnight in the fridge | 10 |
 
 ## 📌 Before you start
 
@@ -129,7 +129,7 @@ Otherwise, take the Dutch oven out of the oven and dust the layer of fat with th
 
 Turn the oven off and leave the goulash in it to cool for 2 hours.
 
-Then lift out the bay leaves and the pieces of bone. Divide the goulash between airtight containers, and flash cool by placing the containers in ice water. After flash cooling, place the containers in the fridge. Leave it in the fridge overnight, or ideally for 2 days.
+Then lift out the bay leaves and the pieces of bone. Divide the goulash between airtight containers, and flash cool by placing the containers in ice water until cold, about 30 minutes. After flash cooling, place the containers in the fridge. Leave it in the fridge overnight, or ideally for 2 days.
 
 > **Tip:** The sitting time thickens the gravy, tenderises the beef and enhances the flavours even further.
 
@@ -149,7 +149,7 @@ Spoon it into bowls to serve.
 
 ## 🫙 Storage and make-ahead
 
-- 🧊 **Fridge:** Up to 2 days. Divide it between airtight containers so it cools quickly, and refrigerate it within 1–2 hours.
+- 🧊 **Fridge:** Up to 2 days.
 - ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Thaw it in the fridge overnight, and eat it within 24 hours.
 - ♨️ **Reheat:** Reheat only as much as you'll eat, and only once, in a saucepan over medium-low heat, stirring often, until steaming hot all the way through. If it's too thick, stir in water, 2 tbsp at a time.
 
