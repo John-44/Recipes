@@ -5,7 +5,7 @@
 # The Recipe Repo
 
 **The best of many recipes, merged into one.**<br>
-Recipes for UK home cooks, written in Markdown and managed in Git.
+Recipes for home cooks, written in Markdown and managed in Git.
 
 [![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-E4572E?style=flat-square&logo=creativecommons&logoColor=white)](LICENSE)
 [![Written in Markdown](https://img.shields.io/badge/written%20in-Markdown-6A994E?style=flat-square&logo=markdown&logoColor=white)](Recipe_template.md)
