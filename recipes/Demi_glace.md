@@ -15,7 +15,7 @@ A deep, glossy, intensely savoury sauce base, in the modern restaurant style. Un
 
 - Pot holding at least 12 L, with a lid
 - Ladle
-- 2 large roasting tins
+- 2 large roasting trays
 - Tongs
 - Chinois (or a fine-mesh sieve)
 - Heatproof bowl holding at least 6 L (or a second pot)
@@ -70,7 +70,7 @@ Turn the heat down to low, so it stays at a gentle simmer, and simmer with the l
 
 About 1¼ hours before the bones have simmered for 24 hours, preheat the oven to 220°C (200°C fan).
 
-Press the chicken carcasses flat and spread them out in a single layer in the 2 roasting tins. Roast them until deep brown all over, about 1 hour, turning them over halfway. Stop before they blacken.
+Press the chicken carcasses flat and spread them out in a single layer in the 2 roasting trays. Roast them until deep brown all over, about 1 hour, turning them over halfway. Stop before they blacken.
 
 While they roast, cut the onions for the stock into thick wedges, and the carrots and celery into 5 cm chunks.
 
@@ -78,7 +78,7 @@ While they roast, cut the onions for the stock into thick wedges, and the carrot
 
 #### Step 3: Simmer the stock.
 
-When the bones have simmered for 24 hours, lift the carcasses into the pot with tongs, leaving their fat behind. Pour the fat out of the roasting tins, then ladle ½ metric cup of the stock into each tin and scrape up the fond (the browned bits stuck to the bottom of the tin). Pour it into the pot.
+When the bones have simmered for 24 hours, lift the carcasses into the pot with tongs, leaving their fat behind. Pour the fat out of the roasting trays, then ladle ½ metric cup of the stock into each tray and scrape up the fond (the browned bits stuck to the bottom of the tray). Pour it into the pot.
 
 Add the onions, carrots and celery, and the mushrooms if you're using them, then add boiling water if needed so everything is just covered. Bring back to a simmer over medium-high heat, then turn the heat down to low and simmer gently, with the lid ajar, for 6 hours, skimming off any foam and fat every hour or so.
 
@@ -94,7 +94,7 @@ Leave the stock to settle for 5 minutes, then skim the fat off the top with the 
 
 #### Step 5: Roast the meat trim.
 
-Preheat the oven to 220°C (200°C fan). Spread the meat trim out in a single layer in a clean roasting tin, and roast until deep brown, 40–50 minutes, turning it over halfway. While it roasts, start Step 6.
+Preheat the oven to 220°C (200°C fan). Spread the meat trim out in a single layer in a clean roasting tray, and roast until deep brown, 40–50 minutes, turning it over halfway. While it roasts, start Step 6.
 
 #### Step 6: Sear the vegetables.
 
@@ -112,7 +112,7 @@ Make a pinçage (brown the tomato purée, then deglaze it with wine, several tim
 
 #### Step 8: Reduce the demi-glace.
 
-Lift the meat trim into the pot with tongs, leaving its fat in the roasting tin. Pour the fat out of the tin, then ladle ½ metric cup of the stock into it, scrape up the fond and pour it into the pot. Add the rest of the stock.
+Lift the meat trim into the pot with tongs, leaving its fat in the roasting tray. Pour the fat out of the tray, then ladle ½ metric cup of the stock into it, scrape up the fond and pour it into the pot. Add the rest of the stock.
 
 Bring to a simmer over high heat, then turn the heat down to medium so it keeps simmering. Cook, uncovered, skimming off the foam every 10–15 minutes, until it coats the back of a spoon (when you draw a finger through it, the line stays clear), 3–4 hours. You'll have about 1.2 L. As it thickens, stir it more often so it doesn't catch on the bottom of the pot.
 

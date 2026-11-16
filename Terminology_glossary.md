@@ -92,7 +92,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Meat | bone-in beef short ribs | short ribs | beef short rib, short rib, Jacob's ladder | Beef ribs with their meat still on the bone. Butchers may call them Jacob's ladder. About 4 kg gives about 2 kg of meat and 2 kg of bones. |
 | Meat | ribeye steak | steak | rib-eye steak, rib eye steak | A boneless steak cut from the rib, marbled with fat. Give its thickness, as in "1 ribeye steak, 3.5 cm thick (about 400 g)". |
 | Meat | Thor's hammer beef shin | beef | Thor's hammer shank, beef shank, shin of beef | A whole beef shin on the bone, with the bone cleaned at one end so it looks like a hammer. About 3 kg gives about 2 kg of meat and 1 kg of bone. Butchers can saw it into pieces, so the bone fits in a pot. |
-| Meat | mild-cure gammon joint | gammon | mild cure gammon joint, raw ham, uncooked ham | A joint of raw pork leg, cured with less salt than traditional gammon, so it doesn't need soaking. Give its weight, as in "1 mild-cure gammon joint (about 4 kg)". Once it's cooked, call it ham, as in "Lift the ham into the roasting tin". |
+| Meat | mild-cure gammon joint | gammon | mild cure gammon joint, raw ham, uncooked ham | A joint of raw pork leg, cured with less salt than traditional gammon, so it doesn't need soaking. Give its weight, as in "1 mild-cure gammon joint (about 4 kg)". Once it's cooked, call it ham, as in "Lift the ham into the roasting tray". |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Meat | chicken carcasses | carcasses | chicken frames, chicken bones | Raw: what's left of a chicken once the breasts, legs and wings are cut off. Butchers sell them cheaply. |
 | Meat | meat trim | meat trim | meat trimmings, meat scraps, offcuts | Raw offcuts of any meat, such as the edges trimmed off steaks and joints. |
@@ -283,8 +283,8 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Oven and bakeware | oven shelf | oven rack | One of the shelves inside the oven, as in "put an oven shelf in the lower third of the oven". Not a wire rack. |
 | Oven and bakeware | pie dish | pie plate, pie pan, pie tin | Give its size and depth, as in "a 23 cm metal or glass pie dish, at least 4 cm deep". |
 | Oven and bakeware | pie guard | pie shield, pie crust shield, crust shield | Foil covering the edge of a pastry case, so it doesn't burn, as in "Make a pie guard by covering the edges of the pastry with foil". |
-| Oven and bakeware | roasting dish | | A deep ovenproof dish for roasting, in metal, enamelled steel or ceramic, as in "Put the bone in a roasting dish". A roasting tin is the metal kind. |
-| Oven and bakeware | roasting tin | roasting pan, roasting tray, roaster | A deep, sturdy metal tin for roasting meat and bones, as in "2 large roasting tins". Not a baking tray, which is shallower. |
+| Oven and bakeware | roasting dish | | A deep ovenproof dish for roasting, in metal, enamelled steel or ceramic, as in "Put the bone in a roasting dish". A roasting tray is the metal kind. |
+| Oven and bakeware | roasting tray | roasting tin, roasting pan, roaster | A deep, sturdy metal tray for roasting meat and bones, as in "2 large roasting trays". Not a baking tray, which is shallower. |
 | Oven and bakeware | wire rack | cooling rack, cake rack | For cooling baked food, so air can reach its underside. Set in a baking tray, it also lets the oven's heat reach the underside of food as it cooks. |
 | Appliances | microwave | microwave oven | Use it on high power, as in "microwave on high power 15 seconds at a time". |
 | Appliances | sous-vide machine | sous vide machine, immersion circulator | Cooks food sealed in a bag, in a water bath held at an exact temperature. |
@@ -498,10 +498,10 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Skimming | skim | degrease | Lift foam or fat off the surface of a liquid with a ladle, as in "skimming off the foam every 10–15 minutes". |
 | Joints | skin side down | skin-side down, skin down | With the skin facing down, as in "Put the gammon in the pot, skin side down". Turned the other way up, it's skin side up. |
 | Joints | cut off the skin | remove the skin, cut away the skin, skin (as a verb) | For a cooked ham: slice the skin away with a sharp knife, as in "Use a sharp knife to cut off the skin, leaving a layer of fat". |
-| Joints | score | slash | Cut lines into fat or skin, without cutting into the meat, as in "Score the fat with the knife in two directions". |
-| Joints | massage | rub in | Work a glaze or paste into food with your hands, as in "massage half the glaze into the scored fat". |
+| Joints | score | slash | Cut lines into fat or skin, without cutting into the meat, as in "Score the fat with a knife in two directions". |
+| Joints | massage | rub in | Work a glaze or paste into food with your hands, as in "massage the glaze into the scored fat". |
 | Joints | stud | | Push whole cloves into meat or fat, as in "Stud every point where the score lines cross with a clove". |
-| Joints | baste | | Spoon the glaze or juices from the tin back over meat as it roasts. The first time, explain it in brackets, as in "basting it halfway through (spooning the glaze and juices from the roasting tin back over the ham)". |
+| Joints | baste | | Spoon the glaze or juices from the tray back over meat as it roasts. The first time, explain it in brackets, as in "basting it halfway through (spooning the glaze and juices from the roasting tray back over the ham)". |
 | Doneness | the raw {ingredient} smell has gone | no longer smells raw | For frying curry paste, as in "the raw shallot and garlic smell has gone". |
 | Doneness | until fragrant | until aromatic | |
 | Doneness | until it smells toasty, not tomatoey | | For a pinçage: the tomato purée has lost its raw, sharp smell. |
@@ -874,7 +874,6 @@ The website names at the start of each line in **Sources**, before the colon.
 | Blendtec | blendtec.com | BlendTec, Blend-Tec |
 | Chefkoch | chefkoch.de | Chef Koch, ChefKoch |
 | ckbk | ckbk.com | CKBK, Ckbk |
-| Coca-Cola GB | coca-cola.com/gb | Coca-Cola (on its own), Coca-Cola UK |
 | Costco UK | costco.co.uk | Costco (on its own) |
 | Delia Smith Recipes | deliasmithcooks.co.uk | Delia Smith (on its own), Delia Smith Cooks |
 | Don't Go Bacon My Heart | dontgobaconmyheart.co.uk | Dont Go Bacon My Heart |
@@ -905,7 +904,6 @@ The website names at the start of each line in **Sources**, before the colon.
 | Souldeliciouz Kitchen | souldeliciouz.com | SOULDELICIOUZ KITCHEN, Soul Deliciouz |
 | Sous Chef | souschef.co.uk | SousChef, Souschef |
 | Swasthi's Recipes | indianhealthyrecipes.com | Indian Healthy Recipes, Swasthis Recipes |
-| Tesco | tesco.com | Tescos, Tesco.com |
 | The Floured Table | theflouredtable.com | Floured Table (on its own) |
 | The Takeout | thetakeout.com | Takeout (on its own), TheTakeout |
 | TODAY | today.com | Today, TODAY.com |
