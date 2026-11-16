@@ -1,6 +1,6 @@
 # 🍆 Greek Home-Cooked Moussaka
 
-Layers of fried aubergines and a beef mince sauce, simmered with white wine, fresh tomatoes and parsley leaves, under a thick, egg-enriched béchamel with a golden crust of kefalotyri, breadcrumbs and butter. This version follows a handwritten Greek family recipe, keeping its ingredients and method and filling in only what it leaves out. Known in Greece as *mousakás*. Serve it warm rather than hot, once the béchamel has set.
+A rustic Greek recipe, making moussaka the way it would traditionally be made in the home. Layers of fried aubergines and a beef mince sauce, simmered with white wine, fresh tomatoes and parsley leaves, under a thick, egg-enriched béchamel with a golden crust of kefalotyri, breadcrumbs and butter. This version follows a handwritten Greek family recipe. Known in Greece as *mousakás*. Serve it warm rather than hot, once the béchamel has set.
 
 | Prep time | Cook time | Total time | Servings |
 | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ Its name came into Greek from Arabic, through Ottoman Turkish. The Greek version
 - Argiro Barbarigou: [Moussaka](https://www.argiro.gr/en/recipe/moussaka/). Canned chopped tomatoes, for the swap in **Vine tomatoes**.
 - Argiro Barbarigou: [Secrets for an authentic moussaka recipe](https://www.argiro.gr/en/ta-mistika-tis-argiros/secrets-for-an-authentic-moussaka-recipe/). Frying the aubergines until lightly golden, and leaving the moussaka to stand for at least 45 minutes and serving it warm, not hot.
 - Family recipe: a handwritten Greek recipe for aubergine moussaka. Its ingredients, amounts and method, which this recipe follows, filling in only what it leaves out.
-- King Arthur Baking: [Ingredient Weight Chart](https://www.kingarthurbaking.com/learn/ingredient-weight-chart). How much a cup of dried breadcrumbs weighs, to convert the handwritten recipe's teacup of breadcrumbs.
+- King Arthur Baking: [Ingredient Weight Chart](https://www.kingarthurbaking.com/learn/ingredient-weight-chart). How much a cup of dried breadcrumbs weighs.
 - My Greek Dish: [Traditional Moussaka recipe with eggplants (aubergines) and potatoes](https://www.mygreekdish.com/recipe/mousakas/). The size of the baking dish, draining the fried aubergines on kitchen roll, a meat sauce thick enough not to soak into the aubergines, letting the moussaka cool before cutting it so the béchamel doesn't run, and making it ahead and reheating it.
 - National Center for Home Food Preservation: [Foods That Do Not Freeze Well](https://nchfp.uga.edu/how/freeze/freeze-general-information/foods-that-do-not-freeze-well/). That crumb toppings go soft when frozen.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the moussaka keeps in the freezer when vacuum packed, from its entry for stews.
