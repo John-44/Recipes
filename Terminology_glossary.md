@@ -174,7 +174,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | ground white pepper | ground white pepper | white pepper powder, white pepper (on its own) | Whole, they're white peppercorns. |
 | Spices | medium curry powder | curry powder | | A ready-made dry spice blend, sold as medium curry powder. Not mild Thai curry powder. |
 | Spices | mild Thai curry powder | curry powder | curry spice mix | A ready-made dry spice blend, not a curry paste. Choose a mild one. |
-| Curry pastes | Thai Yellow Curry Paste | curry paste | | The recipe in this repository. Link it in the ingredient list, as `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`. |
+| Curry pastes | Thai Yellow Curry Paste | curry paste | | The recipe in this repository. Link it wherever you name it, as `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`. |
 | Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A jar of Thai yellow curry paste, used instead of the Thai Yellow Curry Paste recipe. Paste made from the recipe is "homemade", not "home-made". |
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
 | Seasonings | fine sea salt | salt | fine salt | Fine grains that dissolve quickly, for baking. Table salt works too. Not coarse sea salt. |
@@ -189,7 +189,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | apple cider vinegar | cider vinegar | ACV | Vinegar made from apples. Packs may call it cider vinegar. |
 | Seasonings | balsamic vinegar | balsamic vinegar | balsamic (on its own), aceto balsamico | Sour and slightly sweet. Not balsamic glaze, which is thicker and sweeter. |
 | Seasonings | sherry vinegar | sherry vinegar | Jerez vinegar, vinagre de Jerez | Vinegar made from sherry, with a mellow, nutty flavour. |
-| Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind, homemade or store-bought. Tamarind concentrate is a thicker, stronger product. This repository's recipe is Tamarind Paste: link it in the ingredient list, as `[Tamarind Paste](Tamarind_paste.md)`. |
+| Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind, homemade or store-bought. Tamarind concentrate is a thicker, stronger product. This repository's recipe is Tamarind Paste: link it wherever you name it, as `[Tamarind Paste](Tamarind_paste.md)`. |
 | Seasonings | tamarind pulp | tamarind | tamarind block, tamarind slab, wet tamarind | Compacted tamarind fruit pulp, sold in brown blocks, usually seedless but full of fibres. Packs may call it wet tamarind. Buy the sour kind for cooking, from Thailand. Not tamarind pods, which are sweet, or tamarind paste, which is made from it. |
 | Seasonings | black treacle | treacle | | A thick, dark, bittersweet syrup made from sugar cane, sold in tins. Not golden syrup, which is pale and mild. Molasses is similar, but would need its own term. |
 | Seasonings | demerara sugar | sugar | demerara (on its own), raw cane sugar | Golden-brown cane sugar with large, crunchy crystals. Not light brown soft sugar, which is fine and moist. |
@@ -203,7 +203,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Oils and fats | olive oil | oil | pure olive oil, light olive oil | Oil sold as just "olive oil": mostly refined, with a milder flavour than extra virgin olive oil, so it's good for frying. |
 | Oils and fats | unsalted butter | butter | sweet butter | Salted butter would need its own term. |
 | Oils and fats | vegetable oil | oil | neutral oil, cooking oil | A neutral-tasting oil, usually rapeseed, sold as vegetable oil. |
-| Liquids | demi-glace | demi-glace | demi glace, demiglace | A thick, rich sauce base made by reducing beef or veal stock. This repository's recipe, Demi-Glace, uses beef and chicken. Link it in the ingredient list, as `[Demi-Glace](Demi_glace.md)`. |
+| Liquids | demi-glace | demi-glace | demi glace, demiglace | A thick, rich sauce base made by reducing beef or veal stock. This repository's recipe, Demi-Glace, uses beef and chicken. Link it wherever you name it, as `[Demi-Glace](Demi_glace.md)`. |
 | Liquids | concentrated beef stock | concentrated stock | beef stock concentrate, stock concentrate | A thick stock concentrate, used by the teaspoon. Not stock cubes, or ready-to-use beef stock. |
 | Liquids | whipping cream | cream | heavy cream, heavy whipping cream | Cream with at least 35% fat, sold in pots. It's the nearest UK match to US heavy cream. Double cream is richer, and would need its own term. |
 | Liquids | coconut cream | coconut cream | | Thicker and richer than coconut milk, and sold in cartons and cans. Not the thick part from the top of a can of coconut milk, or creamed coconut, which is a hard block. |

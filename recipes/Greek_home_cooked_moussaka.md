@@ -68,7 +68,7 @@ Lift the aubergines onto kitchen roll to drain, then lay them on a large plate, 
 
 #### Step 5: Make the béchamel.
 
-Preheat the oven to 180°C (160°C fan). Make the Greek Béchamel Sauce.
+Preheat the oven to 180°C (160°C fan). Make the [Greek Béchamel Sauce](Greek_bechamel_sauce.md).
 
 #### Step 6: Layer the moussaka.
 

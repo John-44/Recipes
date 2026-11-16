@@ -62,7 +62,7 @@ Whisk the yolks, then whisk in 1 ladle of the sauce. Pour the yolk mixture into 
 
 #### Step 6: Use or store.
 
-Use it straight away, while it's warm and easy to spread, as in Greek Home-Cooked Moussaka or Elevated Greek Moussaka.
+Use it straight away, while it's warm and easy to spread, as in [Greek Home-Cooked Moussaka](Greek_home_cooked_moussaka.md) or [Elevated Greek Moussaka](Elevated_greek_moussaka.md).
 
 ## 📝 Notes and substitutions
 

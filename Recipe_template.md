@@ -190,8 +190,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 
 - Link with the file name only. All recipes are in the same folder, so no path is needed: `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`.
 - The link text is the other recipe's title, exactly as written.
-- Link a recipe where it appears in **Before you start** and in the ingredient list. In the directions, just use its name.
-- You can also link from **Notes and substitutions**, e.g. "For a chicken version, see [Thai Yellow Chicken Curry](Thai_yellow_chicken_curry.md)."
+- Whenever you name another recipe in this repository by its title, link it, wherever that is in the recipe, including the directions, tips and **Notes and substitutions**: "Make the [Greek Béchamel Sauce](Greek_bechamel_sauce.md).", "For a chicken version, see [Thai Yellow Chicken Curry](Thai_yellow_chicken_curry.md)."
 - Only link to recipes that exist. If the one you need doesn't exist yet, write it first using this template, or list the ingredient without a link.
 - If a store-bought version works, add `(or store-bought, see Notes)` to the ingredient line and give details in **Notes and substitutions**.
 - If you rename or delete a recipe, update every link to it.
@@ -468,7 +467,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - [ ] Every step number the recipe mentions, in any section, points to the right step.
 - [ ] **Equipment** lists every piece of kit beyond the basics that the recipe uses, including protective kit.
 - [ ] Every photo is your own or one you have permission to use, is in `images/`, and has alt text.
-- [ ] Every link points to a recipe that exists, and the link text matches its title.
+- [ ] Every mention of another recipe by its title is a link, every link points to a recipe that exists, and the link text matches its title.
 - [ ] The **Freezer** entry follows the [vacuum packing rules](#vacuum-packing), and the **Fridge** entry gives no vacuum-packed time.
 - [ ] Each linked component recipe lists this recipe under **Used in**.
 - [ ] **Origin** has a country, and a region if you found a reliable answer.

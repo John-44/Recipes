@@ -72,7 +72,7 @@ Add the ground spices to the high-speed blender and blend in short bursts, stopp
 
 #### Step 6: Use or store.
 
-Use half the paste for a curry that serves 4, such as Thai Yellow Prawn Curry. Freeze the rest.
+Use half the paste for a curry that serves 4, such as [Thai Yellow Prawn Curry](Thai_yellow_prawn_curry.md). Freeze the rest.
 
 ## 📝 Notes and substitutions
 
