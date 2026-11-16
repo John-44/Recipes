@@ -25,7 +25,7 @@ A whole gammon joint simmered for hours in Coca-Cola with vegetables and spices,
 - 1 mild-cure gammon joint (about 4 kg)
 - 5 L Coca-Cola Original Taste (used in Steps 1 and 2)
 - 2 medium carrots, peeled and roughly chopped
-- 2 celery sticks, peeled and roughly chopped
+- 2 celery sticks, roughly chopped
 - 2 onions, peeled
 - 2 cinnamon sticks
 - 2 bay leaves
@@ -44,7 +44,7 @@ A whole gammon joint simmered for hours in Coca-Cola with vegetables and spices,
 
 Put the gammon in the pot, skin side down, and pour in enough of the Coca-Cola to cover it completely. Keep the rest for Step 2.
 
-Peel and roughly chop the carrots and celery, and peel the onions. Add to the pot with the cinnamon sticks, bay leaves and peppercorns.
+Peel and roughly chop the carrots, roughly chop the celery, and peel the onions. Add to the pot with the cinnamon sticks, bay leaves and peppercorns.
 
 > **Tip:** The more snugly the gammon fits in the pot, the less Coca-Cola it takes to cover it, so in a wide pot, 5 L may not be enough.
 
