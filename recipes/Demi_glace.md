@@ -136,7 +136,7 @@ Adjust it ½ tsp at a time: more soy sauce if it needs salt, more sherry vinegar
 
 #### Step 12: Use or store.
 
-Use what you need straight away, such as in Chilli con Carne or Reverse Seared Ribeye with Pan Sauce. Freeze the rest.
+Use what you need straight away, such as in [Chilli con Carne](Chilli_con_carne.md) or [Reverse Seared Ribeye with Pan Sauce](Reverse_seared_ribeye_with_pan_sauce.md). Freeze the rest.
 
 ## 📝 Notes and substitutions
 

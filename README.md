@@ -49,6 +49,9 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 | 🌶️ | [Chilli con Carne](recipes/Chilli_con_carne.md) | Mains | Stews |
 | 🍖 | [Coca-Cola Ham](recipes/Coca_cola_ham.md) | Mains | Roasts |
 | 🫗 | [Demi-Glace](recipes/Demi_glace.md) | | Sauces |
+| 🍆 | [Elevated Greek Moussaka](recipes/Elevated_greek_moussaka.md) | Mains | Bakes |
+| 🫕 | [Greek Béchamel Sauce](recipes/Greek_bechamel_sauce.md) | | Sauces |
+| 🍆 | [Greek Home-Cooked Moussaka](recipes/Greek_home_cooked_moussaka.md) | Mains | Bakes |
 | 🍝 | [Midnight Spaghetti](recipes/Midnight_spaghetti.md) | Mains | Pasta dishes |
 | 🥧 | [Pumpkin Pie](recipes/Pumpkin_pie.md) | Desserts | Pies |
 | 🥩 | [Reverse Seared Ribeye with Pan Sauce](recipes/Reverse_seared_ribeye_with_pan_sauce.md) | Mains | Steaks |
