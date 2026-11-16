@@ -33,6 +33,10 @@ Suggestions for this repository that have been considered and turned down. Read 
 - A tip in Step 3 on why the mushrooms cook with the lid on first: the steam stops them soaking up the butter.
 - A **Taste and adjust** step.
 
+## Coca-Cola Ham
+
+- Lining the roasting tray with foil, as Nigella Lawson does, so the treacle doesn't burn onto it.
+
 ## Midnight Spaghetti
 
 - Rewording the description to mention the herbs, to say what the smoked garlic and pine nuts add rather than "umami", and to avoid "at night during an evening".
