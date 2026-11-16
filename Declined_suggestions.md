@@ -9,6 +9,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 ## Recipe template
 
 - A "Last cooked as written" date on each recipe.
+- Linking a recipe's short name, such as "the béchamel", as well as its title. Only mentions by title are links, because link text is the recipe's exact title.
 - A minimum wait, such as 2 hr, before something goes in **Start ahead**. It's for waits of any length.
 - Moving waits of 1 hr or more after `plus` in **Total time**. The cut-off is 2 hr.
 - **Before you start** bullets for preparation that matters more than usual, such as chopping very finely so a paste isn't gritty, or for measuring everything out before Step 1.
