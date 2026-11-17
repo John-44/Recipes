@@ -103,7 +103,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Eggs | eggs | eggs | | Hen's eggs. Give the size, as in "3 medium eggs". |
 | Cheese | kefalotyri | kefalotyri | kefalotiri, kefalotyri cheese | A hard, salty Greek cheese for grating, made from sheep's or goat's milk, or both. It isn't vegetarian. Sold in Greek delis and online. |
 | Cheese | Parmesan | Parmesan | parmesan cheese, Parmigiano, Parmigiano Reggiano | An Italian hard cheese for grating, made with calf rennet, so it isn't vegetarian. Packs may call it Parmigiano Reggiano. |
-| Cheese | Pecorino Romano | Pecorino | Romano, pecorino romano | A hard, salty Italian cheese for grating, made from sheep's milk. A swap for kefalotyri. |
+| Cheese | Pecorino Romano | Pecorino | Romano, pecorino romano | A hard, salty Italian cheese for grating, made from sheep's milk. It isn't vegetarian. A swap for kefalotyri. |
 | Cheese | vegetarian Italian-style hard cheese | hard cheese | vegetarian Parmesan, vegetarian hard Italian style cheese | A hard cheese for grating, like Parmesan but made with vegetarian rennet. Check that the pack says it's suitable for vegetarians. |
 | Vegetables | aubergines | aubergines | eggplants, eggplant, brinjals | The large, dark purple kind. Give a rough count after the weight, as in "1.25 kg aubergines (about 4)". |
 | Vegetables | carrots | carrots | | Give a size, as in "2 large carrots". |
@@ -531,6 +531,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | glossy | shiny | How a sauce looks once butter has melted into it, as in "until the sauce is glossy". |
 | Doneness | golden brown | golden-brown | The colour of fully baked pastry, or a baked topping, as in "The bottom of the pastry case should be golden brown" or "bake until the top is golden brown". |
 | Doneness | golden, but not brown | | For onions fried slowly: an even golden colour, well short of brown, as in "until the onions are soft and golden, but not brown". |
+| Doneness | looks like thick custard | custard-thick, custard consistency, like custard (on its own) | For a thick béchamel: it bubbles slowly and is smooth and thick, but still pourable, as in "until the sauce bubbles and looks like thick custard". Any thinner, and it soaks into the layer below as it bakes. |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's thick and the oil separates out", and again when you fry curry paste in it. |
 | Doneness | until deep brown | until well browned, until dark brown | For searing meat or vegetables, and roasting meat or bones. |
 | Doneness | until it becomes thicker | | For a stew simmering uncovered, as in "Cook, stirring often, until it becomes thicker, about 30 minutes". |
