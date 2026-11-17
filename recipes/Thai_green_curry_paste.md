@@ -1,6 +1,6 @@
 # 🍃 Thai Green Curry Paste
 
-A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, kaffir lime leaves and fresh herbs. In Thailand it's called *prik gaeng khiao waan*, and it's the base of Thai green curry. Large green spur chillies add chilli flavour without much heat, and Thai basil deepens the green colour. This batch makes enough for 3 curries, so freeze two-thirds for next time.
+A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, kaffir lime leaves and fresh herbs. In Thailand it's called *prik gaeng khiao waan*, and it's the base of Thai green curry. Green Thai spur chillies add chilli flavour without much heat, and Thai basil deepens the green colour. This batch makes enough for 3 curries, so freeze two-thirds for next time.
 
 | Prep time | Cook time | Total time | Makes |
 | --- | --- | --- | --- |
@@ -8,7 +8,7 @@ A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, ka
 
 ## 📌 Before you start
 
-- Green bird's eye chillies and large green spur chillies can burn your skin and eyes, so wear gloves to prepare them.
+- Green bird's eye chillies and green Thai spur chillies can burn your skin and eyes, so wear gloves to prepare them.
 
 ## 🔪 Equipment
 
@@ -19,7 +19,7 @@ A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, ka
 ## 🥕 Ingredients
 
 - 12 green bird's eye chillies, stalks removed
-- 45 g large green spur chillies (*prik cheefa khiao*), stalks removed (about 3)
+- 45 g green Thai spur chillies (*prik chee fah khiao*), stalks removed (about 3)
 - 1 tbsp coriander seeds
 - 1 tbsp cumin seeds
 - 1 tsp white peppercorns
@@ -119,7 +119,7 @@ Use a third of the paste (about 180 g) for a curry that serves 6, such as [Thai 
 - Jamie Oliver Cookery School: Fragrant Thai Green Curry, the recipe card (2020) from its [Fragrant Thai Green Curry](https://jamieolivercookeryschool.com/cooking-classes/fragrant-thai-green-curry/) class. The starting point for this recipe: its paste ingredients and amounts, tripled.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long paste keeps in the freezer when vacuum packed.
 - RecipeTin Eats: [Thai Green Curry Paste recipe](https://www.recipetineats.com/thai-green-curry-paste-recipe/). Using dried shrimp paste, which keeps the paste green, how much white pepper to use, and the fridge time.
-- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Large green spur chillies as the milder chillies Thai cooks use, toasting the spices, how much salt to add, why a small batch won't blend in a blender, the Thai names of the paste and the spur chillies, pressing cling film onto the paste in the fridge, and the freezer time.
+- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Green Thai spur chillies as the milder chillies Thai cooks use, toasting the spices, how much salt to add, why a small batch won't blend in a blender, the Thai names of the paste and the spur chillies, pressing cling film onto the paste in the fridge, and the freezer time.
 - Wikipedia: [Green curry](https://en.wikipedia.org/wiki/Green_curry). Where the dish comes from.
 
 ---
