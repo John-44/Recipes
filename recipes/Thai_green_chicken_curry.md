@@ -21,18 +21,18 @@ A creamy, fragrant curry of chicken thighs, Thai aubergines and mangetout in coc
 #### For the curry
 
 - 1 can (400 ml) full-fat coconut milk (used in Steps 1, 2 and 3)
-- 1 tbsp coconut oil (only if needed, see Step 1)
+- 2 tbsp coconut oil (only if needed, see Step 1)
 - 180 g [Thai Green Curry Paste](Thai_green_curry_paste.md) (or store-bought, see Notes)
 - 750 g boneless, skinless chicken thighs, cut into bite-size pieces
 - 200 ml low-salt chicken stock
 - 6 kaffir lime leaves, crumpled
-- 1½ tbsp fish sauce, plus extra to taste
-- 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
+- 3 tbsp fish sauce, plus extra to taste
+- 2 tbsp grated palm sugar (about ½ of a palm sugar block), plus extra to taste
 - ¼ tsp MSG
 - 250 g Thai aubergines, stalks removed (about 8)
 - 1 small carton (250 ml) coconut cream (used in Steps 4 and 8)
-- 200 g mangetout
-- 1 lime
+- 200 g mangetout, stalks removed
+- ½ lime
 - 30 g Thai basil leaves
 
 #### To serve
@@ -40,6 +40,7 @@ A creamy, fragrant curry of chicken thighs, Thai aubergines and mangetout in coc
 - 450 g jasmine rice
 - 6 tbsp crispy fried shallots
 - 15 g Thai basil leaves (optional)
+- 1 red chilli, finely sliced (optional)
 - 1 lime, cut into wedges
 
 ## 🍳 Directions
@@ -86,25 +87,26 @@ Toast the crispy fried shallots in a dry frying pan over medium-low heat, stirri
 
 Drain the aubergines and add them to the curry. Simmer over medium heat, pushing them under the sauce for the first minute so they don't turn brown, until a knife goes into them with a little resistance, about 3 minutes.
 
-Add the mangetout and simmer until they're bright green and just tender, about 2 minutes. Take the curry off the heat, squeeze in the juice of the lime, then stir in the 30 g of Thai basil until it wilts.
+Add the mangetout and simmer until they're bright green and just tender, about 2 minutes. Take the curry off the heat, squeeze in the juice of the ½ lime, then stir in the 30 g of Thai basil until it wilts.
 
 > **Tip:** Simmered any longer, the aubergines go soft, and the sauce darkens and loses its fresh green colour.
 
 #### Step 8: Serve the curry.
 
-Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil leaves. Serve with the lime wedges on the side.
+Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil leaves and chilli. Serve with the lime wedges on the side, and tell everyone the lime leaves are there for flavour, not for eating.
 
 ## 📝 Notes and substitutions
 
 - **Coconut milk:** For the coconut milk to separate, buy one that isn't homogenised and has no emulsifiers or stabilisers, such as guar gum or carboxymethylcellulose. [Biona Organic coconut milk](https://biona.co.uk/products/biona-organic-coconut-milk-400ml) has neither; the Thai brands Aroy-D and Chaokoh contain an emulsifier, but you can use them if you can't find one without.
 - **Store-bought paste:** Use 100 g (about 6 tbsp). It's saltier than homemade, so add only half the fish sauce in Step 3, then more to taste in Step 5.
-- **Thai aubergines:** Look for them in Asian supermarkets. They're small, round and green, crisper and more bitter than the large purple aubergines sold in UK supermarkets, and they stay slightly crunchy when cooked. If you can't find them, use the same weight of the large purple aubergines, cut into 5 cm chunks.
+- **Thai aubergines:** Look for them in Asian supermarkets. They're small, round and green, crisper and more bitter than the large purple aubergines sold in UK supermarkets, and they stay slightly crunchy when cooked.
+- **Thai basil:** Look for it in Asian supermarkets. If you can't find any, use the same weight of basil leaves, which taste less of aniseed.
 - **More heat:** This curry is fairly mild. For more heat, add 1 or 2 sliced green bird's eye chillies with the chicken.
 
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 2 days in an airtight container. Store leftover rice separately, eat it within 24 hours, and reheat it only once.
-- ❄️ **Freezer:** Not recommended. The aubergines and mangetout go soft.
+- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Freeze only the curry made up to the end of Step 3, as the aubergines and mangetout go soft in the freezer. Thaw it in the fridge overnight, then finish it as in **Make ahead** and eat it within 24 hours.
 - 📅 **Make ahead:** Make the curry up to the end of Step 3, but leave the aubergines whole, and the rice until the day you serve it. Cool it, and refrigerate for up to 2 days. On the day, reheat the curry until simmering, cut the aubergines as in Step 3, cook the rice, and carry on from Step 4.
 - ♨️ **Reheat:** Reheat on the hob over medium-low heat until steaming hot all the way through.
 
@@ -131,13 +133,15 @@ Green curry is a fairly recent Thai dish. It probably began in the kitchens of t
 
 - America's Test Kitchen: [How to "Crack" Coconut Cream](https://www.americastestkitchen.com/how_tos/8358-how-to-crack-coconut-cream). How to crack the coconut milk and how long it takes.
 - Biona Organic: [Organic Coconut Milk 400ml](https://biona.co.uk/products/biona-organic-coconut-milk-400ml). A coconut milk with no emulsifiers or stabilisers.
-- Hot Thai Kitchen: [Authentic & Easy Thai GREEN CURRY Chicken](https://hot-thai-kitchen.com/green-curry-new-2/). Adding kaffir lime leaves, stirring the chicken into the fried paste before the liquid goes in, keeping the cut aubergines in water and pushing them under the sauce so they don't turn brown, how long the aubergines take, and stirring in the Thai basil off the heat.
+- Hot Thai Kitchen: [Authentic & Easy Thai GREEN CURRY Chicken](https://hot-thai-kitchen.com/green-curry-new-2/). Adding kaffir lime leaves, stirring the chicken into the fried paste before the liquid goes in, how much fish sauce to use, keeping the cut aubergines in water and pushing them under the sauce so they don't turn brown, how long the aubergines take, stirring in the Thai basil off the heat, and warning everyone not to eat the lime leaves.
 - Hot Thai Kitchen: [Coconut Milk 101: Why Brands Taste So Different & How to Pick the Best One](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating.
+- Hot Thai Kitchen: [How to Freeze a Thai Curry](https://hot-thai-kitchen.com/freezer-curry/). Freezing the curry before the vegetables and Thai basil go in.
 - Hot Thai Kitchen: [Thai Curry Master Class - Make Any Curry Without Recipes!](https://hot-thai-kitchen.com/thai-curry-master-class/). Season curry strongly, because it's eaten with plain rice.
 - Jamie Oliver Cookery School: Fragrant Thai Green Curry, the recipe card (2020) from its [Fragrant Thai Green Curry](https://jamieolivercookeryschool.com/cooking-classes/fragrant-thai-green-curry/) class. The starting point for this recipe: the chicken, stock, mangetout, Thai basil and limes, and how much of each to use for 6.
-- RecipeTin Eats: [Thai Green Curry](https://www.recipetineats.com/thai-green-curry/). Using full-fat coconut milk, how long to cook the mangetout, finishing with lime juice, crispy fried shallots and Thai basil as garnishes, and not simmering the curry any longer once the vegetables are in, so the sauce stays green.
-- Serious Eats: [Gaeng Khiao Waan Gai (Thai Green Curry with Chicken)](https://www.seriouseats.com/gaeng-khiao-waan-gai-thai-green-curry-with-chicken-recipe-5189726). Using Thai aubergines, how they differ from the large purple kind and the swap, the taste to aim for, and how old the dish is.
-- Wikipedia: [Green curry](https://en.wikipedia.org/wiki/Green_curry). Where the dish comes from, and what its Thai name means.
+- OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the curry keeps in the freezer when vacuum packed.
+- RecipeTin Eats: [Thai Green Curry](https://www.recipetineats.com/thai-green-curry/). Using full-fat coconut milk, how long to cook the mangetout, finishing with lime juice, crispy fried shallots and Thai basil as garnishes, using basil leaves if you can't find Thai basil, and not simmering the curry any longer once the vegetables are in, so the sauce stays green.
+- Serious Eats: [Gaeng Khiao Waan Gai (Thai Green Curry with Chicken)](https://www.seriouseats.com/gaeng-khiao-waan-gai-thai-green-curry-with-chicken-recipe-5189726). Using Thai aubergines, how they differ from the large purple kind, the taste to aim for, and how old the dish is.
+- Wikipedia: [Green curry](https://en.wikipedia.org/wiki/Green_curry). Where the dish comes from, what its Thai name means, and the sliced red chilli to scatter on top.
 
 ---
 
