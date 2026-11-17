@@ -38,6 +38,11 @@ Suggestions for this repository that have been considered and turned down. Read 
 
 - Lining the roasting tray with foil, as Nigella Lawson does, so the treacle doesn't burn onto it.
 
+## Elevated Greek Moussaka
+
+- A **Baked aubergines** note, brushing the salted slices with olive oil and baking them at 240°C (220°C fan) instead of frying them, as Argiro Barbarigou, My Greek Dish and RecipeTin Eats all offer.
+- Dropping "canned" from the source line for Argiro Barbarigou's Moussaka, because her recipe lists 800 g of chopped tomatoes without saying they're canned. Greek Home-Cooked Moussaka's line for the same page says "canned" too.
+
 ## Midnight Spaghetti
 
 - Rewording the description to mention the herbs, to say what the smoked garlic and pine nuts add rather than "umami", and to avoid "at night during an evening".

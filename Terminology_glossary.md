@@ -93,6 +93,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Meat | bone-in beef short ribs | short ribs | beef short rib, short rib, Jacob's ladder | Beef ribs with their meat still on the bone. Butchers may call them Jacob's ladder. About 4 kg gives about 2 kg of meat and 2 kg of bones. |
 | Meat | ribeye steak | steak | rib-eye steak, rib eye steak | A boneless steak cut from the rib, marbled with fat. Give its thickness, as in "1 ribeye steak, 3.5 cm thick (about 400 g)". |
 | Meat | Thor's hammer beef shin | beef | Thor's hammer shank, beef shank, shin of beef | A whole beef shin on the bone, with the bone cleaned at one end so it looks like a hammer. About 3 kg gives about 2 kg of meat and 1 kg of bone. Butchers can saw it into pieces, so the bone fits in a pot. |
+| Meat | lamb mince | mince | minced lamb, ground lamb | Usually fattier than beef mince. |
 | Meat | mild-cure gammon joint | gammon | mild cure gammon joint, raw ham, uncooked ham | A joint of raw pork leg, cured with less salt than traditional gammon, so it doesn't need soaking. Give its weight, as in "1 mild-cure gammon joint (about 4 kg)". Once it's cooked, call it ham, as in "Lift the ham into the roasting tray". |
 | Meat | boneless, skinless chicken thighs | chicken | chicken thigh fillets, skinless boneless chicken thighs | |
 | Meat | chicken carcasses | carcasses | chicken frames, chicken bones | Raw: what's left of a chicken once the breasts, legs and wings are cut off. Butchers sell them cheaply. |
@@ -516,6 +517,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Stirring | stirring all the time | stirring constantly, stirring continuously | |
 | Stirring | whisking all the time | whisking constantly, whisking continuously | For a sauce thickened with flour, so it doesn't go lumpy or catch on the bottom of the pan. |
 | Skimming | skim | degrease | Lift foam or fat off the surface of a liquid with a ladle, as in "skimming off the foam every 10–15 minutes". |
+| Skimming | spoon off | | Lift fat out of a pan with a spoon, as in "spoon off all but about 2 tbsp of the fat in the pot". Not skim, which lifts foam or fat off a simmering liquid with a ladle. |
 | Joints | skin side down | skin-side down, skin down | With the skin facing down, as in "Put the gammon in the pot, skin side down". Turned the other way up, it's skin side up. |
 | Joints | cut off the skin | remove the skin, cut away the skin, skin (as a verb) | For a cooked ham: slice the skin away with a sharp knife, as in "Use a sharp knife to cut off the skin, leaving a layer of fat". |
 | Joints | score | slash | Cut lines into fat or skin, without cutting into the meat, as in "Score the fat with a knife in two directions". |
