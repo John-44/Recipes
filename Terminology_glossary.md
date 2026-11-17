@@ -748,7 +748,7 @@ The bold topic at the start of each note in **Notes and substitutions**. A note 
 | --- | --- | --- | --- |
 | Ingredients | Buying paste | Shopping for paste, Which paste to buy | What to look for, or avoid, when buying a paste. |
 | Ingredients | Ground spices | Ready-ground spices, Pre-ground spices | How to use ground spices instead of toasting and grinding whole ones. |
-| Ingredients | Store-bought paste | Shop-bought paste, Ready-made paste | How much store-bought paste to use, and how it differs from homemade. |
+| Ingredients | Store-bought paste | Shop-bought paste, Ready-made paste | How much store-bought paste to use, and how it differs from homemade. If the recipe has more than one paste, name the paste, as in **Store-bought Thai yellow curry paste**. |
 | Variations | Chicken instead | Chicken version, Using chicken | How to use chicken in place of the main ingredient. Use the same pattern for other swaps: "{Ingredient} instead". |
 | Variations | Elevated version | Improved version, Upgraded version | Points to the recipe that builds on this one with touches from other cooks, as in "see Elevated Greek Moussaka". |
 | Variations | Home-cooked version | Original version, Family version | Points to the home-cooked recipe that an elevated version builds on, as in "see Greek Home-Cooked Moussaka". |
