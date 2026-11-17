@@ -30,11 +30,11 @@ The aggregated recipes are shaped and scoped according to the following principl
 | :-: | --- | --- |
 | 🎯 | **Aim high** | Each recipe should be the best, elevated version, while remaining practical to cook. |
 | 🔬 | **Objective&nbsp;purpose** | Every step and instruction should contribute to the dish for a quantifiable reason. |
-| ⚡ | **Embrace&nbsp;tech** | Old labour-intensive tools like a mortar and pestle are out. Things like high-speed blenders are in. |
+| ⚡ | **Embrace&nbsp;tech** | Old labour-intensive tools like mortar and pestle are out, high-speed blenders are in. |
 | 🌡️ | **Pragmatic** | Utilise the easiest methods to achieve consistent results, e.g. use thermometers. |
 | 🥫 | **Best&nbsp;ingredients** | Always use the best ingredients for the specific recipe.[^1] |
 | 🧂 | **No&nbsp;superstitions** | For example, use MSG when it makes sense. |
-| ✂️ | **Succinct** | Each recipe should contain only pertinent information, and be short and to the point. No waffling. |
+| ✂️ | **Succinct** | Each recipe should contain only pertinent information, and be short and to the point. |
 | ⚖️ | **Precise** | Every quantity, timing and temp should be exact, leaving nothing to guesswork. |
 
 [^1]: Counterintuitively, this can sometimes mean using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md).
@@ -48,15 +48,15 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 | 🍏 | [Apple and Blackberry Crumble](recipes/Apple_and_blackberry_crumble.md) | Desserts | Crumbles |
 | 🌶️ | [Chilli con Carne](recipes/Chilli_con_carne.md) | Mains | Stews |
 | 🍖 | [Coca-Cola Ham](recipes/Coca_cola_ham.md) | Mains | Roasts |
-| 🫗 | [Demi-Glace](recipes/Demi_glace.md) | | Sauces |
+| 🫗 | [Demi-Glace](recipes/Demi_glace.md) | Ingredient | Sauces |
 | 🍆 | [Elevated Greek Moussaka](recipes/Elevated_greek_moussaka.md) | Mains | Bakes |
-| 🫕 | [Greek Béchamel Sauce](recipes/Greek_bechamel_sauce.md) | | Sauces |
+| 🫕 | [Greek Béchamel Sauce](recipes/Greek_bechamel_sauce.md) | Ingredient | Sauces |
 | 🍆 | [Greek Home-Cooked Moussaka](recipes/Greek_home_cooked_moussaka.md) | Mains | Bakes |
 | 🍝 | [Midnight Spaghetti](recipes/Midnight_spaghetti.md) | Mains | Pasta dishes |
 | 🥧 | [Pumpkin Pie](recipes/Pumpkin_pie.md) | Desserts | Pies |
 | 🥩 | [Reverse Seared Ribeye with Pan Sauce](recipes/Reverse_seared_ribeye_with_pan_sauce.md) | Mains | Steaks |
-| 🫙 | [Tamarind Paste](recipes/Tamarind_paste.md) | | Pastes |
-| 🌿 | [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) | | Pastes |
+| 🫙 | [Tamarind Paste](recipes/Tamarind_paste.md) | Ingredient | Pastes |
+| 🌿 | [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) | Ingredient | Pastes |
 | 🍤 | [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md) | Mains | Curries |
 | 🍲 | [Viennese Beef Goulash](recipes/Viennese_beef_goulash.md) | Mains | Stews |
 

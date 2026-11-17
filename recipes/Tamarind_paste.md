@@ -2,7 +2,7 @@
 
 ![Oil painting of a cook straining tamarind pulp through a fine-mesh sieve into a pot in a Thai kitchen](../images/Tamarind_paste.webp)
 
-A sour, fruity paste made by soaking a block of tamarind pulp in boiling water, squeezing the flesh off its fibres and straining it. Thai cooks use it to add sourness to curries, stir-fries and salads. It has more flavour than store-bought tamarind paste, which is often weak and varies from tub to tub.
+A sour, fruity paste made by soaking a block of tamarind pulp in boiling water, squeezing the flesh off its fibres and straining it. Thai cooks use it to add sourness to curries, stir-fries and salads. Has more flavour than store-bought paste, which is often weak and varies.
 
 | Prep time | Cook time | Total time | Makes |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Rip the tamarind into the smallest chunks you can with your fingers, and put the
 
 #### Step 2: Soak the tamarind.
 
-Measure the boiling water in a measuring cup and pour it over the tamarind to cover it. Soak until the water is cool enough to touch, at least 20 minutes.
+Measure the boiling water in a measuring cup and pour over the tamarind, covering it. Soak until the water is cool enough to touch, at least 20 minutes.
 
 > **Tip:** The longer the tamarind soaks, the easier it is to squeeze the flesh off the fibres.
 
@@ -81,6 +81,7 @@ Tamarind trees are native to tropical Africa, and tamarind is used across Southe
 
 ## 🏷️ Tags
 
+- **Course:** 🧩 Ingredient
 - **Type:** 🌿 Pastes
 - **Diet:** 🥥 Dairy-free, 🌽 Gluten-free, 🫑 Vegetarian, 🌱 Vegan
 - **Allergens:** ✅ None
