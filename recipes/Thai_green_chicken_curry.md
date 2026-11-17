@@ -93,7 +93,7 @@ Add the mangetout and simmer until they're bright green and just tender, about 2
 
 #### Step 8: Serve the curry.
 
-Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil leaves and chilli. Serve with the lime wedges on the side, and tell everyone the lime leaves are there for flavour, not for eating.
+Spoon the curry over the rice, then drizzle the rest of the coconut cream on top in a spiral. Scatter with the crispy fried shallots, then the Thai basil leaves and chilli. Serve with the lime wedges on the side.
 
 ## 📝 Notes and substitutions
 
@@ -133,7 +133,7 @@ Green curry is a fairly recent Thai dish. It probably began in the kitchens of t
 
 - America's Test Kitchen: [How to "Crack" Coconut Cream](https://www.americastestkitchen.com/how_tos/8358-how-to-crack-coconut-cream). How to crack the coconut milk and how long it takes.
 - Biona Organic: [Organic Coconut Milk 400ml](https://biona.co.uk/products/biona-organic-coconut-milk-400ml). A coconut milk with no emulsifiers or stabilisers.
-- Hot Thai Kitchen: [Authentic & Easy Thai GREEN CURRY Chicken](https://hot-thai-kitchen.com/green-curry-new-2/). Adding kaffir lime leaves, stirring the chicken into the fried paste before the liquid goes in, how much fish sauce to use, keeping the cut aubergines in water and pushing them under the sauce so they don't turn brown, how long the aubergines take, stirring in the Thai basil off the heat, and warning everyone not to eat the lime leaves.
+- Hot Thai Kitchen: [Authentic & Easy Thai GREEN CURRY Chicken](https://hot-thai-kitchen.com/green-curry-new-2/). Adding kaffir lime leaves, stirring the chicken into the fried paste before the liquid goes in, how much fish sauce to use, keeping the cut aubergines in water and pushing them under the sauce so they don't turn brown, how long the aubergines take, and stirring in the Thai basil off the heat.
 - Hot Thai Kitchen: [Coconut Milk 101: Why Brands Taste So Different & How to Pick the Best One](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating.
 - Hot Thai Kitchen: [How to Freeze a Thai Curry](https://hot-thai-kitchen.com/freezer-curry/). Freezing the curry before the vegetables and Thai basil go in.
 - Hot Thai Kitchen: [Thai Curry Master Class - Make Any Curry Without Recipes!](https://hot-thai-kitchen.com/thai-curry-master-class/). Season curry strongly, because it's eaten with plain rice.

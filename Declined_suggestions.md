@@ -94,9 +94,7 @@ Suggestions for this repository that have been considered and turned down. Read 
 
 ## Thai Green Chicken Curry
 
-- Leaving the lime juice out of the curry, or squeezing it in at the start of **Taste and adjust**. It stays in Step 7, cut to the juice of ½ lime.
 - A swap for the Thai aubergines, such as the large purple kind cut into 2 cm chunks and added with the coconut cream. The old 5 cm swap was removed instead.
-- Starting the rice before reheating the curry in **Make ahead**.
 
 ## Thai Yellow Curry Paste
 
