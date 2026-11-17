@@ -30,7 +30,7 @@ A creamy, fragrant curry of chicken thighs, Thai aubergines and mangetout in coc
 - 2 tbsp grated palm sugar (about ½ of a palm sugar block), plus extra to taste
 - ¼ tsp MSG
 - 250 g Thai aubergines, stalks removed (about 8)
-- 1 small carton (250 ml) coconut cream (used in Steps 4 and 8)
+- 1 small can (160 ml) coconut cream (used in Steps 4 and 8)
 - 200 g mangetout, stalks removed
 - ½ lime
 - 30 g Thai basil leaves

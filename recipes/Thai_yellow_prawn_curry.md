@@ -39,7 +39,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 1½ tbsp fish sauce, plus extra to taste
 - 1 tbsp grated palm sugar (about ¼ of a palm sugar block), plus extra to taste
 - ¼ tsp MSG
-- 1 small carton (250 ml) coconut cream (used in Steps 6 and 10)
+- 1 small can (160 ml) coconut cream (used in Steps 6 and 10)
 
 #### To serve
 
