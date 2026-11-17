@@ -4,7 +4,7 @@ A thick, creamy béchamel, enriched with egg yolks and kefalotyri, the hard, sal
 
 | Prep time | Cook time | Total time | Makes |
 | --- | --- | --- | --- |
-| 5 min | 20 min | 30 min | About 1.2 L (enough for 1 moussaka) |
+| 5 min | 20 min | 30 min | About 1.2 L (enough for 1 moussaka for 8) |
 
 ## 📌 Before you start
 
@@ -30,7 +30,7 @@ A thick, creamy béchamel, enriched with egg yolks and kefalotyri, the hard, sal
 
 #### Step 1: Heat the milk.
 
-Heat the milk in a saucepan over medium heat until it steams, with small bubbles at the edge, about 5 minutes. Don't let it boil.
+Heat the milk in a saucepan over medium heat until it steams, with small bubbles at the edge, about 5 minutes. Then take it off the heat, so it doesn't boil.
 
 While it heats, separate the eggs, putting the yolks in a small heatproof bowl, and finely grate the kefalotyri.
 
@@ -40,17 +40,17 @@ Melt the butter in a large saucepan over medium heat. Add the flour and make a r
 
 #### Step 3: Whisk in the milk.
 
-Pour in about a quarter of the hot milk, whisking all the time until smooth. Add the rest in 3 more batches, whisking until smooth each time.
+Pour in about a quarter of the hot milk, whisking all the time until smooth. Add the rest in 3 more batches, whisking until smooth each time. If it turns lumpy, take the pan off the heat and whisk until smooth, then put it back on the heat.
 
-Turn the heat down to medium-low. Cook, whisking all the time and reaching into the corners of the pan, until the sauce thickly coats the back of a spoon (when you draw a finger through it, the line stays clear), 5–8 minutes.
+Turn the heat down to medium-low. Cook, whisking all the time and reaching into the corners of the pan, until the sauce bubbles and looks like thick custard, 5–8 minutes. It should thickly coat the back of a spoon (when you draw a finger through it, the line stays clear).
 
 > **Tip:** Hot milk, added a little at a time, mixes into the roux without lumps. The sauce thickens first in the corners of the pan, where it can catch on the bottom if you don't keep whisking there.
 
 #### Step 4: Taste and adjust.
 
-Take the pan off the heat. Whisk in the kefalotyri, salt, ground white pepper and ground nutmeg until the cheese has melted, then taste. It should be creamy, savoury and well seasoned, and gently warm with nutmeg. The moussaka's cheese topping adds more salt, so season it a little less than a sauce eaten on its own.
+Take the pan off the heat. Whisk in the kefalotyri, salt, ground white pepper and ground nutmeg until the cheese has melted, then taste. It should be creamy and savoury, and gently warm with nutmeg. The moussaka's cheese topping adds more salt, so season it a little less than a sauce eaten on its own.
 
-Adjust it ¼ tsp at a time: more salt if it tastes flat, or more ground nutmeg if you can't taste it.
+Adjust it ¼ tsp of salt or ⅛ tsp of ground nutmeg at a time: more salt if it tastes flat, or more ground nutmeg if you can't taste it.
 
 #### Step 5: Stir in the egg yolks.
 
@@ -67,11 +67,14 @@ Use it straight away, while it's warm and easy to spread, as in [Greek Home-Cook
 ## 📝 Notes and substitutions
 
 - **Kefalotyri:** A hard, salty Greek cheese made from sheep's or goat's milk, sold in Greek delis and online. If you can't find it, use the same weight of Pecorino Romano or Parmesan.
+- **Vegetarian:** Kefalotyri, Pecorino Romano and Parmesan are made with animal rennet, so they aren't vegetarian. Use a vegetarian Italian-style hard cheese instead.
 
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 2 days. Press cling film onto its surface so it doesn't form a skin, and refrigerate it within 1–2 hours. It sets firm when cold.
 - ❄️ **Freezer:** Not recommended. Milk sauces can curdle or separate when they're frozen. Freeze the baked moussaka instead.
+- 📅 **Make ahead:** Make it up to 2 days ahead, up to the end of Step 4, but don't separate the eggs until the day you use it. Press cling film onto its surface, and refrigerate it within 1–2 hours.
+- ♨️ **Reheat:** Reheat it in a saucepan over medium-low heat, whisking all the time, until it's smooth and steaming hot all the way through. If you made it ahead, separate the eggs, then carry on from Step 5.
 
 ## 🔗 Used in
 
@@ -96,11 +99,12 @@ Béchamel sauce comes from France. The chef Nikolaos Tselementes brought it into
 
 ## 📚 Sources
 
-- My Greek Dish: [Traditional Moussaka recipe with eggplants (aubergines) and potatoes](https://www.mygreekdish.com/recipe/mousakas/). Making the béchamel with equal weights of butter and flour, adding warm milk while whisking so it doesn't go lumpy, and stirring in the egg yolks and grated kefalotyri off the heat, whisking quickly so the yolks don't scramble.
+- My Greek Dish: [Traditional Moussaka recipe with eggplants (aubergines) and potatoes](https://www.mygreekdish.com/recipe/mousakas/). Making the béchamel with equal weights of butter and flour, adding warm milk while whisking so it doesn't go lumpy, cooking it until it bubbles and looks like thick custard, and stirring in the egg yolks and grated kefalotyri off the heat, whisking quickly so the yolks don't scramble.
 - National Center for Home Food Preservation: [Foods That Do Not Freeze Well](https://nchfp.uga.edu/how/freeze/freeze-general-information/foods-that-do-not-freeze-well/). That milk sauces may curdle or separate when frozen, for the **Freezer** entry.
 - RecipeTin Eats: [Moussaka (Greek Beef and Eggplant Lasagna)](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/). Cooking the sauce until it thickly coats the back of a spoon, leaving it to cool for 5 minutes before the eggs go in, and why they're there: so it sets as it bakes.
 - Wikipedia: [Béchamel sauce](https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce). That it comes from France, that Nikolaos Tselementes brought it into Greek cooking and that Greek cooks often enrich it with egg, for the **Origin**.
 - Wikipedia: [Kefalotyri](https://en.wikipedia.org/wiki/Kefalotyri). What kefalotyri is made from, and Pecorino Romano or Parmesan as swaps.
+- Wikipedia: [Pecorino romano](https://en.wikipedia.org/wiki/Pecorino_romano). That it's made with rennet from sheep, so it isn't vegetarian, for the **Vegetarian** note.
 
 ---
 
