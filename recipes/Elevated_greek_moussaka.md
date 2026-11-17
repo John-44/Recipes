@@ -9,7 +9,7 @@ Layers of fried aubergines and a deep, savoury beef mince sauce, under a thick, 
 ## 📌 Before you start
 
 - Have the ingredients ready for the [Greek Béchamel Sauce](Greek_bechamel_sauce.md), which you'll make in Step 7 (30 minutes).
-- Buy kefalotyri from a Greek deli or online, or use a swap (see **Kefalotyri**).
+- Buy 120 g kefalotyri from a Greek deli or online (60 g for this recipe and 60 g for the béchamel), or use a swap (see **Kefalotyri**).
 
 ## 🔪 Equipment
 
@@ -18,6 +18,7 @@ Layers of fried aubergines and a deep, savoury beef mince sauce, under a thick, 
 - Measuring cup
 - Baking dish, about 20 × 30 cm and at least 7 cm deep
 - Baking tray
+- Probe thermometer, for reheating
 
 ## 🥕 Ingredients
 
@@ -71,9 +72,9 @@ Add the garlic and allspice, and fry for 1 minute, stirring all the time. Then a
 
 Turn the heat up to high and pour in the wine to deglaze the pot, scraping up the fond. Boil it until the raw wine smell has gone, 1–2 minutes.
 
-Add the tomatoes, cinnamon stick, bay leaves, sugar, parsley leaves, 1 tsp of the salt and the pepper. Then add the mince, with any juices from the plate, and stir well.
+Add the tomatoes, cinnamon stick, bay leaves, sugar, 1 tsp of the salt and the pepper. Then add the mince, with any juices from the plate, and stir well.
 
-Bring to a simmer, then turn the heat down to low. Simmer, uncovered, stirring occasionally, until the juices have been absorbed (when you drag a spoon across the bottom of the pot, no liquid runs into the gap), 40–45 minutes. While it simmers, start Step 5, and keep stirring the sauce occasionally.
+Bring to a simmer, then turn the heat down to medium-low, so it keeps simmering. Simmer, uncovered, stirring occasionally, until the juices have been absorbed (when you drag a spoon across the bottom of the pot, no liquid runs into the gap), 40–45 minutes. While it simmers, start Step 5, and keep stirring the sauce occasionally, more often as it thickens, so it doesn't catch on the bottom of the pot.
 
 > **Tip:** The sauce should be much thicker than a pasta sauce. If it's runny, it soaks into the aubergines and runs out when you cut the moussaka.
 
@@ -85,7 +86,7 @@ Heat 4 tbsp of the oil in a large frying pan over medium-high heat. Fry the aube
 
 #### Step 6: Taste and adjust.
 
-When the sauce is ready, take the pot off the heat, and lift out the cinnamon stick and bay leaves. Taste: it should be rich, savoury and tomatoey, with a gentle warmth from the spices. The kefalotyri and béchamel add salt, so season it a little less than a sauce eaten on its own.
+When the sauce is ready, take the pot off the heat, lift out the cinnamon stick and bay leaves, and stir in the parsley leaves. Taste: it should be rich, savoury and tomatoey, with a gentle warmth from the spices. The kefalotyri and béchamel add salt, so season it a little less than a sauce eaten on its own.
 
 Adjust it ¼ tsp at a time: more salt if it tastes flat, more pepper if it needs warmth, or more sugar if it tastes sharp.
 
@@ -101,7 +102,7 @@ Stir half the breadcrumbs (60 g), half the kefalotyri (30 g) and 3 tbsp of the b
 
 #### Step 9: Bake the moussaka.
 
-Melt the rest of the butter (50 g) in a small saucepan over low heat. Mix the rest of the kefalotyri (30 g) and breadcrumbs (60 g) in a small bowl, then sprinkle them evenly over the béchamel and drizzle the melted butter over the top.
+Melt the rest of the butter (50 g) in a small saucepan over low heat. Put the rest of the kefalotyri (30 g) and breadcrumbs (60 g) in a small bowl, pour in the melted butter and toss until the crumbs are evenly covered, then sprinkle them evenly over the béchamel.
 
 Put the baking dish on a baking tray. Once the oven is at temperature, bake until the top is golden brown, 30–40 minutes.
 
@@ -109,19 +110,20 @@ Put the baking dish on a baking tray. Once the oven is at temperature, bake unti
 
 Leave it to cool for 45 minutes, so the béchamel and meat sauce set. Then cut it into 8 slices, and serve it warm.
 
-> **Tip:** Straight from the oven, the layers are too soft to cut cleanly, and the béchamel runs. As the moussaka cools, the béchamel sets firm. In Greece, it's served warm rather than hot.
+> **Tip:** Straight from the oven, the layers are too soft to cut cleanly, and the béchamel runs. As the moussaka cools, the béchamel sets firm. Many Greek cooks serve it warm rather than hot.
 
 ## 📝 Notes and substitutions
 
 - **Kefalotyri:** A hard, salty Greek cheese made from sheep's or goat's milk, sold in Greek delis and online. If you can't find it, use the same weight of Pecorino Romano or Parmesan.
 - **Home-cooked version:** For the handwritten family recipe this one builds on, with fresh tomatoes and no spices, see [Greek Home-Cooked Moussaka](Greek_home_cooked_moussaka.md).
+- **Lamb instead:** Use the same weight of lamb mince, or half lamb mince and half beef mince. Lamb mince is fattier, so spoon off all but about 2 tbsp of the fat in the pot before Step 3.
 
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 2 days. Cover the baking dish with cling film or foil, or divide the moussaka between airtight containers, and refrigerate it within 1–2 hours.
 - ❄️ **Freezer:** Up to 3 months in airtight containers, or up to 1 year if vacuum packed. Thaw it in the fridge overnight, and eat it within 24 hours. The crust goes soft once it's been frozen.
-- 📅 **Make ahead:** Bake it up to 2 days ahead, then leave it to cool, cover it and refrigerate it within 1–2 hours.
-- ♨️ **Reheat:** Cover it with foil and reheat it in the oven at 180°C (160°C fan) until steaming hot all the way through, about 30 minutes for the whole dish. A knife pushed into the centre should come out hot.
+- 📅 **Make ahead:** Bake it up to 2 days ahead, then leave it to cool, cover it and refrigerate it within 1–2 hours. Or make the meat sauce up to 2 days ahead: chop the onion, garlic and parsley leaves, follow Steps 2, 3, 4 and 6, then leave it to cool and refrigerate it within 1–2 hours. On the day, salt and fry the aubergines (Steps 1 and 5), reheat the sauce over medium heat, stirring often, until steaming hot all the way through, and carry on from Step 7.
+- ♨️ **Reheat:** Cover it with foil and reheat it in the oven at 180°C (160°C fan) until steaming hot all the way through, about 1 hour for the whole dish. A probe thermometer pushed into the centre should read at least 75°C. Without one, a knife pushed into the centre should come out hot.
 
 ## 🗺️ Origin
 
@@ -146,11 +148,12 @@ Its name came into Greek from Arabic, through Ottoman Turkish. The Greek version
 - Argiro Barbarigou: [Moussaka](https://www.argiro.gr/en/recipe/moussaka/). Browning the beef over high heat; the onion, garlic, tomato purée, canned chopped tomatoes, cinnamon stick, bay leaf and pinch of sugar in the meat sauce; and stirring a spoonful of the béchamel into it.
 - Argiro Barbarigou: [Secrets for an authentic moussaka recipe](https://www.argiro.gr/en/ta-mistika-tis-argiros/secrets-for-an-authentic-moussaka-recipe/). That salt stops the aubergines soaking up too much oil as they fry, topping the moussaka with breadcrumbs mixed with grated kefalotyri, and leaving it to stand for at least 45 minutes and serving it warm, not hot.
 - Family recipe: a handwritten Greek recipe for aubergine moussaka. The ingredients, amounts and method this recipe builds on.
+- Food Standards Agency: [Cooking your food](https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food). Checking that the centre of the moussaka reaches at least 75°C when reheating it.
 - King Arthur Baking: [Ingredient Weight Chart](https://www.kingarthurbaking.com/learn/ingredient-weight-chart). How much a cup of dried breadcrumbs weighs, to convert the handwritten recipe's teacup of breadcrumbs.
-- My Greek Dish: [Traditional Moussaka recipe with eggplants (aubergines) and potatoes](https://www.mygreekdish.com/recipe/mousakas/). Slicing the aubergines 1 cm thick and salting them for 30 minutes, 2 tbsp of tomato purée and 1 tsp of sugar in the meat sauce, keeping it thick enough not to soak into the aubergines, stirring a spoonful of the béchamel into it, the size of the baking dish, letting the moussaka cool before cutting it so the béchamel doesn't run, and making it ahead and reheating it.
+- My Greek Dish: [Traditional Moussaka recipe with eggplants (aubergines) and potatoes](https://www.mygreekdish.com/recipe/mousakas/). Slicing the aubergines 1 cm thick and salting them for 30 minutes, 2 tbsp of tomato purée and 1 tsp of sugar in the meat sauce, keeping it thick enough not to soak into the aubergines, stirring a spoonful of the béchamel into it, the size of the baking dish, letting the moussaka cool before cutting it so the béchamel doesn't run, making it ahead and reheating it, and lamb mince, or a mix of lamb and beef mince, as a swap.
 - National Center for Home Food Preservation: [Foods That Do Not Freeze Well](https://nchfp.uga.edu/how/freeze/freeze-general-information/foods-that-do-not-freeze-well/). That crumb toppings go soft when frozen.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the moussaka keeps in the freezer when vacuum packed, from its entry for stews.
-- RecipeTin Eats: [Moussaka (Greek Beef and Eggplant Lasagna)](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/). Layering the salted aubergine slices in a colander and patting them dry well, 2 bay leaves, cooking the wine until the raw wine smell has gone, a meat sauce thicker than a pasta sauce so it doesn't run when you cut the moussaka, baking it at 180°C for 30–40 minutes until golden brown, and reheating it until a knife in the centre comes out hot.
+- RecipeTin Eats: [Moussaka (Greek Beef and Eggplant Lasagna)](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/). Layering the salted aubergine slices in a colander and patting them dry well, 2 bay leaves, cooking the wine until the raw wine smell has gone, a meat sauce thicker than a pasta sauce so it doesn't run when you cut the moussaka, simmering it over medium-low heat, baking it at 180°C for 30–40 minutes until golden brown, reheating it until a knife in the centre comes out hot, and lamb mince as a swap.
 - Wikipedia: [Kefalotyri](https://en.wikipedia.org/wiki/Kefalotyri). What kefalotyri is made from, and Pecorino Romano or Parmesan as swaps.
 - Wikipedia: [Moussaka](https://en.wikipedia.org/wiki/Moussaka). Cinnamon, allspice and black pepper as the spices in the meat sauce, its Greek name, where its name comes from and Nikolaos Tselementes' Greek version, for the description and **Origin**.
 
