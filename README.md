@@ -33,11 +33,12 @@ The aggregated recipes are shaped and scoped according to the following principl
 | ⚡ | **Embrace&nbsp;tech** | Old labour-intensive tools like mortar and pestle are out, high-speed blenders are in. |
 | 🌡️ | **Pragmatic** | Utilise the easiest methods to achieve consistent results, e.g. use thermometers. |
 | 🥫 | **Best&nbsp;ingredients** | Always use the best ingredients for the specific recipe.[^1] |
-| 🧂 | **No&nbsp;superstitions** | For example, use MSG when it makes sense. |
+| 🧂 | **No&nbsp;superstitions** | For example, use MSG when it makes sense.[^2] |
 | ✂️ | **Succinct** | Each recipe should contain only pertinent information, and be short and to the point. |
 | ⚖️ | **Precise** | Every quantity, timing and temp should be exact, leaving nothing to guesswork. |
 
 [^1]: Counterintuitively, this can sometimes mean using processed instead of fresh, e.g. canned pumpkin purée in [Pumpkin Pie](recipes/Pumpkin_pie.md).
+[^2]: It's been proven that MSG is harmless, and can actually have a positive health impact by helping lower consumption of salt, see https://pmc.ncbi.nlm.nih.gov/articles/PMC5694874/ and https://www.theatlantic.com/health/archive/2023/05/msg-salt-intake-healthy/674025/
 
 ## Recipes
 
