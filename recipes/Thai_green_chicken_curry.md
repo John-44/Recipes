@@ -71,7 +71,7 @@ While it simmers, cook the jasmine rice. Cut the aubergines into bite-size piece
 
 #### Step 4: Add the coconut cream.
 
-Stir in the coconut cream, keeping back 4 tbsp for Step 8, and bring to a gentle simmer over medium heat, 2–3 minutes.
+Stir in the coconut cream, keeping back 3 tbsp for Step 8, and bring to a gentle simmer over medium heat, 2–3 minutes.
 
 #### Step 5: Taste and adjust.
 
