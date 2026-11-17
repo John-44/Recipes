@@ -14,7 +14,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - Make the [Tamarind Paste](Tamarind_paste.md) first (1 hour 10 minutes), or use store-bought tamarind paste.
 - If your raw king prawns are frozen, thaw them in the fridge overnight, then drain them well.
 - Buy full-fat coconut milk, ideally with no emulsifiers or stabilisers, or the oil may not separate out in Step 2 (see **Coconut milk**).
-- The night before, place can of coconut milk in the refrigerator, so the fat rises to the top and is easy to spoon off in Step 2.
+- The night before, refrigerate the can of full-fat coconut milk, so the fat rises to the top and is easy to spoon off in Step 2.
 
 ## 🔪 Equipment
 

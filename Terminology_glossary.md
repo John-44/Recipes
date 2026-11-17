@@ -99,22 +99,24 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Meat | chicken carcasses | carcasses | chicken frames, chicken bones | Raw: what's left of a chicken once the breasts, legs and wings are cut off. Butchers sell them cheaply. |
 | Meat | meat trim | meat trim | meat trimmings, meat scraps, offcuts | Raw offcuts of any meat, such as the edges trimmed off steaks and joints. |
 | Seafood | head fat | head fat | tomalley, prawn fat, man goong | The prawn's hepatopancreas: the soft, orange organ in its head, which holds much of its flavour. The first time, write "the rich hepatopancreas (head fat)". |
-| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai fermented shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
+| Seafood | raw king prawns | prawns | shrimp, jumbo prawns | Raw, not cooked. "Shrimp" is right only in Thai fermented shrimp paste and dried shrimp paste. When the amount is their weight after peeling, write "peeled raw king prawns". For prawns bought whole, with their heads and shells on, write "whole head-on prawns", and for prawns with shells but no heads, "shell-on prawns". |
 | Eggs | egg yolks | yolks | | The yolks of hen's eggs, separated from the whites. Give the egg size, as in "3 medium egg yolks". |
 | Eggs | eggs | eggs | | Hen's eggs. Give the size, as in "3 medium eggs". |
 | Cheese | kefalotyri | kefalotyri | kefalotiri, kefalotyri cheese | A hard, salty Greek cheese for grating, made from sheep's or goat's milk, or both. It isn't vegetarian. Sold in Greek delis and online. |
 | Cheese | Parmesan | Parmesan | parmesan cheese, Parmigiano, Parmigiano Reggiano | An Italian hard cheese for grating, made with calf rennet, so it isn't vegetarian. Packs may call it Parmigiano Reggiano. |
 | Cheese | Pecorino Romano | Pecorino | Romano, pecorino romano | A hard, salty Italian cheese for grating, made from sheep's milk. It isn't vegetarian. A swap for kefalotyri. |
 | Cheese | vegetarian Italian-style hard cheese | hard cheese | vegetarian Parmesan, vegetarian hard Italian style cheese | A hard cheese for grating, like Parmesan but made with vegetarian rennet. Check that the pack says it's suitable for vegetarians. |
-| Vegetables | aubergines | aubergines | eggplants, eggplant, brinjals | The large, dark purple kind. Give a rough count after the weight, as in "1.25 kg aubergines (about 4)". |
+| Vegetables | aubergines | aubergines | eggplants, eggplant, brinjals | The large, dark purple kind. Give a rough count after the weight, as in "1.25 kg aubergines (about 4)". Not Thai aubergines, which are small, round and green. |
 | Vegetables | carrots | carrots | | Give a size, as in "2 large carrots". |
 | Vegetables | celery heart | celery heart | inner celery, celery core | The pale yellow inner stalks and leaves from the middle of a head of celery, with a subtler flavour than celery sticks. |
 | Vegetables | celery sticks | celery | celery stalks, celery ribs | The darker green outer stalks of a head of celery. Count in sticks, as in "3 celery sticks". |
 | Vegetables | Charlotte or other waxy potatoes | potatoes | salad potatoes | Waxy potatoes hold their shape when simmered. Charlotte is a variety, so it takes a capital C. |
 | Vegetables | chestnut mushrooms | mushrooms | brown mushrooms, cremini mushrooms | Brown mushrooms, firmer and fuller-flavoured than white ones. Not shiitake mushrooms. |
 | Vegetables | finely chopped tomatoes | tomatoes | | Canned tomatoes chopped into small pieces, sold in 400 g cans, as in "3 cans (400 g each) finely chopped tomatoes". Not fresh tomatoes. Ordinary chopped tomatoes are chunkier, and would need their own term. |
+| Vegetables | mangetout | mangetout | snow peas, mange tout | Flat, crisp pea pods, eaten whole. Not sugar snap peas, which are rounder and would need their own term. |
 | Vegetables | pumpkin purée | pumpkin | pumpkin puree, canned pumpkin, puréed pumpkin | Canned and unsweetened, and sold in 425 g cans. Not pumpkin pie mix, which is already sweetened and spiced. |
 | Vegetables | shiitake mushrooms | mushrooms | shitake mushrooms | Fresh, not dried. Their stalks are tough, so remove them, as in "300 g shiitake mushrooms, stalks removed". |
+| Vegetables | Thai aubergines | aubergines | Thai eggplants, Thai apple eggplants, apple aubergines | Small, round, green aubergines, about the size of a golf ball, sold in Asian supermarkets. They're crisper and more bitter than aubergines, the large purple kind, and stay slightly crunchy when cooked. Once cut, they turn brown, so keep them in cold water until they go in. Tiny Thai pea aubergines would need their own term. |
 | Vegetables | tomato purée | tomato purée | tomato paste, tomato puree | Thick, concentrated tomato, sold in tubes and small cans. Over 4 tbsp, weigh it, as in "100 g tomato purée (about 6 tbsp)". Not passata. |
 | Vegetables | vine tomatoes | tomatoes | tomatoes on the vine, vine-ripened tomatoes | Fresh tomatoes, sold on the vine. Say "ripe" when they need to be, as in "750 g ripe vine tomatoes". Not canned tomatoes, such as finely chopped tomatoes. |
 | Aromatics | garlic cloves | garlic | cloves of garlic | Count in cloves: "8 garlic cloves". |
@@ -127,7 +129,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Roots | fresh turmeric | fresh turmeric | turmeric root, raw turmeric | Keep "fresh" whenever you mean this ingredient, because "turmeric" on its own usually means ground. When you mean the spice in general, "turmeric" is fine, as in "warm with turmeric". |
 | Roots | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
 | Roots | ginger | ginger | root ginger, fresh ginger, ginger root | Means fresh root ginger. Ground ginger would be a separate term. |
-| Herbs | basil leaves and stalks | basil | fresh basil, sweet basil, basil bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Thai basil would need its own term. |
+| Herbs | basil leaves and stalks | basil | fresh basil, sweet basil, basil bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Not Thai basil leaves. |
 | Herbs | coriander leaves | coriander leaves | cilantro, fresh coriander, Chinese parsley | The fresh herb. Always add "leaves", so it can't be mistaken for coriander seeds or ground coriander. |
 | Herbs | coriander leaves and stalks | coriander leaves and stalks | fresh coriander, coriander bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Not coriander roots. |
 | Herbs | coriander roots | coriander roots | cilantro roots | The roots of the coriander plant. Always add "roots", so they can't be mistaken for coriander leaves or coriander stalks. |
@@ -137,6 +139,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | flat-leaf parsley stalks | parsley stalks | parsley stems | The stalks of flat-leaf parsley. They stand up to cooking better than the leaves. |
 | Herbs | kaffir lime leaves | lime leaves | makrut lime leaves, kafir lime leaves, bai makrut | Sold fresh, frozen or dried. Say "dried" when you mean dried ones. Some packs are labelled "makrut lime leaves": use that name only to describe a label, in quotes. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
+| Herbs | Thai basil leaves | Thai basil | horapa, Asian basil, sweet basil | The leaves of Thai basil, picked off its purple stalks. It tastes like basil, with more aniseed. Sold in Asian supermarkets. Not basil leaves and stalks, or holy basil, which would need its own term. |
 | Herbs | thyme sprigs | thyme sprigs | fresh thyme, thyme stems | Fresh thyme, counted in sprigs, as in "6 thyme sprigs". Not dried thyme. |
 | Fruit | blackberries | blackberries | brambles | Fresh, and sold in 150 g punnets. Say "frozen blackberries" when you mean frozen ones. |
 | Fruit | Bramley apples | apples | Bramleys, Bramley's Seedling | Large, sharp, green cooking apples, which cook down into a soft purée. Bramley is a variety, so it takes a capital B. Eating apples would need their own term. |
@@ -145,10 +148,12 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Fruit | tamarind pods | tamarind pods | | Whole tamarind in their brittle brown shells: the sweet kind, for eating as a snack. Not tamarind pulp, which is sour, for cooking. |
 | Chillies | Kashmiri chillies | Kashmiri chillies | Kashmiri red chillies, Kashmiri chilies | Mild dried Indian chillies with a deep red colour. |
 | Chillies | guajillo chillies | guajillo chillies | guajillo peppers, guajillo chiles | Fairly mild dried Mexican chillies. Outside Mexican recipes, you can introduce them as "Mexican guajillo chillies". |
+| Chillies | jalapeño chillies | jalapeños | jalapeño peppers, jalapenos, jalapeno chillies | Fresh green chillies with a medium heat, sold in larger supermarkets. Most of their heat is in the seeds and pith. Pickled jalapeños, sold sliced in jars, would need their own term. |
+| Chillies | green Thai spur chillies | spur chillies | long green chillies, green spur chilies | Large, fresh green Thai chillies with a mild to moderate heat, sold in Asian supermarkets. Follow the term with its Thai name in brackets, as in "green Thai spur chillies (*prik chee fah khiao*)". Not dried Thai spur chillies. |
 | Chillies | dried Thai spur chillies | chillies | dried spur chilies, dried long chillies, dried big chillies | Large dried Thai chillies with a mild to moderate heat, prized for the colour they give curry pastes. In the ingredient list, follow the term with its Thai name in brackets, as in "dried Thai spur chillies (*prik chee fah haeng*)". If the recipe also uses fresh chillies, shorten to "dried chillies" instead. |
 | Chillies | red chilli | chilli | red chili, red chile, fresh red chilli | Means a fresh one. For small, very hot chillies, use bird's eye chillies. |
 | Chillies | chilli flakes | chilli flakes | chili flakes, crushed chillies, red pepper flakes | Dried chillies crushed into flakes. Their heat varies from brand to brand. |
-| Chillies | bird's eye chillies | bird's eye chillies | birds eye chillies, bird's-eye chillies, bird chillies, Thai chillies | Small, very hot chillies, sold fresh or dried. Say "dried" when you mean dried ones. |
+| Chillies | bird's eye chillies | bird's eye chillies | birds eye chillies, bird's-eye chillies, bird chillies, Thai chillies | Small, very hot chillies, sold fresh or dried. Say "dried" when you mean dried ones, and "green" when you need green ones, as in "12 green bird's eye chillies". |
 | Dried herbs | bay leaves | bay leaves | laurel leaves | Usually sold dried, though fresh ones work too. Lift them out before serving. |
 | Dried herbs | dried marjoram | dried marjoram | marjoram (on its own) | Keep "dried", because fresh marjoram is a different ingredient. |
 | Dried herbs | dried oregano | dried oregano | oregano (on its own) | Keep "dried", because fresh oregano is a different ingredient. |
@@ -175,16 +180,18 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | ground white pepper | ground white pepper | white pepper powder, white pepper (on its own) | Whole, they're white peppercorns. |
 | Spices | medium curry powder | curry powder | | A ready-made dry spice blend, sold as medium curry powder. Not mild Thai curry powder. |
 | Spices | mild Thai curry powder | curry powder | curry spice mix | A ready-made dry spice blend, not a curry paste. Choose a mild one. |
+| Curry pastes | Thai Green Curry Paste | curry paste | | The recipe in this repository. Link it wherever you name it, as `[Thai Green Curry Paste](Thai_green_curry_paste.md)`. |
 | Curry pastes | Thai Yellow Curry Paste | curry paste | | The recipe in this repository. Link it wherever you name it, as `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`. |
 | Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A store-bought version of any paste, such as a jar of Thai yellow curry paste used instead of the Thai Yellow Curry Paste recipe. When the recipe has only one paste, or the context makes clear which one you mean, "store-bought paste" is enough. Otherwise, name the paste, as in "store-bought Thai yellow curry paste". Paste made from a recipe is "homemade", not "home-made". |
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
+| Seasonings | dried shrimp paste | shrimp paste | belacan (on its own), belachan, blachan, terasi | Fermented shrimp paste pressed into hard blocks and dried, sold in Asian supermarkets. Crumble it to measure it, as in "1 tbsp crumbled dried shrimp paste". In the ingredient list, follow the term with its Malay name in brackets, as in "1 tbsp crumbled dried shrimp paste (*belacan*)". Unlike Thai fermented shrimp paste, it doesn't turn green curry paste brown. Not dried shrimp, which are whole tiny shrimps. Not vegetarian. |
 | Seasonings | fine sea salt | salt | fine salt | Fine grains that dissolve quickly, for baking. Table salt works too. Not coarse sea salt. |
 | Seasonings | fish sauce | fish sauce | nam pla, Thai fish sauce | Not vegetarian. |
 | Seasonings | MSG | MSG | monosodium glutamate, umami seasoning | A seasoning that adds savoury depth. Packs may call it umami seasoning or E621. |
 | Seasonings | prik nam pla | prik nam pla | nam pla prik, phrik nam pla, chilli fish sauce | A Thai table condiment of sliced bird's eye chillies in fish sauce, for each person to add heat and salt. Not vegetarian. |
 | Seasonings | smoked sea salt flakes | smoked sea salt flakes | smoked salt | Sea salt flakes smoked over wood, which gives them a smoky flavour. Not fine sea salt or coarse sea salt. |
 | Seasonings | soy sauce | soy sauce | soya sauce, shoyu | Ordinary soy sauce, which is brewed with wheat, so it isn't gluten-free. Dark soy sauce and tamari would need their own terms. |
-| Seasonings | Thai fermented shrimp paste | shrimp paste | Thai prawn paste | "Shrimp" is right here, even though the recipes say "prawns" everywhere else. In the ingredient list, follow the term with its Thai names in brackets, as in "Thai fermented shrimp paste (*kapi* or *gapi*)". Not vegetarian. |
+| Seasonings | Thai fermented shrimp paste | shrimp paste | Thai prawn paste | "Shrimp" is right here, and in dried shrimp paste, even though the recipes say "prawns" everywhere else. In the ingredient list, follow the term with its Thai names in brackets, as in "Thai fermented shrimp paste (*kapi* or *gapi*)". Softer than dried shrimp paste, and sold in tubs. Not vegetarian. |
 | Seasonings | white miso | white miso | shiro miso, white miso paste, miso (on its own) | |
 | Seasonings | Worcestershire sauce | Worcestershire sauce | Worcester sauce, Worcestershire (on its own) | A tangy, savoury sauce made with vinegar, molasses, tamarind and anchovies. UK brands usually contain barley malt vinegar, so it isn't gluten-free, and the anchovies mean it isn't vegetarian. |
 | Seasonings | apple cider vinegar | cider vinegar | ACV | Vinegar made from apples. Packs may call it cider vinegar. |
@@ -275,7 +282,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Plates | plate | | As in "Spoon about half the sauce onto a plate". |
 | Plates | saucer | | For keeping food under water while it soaks, as in "with a saucer on top to keep them under the water". |
 | Blending and grinding | high-speed blender | high speed blender, high-powered blender, power blender | A powerful blender, such as a Blendtec, that grinds whole spices as well as blending pastes. Not a stick blender. |
-| Blending and grinding | jar | blender container, blender cup | The part of a high-speed blender that holds the food, as in "If the jar feels warm". |
+| Blending and grinding | jar | blender container, blender cup | The part of a high-speed blender that holds the food, as in "If the jar feels warm". Write "full-size jar" for a blender's standard jar, as opposed to a small one such as a Blendtec Twister jar. |
 | Blending and grinding | spice grinder | spice mill | A small electric grinder for whole spices. A blade coffee grinder works too. |
 | Blending and grinding | stick blender | hand blender, immersion blender | |
 | Hob and pans | hob | stove, stovetop, cooktop | |
@@ -322,7 +329,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Storage | silicone muffin tin | silicone muffin tray, silicone muffin mould | A flexible muffin tin, for freezing liquids in portions that pop out easily, as in "12-hole silicone muffin tin". |
 | Storage | freezer bag | ziplock bag, zip-lock bag, sandwich bag | |
 | Storage | cling film | clingfilm, plastic wrap, food wrap | |
-| Protective kit | gloves | | Worn when handling fresh turmeric, which stains. |
+| Protective kit | gloves | | Worn when handling fresh turmeric, which stains, and fresh chillies, which can burn your skin and eyes. |
 
 ## Dish names
 
@@ -345,6 +352,8 @@ Every recipe in this repository. When you mention one, write its title exactly, 
 | Pumpkin Pie | [Pumpkin_pie.md](recipes/Pumpkin_pie.md) | pie |
 | Reverse Seared Ribeye with Pan Sauce | [Reverse_seared_ribeye_with_pan_sauce.md](recipes/Reverse_seared_ribeye_with_pan_sauce.md) | steak |
 | Tamarind Paste | [Tamarind_paste.md](recipes/Tamarind_paste.md) | paste |
+| Thai Green Chicken Curry | [Thai_green_chicken_curry.md](recipes/Thai_green_chicken_curry.md) | curry |
+| Thai Green Curry Paste | [Thai_green_curry_paste.md](recipes/Thai_green_curry_paste.md) | paste |
 | Thai Yellow Curry Paste | [Thai_yellow_curry_paste.md](recipes/Thai_yellow_curry_paste.md) | paste |
 | Thai Yellow Prawn Curry | [Thai_yellow_prawn_curry.md](recipes/Thai_yellow_prawn_curry.md) | curry |
 | Viennese Beef Goulash | [Viennese_beef_goulash.md](recipes/Viennese_beef_goulash.md) | goulash |
@@ -369,6 +378,8 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 | Tex-Mex | chilli con carne | | chili con carne, chile con carne | Spelled "chilli" in British English. Once it's clear which dish you mean, "chilli" is enough. |
 | Thai | Thai yellow curry | *gaeng garee* | gaeng karee, gaeng kari, kaeng kari, kaeng karee | Once it's clear the curry is Thai, "yellow curry" is enough. |
 | Thai | Thai yellow curry paste | *prik gaeng garee* | prik gaeng karee, prik kaeng kari, phrik kaeng kari | The paste in general, or a jar from a shop. Jars are sometimes labelled "karee" or "kari" curry paste: use those words only to describe a label, in quotes. This repository's recipe is Thai Yellow Curry Paste. |
+| Thai | Thai green curry | *gaeng khiao waan* | gaeng keow wan, gaeng kiew waan, kaeng khiao wan | Once it's clear the curry is Thai, "green curry" is enough. *Khiao waan* means "sweet green", after its pale green colour, not its taste. This repository's recipe is Thai Green Chicken Curry. |
+| Thai | Thai green curry paste | *prik gaeng khiao waan* | prik gaeng keow wan, prik gaeng kiew waan, phrik kaeng khiao wan | The paste in general, or a jar from a shop. This repository's recipe is Thai Green Curry Paste. |
 | Thai | | *gaeng leuang* | gaeng lueang, kaeng lueang, kaeng leuang | A different dish from Thai yellow curry: a sour, very spicy curry from Southern Thailand. |
 | Thai | yellow sour curry paste | | | The paste for *gaeng leuang*. Not Thai yellow curry paste. |
 
@@ -399,7 +410,8 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Cleaning | washed | | Washed in cold water, then patted dry, as for coriander leaves and stalks. Not drained and rinsed, which is for canned beans. |
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
 | Trimming | deveined | de-veined | The dark vein along the back removed, as in "Peel and devein the prawns". |
-| Trimming | stalks removed | stemmed, destemmed | For dried chillies and shiitake mushrooms. |
+| Trimming | stalks removed | stemmed, destemmed | For chillies, shiitake mushrooms and Thai aubergines. |
+| Trimming | centre ribs removed | midribs removed, center ribs removed, stems removed | For kaffir lime leaves: the tough rib down the middle of each leaf pulled or cut out, as in "24 kaffir lime leaves, centre ribs removed, finely sliced". |
 | Trimming | cored | | With the core and seeds cut out. For apples, cut them into quarters, then cut the core out of each quarter. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
 | Trimming | meat cut off the bone | boned, deboned | For meat bought on the bone, as in "1 Thor's hammer beef shin (about 3 kg), meat cut off the bone". |
@@ -410,6 +422,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Slicing | finely sliced into half-moons | thinly sliced into half-moons, half-moon slices | For onions: cut in half lengthways, then finely sliced across, so each slice is a half ring and they all cook evenly. |
 | Slicing | across the grain | against the grain | At right angles to the lines of muscle running through meat, so each slice is tender. The first time, explain it in brackets, as in "Cut the steak across the grain (at right angles to the lines of muscle running through it)". |
 | Slicing | lengthways | lengthwise | Along the length of something, as in "Finely slice each quarter lengthways (from the stalk end to the base)". |
+| Cutting | cut into wedges | | For limes, to squeeze over food at the table, as in "1 lime, cut into wedges". Not cut into thick wedges, which is for onions. |
 | Cutting | cut into thick wedges | sliced into wedges | For onions, so they hold their shape as they simmer. |
 | Cutting | cut into {size} cm chunks | cubed | As in "cut into 2 cm chunks". |
 | Cutting | cut into bite-size pieces | cut into bite-sized pieces | |
@@ -418,6 +431,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
 | Bruising | crushed | pressed | For garlic: pushed through a garlic crusher, as in "crush the garlic into the Dutch oven with the garlic crusher". For biscuits, crush means hitting them into crumbs. |
+| Measuring | crumbled | | Broken into small pieces with your fingers, so a hard block fills a measuring spoon, as in "1 tbsp crumbled dried shrimp paste". |
 | Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". It ends the line, after any note in brackets. |
 
 ## Cooking terms
@@ -453,7 +467,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | --- | --- | --- | --- |
 | Before cooking | wipe | | Clean with a damp cloth, as in "Wipe the dust off the chillies with a damp cloth". |
 | Before cooking | split | slit, cut open | Cut open lengthways, as in "split them open lengthways with scissors". For coconut milk, use crack and separate out instead. |
-| Before cooking | scrape out the seeds | deseed, remove the seeds | For dried chillies, once they're split open. |
+| Before cooking | scrape out the seeds | deseed, remove the seeds | For chillies, once they're split open. For fresh chillies, scrape out the pith too, as in "scrape out the seeds and pith". |
 | Before cooking | snip | | Cut with scissors, as in "Snip the chillies into 2 cm pieces". |
 | Before cooking | rip | pull apart | Pull apart with your fingers, as in "Rip the tamarind into the smallest chunks you can". |
 | Before cooking | squeeze | juice (as a verb) | Press the juice out of something, as in "squeeze the limes". |
@@ -528,12 +542,14 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until fragrant | until aromatic | |
 | Doneness | until it smells toasty, not tomatoey | | For a pinçage: the tomato purée has lost its raw, sharp smell. |
 | Doneness | until they're pliable and toasted-smelling | | For dried chillies warmed in a microwave: soft enough to bend, and smelling toasted, as in "microwave on high power 15 seconds at a time until they're pliable and toasted-smelling". |
+| Doneness | bright green and just tender | | For mangetout: their colour brightens and they soften a little, but still snap, as in "until they're bright green and just tender". |
 | Doneness | catch on the bottom of the {pan} | | Start to stick to the bottom of the pan and brown, as in "starts to catch on the bottom of the pan" or "so it doesn't catch on the bottom of the pot". A sign that fried tomato purée is ready, and that a simmering sauce needs stirring. |
 | Doneness | crema | cremina, cream (for a sauce) | A creamy sauce of oil and starchy pasta water that coats pasta, with no pools of oil or water. The first time, explain it in brackets, as in "making a crema (a creamy sauce that coats the spaghetti, with no pools of oil or water)". |
 | Doneness | glossy | shiny | How a sauce looks once butter has melted into it, as in "until the sauce is glossy". |
 | Doneness | golden brown | golden-brown | The colour of fully baked pastry, or a baked topping, as in "The bottom of the pastry case should be golden brown" or "bake until the top is golden brown". |
 | Doneness | golden, but not brown | | For onions fried slowly: an even golden colour, well short of brown, as in "until the onions are soft and golden, but not brown". |
 | Doneness | looks like thick custard | custard-thick, custard consistency, like custard (on its own) | For a thick béchamel: it bubbles slowly and is smooth and thick, but still pourable, as in "until the sauce bubbles and looks like thick custard". Any thinner, and it soaks into the layer below as it bakes. |
+| Doneness | no longer pink in the middle | | The test for cooked chicken pieces, as in "until the chicken is no longer pink in the middle when you cut the biggest piece open". |
 | Doneness | separate out | split | What the oil does when you crack coconut milk, as in "until it's thick and the oil separates out", and again when you fry curry paste in it. |
 | Doneness | until deep brown | until well browned, until dark brown | For searing meat or vegetables, and roasting meat or bones. |
 | Doneness | until it becomes thicker | | For a stew simmering uncovered, as in "Cook, stirring often, until it becomes thicker, about 30 minutes". |
@@ -542,6 +558,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until it holds soft peaks | to soft peaks, until soft peaks form | For whipped cream: when you lift out the whisk, the cream forms a peak that flops over at the tip. The first time, explain it in brackets. |
 | Doneness | until it starts to smoke | until smoking, smoking hot | For heating fat in a pan before searing. |
 | Doneness | until it steams | until steaming, until scalding | For heating milk without letting it boil: steam rises from it, with small bubbles at the edge, as in "until it steams, with small bubbles at the edge". |
+| Doneness | until it wilts | until wilted | For leaves stirred into hot food, such as Thai basil: they go soft and limp, as in "stir in the Thai basil until it wilts". |
 | Doneness | until lightly golden | until pale golden, until light golden | For garlic, pine nuts and aubergines fried in oil: pale gold, well short of brown, as in "until the garlic is soft and the garlic and pine nuts are lightly golden". |
 | Doneness | until only the centre wobbles | until just set, until it jiggles | The test for a baked custard filling, such as in a pumpkin pie: when you gently shake the dish, the edge is set and only the middle still wobbles. |
 | Doneness | until smooth | until combined, until well combined | For a whisked mixture, such as a pie filling, with no lumps or streaks. For a blended paste, use until very smooth. |
@@ -555,6 +572,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until the sauce stops bubbling | | For a sauce taken off the heat before the butter goes in, as in "wait until the sauce stops bubbling". A cast iron skillet holds its heat, so this can take a while. |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | soft, squidgy and slightly translucent | | For fried onions: soft enough to squash, and starting to turn see-through, as in "until the onions are soft, squidgy and slightly translucent". |
+| Doneness | until a knife goes into them with a little resistance | | The test for cooked Thai aubergines: cooked through, but still slightly crunchy. |
 | Doneness | until a knife slides easily into the potatoes | until fork-tender | The test for cooked potatoes. |
 | Doneness | cool enough to touch | cool enough to handle | For soaking water that started out boiling, as in "Soak until the water is cool enough to touch, at least 20 minutes". |
 | Doneness | until crisp | until crispy | For dried chillies left to cool after they've been warmed in a microwave: they snap rather than bend, as in "Leave them to cool until crisp, about 1 minute". |
@@ -649,6 +667,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Squeeze the lemons | Juice the lemons | |
 | Prep the apples | Prepare the apples | Peeling, coring and slicing apples, and tossing them in lemon juice so they don't go brown. |
 | Salt the aubergines | Sweat the aubergines, Degorge the aubergines | Layering sliced aubergines in a colander with salt, to draw out their water before frying. |
+| Prep the chillies | Prepare the chillies, Deseed the chillies | Getting fresh chillies ready for a paste: splitting them, scraping out the seeds and pith, and chopping them. |
 | Toast and soak the chillies | | |
 | Toast the spices | | |
 | Grind the spices | | |
@@ -712,6 +731,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Simmer the stock | Cook the stock, Boil the stock | |
 | Strain the stock | Sieve the stock | |
 | Simmer the potatoes | | |
+| Simmer the chicken | Cook the chicken, Poach the chicken | Simmering pieces of chicken in a curry sauce until they're cooked. |
 | Reduce the sauce | Boil down the sauce | |
 | Reduce the demi-glace | Boil down the demi-glace | |
 | Strain the demi-glace | Sieve the demi-glace | |
@@ -722,6 +742,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Taste and adjust | Season to taste, Adjust the seasoning, Check the seasoning | |
 | Toast the crispy fried shallots | | |
 | Cook the prawns | | |
+| Cook the vegetables | Add the vegetables | Simmering quick-cooking vegetables, such as Thai aubergines and mangetout, in a curry for the last few minutes. |
 | Dust the goulash | Thicken the goulash, Flour the goulash | Dusting the layer of fat on top of a stew with flour near the end of cooking, then stirring it in, to thicken the sauce. |
 | Finish the chilli | Final touches | Lifting out the whole spices, then stirring in fresh herbs and lime juice off the heat. |
 | Finish the spaghetti | Toss the spaghetti, Finish the pasta | Stirring drained spaghetti and pasta water into its sauce until the sauce is a crema. |
@@ -867,6 +888,7 @@ The values in **Origin**, and places mentioned elsewhere in a recipe.
 | --- | --- | --- | --- |
 | Austria | Vienna | Wien | The capital of Austria. |
 | Italy | Naples | Napoli | A city in Campania, in southern Italy. |
+| Thailand | Central Thailand | central Thailand, the central plains | A capital C, because it's the name of a region. It includes Bangkok. |
 | Thailand | Southern Thailand | southern Thailand, South Thailand, the south of Thailand | A capital S, because it's the name of a region. |
 | United Kingdom | England | | One of the four countries of the United Kingdom. |
 | United States | New England | | The six states in the north-east of the United States, from Connecticut to Maine. |
@@ -926,6 +948,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Great British Chefs | greatbritishchefs.com | GBC |
 | Hairy Bikers | hairybikers.com | The Hairy Bikers, HairyBikers.com |
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
+| Jamie Oliver Cookery School | jamieolivercookeryschool.com | Jamie Oliver (on its own), Jamie Oliver's Cookery School |
 | King Arthur Baking | kingarthurbaking.com | King Arthur Flour, King Arthur (on its own) |
 | Library of Congress | loc.gov | LOC, LoC |
 | Little Vienna | lilvienna.com | Lil Vienna, Li'l Vienna |

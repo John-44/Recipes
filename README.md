@@ -57,6 +57,8 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 | 🥧 | [Pumpkin Pie](recipes/Pumpkin_pie.md) | Desserts | Pies |
 | 🥩 | [Reverse Seared Ribeye with Pan Sauce](recipes/Reverse_seared_ribeye_with_pan_sauce.md) | Mains | Steaks |
 | 🫙 | [Tamarind Paste](recipes/Tamarind_paste.md) | Ingredient | Pastes |
+| 🍗 | [Thai Green Chicken Curry](recipes/Thai_green_chicken_curry.md) | Mains | Curries |
+| 🍃 | [Thai Green Curry Paste](recipes/Thai_green_curry_paste.md) | Ingredient | Pastes |
 | 🌿 | [Thai Yellow Curry Paste](recipes/Thai_yellow_curry_paste.md) | Ingredient | Pastes |
 | 🍤 | [Thai Yellow Prawn Curry](recipes/Thai_yellow_prawn_curry.md) | Mains | Curries |
 | 🍲 | [Viennese Beef Goulash](recipes/Viennese_beef_goulash.md) | Mains | Stews |
