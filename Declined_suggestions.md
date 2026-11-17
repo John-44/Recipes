@@ -92,6 +92,10 @@ Suggestions for this repository that have been considered and turned down. Read 
 - Naming example wines, such as Côtes du Rhône, Merlot or Grenache, in the **Red wine** note.
 - Rewording the **Origin** to say several cooks seem to have developed the reverse sear independently, J. Kenji López-Alt among them, instead of "test cooks like J. Kenji López-Alt".
 
+## Thai Green Chicken Curry
+
+- A swap for the Thai aubergines, such as the large purple kind cut into 2 cm chunks and added with the coconut cream. The old 5 cm swap was removed instead.
+
 ## Thai Yellow Curry Paste
 
 - Flagging the 35 min total time as relying on preparation done while the chillies soak.

@@ -1,6 +1,6 @@
 # 🍃 Thai Green Curry Paste
 
-A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, kaffir lime leaves and fresh herbs. In Thailand it's called *prik gaeng khiao waan*, and it's the base of Thai green curry. Jalapeños add chilli flavour without much heat, and Thai basil deepens the green colour. This batch makes enough for 3 curries, so freeze two-thirds for next time.
+A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, kaffir lime leaves and fresh herbs. In Thailand it's called *prik gaeng khiao waan*, and it's the base of Thai green curry. Green Thai spur chillies add chilli flavour without much heat, and Thai basil deepens the green colour. This batch makes enough for 3 curries, so freeze two-thirds for next time.
 
 | Prep time | Cook time | Total time | Makes |
 | --- | --- | --- | --- |
@@ -8,7 +8,7 @@ A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, ka
 
 ## 📌 Before you start
 
-- Green bird's eye chillies and jalapeño chillies can burn your skin and eyes, so wear gloves to prepare them.
+- Green bird's eye chillies and green Thai spur chillies can burn your skin and eyes, so wear gloves to prepare them.
 
 ## 🔪 Equipment
 
@@ -19,10 +19,11 @@ A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, ka
 ## 🥕 Ingredients
 
 - 12 green bird's eye chillies, stalks removed
-- 45 g jalapeño chillies, stalks removed (about 3)
+- 45 g green Thai spur chillies (*prik chee fah khiao*), stalks removed (about 3)
 - 1 tbsp coriander seeds
 - 1 tbsp cumin seeds
 - 1 tsp white peppercorns
+- 1 tsp coarse sea salt
 - 1 tsp MSG
 - 150 g shallots, roughly chopped (about 6)
 - 12 garlic cloves, roughly chopped
@@ -38,10 +39,10 @@ A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, ka
 
 #### Step 1: Prep the chillies.
 
-- Split the jalapeños open lengthways, then scrape out the seeds and pith.
-- Roughly chop the jalapeños and the bird's eye chillies.
+- Split the spur chillies open lengthways, then scrape out the seeds and pith.
+- Roughly chop the spur chillies and the bird's eye chillies.
 
-> **Tip:** The jalapeños are there for their chilli flavour and green colour, and most of their heat is in the seeds and pith. The bird's eye chillies bring the heat.
+> **Tip:** The spur chillies are there for their chilli flavour and green colour, and most of their heat is in the seeds and pith. The bird's eye chillies bring the heat.
 
 #### Step 2: Toast the spices.
 
@@ -55,7 +56,7 @@ Put the toasted spices in the spice grinder and grind to a fine powder. Tip the 
 
 #### Step 4: Blend the paste.
 
-Put the MSG, chillies, shallots, garlic, shrimp paste, coriander leaves and stalks and Thai basil in the high-speed blender, then add the lemongrass, galangal, lime leaves and coriander roots on top.
+Put the salt, MSG, chillies, shallots, garlic, shrimp paste, coriander leaves and stalks and Thai basil in the high-speed blender, then add the lemongrass, galangal, lime leaves and coriander roots on top.
 
 Blend on the highest speed in short bursts, stopping to scrape down the sides, until the paste has no perceptible woody fibres or gritty particles.
 
@@ -75,14 +76,14 @@ Use a third of the paste (about 180 g) for a curry that serves 6, such as [Thai 
 
 ## 📝 Notes and substitutions
 
-- **Jalapeños:** Look for them in larger supermarkets. Green Thai spur chillies (*prik chee fah khiao*), the milder chillies Thai cooks use, work too: look for them in Asian supermarkets, and use the same weight.
+- **Spur chillies:** Look for them in Asian supermarkets. If you can't find any, use the same weight of jalapeño chillies, which are sold in larger supermarkets.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1 tbsp ground cumin and 1 tsp ground white pepper. Skip Steps 2 and 3, and add them in Step 5.
 - **Dried shrimp paste:** Look for it in Asian supermarkets, where it's sold in hard blocks. Thai fermented shrimp paste (*kapi* or *gapi*), sold in tubs, works too, but it makes the paste less green.
 - **Thai basil:** Look for it in Asian supermarkets. It's only there for colour, as its flavour cooks away when you fry the paste, so the same weight of spinach leaves works too.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets.
 - **Kaffir lime leaves:** Look for them fresh or frozen in Asian supermarkets. Dried ones have much less flavour.
 - **Coriander roots:** Look for them in Asian supermarkets. If you can't find any, use the same weight of tender coriander stalks.
-- **More heat:** Use more bird's eye chillies, or leave the seeds and pith in the jalapeños.
+- **More heat:** Use more bird's eye chillies, or leave the seeds and pith in the spur chillies.
 - **Vegetarian:** Leave out the shrimp paste, or use 1 tbsp white miso instead.
 - **Stick blender:** For Steps 4 and 5, put the lemongrass, galangal, lime leaves and coriander roots in the tall, narrow jug first, then everything else, and lift and move the stick blender around as you blend. If it doesn't all fit, blend it in 2 batches, with half the ground spices in each.
 
@@ -114,11 +115,11 @@ Use a third of the paste (about 180 g) for a curry that serves 6, such as [Thai 
 ## 📚 Sources
 
 - Blendtec: [Blending 101: How to Load a Jar](https://www.blendtec.com/blogs/news/blending-101-how-to-load-a-jar). Loading the soft, wet ingredients first and the hard ones on top.
-- Hot Thai Kitchen: [Authentic Thai Green Curry Paste Recipe](https://hot-thai-kitchen.com/green-curry-paste/). Adding milder green chillies, for chilli flavour without much heat, and Thai basil, for colour, and how much of each to use, the spinach swap, the amounts of coriander roots and shrimp paste, grinding the spices separately, making a big batch for a jug blender and adding a little water to get it blending, wearing gloves for the chillies, freezing it in curry-sized portions, and the miso swap.
+- Hot Thai Kitchen: [Authentic Thai Green Curry Paste Recipe](https://hot-thai-kitchen.com/green-curry-paste/). Adding milder green chillies, for chilli flavour without much heat, and Thai basil, for colour, and how much of each to use, the jalapeño and spinach swaps, the amounts of coriander roots and shrimp paste, grinding the spices separately, making a big batch for a jug blender and adding a little water to get it blending, wearing gloves for the chillies, freezing it in curry-sized portions, and the miso swap.
 - Jamie Oliver Cookery School: Fragrant Thai Green Curry, the recipe card (2020) from its [Fragrant Thai Green Curry](https://jamieolivercookeryschool.com/cooking-classes/fragrant-thai-green-curry/) class. The starting point for this recipe: its paste ingredients and amounts, tripled.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long paste keeps in the freezer when vacuum packed.
 - RecipeTin Eats: [Thai Green Curry Paste recipe](https://www.recipetineats.com/thai-green-curry-paste-recipe/). Using dried shrimp paste, which keeps the paste green, how much white pepper to use, and the fridge time.
-- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Green Thai spur chillies as the milder chillies Thai cooks use, toasting the spices, why a small batch won't blend in a blender, the paste's Thai name, pressing cling film onto the paste in the fridge, and the freezer time.
+- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Green Thai spur chillies as the milder chillies Thai cooks use, toasting the spices, how much salt to add, why a small batch won't blend in a blender, the Thai names of the paste and the spur chillies, pressing cling film onto the paste in the fridge, and the freezer time.
 - Wikipedia: [Green curry](https://en.wikipedia.org/wiki/Green_curry). Where the dish comes from.
 
 ---

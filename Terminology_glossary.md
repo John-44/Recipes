@@ -130,7 +130,8 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Roots | fresh turmeric | fresh turmeric | turmeric root, raw turmeric | Keep "fresh" whenever you mean this ingredient, because "turmeric" on its own usually means ground. When you mean the spice in general, "turmeric" is fine, as in "warm with turmeric". |
 | Roots | galangal | galangal | galanga, galangal root, Thai ginger, blue ginger | A root related to ginger, but a different ingredient. |
 | Roots | ginger | ginger | root ginger, fresh ginger, ginger root | Means fresh root ginger. Ground ginger would be a separate term. |
-| Herbs | basil leaves and stalks | basil | fresh basil, sweet basil, basil bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Not Thai basil leaves. |
+| Herbs | basil leaves | basil leaves | fresh basil, sweet basil | The fresh herb's leaves, picked off the stalks. Not basil leaves and stalks, or Thai basil leaves, which taste more of aniseed. |
+| Herbs | basil leaves and stalks | basil | fresh basil, sweet basil, basil bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Not basil leaves or Thai basil leaves. |
 | Herbs | coriander leaves | coriander leaves | cilantro, fresh coriander, Chinese parsley | The fresh herb. Always add "leaves", so it can't be mistaken for coriander seeds or ground coriander. |
 | Herbs | coriander leaves and stalks | coriander leaves and stalks | fresh coriander, coriander bunch | The whole fresh herb, with its tender stalks chopped in with the leaves, as from a 30 g supermarket pack. Not coriander roots. |
 | Herbs | coriander roots | coriander roots | cilantro roots | The roots of the coriander plant. Always add "roots", so they can't be mistaken for coriander leaves or coriander stalks. |
@@ -140,7 +141,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Herbs | flat-leaf parsley stalks | parsley stalks | parsley stems | The stalks of flat-leaf parsley. They stand up to cooking better than the leaves. |
 | Herbs | kaffir lime leaves | lime leaves | makrut lime leaves, kafir lime leaves, bai makrut | Sold fresh, frozen or dried. Say "dried" when you mean dried ones. Some packs are labelled "makrut lime leaves": use that name only to describe a label, in quotes. |
 | Herbs | lemongrass stalks | lemongrass | lemon grass, lemongrass sticks | Count in stalks: "2 lemongrass stalks". |
-| Herbs | Thai basil leaves | Thai basil | horapa, Asian basil, sweet basil | The leaves of Thai basil, picked off its purple stalks. It tastes like basil, with more aniseed. Sold in Asian supermarkets. Not basil leaves and stalks, or holy basil, which would need its own term. |
+| Herbs | Thai basil leaves | Thai basil | horapa, Asian basil, sweet basil | The leaves of Thai basil, picked off its purple stalks. It tastes like basil, with more aniseed. Sold in Asian supermarkets. Not basil leaves, basil leaves and stalks, or holy basil, which would need its own term. |
 | Herbs | thyme sprigs | thyme sprigs | fresh thyme, thyme stems | Fresh thyme, counted in sprigs, as in "6 thyme sprigs". Not dried thyme. |
 | Fruit | blackberries | blackberries | brambles | Fresh, and sold in 150 g punnets. Say "frozen blackberries" when you mean frozen ones. |
 | Fruit | Bramley apples | apples | Bramleys, Bramley's Seedling | Large, sharp, green cooking apples, which cook down into a soft purée. Bramley is a variety, so it takes a capital B. Eating apples would need their own term. |
@@ -411,7 +412,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Cleaning | washed | | Washed in cold water, then patted dry, as for coriander leaves and stalks. Not drained and rinsed, which is for canned beans. |
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
 | Trimming | deveined | de-veined | The dark vein along the back removed, as in "Peel and devein the prawns". |
-| Trimming | stalks removed | stemmed, destemmed | For chillies, shiitake mushrooms and Thai aubergines. |
+| Trimming | stalks removed | stemmed, destemmed | For chillies, mangetout, shiitake mushrooms and Thai aubergines. |
 | Trimming | centre ribs removed | midribs removed, center ribs removed, stems removed | For kaffir lime leaves: the tough rib down the middle of each leaf pulled or cut out, as in "24 kaffir lime leaves, centre ribs removed, finely sliced". |
 | Trimming | cored | | With the core and seeds cut out. For apples, cut them into quarters, then cut the core out of each quarter. |
 | Trimming | top half and tough outer layers removed | white part only, trimmed | For lemongrass. |
