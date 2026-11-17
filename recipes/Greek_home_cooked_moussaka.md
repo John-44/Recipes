@@ -100,7 +100,7 @@ Leave it to cool for 45 minutes, so the béchamel and meat sauce set. Then cut i
 - 🧊 **Fridge:** Up to 2 days. Cover the baking dish with cling film or foil, or divide the moussaka between airtight containers, and refrigerate it within 1–2 hours.
 - ❄️ **Freezer:** Up to 3 months in airtight containers, or up to 1 year if vacuum packed. Thaw it in the fridge overnight, and eat it within 24 hours. The crust goes soft once it's been frozen.
 - 📅 **Make ahead:** Bake it up to 2 days ahead, then leave it to cool, cover it and refrigerate it within 1–2 hours.
-- ♨️ **Reheat:** Cover it with foil and reheat it in the oven at 180°C (160°C fan) until steaming hot all the way through, about 1 hour for the whole dish. A probe thermometer pushed into the centre should read at least 75°C.
+- ♨️ **Reheat:** Cover it with foil and reheat it in the oven at 180°C (160°C fan) until steaming hot all the way through, about 1 hour for the whole dish. A probe thermometer pushed into the centre should read at least 75°C. Without one, a knife pushed into the centre should come out hot.
 
 ## 🗺️ Origin
 
@@ -130,7 +130,7 @@ Its name came into Greek from Arabic, through Ottoman Turkish. The Greek version
 - My Greek Dish: [Traditional Moussaka recipe with eggplants (aubergines) and potatoes](https://www.mygreekdish.com/recipe/mousakas/). The size of the baking dish, draining the fried aubergines on kitchen roll, a meat sauce thick enough not to soak into the aubergines, letting the moussaka cool before cutting it so the béchamel doesn't run, and making it ahead and reheating it.
 - National Center for Home Food Preservation: [Foods That Do Not Freeze Well](https://nchfp.uga.edu/how/freeze/freeze-general-information/foods-that-do-not-freeze-well/). That crumb toppings go soft when frozen.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long the moussaka keeps in the freezer when vacuum packed, from its entry for stews.
-- RecipeTin Eats: [Moussaka (Greek Beef and Eggplant Lasagna)](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/). Slicing the aubergines about 7 mm thick, cooking the wine until the raw wine smell has gone, a meat sauce thicker than a pasta sauce so it doesn't run when you cut the moussaka, simmering it over medium-low heat, and baking it at 180°C for 30–40 minutes until golden brown.
+- RecipeTin Eats: [Moussaka (Greek Beef and Eggplant Lasagna)](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/). Slicing the aubergines about 7 mm thick, cooking the wine until the raw wine smell has gone, a meat sauce thicker than a pasta sauce so it doesn't run when you cut the moussaka, simmering it over medium-low heat, baking it at 180°C for 30–40 minutes until golden brown, and reheating it until a knife in the centre comes out hot.
 - Wikipedia: [Kefalotyri](https://en.wikipedia.org/wiki/Kefalotyri). What kefalotyri is made from, and Pecorino Romano or Parmesan as swaps.
 - Wikipedia: [Moussaka](https://en.wikipedia.org/wiki/Moussaka). Its Greek name, where its name comes from and Nikolaos Tselementes' Greek version, for the description and **Origin**.
 
