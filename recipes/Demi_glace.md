@@ -163,6 +163,7 @@ It's a classic sauce of French cuisine, and its name means "half-glaze".
 
 ## 🏷️ Tags
 
+- **Course:** 🧩 Ingredient
 - **Type:** 🫗 Sauces
 - **Main ingredient:** 🐄 Beef, 🐔 Chicken
 - **Diet:** 🥥 Dairy-free

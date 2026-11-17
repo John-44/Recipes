@@ -86,6 +86,7 @@ Béchamel sauce comes from France. The chef Nikolaos Tselementes brought it into
 
 ## 🏷️ Tags
 
+- **Course:** 🧩 Ingredient
 - **Type:** 🫗 Sauces
 - **Allergens:** 🌾 Cereals containing gluten, 🥚 Eggs, 🥛 Milk
 

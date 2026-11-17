@@ -418,6 +418,7 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 - Each tag is a single category: `Pastes`, not `Pastes and sauces`. If two categories apply, use two tags.
 - Choose from the [tag list](Terminology_glossary.md#tags) in the Terminology glossary, spelled exactly as shown, and put each tag's emoji from the list before it.
 - Every recipe needs at least one **Type** tag and an **Allergens** line. Add **Course**, **Main ingredient** and **Diet** tags where they apply.
+- If the recipe is for an ingredient used in other recipes, rather than something eaten on its own, give it the **Course** tag `Ingredient`.
 - Give each group its own line: the group's name in bold, then its tags, separated by commas, as in `- **Diet:** 🥥 Dairy-free, 🌽 Gluten-free`.
 - Keep the groups in the tag list's order: **Course**, **Type**, **Main ingredient**, **Diet**, then **Allergens**. Leave out any group with no tags, apart from **Allergens**.
 - On each line, put the tags in the order the tag list gives them.

@@ -175,7 +175,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | medium curry powder | curry powder | | A ready-made dry spice blend, sold as medium curry powder. Not mild Thai curry powder. |
 | Spices | mild Thai curry powder | curry powder | curry spice mix | A ready-made dry spice blend, not a curry paste. Choose a mild one. |
 | Curry pastes | Thai Yellow Curry Paste | curry paste | | The recipe in this repository. Link it wherever you name it, as `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`. |
-| Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A jar of Thai yellow curry paste, used instead of the Thai Yellow Curry Paste recipe. Paste made from the recipe is "homemade", not "home-made". |
+| Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A store-bought version of any paste, such as a jar of Thai yellow curry paste used instead of the Thai Yellow Curry Paste recipe. When the recipe has only one paste, or the context makes clear which one you mean, "store-bought paste" is enough. Otherwise, name the paste, as in "store-bought Thai yellow curry paste". Paste made from a recipe is "homemade", not "home-made". |
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
 | Seasonings | fine sea salt | salt | fine salt | Fine grains that dissolve quickly, for baking. Table salt works too. Not coarse sea salt. |
 | Seasonings | fish sauce | fish sauce | nam pla, Thai fish sauce | Not vegetarian. |
@@ -878,7 +878,7 @@ Each tag has an emoji, which goes before it in a recipe, as in `- **Type:** 🍛
 
 **Order:** the groups stay in this order. Within each group:
 
-- **Course:** Breakfasts, then a meal's courses in the order you'd eat them, then Snacks and Drinks.
+- **Course:** Breakfasts, then a meal's courses in the order you'd eat them, then Snacks and Drinks, with Ingredient last.
 - **Type:** A to Z.
 - **Main ingredient:** meat from red to white, then Fish, Seafood, other proteins (A to Z), Vegetables, Fruit, grains, then pasta and noodles (A to Z), as in the [ingredient families](#ingredients).
 - **Diet:** free-from tags first (A to Z), then Vegetarian and Vegan, from least strict to most.
@@ -886,7 +886,7 @@ Each tag has an emoji, which goes before it in a recipe, as in `- **Type:** 🍛
 
 | Group | Tags |
 | --- | --- |
-| Course | 🥐 Breakfasts, 🥟 Starters, 🍽️ Mains, 🥔 Sides, 🍨 Desserts, 🍿 Snacks, 🥤 Drinks |
+| Course | 🥐 Breakfasts, 🥟 Starters, 🍽️ Mains, 🥔 Sides, 🍨 Desserts, 🍿 Snacks, 🥤 Drinks, 🧩 Ingredient |
 | Type | 🥘 Bakes, 🍞 Breads, 🍰 Cakes, 🍮 Crumbles, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🍖 Roasts, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
 | Main ingredient | 🐄 Beef, 🐑 Lamb, 🐖 Pork, 🐔 Chicken, 🐟 Fish, 🦐 Seafood, 🥚 Eggs, 🫘 Pulses, 🫛 Tofu, 🥦 Vegetables, 🍎 Fruit, 🍚 Rice, 🍜 Noodles, 🍝 Pasta |
 | Diet | 🥥 Dairy-free, 🌽 Gluten-free, 🫑 Vegetarian, 🌱 Vegan |

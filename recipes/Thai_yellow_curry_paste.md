@@ -101,6 +101,7 @@ Use half the paste for a curry that serves 4, such as [Thai Yellow Prawn Curry](
 
 ## 🏷️ Tags
 
+- **Course:** 🧩 Ingredient
 - **Type:** 🌿 Pastes
 - **Diet:** 🥥 Dairy-free
 - **Allergens:** 🦀 Crustaceans. Check the label on the curry powder, which can contain mustard.
