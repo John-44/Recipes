@@ -59,26 +59,28 @@ Put the MSG, chillies, shallots, garlic, shrimp paste, coriander leaves and stal
 
 Blend on the highest speed in short bursts, stopping to scrape down the sides, until the paste has no perceptible woody fibres or gritty particles.
 
-If the jar feels warm when you stop, leave it to cool before blending again. Try not to add extra water. If the paste stops moving, add water 1 tbsp at a time, just until it moves again.
+If the jar feels warm when you stop, leave it to cool before blending again. If the paste stops moving, add water 1 tbsp at a time, just until it moves again.
 
-> **Tip:** Thai curry recipes expect a thick paste. Starting with the soft, wet ingredients gets the paste moving, so it usually blends without extra water.
+> **Tip:** Thai curry recipes expect a thick paste. Starting with the soft, wet ingredients gets the paste moving, but with no liquid in the recipe, a full-size jar usually needs a little water too.
 
 > **Tip:** A full-size jar needs a big batch like this one to blend well. In a small batch, most of the paste sticks to the sides of the jar, out of reach of the blade.
 
 #### Step 5: Blend in the spices.
 
-Add the ground spices to the high-speed blender and blend in short bursts, stopping to scrape down the sides, until evenly incorporated and smooth, leaving the jar to cool whenever it feels warm. Rub a little between your fingers: it shouldn't feel gritty.
+Add the ground spices to the high-speed blender and blend in short bursts, stopping to scrape down the sides, until very smooth, leaving the jar to cool whenever it feels warm. Rub a little between your fingers: it shouldn't feel gritty.
 
 #### Step 6: Use or store.
 
-Use a third of the paste for a curry that serves 6, such as [Thai Green Chicken Curry](Thai_green_chicken_curry.md). Freeze the rest.
+Use a third of the paste (about 180 g) for a curry that serves 6, such as [Thai Green Chicken Curry](Thai_green_chicken_curry.md). Freeze the rest.
 
 ## 📝 Notes and substitutions
 
 - **Jalapeños:** Look for them in larger supermarkets. Green Thai spur chillies (*prik chee fah khiao*), the milder chillies Thai cooks use, work too: look for them in Asian supermarkets, and use the same weight.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1 tbsp ground cumin and 1 tsp ground white pepper. Skip Steps 2 and 3, and add them in Step 5.
 - **Dried shrimp paste:** Look for it in Asian supermarkets, where it's sold in hard blocks. Thai fermented shrimp paste (*kapi* or *gapi*), sold in tubs, works too, but it makes the paste less green.
+- **Thai basil:** Look for it in Asian supermarkets. It's only there for colour, as its flavour cooks away when you fry the paste, so the same weight of spinach leaves works too.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets.
+- **Kaffir lime leaves:** Look for them fresh or frozen in Asian supermarkets. Dried ones have much less flavour.
 - **Coriander roots:** Look for them in Asian supermarkets. If you can't find any, use the same weight of tender coriander stalks.
 - **More heat:** Use more bird's eye chillies, or leave the seeds and pith in the jalapeños.
 - **Vegetarian:** Leave out the shrimp paste, or use 1 tbsp white miso instead.
@@ -87,7 +89,7 @@ Use a third of the paste for a curry that serves 6, such as [Thai Green Chicken 
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 2 days in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
-- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press 2 creases across it, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
+- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
 
 ## 🔗 Used in
 
@@ -112,11 +114,11 @@ Use a third of the paste for a curry that serves 6, such as [Thai Green Chicken 
 ## 📚 Sources
 
 - Blendtec: [Blending 101: How to Load a Jar](https://www.blendtec.com/blogs/news/blending-101-how-to-load-a-jar). Loading the soft, wet ingredients first and the hard ones on top.
-- Hot Thai Kitchen: [Authentic Thai Green Curry Paste Recipe](https://hot-thai-kitchen.com/green-curry-paste/). Adding milder green chillies, for chilli flavour without much heat, and Thai basil, for colour, and how much of each to use, the amounts of coriander roots and shrimp paste, grinding the spices separately, making a big batch for a jug blender, wearing gloves for the chillies, freezing it in curry-sized portions, and the miso swap.
+- Hot Thai Kitchen: [Authentic Thai Green Curry Paste Recipe](https://hot-thai-kitchen.com/green-curry-paste/). Adding milder green chillies, for chilli flavour without much heat, and Thai basil, for colour, and how much of each to use, the spinach swap, the amounts of coriander roots and shrimp paste, grinding the spices separately, making a big batch for a jug blender and adding a little water to get it blending, wearing gloves for the chillies, freezing it in curry-sized portions, and the miso swap.
 - Jamie Oliver Cookery School: Fragrant Thai Green Curry, the recipe card (2020) from its [Fragrant Thai Green Curry](https://jamieolivercookeryschool.com/cooking-classes/fragrant-thai-green-curry/) class. The starting point for this recipe: its paste ingredients and amounts, tripled.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long paste keeps in the freezer when vacuum packed.
 - RecipeTin Eats: [Thai Green Curry Paste recipe](https://www.recipetineats.com/thai-green-curry-paste-recipe/). Using dried shrimp paste, which keeps the paste green, how much white pepper to use, and the fridge time.
-- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Green Thai spur chillies as the milder chillies Thai cooks use, why a small batch won't blend in a blender, the paste's Thai name, and the freezer time.
+- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Green Thai spur chillies as the milder chillies Thai cooks use, toasting the spices, why a small batch won't blend in a blender, the paste's Thai name, pressing cling film onto the paste in the fridge, and the freezer time.
 - Wikipedia: [Green curry](https://en.wikipedia.org/wiki/Green_curry). Where the dish comes from.
 
 ---
