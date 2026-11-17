@@ -68,7 +68,7 @@ If the jar feels warm when you stop, leave it to cool before blending again. Try
 
 #### Step 5: Blend in the spices.
 
-Add the ground spices to the high-speed blender and blend in short bursts, stopping to scrape down the sides, until evenly incorporated and smooth, leaving the jar to cool whenever it feels warm. Rub a little between your fingers: it shouldn't feel gritty.
+Add the ground spices to the high-speed blender and blend in short bursts, stopping to scrape down the sides, until very smooth, leaving the jar to cool whenever it feels warm. Rub a little between your fingers: it shouldn't feel gritty.
 
 #### Step 6: Use or store.
 
@@ -89,7 +89,7 @@ Use half the paste for a curry that serves 4, such as [Thai Yellow Prawn Curry](
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 1 week in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
-- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
+- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag, and if you're freezing the whole batch, press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
 
 ## 🔗 Used in
 
