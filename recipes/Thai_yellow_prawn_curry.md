@@ -131,6 +131,7 @@ Spoon the curry over the rice, then drizzle the rest of the coconut cream on top
 ## 🗺️ Origin
 
 - **Country:** 🇹🇭 Thailand
+- **Region:** Southern Thailand
 
 Yellow curry is closely linked to Thailand's Muslim community, and its curry powder shows an Indian influence.
 
@@ -152,6 +153,7 @@ Yellow curry is closely linked to Thailand's Muslim community, and its curry pow
 - America's Test Kitchen: [Garlicky Broiled Shrimp](https://www.americastestkitchen.com/recipes/14570-garlicky-broiled-shrimp). Salting the prawns so they stay juicy.
 - America's Test Kitchen: [How to "Crack" Coconut Cream](https://www.americastestkitchen.com/how_tos/8358-how-to-crack-coconut-cream). How to crack the coconut milk and how long it takes.
 - Biona Organic: [Organic Coconut Milk 400ml](https://biona.co.uk/products/biona-organic-coconut-milk-400ml). A coconut milk with no emulsifiers or stabilisers.
+- Grantourismo Travels: [Geng Gari Gai Aromatic Chicken Curry Recipe from Southern Thailand](https://grantourismotravels.com/geng-gari-gai-aromatic-chicken-curry-recipe/). The region the dish comes from, for the **Origin**.
 - Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Frying the paste in coconut milk until the oil separates out, the seasonings, holding back half the tamarind paste, how much homemade paste to use, cutting the onion thickly, crispy fried shallots as the main garnish and toasting them, and the dish's background.
 - Hot Thai Kitchen: [Coconut Milk: How to Choose, Use, Store & Substitute](https://hot-thai-kitchen.com/coconut-milk-101/). Why additives such as guar gum stop coconut milk separating.
 - Hot Thai Kitchen: [Thai Curry Master Class - Make Any Curry Without Recipes!](https://hot-thai-kitchen.com/thai-curry-master-class/). Season curry strongly, because it's eaten with plain rice.
