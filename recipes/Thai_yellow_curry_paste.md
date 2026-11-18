@@ -89,7 +89,7 @@ Use half the paste for a curry that serves 4, such as [Thai Yellow Prawn Curry](
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 1 week in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
-- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag, and if you're freezing the whole batch, press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
+- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. The paste can be fried straight from frozen, so no need to thaw.
 
 ## 🔗 Used in
 
@@ -115,14 +115,14 @@ Yellow curry is closely linked to Thailand's Muslim community, and its curry pow
 
 ## 📚 Sources
 
-- Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, grinding the spices in a spice grinder, how much ground turmeric to use instead of fresh, and the freezing tip.
+- Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, grinding the spices in a spice grinder, and how much ground turmeric to use instead of fresh.
 - Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Yellow curry's link to Thailand's Muslim community and the Indian influence of its curry powder, for the **Origin**.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Using dried Thai spur chillies, toasting the spices, slicing the fresh ingredients finely, the weight of the lemongrass, how much a piece of fresh turmeric weighs, the amount of coriander roots and the coriander stalks swap, and storage times.
 - RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the turmeric swap, and turmeric stains warning.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long paste keeps in freezer when vacuum packed.
 - Blendtec: [Blending 101: How to Load a Jar](https://www.blendtec.com/blogs/news/blending-101-how-to-load-a-jar). Loading the soft, wet ingredients first and the hard ones on top.
 - Blendtec: [Twister Jar](https://www.blendtec.com/products/twister-jar). Turning the lid anticlockwise while it blends.
-- Grantourismo Travels: [Geng Gari Gai Aromatic Chicken Curry Recipe from Southern Thailand](https://grantourismotravels.com/geng-gari-gai-aromatic-chicken-curry-recipe/). Toasting the dried chillies, which David Thompson grills for his curry paste, and, for the **Origin**, the region the dish comes from and the dried spices that traders brought to Thailand.
+- Grantourismo Travels: [Geng Gari Gai Aromatic Chicken Curry Recipe from Southern Thailand](https://grantourismotravels.com/geng-gari-gai-aromatic-chicken-curry-recipe/). Toasting the dried chillies, which David Thompson grills for his curry paste, the region the dish comes from and the dried spices that traders brought to Thailand.
 - Rosa's Thai: [Yellow Curry Paste](https://rosasthai.com/recipes/yellow-curry-paste). Roasting the shallots and garlic, and toasting the galangal and ginger.
 
 ---

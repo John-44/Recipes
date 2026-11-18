@@ -88,7 +88,7 @@ Use a third of the paste (about 180 g) for a curry that serves 6, such as [Thai 
 ## 🫙 Storage and make-ahead
 
 - 🧊 **Fridge:** Up to 2 days in an airtight container, with cling film pressed onto the surface so it doesn't dry out.
-- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. Flatten it in the bag and press a crease across the middle, so you can break off one curry's worth at a time. The paste can be fried straight from frozen, so no need to thaw.
+- ❄️ **Freezer:** Up to 3 months in a freezer bag, or up to 1 year if vacuum packed. The paste can be fried straight from frozen, so no need to thaw.
 
 ## 🔗 Used in
 
@@ -115,12 +115,12 @@ Green curry is a fairly recent Thai dish. It probably began in the kitchens of t
 ## 📚 Sources
 
 - Blendtec: [Blending 101: How to Load a Jar](https://www.blendtec.com/blogs/news/blending-101-how-to-load-a-jar). Loading the soft, wet ingredients first and the hard ones on top.
-- Hot Thai Kitchen: [Authentic Thai Green Curry Paste Recipe](https://hot-thai-kitchen.com/green-curry-paste/). Adding milder green chillies, for chilli flavour without much heat, and Thai basil, for colour, and how much of each to use, the jalapeño and spinach swaps, the amounts of coriander roots and shrimp paste, grinding the spices separately, making a big batch for a jug blender and adding a little water to get it blending, wearing gloves for the chillies, freezing it in curry-sized portions, and the miso swap.
+- Hot Thai Kitchen: [Authentic Thai Green Curry Paste Recipe](https://hot-thai-kitchen.com/green-curry-paste/). Adding milder green chillies, for chilli flavour without much heat, and Thai basil for colour, the jalapeño and spinach swaps, the amounts of coriander roots and shrimp paste, grinding the spices separately, making a big batch for a jug blender and adding a little water to get it blending, wearing gloves for the chillies, and the miso swap.
 - Jamie Oliver Cookery School: Fragrant Thai Green Curry, the recipe card (2020) from its [Fragrant Thai Green Curry](https://jamieolivercookeryschool.com/cooking-classes/fragrant-thai-green-curry/) class. The starting point for this recipe: its paste ingredients and amounts, tripled.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long paste keeps in the freezer when vacuum packed.
 - RecipeTin Eats: [Thai Green Curry Paste recipe](https://www.recipetineats.com/thai-green-curry-paste-recipe/). Using dried shrimp paste, which keeps the paste green, and how much white pepper to use.
 - Serious Eats: [Gaeng Khiao Waan Gai (Thai Green Curry with Chicken)](https://www.seriouseats.com/gaeng-khiao-waan-gai-thai-green-curry-with-chicken-recipe-5189726). How old the dish is, where it began, and its fresh green chillies replacing dried red ones, for the **Origin**.
-- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Green Thai spur chillies as the milder chillies Thai cooks use, toasting the spices, how much salt to add, the Thai names of the paste and the spur chillies, pressing cling film onto the paste in the fridge, and the freezer time.
+- Serious Eats: [Prik Gaeng Khiao Waan (Thai Green Curry Paste)](https://www.seriouseats.com/prik-gaeng-khiao-waan-thai-green-curry-paste-recipe-5189722). Green Thai spur chillies as the milder chillies Thai cooks use, toasting the spices, how much salt to add, the Thai names of the paste and the spur chillies, and pressing cling film onto the paste in the fridge.
 - Wikipedia: [Green curry](https://en.wikipedia.org/wiki/Green_curry). Where the dish comes from.
 
 ---
