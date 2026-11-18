@@ -186,7 +186,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Curry pastes | Thai Yellow Curry Paste | curry paste | | The recipe in this repository. Link it wherever you name it, as `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`. |
 | Curry pastes | store-bought paste | store-bought paste | shop-bought paste, ready-made paste, jarred paste | A store-bought version of any paste, such as a jar of Thai yellow curry paste used instead of the Thai Yellow Curry Paste recipe. When the recipe has only one paste, or the context makes clear which one you mean, "store-bought paste" is enough. Otherwise, name the paste, as in "store-bought Thai yellow curry paste". Paste made from a recipe is "homemade", not "home-made". |
 | Seasonings | coarse sea salt | salt | coarse salt, sea salt crystals | Not sea salt flakes or table salt. |
-| Seasonings | dried shrimp paste | shrimp paste | belacan (on its own), belachan, blachan, terasi | Fermented shrimp paste pressed into hard blocks and dried, sold in Asian supermarkets. Crumble it to measure it, as in "1 tbsp crumbled dried shrimp paste". In the ingredient list, follow the term with its Malay name in brackets, as in "1 tbsp crumbled dried shrimp paste (*belacan*)". Unlike Thai fermented shrimp paste, it doesn't turn green curry paste brown. Not dried shrimp, which are whole tiny shrimps. Not vegetarian. |
+| Seasonings | dried shrimp paste | shrimp paste | belacan (on its own), belachan, blachan, terasi | Fermented shrimp paste pressed into hard blocks and dried, sold in Asian supermarkets. Crumble it to measure it, and follow the term with its Malay name in brackets, as in "the same amount of crumbled dried shrimp paste (*belacan*)". Not dried shrimp, which are whole tiny shrimps. Not vegetarian. |
 | Seasonings | fine sea salt | salt | fine salt | Fine grains that dissolve quickly, for baking. Table salt works too. Not coarse sea salt. |
 | Seasonings | fish sauce | fish sauce | nam pla, Thai fish sauce | Not vegetarian. |
 | Seasonings | MSG | MSG | monosodium glutamate, umami seasoning | A seasoning that adds savoury depth. Packs may call it umami seasoning or E621. |
@@ -433,7 +433,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 | Grating | grated | | |
 | Bruising | crumpled | crumpled up, scrunched | Squeezed in your hand to release the flavour, but left whole: not chopped or torn. For kaffir lime leaves. |
 | Bruising | crushed | pressed | For garlic: pushed through a garlic crusher, as in "crush the garlic into the Dutch oven with the garlic crusher". For biscuits, crush means hitting them into crumbs. |
-| Measuring | crumbled | | Broken into small pieces with your fingers, so a hard block fills a measuring spoon, as in "1 tbsp crumbled dried shrimp paste". |
+| Measuring | crumbled | | Broken into small pieces with your fingers, so a hard block fills a measuring spoon, as in "the same amount of crumbled dried shrimp paste". |
 | Seasoning | plus extra to taste | plus more to taste | For a seasoning you adjust at the end, as in "1½ tbsp fish sauce, plus extra to taste". It ends the line, after any note in brackets. |
 
 ## Cooking terms
