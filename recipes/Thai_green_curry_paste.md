@@ -1,5 +1,7 @@
 # 🍃 Thai Green Curry Paste
 
+![Oil painting of a cook pounding green curry paste in a stone pestle and mortar, beside lemongrass, green chillies and Thai basil, on the veranda of a Thai house](../images/Thai_green_curry_paste.webp)
+
 A fresh, fragrant curry paste made from green chillies, lemongrass, galangal, kaffir lime leaves and fresh herbs. In Thailand it's called *prik gaeng khiao waan*, and it's the base of Thai green curry. Green Thai spur chillies add chilli flavour without much heat, and Thai basil deepens the green colour. This batch makes enough for 3 curries, so freeze two-thirds for next time.
 
 | Prep time | Cook time | Total time | Makes |
