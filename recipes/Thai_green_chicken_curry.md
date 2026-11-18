@@ -1,5 +1,7 @@
 # 🍗 Thai Green Chicken Curry
 
+![Oil painting of Thai green chicken curry with jasmine rice in a wide bowl, beside a dish of lime wedges, in a teak house overlooking a river](../images/Thai_green_chicken_curry.webp)
+
 A creamy, fragrant curry of chicken thighs, Thai aubergines and mangetout in coconut milk, fresh with green chillies, lemongrass and Thai basil. It's known in Thailand as *gaeng khiao waan*, or "sweet green" curry, after its pale green colour rather than its taste. This recipe adds professional Thai chef touches: cracking the coconut milk, frying the paste in its oil and seasoning with MSG. Serve with jasmine rice.
 
 | Start ahead | Prep time | Cook time | Total time | Servings |

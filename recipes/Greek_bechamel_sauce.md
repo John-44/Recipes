@@ -1,5 +1,7 @@
 # 🫕 Greek Béchamel Sauce
 
+![Oil painting of a cook pouring beaten egg yolks into thick béchamel in a copper pan while whisking, beside a wedge of kefalotyri, in a Greek village kitchen above the sea](../images/Greek_bechamel_sauce.webp)
+
 A thick, creamy béchamel, enriched with egg yolks and kefalotyri, the hard, salty Greek cheese, and warm with nutmeg. The egg yolks make it set as it bakes, into a firm, golden layer that holds its shape when you cut it. That makes it the topping for Greek baked dishes such as moussaka, rather than a sauce for pouring.
 
 | Prep time | Cook time | Total time | Makes |
