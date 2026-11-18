@@ -1,5 +1,7 @@
 # 🍆 Greek Home-Cooked Moussaka
 
+![Oil painting of a slice of moussaka on a rustic plate, on a wooden table in a whitewashed Greek village above the sea](../images/Greek_home_cooked_moussaka.webp)
+
 A rustic Greek recipe, making moussaka the way it would traditionally be made in the home. Layers of fried aubergines and a beef mince sauce, simmered with white wine, fresh tomatoes and parsley leaves, under a thick, egg-enriched béchamel with a golden crust of kefalotyri, breadcrumbs and butter. This version follows a handwritten Greek family recipe. Known in Greece as *mousakás*. Serve it warm rather than hot, once the béchamel has set.
 
 | Prep time | Cook time | Total time | Servings |

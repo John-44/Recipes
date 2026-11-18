@@ -1,5 +1,7 @@
 # 🍆 Elevated Greek Moussaka
 
+![Oil painting of a slice of moussaka on a blue-rimmed plate, on a terrace table overlooking Athens and the Acropolis](../images/Elevated_greek_moussaka.webp)
+
 Layers of fried aubergines and a deep, savoury beef mince sauce, under a thick, egg-enriched béchamel with a golden crust of kefalotyri and breadcrumbs. It builds on a handwritten Greek family recipe with touches from Greek cooks: the mince is seared until deep brown, then simmered with white wine, tomatoes, a cinnamon stick, allspice and bay leaves, and the aubergines are salted before frying, so they soak up less oil. Known in Greece as *mousakás*. Serve it warm rather than hot, once the béchamel has set.
 
 | Prep time | Cook time | Total time | Servings |
