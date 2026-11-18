@@ -1,5 +1,7 @@
 # 🍖 Coca-Cola Ham
 
+![Oil painting of a glazed ham studded with cloves, with slices cut from it, beside a bottle of Coca-Cola on the porch of a Southern house overlooking a river](../images/Coca_cola_ham.webp)
+
 A whole gammon joint simmered for hours in Coca-Cola with vegetables and spices, then skinned, coated in a glaze of black treacle, English mustard powder and demerara sugar, studded with cloves and roasted until sticky. The long simmer makes the ham tender and juicy, and the Coca-Cola gives it a gentle sweetness. The glaze is dark and sweet, with a kick of mustard and the warmth of cloves. Serve it hot in slices, or cold in sandwiches.
 
 | Prep time | Cook time | Total time | Servings |

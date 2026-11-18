@@ -1,5 +1,7 @@
 # 🫗 Demi-Glace
 
+![Oil painting of a cook pouring demi-glace from a copper pan through a conical strainer into a saucepan, in a Paris kitchen with the Eiffel Tower beyond the window](../images/Demi_glace.webp)
+
 A deep, glossy, intensely savoury sauce base, in the modern restaurant style. Unroasted beef bones simmer for a day for their gelatine, then deeply roasted chicken carcasses join them for flavour. The stock is fortified with seared vegetables, roasted meat trim and a pinçage, then reduced until thick and finished with infused herbs, soy sauce, sherry vinegar and honey. Unlike classic demi-glace, it isn't thickened with flour, which mutes the flavour.
 
 | Prep time | Cook time | Total time | Makes |
