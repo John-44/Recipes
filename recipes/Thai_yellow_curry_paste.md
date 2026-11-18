@@ -78,6 +78,7 @@ Use half the paste for a curry that serves 4, such as [Thai Yellow Prawn Curry](
 
 - **Dried chillies:** Look for dried Thai spur chillies in Asian supermarkets or online. If you can't find them, use the same weight of Kashmiri chillies (sold in Indian grocers) or Mexican guajillo chillies, which both add colour without much heat.
 - **Ground spices:** Instead of toasting and grinding whole spices, use 1 tbsp ground coriander, 1½ tsp ground cumin and ½ tsp ground white pepper. Skip Steps 2 and 3, and add them with the curry powder in Step 5.
+- **Shrimp paste:** Look for it in Asian supermarkets, where it's sold in tubs. The same amount of crumbled dried shrimp paste (*belacan*), which is sold in hard blocks, works too.
 - **Galangal:** Look for it fresh or frozen in Asian supermarkets.
 - **Fresh turmeric:** If you can't find it, use 1 tsp ground turmeric, and add it with the ground spices in Step 5.
 - **Coriander roots:** Look for them in Asian supermarkets. If you can't find any, use the same weight of tender coriander stalks.
@@ -118,7 +119,7 @@ Yellow curry is closely linked to Thailand's Muslim community, and its curry pow
 - Hot Thai Kitchen: [Best Yellow Curry Paste Recipe](https://hot-thai-kitchen.com/yellow-curry-paste/). The ingredient list, using mild dried chillies, keeping the paste thick, grinding the spices in a spice grinder, and how much ground turmeric to use instead of fresh.
 - Hot Thai Kitchen: [Authentic Thai Yellow Curry with Chicken and Potatoes](https://hot-thai-kitchen.com/yellow-curry-chicken/). Yellow curry's link to Thailand's Muslim community and the Indian influence of its curry powder, for the **Origin**.
 - Serious Eats: [Prik Gaeng Garee (Thai Yellow Curry Paste)](https://www.seriouseats.com/prik-gaeng-garee-yellow-curry-paste-5190967). Using dried Thai spur chillies, toasting the spices, slicing the fresh ingredients finely, the weight of the lemongrass, how much a piece of fresh turmeric weighs, the amount of coriander roots and the coriander stalks swap, and storage times.
-- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the turmeric swap, and turmeric stains warning.
+- RecipeTin Eats: [Thai Yellow Curry](https://www.recipetineats.com/thai-yellow-curry/#h-how-to-make-thai-yellow-curry-paste). Blending the paste with a stick blender, the turmeric and dried shrimp paste swaps, and turmeric stains warning.
 - OutOfAir: [Food Expiration Chart: The Shelf Life of Your Vacuum Sealed Food](https://outofair.com/blog/food-expiration-chart-shelf-life-of-your-vacuum-sealed-food). How long paste keeps in freezer when vacuum packed.
 - Blendtec: [Blending 101: How to Load a Jar](https://www.blendtec.com/blogs/news/blending-101-how-to-load-a-jar). Loading the soft, wet ingredients first and the hard ones on top.
 - Blendtec: [Twister Jar](https://www.blendtec.com/products/twister-jar). Turning the lid anticlockwise while it blends.
