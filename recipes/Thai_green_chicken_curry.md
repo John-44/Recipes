@@ -67,7 +67,7 @@ Stir in the chicken until it's coated in the paste. Add the rest of the coconut 
 
 Bring to a gentle simmer over medium heat, then cook, uncovered, over medium-low heat until the chicken is no longer pink in the middle when you cut the biggest piece open, 10–15 minutes.
 
-While it simmers, cook the jasmine rice. Cut the aubergines into bite-size pieces and put them in a bowl of cold water, so they don't turn brown.
+While it simmers, cook the jasmine rice. Cut the aubergines into bite-size pieces and put in a bowl of water, so they don't turn brown.
 
 #### Step 4: Add the coconut cream.
 
