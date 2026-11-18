@@ -1,5 +1,7 @@
 # 🍲 Viennese Beef Goulash
 
+![Oil painting of Viennese beef goulash in a wide bowl, with a small bowl of Spätzle, on a café table in a rain-washed square facing St Stephen's Cathedral](../images/Viennese_beef_goulash.webp)
+
 A rich, deep red goulash of beef shin, slow cooked with as much onion as beef until the onions melt into a thick, smooth sauce. Known in Vienna as *Wiener Saftgulasch*, it's flavoured with plenty of Hungarian sweet paprika, dried marjoram, garlic and a little lemon zest, with the roasted shin bone and tomato purée browned with red wine for extra depth. Like most stews, it tastes even better the next day. Serve with mashed or boiled and buttered potatoes, or *Spätzle* for a more traditional experience.
 
 | Prep time | Cook time | Total time | Servings |
