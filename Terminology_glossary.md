@@ -71,6 +71,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | Salt, sauces, seasoning pastes and sugars | Salty, then sour, then sweet; A to Z within each |
 | Oils and fats | Cooking oils and other fats | A to Z |
 | Liquids | Milks, stocks, wine, soft drinks and water | Richest to thinnest |
+| Dried fruit | Dried fruit, such as raisins | A to Z |
 | Nuts | Nuts, such as pine nuts | A to Z |
 | Pulses | Beans, lentils and chickpeas | A to Z |
 | Grains | Rice and other grains | A to Z |
@@ -147,6 +148,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Fruit | Bramley apples | apples | Bramleys, Bramley's Seedling | Large, sharp, green cooking apples, which cook down into a soft purée. Bramley is a variety, so it takes a capital B. Eating apples would need their own term. |
 | Fruit | lemon | lemon | | When you squeeze it, keep out the seeds and the bitter white pith, as in "making sure no seeds or pith get into the lemon juice". For its finely grated peel, write "the zest of the lemon", taking just the yellow part. |
 | Fruit | lime | lime | | For its finely grated peel, write "the zest of 1 lime". |
+| Fruit | rhubarb | rhubarb | rhubarb sticks, rhubarb stalks, rhubarb stems | The pink, red or green stalks, grown as a vegetable but cooked as a fruit. Weigh it without its leaves, which are poisonous, so cut off any that are still on and throw them away. |
 | Fruit | tamarind pods | tamarind pods | | Whole tamarind in their brittle brown shells: the sweet kind, for eating as a snack. Not tamarind pulp, which is sour, for cooking. |
 | Chillies | Kashmiri chillies | Kashmiri chillies | Kashmiri red chillies, Kashmiri chilies | Mild dried Indian chillies with a deep red colour. |
 | Chillies | guajillo chillies | guajillo chillies | guajillo peppers, guajillo chiles | Fairly mild dried Mexican chillies. Outside Mexican recipes, you can introduce them as "Mexican guajillo chillies". |
@@ -180,7 +182,9 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Spices | ground turmeric | ground turmeric | turmeric powder | Keep "ground" whenever you mean this ingredient. Fresh, it's fresh turmeric. |
 | Spices | white peppercorns | white peppercorns | whole white pepper | Ground, it's ground white pepper. |
 | Spices | ground white pepper | ground white pepper | white pepper powder, white pepper (on its own) | Whole, they're white peppercorns. |
+| Spices | mild curry powder | curry powder | | A ready-made dry spice blend, sold as mild curry powder. Not medium curry powder, which is hotter, or mild Thai curry powder. |
 | Spices | medium curry powder | curry powder | | A ready-made dry spice blend, sold as medium curry powder. Not mild Thai curry powder. |
+| Spices | hot curry powder | curry powder | | A ready-made dry spice blend, sold as hot curry powder. Not medium curry powder, which is milder. |
 | Spices | mild Thai curry powder | curry powder | curry spice mix | A ready-made dry spice blend, not a curry paste. Choose a mild one. |
 | Curry pastes | Thai Green Curry Paste | curry paste | | The recipe in this repository. Link it wherever you name it, as `[Thai Green Curry Paste](Thai_green_curry_paste.md)`. |
 | Curry pastes | Thai Yellow Curry Paste | curry paste | | The recipe in this repository. Link it wherever you name it, as `[Thai Yellow Curry Paste](Thai_yellow_curry_paste.md)`. |
@@ -198,6 +202,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Seasonings | Worcestershire sauce | Worcestershire sauce | Worcester sauce, Worcestershire (on its own) | A tangy, savoury sauce made with vinegar, molasses, tamarind and anchovies. UK brands usually contain barley malt vinegar, so it isn't gluten-free, and the anchovies mean it isn't vegetarian. |
 | Seasonings | apple cider vinegar | cider vinegar | ACV | Vinegar made from apples. Packs may call it cider vinegar. |
 | Seasonings | balsamic vinegar | balsamic vinegar | balsamic (on its own), aceto balsamico | Sour and slightly sweet. Not balsamic glaze, which is thicker and sweeter. |
+| Seasonings | malt vinegar | vinegar | brown malt vinegar, brown vinegar, chip shop vinegar | Brown vinegar brewed from barley, which is one of the cereals containing gluten. Distilled malt vinegar is clear, and would need its own term. Not non-brewed condiment, a cheaper vinegar substitute for seasoning chips. |
 | Seasonings | sherry vinegar | sherry vinegar | Jerez vinegar, vinagre de Jerez | Vinegar made from sherry, with a mellow, nutty flavour. |
 | Seasonings | tamarind paste | tamarind paste | tamarind purée | The brown, fairly runny Thai kind, homemade or store-bought. Tamarind concentrate is a thicker, stronger product. This repository's recipe is Tamarind Paste: link it wherever you name it, as `[Tamarind Paste](Tamarind_paste.md)`. |
 | Seasonings | tamarind pulp | tamarind | tamarind block, tamarind slab, wet tamarind | Compacted tamarind fruit pulp, sold in brown blocks, usually seedless but full of fibres. Packs may call it wet tamarind. Buy the sour kind for cooking, from Thailand. Not tamarind pods, which are sweet, or tamarind paste, which is made from it. |
@@ -230,6 +235,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Liquids | cold water | cold water | | Water from the cold tap, as for starting a stock, as in "6 L cold water". Not boiling water. |
 | Liquids | ice water | ice water | iced water | Cold water with plenty of ice in it, for cooling food fast, as in "placing the containers in ice water". |
+| Dried fruit | raisins | raisins | | Dark, dried grapes. Not sultanas, which are golden, and would need their own term. |
 | Nuts | chopped hazelnuts | hazelnuts | hazelnut pieces | Sold ready-chopped and usually roasted, in 100 g packs. |
 | Nuts | pine nuts | pine nuts | pine kernels, pignoli, pinoli | Small, soft seeds from pine cones, sold as nuts. Packs may call them pine kernels. |
 | Pulses | red kidney beans | kidney beans | red beans | Canned and already cooked, and sold in 400 g cans, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Dried ones would need their own term. |
@@ -262,7 +268,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Oven and bakeware | The oven and its shelves, and the trays, dishes, racks and foil you bake with | The oven, then the rest A to Z |
 | Appliances | Cooking appliances other than the hob and oven | A to Z |
 | Utensils | Spoons, cloths and other small hand tools | A to Z |
-| Storage | Appliances, containers and wraps for keeping food | Appliances first, then containers and wraps from most rigid to least |
+| Storage | Appliances, cupboards, containers and wraps for keeping food | Appliances first, then cupboards, then containers and wraps from most rigid to least |
 | Protective kit | Kit that protects the cook, such as gloves | A to Z |
 
 **Terms:**
@@ -293,6 +299,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Hob and pans | non-stick frying pan | nonstick frying pan, non stick frying pan | Not for searing: it shouldn't be heated that hot. |
 | Hob and pans | wok | wok pan | |
 | Hob and pans | saucepan | | Not a pot, which is larger and deeper. |
+| Hob and pans | preserving pan | maslin pan, jam pan | A wide, deep pan for jam and chutney, whose width helps liquid evaporate. For chutney, it must be stainless steel or enamelled, not aluminium or copper, which react with vinegar. Say how much it holds, as in "holding at least 9 L". |
 | Hob and pans | Dutch oven | cast iron casserole, French oven, cocotte | A heavy pot with a lid, usually enamelled cast iron, that can go on the hob and in the oven. Say how much it holds, as in "Dutch oven holding at least 6 L". Not a pot, which may not be ovenproof. |
 | Hob and pans | pot | stockpot, stock pot, pasta pot | A large, deep pan with two handles, for boiling pasta or simmering a stew, as in "Put 3 L water in the large pot". Not a saucepan, which is smaller, with one long handle. |
 | Hob and pans | pasta strainer insert | pasta insert, pasta basket, strainer basket | A perforated basket that sits inside a large pot, so you can lift pasta out of the water to drain it. |
@@ -311,6 +318,7 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Utensils | box grater | four-sided grater | A grater with four sides, each with different holes. Use the coarse holes for tomatoes and the fine holes for hard cheese, as in "Grate the cut side of each half on the coarse holes of the box grater". |
 | Utensils | cloth | dishcloth, J-cloth | A clean kitchen cloth. "A damp cloth" has been wetted and wrung out, as for wiping dust off dried chillies. |
 | Utensils | garlic crusher | garlic press | Squeezes peeled garlic cloves through small holes, crushing them, as in "crush the garlic into the Dutch oven with the garlic crusher". |
+| Utensils | jam funnel | canning funnel, preserving funnel, wide-mouth funnel | A funnel with a wide neck that sits in the top of a jar, so you can ladle in hot chutney without spilling it on the rim. |
 | Utensils | kitchen roll | kitchen paper, kitchen towel, paper towels | For patting food dry, as in "Pat the prawns dry with kitchen roll". |
 | Utensils | kitchen string | butcher's string, butcher's twine, cooking twine | Plain cotton string that's safe to cook with, for tying herbs into a bundle. |
 | Utensils | ladle | soup ladle | A deep, long-handled spoon, for skimming and for scooping liquids, as in "Ladle the stock through the chinois". |
@@ -325,7 +333,9 @@ Kit, appliances and storage items the recipes mention, wherever they mention the
 | Utensils | whisk | | A hand whisk, such as a balloon whisk. An electric whisk would need its own term. |
 | Storage | freezer | deep freeze, deep freezer | |
 | Storage | fridge | refrigerator | The verb is "refrigerate". |
+| Storage | cupboard | larder, pantry, kitchen cabinet | For keeping unopened jars of chutney, as in "a cool, dark cupboard". |
 | Storage | mason jar | canning jar, preserving jar | A glass jar with a screw-on lid that seals, for keeping preserves such as tamarind paste. Boil it for 10 minutes to sterilise it before filling it with hot food. |
+| Storage | vinegar-proof lids | plastic-coated lids, lacquered lids | Jar lids with a plastic coating on the inside, so the vinegar in chutney can't react with the metal. |
 | Storage | airtight container | sealed container, storage container, Tupperware | |
 | Storage | ice cube tray | ice tray, ice cube mould | For freezing small portions, such as tamarind paste or demi-glace, so you can take out a little at a time. Move the frozen cubes to a freezer bag. |
 | Storage | silicone muffin tin | silicone muffin tray, silicone muffin mould | A flexible muffin tin, for freezing liquids in portions that pop out easily, as in "12-hole silicone muffin tin". |
@@ -348,6 +358,7 @@ Every recipe in this repository. When you mention one, write its title exactly, 
 | Coca-Cola Ham | [Coca_cola_ham.md](recipes/Coca_cola_ham.md) | ham |
 | Demi-Glace | [Demi_glace.md](recipes/Demi_glace.md) | demi-glace |
 | Elevated Greek Moussaka | [Elevated_greek_moussaka.md](recipes/Elevated_greek_moussaka.md) | moussaka |
+| Granny Lea's Rhubarb Chutney | [Granny_leas_rhubarb_chutney.md](recipes/Granny_leas_rhubarb_chutney.md) | chutney |
 | Greek Béchamel Sauce | [Greek_bechamel_sauce.md](recipes/Greek_bechamel_sauce.md) | béchamel |
 | Greek Home-Cooked Moussaka | [Greek_home_cooked_moussaka.md](recipes/Greek_home_cooked_moussaka.md) | moussaka |
 | Midnight Spaghetti | [Midnight_spaghetti.md](recipes/Midnight_spaghetti.md) | spaghetti |
@@ -373,6 +384,7 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 | Cuisine | English name | Original name | Don't use | Notes |
 | --- | --- | --- | --- | --- |
 | Austrian | Viennese goulash | *Wiener Saftgulasch* | Saftgulasch (on its own), Wiener Gulasch | Beef slow cooked with as much onion as beef, in a thick paprika sauce. This repository's recipe is Viennese Beef Goulash. |
+| British | chutney | | | Fruit or vegetables simmered with vinegar, sugar and spices until thick, then kept in jars. It comes from the Indian subcontinent. This repository's recipe is Granny Lea's Rhubarb Chutney. |
 | French | béchamel sauce | | bechamel sauce, white sauce | A sauce of milk thickened with butter and flour. Once it's clear which sauce you mean, "béchamel" is enough. This repository's recipe, Greek Béchamel Sauce, enriches it with egg yolks and kefalotyri. |
 | German | | *Spätzle* | spaetzle, Spaetzle | Small, soft egg noodles, served as a side, as with Viennese goulash. |
 | Greek | moussaka | *mousakás* | mousaka, moussakas | Layers of fried aubergines and a meat sauce made with mince, topped with béchamel and baked. This repository's recipes are Greek Home-Cooked Moussaka and Elevated Greek Moussaka. |
@@ -476,6 +488,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | separate | | Divide eggs into yolks and whites, as in "separate the eggs, putting the yolks in a small heatproof bowl". Not separate out, which is what the oil does in cracked coconut milk. |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
+| Before cooking | blanch | | Bring food to a simmer in cold water, then drain it and throw away the water, to take away some of its acidity, as in "Blanch the rhubarb". |
 | Before cooking | strain | sieve (as a verb), pass, filter | Push a mixture, or pour a liquid, through a sieve or chinois, keeping what goes through and leaving the fibres or solids behind, as in "Strain the tamarind through the fine-mesh sieve" or "Strain the stock". |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
 | Before cooking | salt | degorge | Sprinkle salt over sliced vegetables and leave them, so it draws out their water, as in "Salt the aubergines". Not season, which is for flavour. |
@@ -561,6 +574,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until it starts to smoke | until smoking, smoking hot | For heating fat in a pan before searing. |
 | Doneness | until it steams | until steaming, until scalding | For heating milk without letting it boil: steam rises from it, with small bubbles at the edge, as in "until it steams, with small bubbles at the edge". |
 | Doneness | until it wilts | until wilted | For leaves stirred into hot food, such as Thai basil: they go soft and limp, as in "stir in the Thai basil until it wilts". |
+| Doneness | until it's thick and jammy | to a chutney consistency, until jam-like | For chutney: there's no liquid on the surface, and when you drag a spoon across the bottom of the pan, it leaves a clear trail that doesn't fill with liquid. The first time, explain it in brackets. |
 | Doneness | until lightly golden | until pale golden, until light golden | For garlic, pine nuts and aubergines fried in oil: pale gold, well short of brown, as in "until the garlic is soft and the garlic and pine nuts are lightly golden". |
 | Doneness | until only the centre wobbles | until just set, until it jiggles | The test for a baked custard filling, such as in a pumpkin pie: when you gently shake the dish, the edge is set and only the middle still wobbles. |
 | Doneness | until smooth | until combined, until well combined | For a whisked mixture, such as a pie filling, with no lumps or streaks. For a blended paste, use until very smooth. |
@@ -572,6 +586,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Doneness | until the mushrooms have released all their liquid | | For mushrooms cooked with the lid on: their juices pool in the pan. |
 | Doneness | until the oil turns orange | | For frying prawn heads: their head fat colours the oil. |
 | Doneness | until the sauce stops bubbling | | For a sauce taken off the heat before the butter goes in, as in "wait until the sauce stops bubbling". A cast iron skillet holds its heat, so this can take a while. |
+| Doneness | until the sugar has dissolved | until the sugar melts | For sugar heated in a liquid, stirring: you can't see any grains of it on the back of the spoon. |
 | Doneness | until they turn pink and curl into a loose C | until opaque, until cooked through, curl into a C shape, C-shaped | The test for cooked prawns. If they curl into a tight O, they're overcooked. |
 | Doneness | soft, squidgy and slightly translucent | | For fried onions: soft enough to squash, and starting to turn see-through, as in "until the onions are soft, squidgy and slightly translucent". |
 | Doneness | until a knife goes into them with a little resistance | | The test for cooked Thai aubergines: cooked through, but still slightly crunchy. |
@@ -596,6 +611,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Finishing | scatter | garnish with | For herbs and other garnishes at the end, as in "Scatter with the crispy fried shallots". |
 | Finishing | cut into {number} slices | cut into {number} wedges, cut into {number} pieces | For serving a pie or a moussaka, as in "Cut the pie into 8 slices". |
 | Storing and reheating | sterilise | sterilize, sanitise | Kill the germs on jars before filling them, by boiling them for 10 minutes, as in "boil for 10 minutes to sterilise them". |
+| Storing and reheating | mature | age, ripen | Leave a chutney in its sealed jars until the sharpness of the vinegar mellows, as in "plus 1 month maturing". |
 | Storing and reheating | vacuum pack | vacuum seal, vac-pack, vacuum-pack | Seal food in a bag with the air sucked out, using a chamber vacuum packer. Never hyphenated, as in "if vacuum packed". The [vacuum packing rules](Recipe_template.md#vacuum-packing) say when to give a vacuum-packed time. |
 | Storing and reheating | refrigerate | chill | |
 | Storing and reheating | thaw | defrost | As in "thaw them in the fridge overnight". |
@@ -668,6 +684,8 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Strain the paste | Sieve the paste | Pushing a paste through a sieve, leaving the fibres behind. |
 | Squeeze the lemons | Juice the lemons | |
 | Prep the apples | Prepare the apples | Peeling, coring and slicing apples, and tossing them in lemon juice so they don't go brown. |
+| Prep the rhubarb | Prepare the rhubarb, Chop the rhubarb | Cutting off any leaves, then washing rhubarb, cutting off the ends and cutting it into chunks. |
+| Blanch the rhubarb | Parboil the rhubarb, Boil the rhubarb | Bringing rhubarb to a simmer in water, then draining it and throwing away the water, to take away some of its acidity. |
 | Salt the aubergines | Sweat the aubergines, Degorge the aubergines | Layering sliced aubergines in a colander with salt, to draw out their water before frying. |
 | Prep the chillies | Prepare the chillies, Deseed the chillies | Getting fresh chillies ready for a paste: splitting them, scraping out the seeds and pith, and chopping them. |
 | Toast and soak the chillies | | |
@@ -713,6 +731,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Bloom the spices | Fry the spices, Temper the spices | Frying dried herbs or ground spices briefly in fat, so their flavour passes into it. |
 | Bloom the paprika | Toast the paprika, Fry the paprika | Stirring paprika into hot fried onions off the heat, so it blooms without burning, then deglazing straight away. |
 | Dissolve the seasonings | Season the stock | Stirring salt and MSG into stock until they dissolve, so they spread evenly through a stew. |
+| Dissolve the sugar | Melt the sugar | Heating sugar with the fruit and vinegar of a chutney, stirring, until it dissolves, before the chutney simmers. |
 | Fry the paste | Cook the paste, Cook out the paste | |
 | Fry the sauce | Make the sauce, Cook the sauce | Frying garlic and chilli flakes in oil, then stirring in pasta water. |
 | Heat the milk | Warm the milk, Scald the milk | Heating milk until it steams, ready to whisk into a roux. |
@@ -723,6 +742,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Slow cook the chilli | Simmer the chilli, Cook the chilli | The long, gentle simmer that makes chilli con carne tender and thick. |
 | Slow cook the goulash | Braise the goulash, Cook the goulash | The long, gentle cook in a low oven, with the lid on, that makes Viennese goulash tender and thick. |
 | Simmer the meat sauce | Cook the meat sauce, Reduce the meat sauce | Simmering a meat sauce, uncovered, until the juices have been absorbed and it's thick. |
+| Simmer the chutney | Cook the chutney, Boil the chutney, Reduce the chutney | Simmering a chutney, uncovered, until it's thick and jammy. |
 | Fill the pot | Fill the pan, Cover the gammon | Putting a joint of meat in the pot, covering it with liquid, and adding the vegetables and spices it simmers with. |
 | Simmer the gammon | Boil the gammon, Boil the ham, Poach the gammon | The long simmer, with the lid on, that cooks a gammon joint until it's tender. |
 | Skin and score the ham | Remove the skin, Score the ham | Cutting the skin off a cooked ham, leaving a layer of fat, then scoring the fat in a diamond pattern. |
@@ -750,6 +770,8 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Finish the spaghetti | Toss the spaghetti, Finish the pasta | Stirring drained spaghetti and pasta water into its sauce until the sauce is a crema. |
 | Cool the pie | Chill the pie, Let the pie cool | Leaving a baked pie to cool, then refrigerating it until it sets. |
 | Refrigerate the goulash | Chill the goulash, Rest the goulash | Dividing a cooked stew between containers, flash cooling them in ice water and refrigerating it overnight before it's reheated. |
+| Sterilise the jars | Sterilize the jars, Prepare the jars | Washing jars and their lids, then boiling the jars for 10 minutes. |
+| Jar the chutney | Pot the chutney, Bottle the chutney, Fill the jars | Ladling hot chutney into sterilised jars and screwing the lids on straight away. |
 | Serve the {dish} | Serve, Plate up | The last step of a dish, as in "Serve the curry". |
 | Use or store | Store the paste | The last step of a component recipe. |
 
@@ -775,6 +797,7 @@ The bold topic at the start of each note in **Notes and substitutions**. A note 
 | Ingredients | Buying paste | Shopping for paste, Which paste to buy | What to look for, or avoid, when buying a paste. |
 | Ingredients | Ground spices | Ready-ground spices, Pre-ground spices | How to use ground spices instead of toasting and grinding whole ones. |
 | Ingredients | Store-bought paste | Shop-bought paste, Ready-made paste | How much store-bought paste to use, and how it differs from homemade. If the recipe has more than one paste, name the paste, as in **Store-bought Thai yellow curry paste**. |
+| Variations | Bigger batch | Double batch, Larger batch, Scaling up | How to make 2 or more times the amount. |
 | Variations | Chicken instead | Chicken version, Using chicken | How to use chicken in place of the main ingredient. Use the same pattern for other swaps: "{Ingredient} instead". |
 | Variations | Elevated version | Improved version, Upgraded version | Points to the recipe that builds on this one with touches from other cooks, as in "see Elevated Greek Moussaka". |
 | Variations | Home-cooked version | Original version, Family version | Points to the home-cooked recipe that an elevated version builds on, as in "see Greek Home-Cooked Moussaka". |
@@ -787,7 +810,7 @@ The bold topic at the start of each note in **Notes and substitutions**. A note 
 
 ### Storage entries
 
-Fixed wording for the **Fridge** and **Freezer** entries in **Storage and make-ahead**.
+Fixed wording for the **Cupboard**, **Fridge** and **Freezer** entries in **Storage and make-ahead**.
 
 **Order:** from keeps to doesn't keep.
 
@@ -905,7 +928,7 @@ Each tag has an emoji, which goes before it in a recipe, as in `- **Type:** 🍛
 
 **Order:** the groups stay in this order. Within each group:
 
-- **Course:** Breakfasts, then a meal's courses in the order you'd eat them, then Snacks and Drinks, with Ingredient last.
+- **Course:** Breakfasts, then a meal's courses in the order you'd eat them, then Snacks, Drinks and Condiments, with Ingredient last.
 - **Type:** A to Z.
 - **Main ingredient:** meat from red to white, then Fish, Seafood, other proteins (A to Z), Vegetables, Fruit, grains, then pasta and noodles (A to Z), as in the [ingredient families](#ingredients).
 - **Diet:** free-from tags first (A to Z), then Vegetarian and Vegan, from least strict to most.
@@ -913,13 +936,13 @@ Each tag has an emoji, which goes before it in a recipe, as in `- **Type:** 🍛
 
 | Group | Tags |
 | --- | --- |
-| Course | 🥐 Breakfasts, 🥟 Starters, 🍽️ Mains, 🥔 Sides, 🍨 Desserts, 🍿 Snacks, 🥤 Drinks, 🧩 Ingredient |
-| Type | 🥘 Bakes, 🍞 Breads, 🍰 Cakes, 🍮 Crumbles, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🍖 Roasts, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
+| Course | 🥐 Breakfasts, 🥟 Starters, 🍽️ Mains, 🥔 Sides, 🍨 Desserts, 🍿 Snacks, 🥤 Drinks, 🥄 Condiments, 🧩 Ingredient |
+| Type | 🥘 Bakes, 🍞 Breads, 🍰 Cakes, 🫙 Chutneys, 🍮 Crumbles, 🍛 Curries, 🫒 Dressings, 🧄 Marinades, 🍝 Pasta dishes, 🌿 Pastes, 🥒 Pickles, 🥧 Pies, 🍖 Roasts, 🥗 Salads, 🫗 Sauces, 🥣 Soups, 🧂 Spice mixes, 🥩 Steaks, 🍲 Stews, 🥢 Stir-fries, 🦴 Stocks |
 | Main ingredient | 🐄 Beef, 🐑 Lamb, 🐖 Pork, 🐔 Chicken, 🐟 Fish, 🦐 Seafood, 🥚 Eggs, 🫘 Pulses, 🫛 Tofu, 🥦 Vegetables, 🍎 Fruit, 🍚 Rice, 🍜 Noodles, 🍝 Pasta |
 | Diet | 🥥 Dairy-free, 🌽 Gluten-free, 🫑 Vegetarian, 🌱 Vegan |
 | Allergens | 🥬 Celery, 🌾 Cereals containing gluten, 🦀 Crustaceans, 🥚 Eggs, 🐟 Fish, 🪻 Lupin, 🥛 Milk, 🦪 Molluscs, 🌭 Mustard, 🥜 Peanuts, 🍔 Sesame, 🫛 Soya, 🍷 Sulphites, 🌰 Tree nuts |
 
-Prawns and other shellfish are **Seafood**, not **Fish**. Layered dishes baked in a deep dish, such as moussaka, are **Bakes**. Dishes in a pastry case are **Pies**.
+Prawns and other shellfish are **Seafood**, not **Fish**. Layered dishes baked in a deep dish, such as moussaka, are **Bakes**. Dishes in a pastry case are **Pies**. Fruit or vegetables simmered with vinegar and sugar until thick, then kept in jars, are **Chutneys**, not **Pickles**.
 
 The **Allergens** tags are the UK's 14 main allergens, as the [Food Standards Agency](https://www.gov.uk/government/publications/food-allergy-and-intolerance-advice-for-consumers/food-allergy-and-intolerance-advice-for-consumers) lists them. **Cereals containing gluten** means wheat, rye, barley and oats. **Soya** is the FSA's "soybeans", and **Sulphites** covers sulphur dioxide too. Prawns are **Crustaceans**, and mussels and oysters are **Molluscs**. Coconut isn't on the list.
 
@@ -944,7 +967,9 @@ The website names at the start of each line in **Sources**, before the colon.
 | Delia Smith Recipes | deliasmithcooks.co.uk | Delia Smith (on its own), Delia Smith Cooks |
 | Don't Go Bacon My Heart | dontgobaconmyheart.co.uk | Dont Go Bacon My Heart |
 | Family recipe | | Handwritten recipe, Family's recipe |
+| Farmersgirl Kitchen | farmersgirlkitchen.co.uk | Farmers Girl Kitchen, Farmer's Girl Kitchen, FarmersgirlKitchen |
 | Food Standards Agency | food.gov.uk | FSA |
+| From The Larder | fromthelarder.co.uk | From the Larder, FromTheLarder |
 | Good Food | bbcgoodfood.com | BBC Good Food |
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
 | Great British Chefs | greatbritishchefs.com | GBC |
@@ -952,6 +977,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Hot Thai Kitchen | hot-thai-kitchen.com | HotThaiKitchen, Hot-Thai-Kitchen |
 | Jamie Oliver Cookery School | jamieolivercookeryschool.com | Jamie Oliver (on its own), Jamie Oliver's Cookery School |
 | King Arthur Baking | kingarthurbaking.com | King Arthur Flour, King Arthur (on its own) |
+| Larder Love | larderlove.com | LarderLove |
 | Library of Congress | loc.gov | LOC, LoC |
 | Little Vienna | lilvienna.com | Lil Vienna, Li'l Vienna |
 | Love the Kitchen | lovethekitchen.co.uk | Love The Kitchen, LoveTheKitchen |
@@ -967,6 +993,9 @@ The website names at the start of each line in **Sources**, before the colon.
 | Radio Niederösterreich | noe.orf.at | Radio NÖ, ORF (on its own) |
 | RecipeTin Eats | recipetineats.com | Recipe Tin Eats, RecipeTinEats, Recipetin Eats |
 | Reddit | reddit.com | reddit, Reddit.com |
+| RHS | rhs.org.uk | Royal Horticultural Society, RHS Gardening |
+| Ricardo | ricardocuisine.com | RICARDO, Ricardo Cuisine |
+| River Cottage | rivercottage.net | Rivercottage, River Cottage HQ |
 | Rosa's Thai | rosasthai.com | Rosas Thai, Rosa's (on its own) |
 | Sally's Baking | sallysbakingaddiction.com | Sally's Baking Addiction, Sallys Baking |
 | Serious Eats | seriouseats.com | SeriousEats |
@@ -974,10 +1003,12 @@ The website names at the start of each line in **Sources**, before the colon.
 | Souldeliciouz Kitchen | souldeliciouz.com | SOULDELICIOUZ KITCHEN, Soul Deliciouz |
 | Sous Chef | souschef.co.uk | SousChef, Souschef |
 | Swasthi's Recipes | indianhealthyrecipes.com | Indian Healthy Recipes, Swasthis Recipes |
+| The Delectable Garden | thedelectablegarden.co.uk | Delectable Garden (on its own), The Delectable Garden Food Blog |
 | The Floured Table | theflouredtable.com | Floured Table (on its own) |
 | The Takeout | thetakeout.com | Takeout (on its own), TheTakeout |
 | TODAY | today.com | Today, TODAY.com |
 | Tom Cannavan's wine-pages.com | wine-pages.com | wine-pages (on its own), Wine Pages |
+| Vialii Gardens | vialiigardens.co.uk | Vialii (on its own), Viallii Gardens |
 | Vienna Tourist Board | wien.info | WienTourismus, Wien Tourismus |
 | Waitrose | waitrose.com | Waitrose & Partners |
 | Wikipedia | wikipedia.org | Wiki |

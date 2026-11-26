@@ -41,7 +41,7 @@ Keep the sections in this order.
 | Ingredients | Yes | Everything you need, in the order you use it |
 | Directions | Yes | Step 1, Step 2 and so on, with any tips and photos under their steps |
 | Notes and substitutions | Optional | Swaps, shortcuts, variations and buying tips |
-| Storage and make-ahead | Optional | Fridge, freezer, make-ahead and reheating |
+| Storage and make-ahead | Optional | Cupboard, fridge, freezer, make-ahead and reheating |
 | Used in | Component recipes only | Recipes that use this one as an ingredient |
 | Origin | Yes | The country and (if known) region the dish comes from |
 | Tags | Yes | Category tags, grouped into Course, Type, Main ingredient and Diet, and the allergens the recipe contains |
@@ -95,6 +95,7 @@ Keep the sections in this order.
 
 ## 🫙 Storage and make-ahead
 
+- 🗄️ **Cupboard:** {How long it keeps unopened}. {How to store it.}
 - 🧊 **Fridge:** {How long it keeps}. {How to store it.}
 - ❄️ **Freezer:** {How long it keeps}, or up to {time} if vacuum packed. {How to thaw it.}
 - 📅 **Make ahead:** {What you can do in advance.}
@@ -231,7 +232,7 @@ The [Terminology glossary](Terminology_glossary.md) pins the exact words the rec
 - Leave waits that not every cook needs, such as thawing frozen prawns, out of the summary box. They go only in **Before you start**.
 - Times are for this recipe only. Don't include the time it takes to make linked recipes: give that in **Before you start** instead.
 - **Servings:** the number of people it feeds, e.g. `4`.
-- For a component recipe (a paste, sauce, stock, dressing or spice mix), rename the **Servings** column to **Makes** and give the amount, e.g. `About 250 g (enough for 2 curries for 4)`.
+- For a component recipe (a paste, sauce, stock, dressing or spice mix), or a preserve such as a chutney, rename the **Servings** column to **Makes** and give the amount, e.g. `About 250 g (enough for 2 curries for 4)`.
 
 ### Before you start
 
@@ -380,7 +381,8 @@ Add the prawns and simmer until they turn pink and curl into a loose C, 2–3 mi
 
 ### Storage and make-ahead
 
-- Use these labels, each after its emoji, and leave out any that don't apply: 🧊 **Fridge**, ❄️ **Freezer**, 📅 **Make ahead**, ♨️ **Reheat**.
+- Use these labels, each after its emoji, and leave out any that don't apply: 🗄️ **Cupboard**, 🧊 **Fridge**, ❄️ **Freezer**, 📅 **Make ahead**, ♨️ **Reheat**.
+- Use **Cupboard** only for preserves that keep unopened at room temperature, such as chutney in sealed jars, and say in **Fridge** how long they keep once opened.
 - Follow UK food safety guidance from the [Food Standards Agency](https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely) and the NHS:
   - Cool leftovers and put them in the fridge within 1–2 hours. Eat them within 2 days.
   - Eat cooked rice within 24 hours, and reheat it only once.
