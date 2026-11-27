@@ -2,7 +2,7 @@
 
 ![Oil painting of a cook ladling rhubarb chutney from a pot into a jar on a wooden table, with rhubarb beside it and a river, water meadows and a cathedral spire beyond](../images/Granny_leas_rhubarb_chutney.webp)
 
-A thick, sweet and sharp chutney of rhubarb and raisins, simmered in malt vinegar with sugar and plenty of mild curry powder, which gives it a warm, spicy flavour without much heat. This version follows Granny Lea's handwritten family recipe. As the chutney matures in the jars, the sharpness of the vinegar mellows. Serve it in cheese sandwiches, with jacket potatos, or with cold meats.
+A thick, sweet and sharp chutney of rhubarb and raisins, simmered in malt vinegar with sugar and plenty of mild curry powder, which gives it a warm, spicy flavour without much heat. This version follows Granny Lea's handwritten family recipe. As the chutney matures in the jars, the sharpness of the vinegar mellows. Serve it in cheese sandwiches, with jacket potatoes, or with cold meats.
 
 | Prep time | Cook time | Total time | Makes |
 | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Lift the jars out of the water with tongs and tip out the water. Fill them one a
 
 #### Step 7: Serve the chutney.
 
-Once the jars are cool, label them with the date, and store them in a cool, dark cupboard for at least 1 month before you open one. It's even better after 2–3 months. Serve it in cheese sandwiches, with jacket potatos, or with cold meats.
+Once the jars are cool, label them with the date, and store them in a cool, dark cupboard for at least 1 month before you open one. It's even better after 2–3 months. Serve it in cheese sandwiches, with jacket potatoes, or with cold meats.
 
 > **Tip:** You can eat it straight away, but it tastes sharp until the vinegar mellows.
 
