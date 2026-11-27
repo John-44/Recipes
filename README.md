@@ -51,6 +51,7 @@ Every recipe is a Markdown file in [`recipes/`](recipes/).
 | 🍖 | [Coca-Cola Ham](recipes/Coca_cola_ham.md) | Mains | Roasts |
 | 🫗 | [Demi-Glace](recipes/Demi_glace.md) | Ingredient | Sauces |
 | 🍆 | [Elevated Greek Moussaka](recipes/Elevated_greek_moussaka.md) | Mains | Bakes |
+| 🫙 | [Granny Lea's Rhubarb Chutney](recipes/Granny_leas_rhubarb_chutney.md) | Condiments | Chutneys |
 | 🫕 | [Greek Béchamel Sauce](recipes/Greek_bechamel_sauce.md) | Ingredient | Sauces |
 | 🍆 | [Greek Home-Cooked Moussaka](recipes/Greek_home_cooked_moussaka.md) | Mains | Bakes |
 | 🍝 | [Midnight Spaghetti](recipes/Midnight_spaghetti.md) | Mains | Pasta dishes |
