@@ -235,6 +235,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Liquids | boiling water | boiling water | just-boiled water, hot water | Water straight from the kettle, as in "Cover with boiling water". |
 | Liquids | cold water | cold water | | Water from the cold tap, as for starting a stock, as in "6 L cold water". Not boiling water. |
 | Liquids | ice water | ice water | iced water | Cold water with plenty of ice in it, for cooling food fast, as in "placing the containers in ice water". |
+| Dried fruit | dates | dates | | Dried dates, usually sold with their stones taken out. |
 | Dried fruit | raisins | raisins | | Dark, dried grapes. Not sultanas, which are golden, and would need their own term. |
 | Nuts | chopped hazelnuts | hazelnuts | hazelnut pieces | Sold ready-chopped and usually roasted, in 100 g packs. |
 | Nuts | pine nuts | pine nuts | pine kernels, pignoli, pinoli | Small, soft seeds from pine cones, sold as nuts. Packs may call them pine kernels. |
@@ -385,6 +386,7 @@ Dishes the recipes mention, from any cuisine, with their English names and their
 | --- | --- | --- | --- | --- |
 | Austrian | Viennese goulash | *Wiener Saftgulasch* | Saftgulasch (on its own), Wiener Gulasch | Beef slow cooked with as much onion as beef, in a thick paprika sauce. This repository's recipe is Viennese Beef Goulash. |
 | British | chutney | | | Fruit or vegetables simmered with vinegar, sugar and spices until thick, then kept in jars. It comes from the Indian subcontinent. This repository's recipe is Granny Lea's Rhubarb Chutney. |
+| British | jacket potatoes | | baked potatoes, jacket spuds | Potatoes baked whole in their skins until soft inside, then split open to serve. |
 | French | béchamel sauce | | bechamel sauce, white sauce | A sauce of milk thickened with butter and flour. Once it's clear which sauce you mean, "béchamel" is enough. This repository's recipe, Greek Béchamel Sauce, enriches it with egg yolks and kefalotyri. |
 | German | | *Spätzle* | spaetzle, Spaetzle | Small, soft egg noodles, served as a side, as with Viennese goulash. |
 | Greek | moussaka | *mousakás* | mousaka, moussakas | Layers of fried aubergines and a meat sauce made with mince, topped with béchamel and baked. This repository's recipes are Greek Home-Cooked Moussaka and Elevated Greek Moussaka. |
@@ -802,6 +804,7 @@ The bold topic at the start of each note in **Notes and substitutions**. A note 
 | Variations | Elevated version | Improved version, Upgraded version | Points to the recipe that builds on this one with touches from other cooks, as in "see Elevated Greek Moussaka". |
 | Variations | Home-cooked version | Original version, Family version | Points to the home-cooked recipe that an elevated version builds on, as in "see Greek Home-Cooked Moussaka". |
 | Variations | More heat | Spicier, Hotter, Spice level | How to make the dish hotter. |
+| Variations | Other versions | Other recipes, Alternatives | Ingredients that other recipes for the dish add, and that this recipe leaves out on purpose. |
 | Variations | Roasted shallots and garlic | Roasted aromatics, Roasting | How some recipes cook the shallots and garlic before making the paste, and how that changes the flavour. |
 | Variations | Vegetarian | Veggie, Vegetarian version, Meat-free | How to make the recipe vegetarian. |
 | Equipment | Non-stick frying pan | Nonstick pan, Non-stick pans | Why not to use a non-stick frying pan. |
@@ -969,6 +972,7 @@ The website names at the start of each line in **Sources**, before the colon.
 | Family recipe | | Handwritten recipe, Family's recipe |
 | Farmersgirl Kitchen | farmersgirlkitchen.co.uk | Farmers Girl Kitchen, Farmer's Girl Kitchen, FarmersgirlKitchen |
 | Food Standards Agency | food.gov.uk | FSA |
+| Foods of England | foodsofengland.info | Foods of England Project, FoodsofEngland |
 | From The Larder | fromthelarder.co.uk | From the Larder, FromTheLarder |
 | Good Food | bbcgoodfood.com | BBC Good Food |
 | Grantourismo Travels | grantourismotravels.com | Grantourismo (on its own) |
