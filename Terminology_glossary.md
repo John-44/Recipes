@@ -490,7 +490,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Before cooking | separate | | Divide eggs into yolks and whites, as in "separate the eggs, putting the yolks in a small heatproof bowl". Not separate out, which is what the oil does in cracked coconut milk. |
 | Before cooking | soak | steep, rehydrate | As in "Cover with boiling water and soak until soft". |
 | Before cooking | soaking water | soaking liquid | The water something has soaked in. |
-| Before cooking | blanch | | Bring food to a simmer in cold water, then drain it and throw away the water, to take away some of its acidity, as in "Blanch the rhubarb". |
+| Before cooking | blanch | | Bring food up to almost a boil in cold water, then drain it and throw away the water, to take away some of its acidity, as in "Blanch the rhubarb". |
 | Before cooking | strain | sieve (as a verb), pass, filter | Push a mixture, or pour a liquid, through a sieve or chinois, keeping what goes through and leaving the fibres or solids behind, as in "Strain the tamarind through the fine-mesh sieve" or "Strain the stock". |
 | Before cooking | toss | mix, combine | Turn food over in a bowl until it's evenly covered, as in "Toss the prawns in a bowl with the salt and bicarbonate of soda". |
 | Before cooking | salt | degorge | Sprinkle salt over sliced vegetables and leave them, so it draws out their water, as in "Salt the aubergines". Not season, which is for flavour. |
@@ -524,6 +524,7 @@ Words for the directions, tips, **Before you start** and storage sections. Write
 | Heating liquids | bring to a gentle simmer | bring to a low simmer | |
 | Heating liquids | simmer | | Small bubbles gently breaking the surface. A gentle simmer is slower still. |
 | Heating liquids | bring to a simmer | bring to the simmer | Heat until it simmers, as in "Bring to a simmer, then turn the heat down to low". |
+| Heating liquids | bring up to almost a boil | bring almost to the boil, bring nearly to the boil | Heat until it's just short of boiling, hotter than a simmer, as in "Bring up to almost a boil over high heat". |
 | Heating liquids | bring to boil | bring to a boil, bring to the boil | |
 | Heating liquids | boil hard | rolling boil, boil rapidly, boil vigorously | Boil fast, with big bubbles, to reduce a sauce quickly. |
 | Heating liquids | reduce | boil down, cook down, reduce down | Boil a sauce so some of its liquid evaporates, thickening it and concentrating its flavour, as in "Reduce the sauce". |
@@ -687,7 +688,7 @@ The level 4 (`####`) step headings in **Directions**. Reuse a title when a step 
 | Squeeze the lemons | Juice the lemons | |
 | Prep the apples | Prepare the apples | Peeling, coring and slicing apples, and tossing them in lemon juice so they don't go brown. |
 | Prep the rhubarb | Prepare the rhubarb, Chop the rhubarb | Cutting off any leaves, then washing rhubarb, cutting off the ends and cutting it into chunks. |
-| Blanch the rhubarb | Parboil the rhubarb, Boil the rhubarb | Bringing rhubarb to a simmer in water, then draining it and throwing away the water, to take away some of its acidity. |
+| Blanch the rhubarb | Parboil the rhubarb, Boil the rhubarb | Bringing rhubarb up to almost a boil in water, then draining it and throwing away the water, to take away some of its acidity. |
 | Salt the aubergines | Sweat the aubergines, Degorge the aubergines | Layering sliced aubergines in a colander with salt, to draw out their water before frying. |
 | Prep the chillies | Prepare the chillies, Deseed the chillies | Getting fresh chillies ready for a paste: splitting them, scraping out the seeds and pith, and chopping them. |
 | Toast and soak the chillies | | |

@@ -43,9 +43,9 @@ Cut off any leaves and throw them away, as they're poisonous. Wash the rhubarb i
 
 If rhubarb is from earlier in the season, carry on from Step 3. This step is only for end of season rhubarb, around July or August.
 
-Put the rhubarb in the preserving pan, and pour in enough cold water to cover it. Bring it to a simmer over high heat, about 15 minutes, then drain it in the colander straight away, throwing away the water.
+Put the rhubarb in the preserving pan, and pour in enough cold water to cover it. Bring up to almost a boil over high heat, about 15 minutes, then drain it in the colander straight away, throwing away the water.
 
-> **Tip:** Rhubarb gets more acidic as the season goes on. Heating it in water draws out some of the acid, which can be discarded with the water.
+> **Tip:** Rhubarb gets more acidic as the season goes on. Heating in water draws out some of the acid, which can be discarded with the water.
 
 #### Step 3: Dissolve the sugar.
 
@@ -94,7 +94,7 @@ Once the jars are cool, label them with the date, and store them in a cool, dark
 
 - **Country:** 🇬🇧 United Kingdom
 
-Chutney comes from the Indian subcontinent, and once British travellers brought it home in the 17th century, British cooks made their own with local fruit and vegetables. Rhubarb was first recorded as a food in 18th- to 19th-century England, once sugar became affordable, and the Lichfield Mercury printed a recipe for rhubarb chutney in 1914.
+Chutney comes from the Indian subcontinent, and once British travellers brought it home in the 17th century, British cooks made their own with local fruit and vegetables. Rhubarb was first recorded as a food in 18th- to 19th-century England (once sugar became affordable), and was a good acidic replacement for the unavailable green mango used in chutneys previously exported to England. The Lichfield Mercury printed a recipe for rhubarb chutney in 1914.
 
 ## 🏷️ Tags
 
