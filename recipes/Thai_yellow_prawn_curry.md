@@ -34,7 +34,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 1 metric cup low-salt chicken stock
 - 300 g Charlotte or other waxy potatoes, peeled and cut into 2 cm chunks
 - 1 small onion, cut into thick wedges
-- 1 can (540 g) bamboo shoots, drained (about 280 g once prepared)
+- 1 can (540 g) bamboo shoots, drained (about 280 g once drained)
 - 4 kaffir lime leaves, crumpled
 - 2 tsp [Tamarind Paste](Tamarind_paste.md) (or store-bought, see Notes) (used in Steps 5 and 7), plus extra to taste
 - 1½ tbsp fish sauce, plus extra to taste

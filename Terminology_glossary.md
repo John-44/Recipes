@@ -108,7 +108,7 @@ Everything the recipes cook with, including swaps that appear only in **Notes an
 | Cheese | Pecorino Romano | Pecorino | Romano, pecorino romano | A hard, salty Italian cheese for grating, made from sheep's milk. It isn't vegetarian. A swap for kefalotyri. |
 | Cheese | vegetarian Italian-style hard cheese | hard cheese | vegetarian Parmesan, vegetarian hard Italian style cheese | A hard cheese for grating, like Parmesan but made with vegetarian rennet. Check that the pack says it's suitable for vegetarians. |
 | Vegetables | aubergines | aubergines | eggplants, eggplant, brinjals | The large, dark purple kind. Give a rough count after the weight, as in "1.25 kg aubergines (about 4)". Not Thai aubergines, which are small, round and green. |
-| Vegetables | bamboo shoots | bamboo shoots | bamboo (on its own), bamboo sprouts | Canned in water, usually sliced or in strips. Cans vary in size, so give the size and the weight once drained, as in "1 can (540 g) bamboo shoots, drained (about 280 g once prepared)". Fresh ones would need their own term. |
+| Vegetables | bamboo shoots | bamboo shoots | bamboo (on its own), bamboo sprouts | Canned in water, usually sliced or in strips. Cans vary in size, so give the size and the weight once drained, as in "1 can (540 g) bamboo shoots, drained (about 280 g once drained)". Fresh ones would need their own term. |
 | Vegetables | carrots | carrots | | Give a size, as in "2 large carrots". |
 | Vegetables | celery heart | celery heart | inner celery, celery core | The pale yellow inner stalks and leaves from the middle of a head of celery, with a subtler flavour than celery sticks. |
 | Vegetables | celery sticks | celery | celery stalks, celery ribs | The darker green outer stalks of a head of celery. Count in sticks, as in "3 celery sticks". |
@@ -423,7 +423,7 @@ How ingredients are prepared, mostly written after the comma in an ingredient li
 
 | Family | Term | Don't use | Notes |
 | --- | --- | --- | --- |
-| Cleaning | drained | | For canned vegetables: tipped into a colander so the liquid runs off, as in "1 can (540 g) bamboo shoots, drained (about 280 g once prepared)". Not drained and rinsed, which is for canned beans. |
+| Cleaning | drained | | For canned vegetables: tipped into a colander so the liquid runs off, as in "1 can (540 g) bamboo shoots, drained (about 280 g once drained)". Not drained and rinsed, which is for canned beans. |
 | Cleaning | drained and rinsed | rinsed and drained | For canned beans: tipped into a colander, then rinsed under the cold tap, as in "4 cans (400 g each) red kidney beans, drained and rinsed". Not washed, which ends with patting dry. |
 | Cleaning | washed | | Washed in cold water, then patted dry, as for coriander leaves and stalks. Not drained and rinsed, which is for canned beans. |
 | Cleaning | scrubbed | cleaned | Scrubbed under running water to get all the dirt out, as for coriander roots. |
@@ -662,6 +662,7 @@ The short notes in brackets near the end of an ingredient line, after any prepar
 | (about a {size} cm piece) | (thumb-sized piece) | A rough size for roots, as in "12 g ginger, peeled and finely chopped (about a 3 cm piece)". |
 | (about {count}) | (approx. {count}), (around {count}) | A rough count after a weight, as in "75 g Thai shallots, roughly chopped (about 8)". |
 | (about {fraction} of a palm sugar block) | (about {fraction} of a block of palm sugar), (about {fraction} of a palm sugar cake) | A rough guide to how much of the block to grate, as in "1 tbsp grated palm sugar (about ¼ of a palm sugar block)". |
+| (about {weight} once drained) | | For a drained can: the drained weight on its label, as in "1 can (540 g) bamboo shoots, drained (about 280 g once drained)". Use it instead of (about {weight} once prepared). |
 | (about {weight} once prepared) | | A rough weight after a count, once the preparation is done, as in "2 lemongrass stalks, top half and tough outer layers removed, finely sliced (about 20 g once prepared)". |
 | (or {ingredient}) | (or use {ingredient}), (alternatively {ingredient}) | A quick swap, with its amount if that's different, as in "1 large or 2 small banana shallots (or twice as many shallots)". |
 | (or store-bought, see Notes) | (or shop-bought), (or ready-made) | For a linked recipe that cooks can buy instead. Give the details in **Notes and substitutions**. |
