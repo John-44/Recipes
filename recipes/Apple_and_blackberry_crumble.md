@@ -24,7 +24,7 @@ A crumble of sharp Bramley apples and blackberries under a crunchy topping of cr
 
 #### For the crumble topping
 
-- 250 g digestive biscuits (about 17)
+- 250 g digestive biscuits
 - 1 tsp ground cinnamon
 - 50 g chopped hazelnuts
 - 75 g unsalted butter (at room temperature)
@@ -136,7 +136,7 @@ Crumble became popular in Britain during the Second World War, when rationing ma
 - Great British Chefs: [The forbidden fruit: are we eating and cooking the wrong apples?](https://www.greatbritishchefs.com/features/british-apple-varieties). How sharp Bramley apples are, and how they collapse as they cook, for the description.
 - McVitie's: [Digestives Apple & Rhubarb Crumble](https://mcvities.com/en-gb/digestives-apple-rhubarb-crumble#/product/4196d357-6eef-4823-8e2b-59c2ac117543/225g). A topping of crushed digestive biscuits mixed with butter, tossing the fruit with sugar and cornflour, and baking it until golden on top and bubbling.
 - Souldeliciouz Kitchen: [How to make Apple Crumble with Digestive Biscuits](https://souldeliciouz.com/how-to-make-apple-crumble-with-digestive-biscuits/). Using Bramley apples, mixing butter at room temperature into the crushed digestive biscuits, and adding ground cinnamon.
-- The Floured Table: [Apple Blackberry Crumble](https://www.theflouredtable.com/blackberry-and-apple-crumble/). Baking at 180°C for 45–55 minutes, until the juices bubble in the centre and the topping is golden brown, putting a baking tray under the dish to catch drips, that frozen blackberries take longer, and making the topping up to 1 week ahead.
+- The Floured Table: [Apple Blackberry Crumble](https://www.theflouredtable.com/blackberry-and-apple-crumble/). Baking at 180°C for 45–55 minutes, until the juices bubble in the centre and topping is golden brown, putting a baking tray under the dish to catch drips, that frozen blackberries take longer, making topping 1 week ahead.
 - Wikipedia: [Crumble](https://en.wikipedia.org/wiki/Crumble). Its place of origin, its earliest recipes and its popularity in Britain during the Second World War, for the **Origin**.
 
 ---
