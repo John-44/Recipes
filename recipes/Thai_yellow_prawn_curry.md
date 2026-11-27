@@ -34,6 +34,7 @@ A mild, creamy curry of king prawns and potatoes in coconut milk, warm with turm
 - 1 metric cup low-salt chicken stock
 - 300 g Charlotte or other waxy potatoes, peeled and cut into 2 cm chunks
 - 1 small onion, cut into thick wedges
+- 1 can (540 g) bamboo shoots, drained (about 280 g once prepared)
 - 4 kaffir lime leaves, crumpled
 - 2 tsp [Tamarind Paste](Tamarind_paste.md) (or store-bought, see Notes) (used in Steps 5 and 7), plus extra to taste
 - 1½ tbsp fish sauce, plus extra to taste
@@ -81,7 +82,7 @@ If it starts to stick, stir in 1 tbsp of the rest of the coconut milk.
 
 #### Step 5: Simmer the potatoes.
 
-Add the rest of the coconut milk, the stock, potatoes, onion, lime leaves, fish sauce, palm sugar, MSG and half the tamarind paste (1 tsp).
+Add the rest of the coconut milk, the stock, potatoes, onion, bamboo shoots, lime leaves, fish sauce, palm sugar, MSG and half the tamarind paste (1 tsp).
 
 Bring to a gentle simmer over medium heat, then cook, uncovered, over medium-low heat until a knife slides easily into the potatoes, 15–20 minutes. While it simmers, cook the jasmine rice.
 
