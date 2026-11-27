@@ -45,7 +45,7 @@ If rhubarb is from earlier in the season, carry on from Step 3. This step is onl
 
 Put the rhubarb in the preserving pan, and pour in enough cold water to cover it. Bring up to almost a boil over high heat, about 15 minutes, then drain it in the colander straight away, throwing away the water.
 
-> **Tip:** Rhubarb gets more acidic as the season goes on. Heating in water draws out some of the acid, which can be discarded with the water.
+> **Tip:** Rhubarb gets more acidic later in the season. Heating in water draws out some of the acid, which can be discarded with the water.
 
 #### Step 3: Dissolve the sugar.
 
